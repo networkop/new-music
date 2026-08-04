@@ -47,15 +47,18 @@ Established by hand against the live API. Confirmed, not assumed:
 - `/programmes/{brand}/episodes/player.json` 404s. `episodes/last.json` returns
   200 but its shape was never inspected.
 
+- **No ISRC. Artist-level MusicBrainz ID, yes; track-level, no.** Checked against
+  570 fetched tracks: `isrc` is null on all of them, and so is the track-level
+  `musicbrainz_id` field `fetch.py` extracts. But
+  `.raw.primary_contributor.musicbrainz_gid` is populated on 566/570 (99.3%),
+  including on brand-new acts (`flowerovlove`, `Westside Cowboy`). Misses so far:
+  `Culture Shock`, `ayraa star`, `Nero`. Consequence: stage 3 sync still needs
+  fuzzy title matching (no exact track ID). Stage 2 filtering doesn't — key the
+  artist cache and genre lookups by MusicBrainz GID instead of by name string.
+  Last.fm's `artist.getTopTags` takes an `mbid` param directly.
+
 ## Open questions — resolve these early
 
-- **Do segment objects carry an ISRC or MusicBrainz ID?** Never checked, and it
-  matters more than anything else here. With an identifier, downstream lookups
-  become exact. Without one, everything depends on fuzzy matching artist+title
-  for names like `Angine de Poitrine` and `panicbaby`. Run
-  `curl -L -sS https://www.bbc.co.uk/programmes/m002z563/segments.json | jq '.segment_events[0]'`
-  and look at the full object. `script/fetch.py` already stores the raw segment
-  so nothing is lost either way.
 - **Can GitHub-hosted runners reach the BBC feeds?** Geo-restriction applies to
   audio streams, not metadata, so it should be fine from US runners — but this is
   an assumption. The workflow's first step is a deliberate canary that fails loudly.

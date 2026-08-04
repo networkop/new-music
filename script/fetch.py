@@ -162,6 +162,7 @@ def rebuild_flat():
         with open(os.path.join(EPISODE_DIR, name)) as fh:
             ep = json.load(fh)
         for pos, track in enumerate(ep.get("tracks", [])):
+            contributor = (track.get("raw") or {}).get("primary_contributor") or {}
             rows.append(
                 {
                     "broadcast": ep["schedule_date"],
@@ -170,6 +171,7 @@ def rebuild_flat():
                     "artist": track["artist"],
                     "title": track["title"],
                     "isrc": track.get("isrc"),
+                    "artist_mbid": contributor.get("musicbrainz_gid"),
                 }
             )
     rows.sort(key=lambda r: (r["broadcast"] or "", r["position"]))

@@ -43,6 +43,11 @@ jobs:
           BRAND_PID: m001chdz
           WINDOW_DAYS: "35"
 
+      - name: Filter
+        run: python script/filter.py
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+
       - name: Commit any new data
         run: |
           set -euo pipefail
