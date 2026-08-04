@@ -43,8 +43,10 @@ CATEGORIES = {
     },
 }
 
-# "Require the blocked tag in the top three, or above a weight threshold."
-TOP_N = 3
+# Exclude on weight alone, not rank - Last.fm's per-artist weight scale means
+# a rank-3 tag can trail the top tag by a huge margin (e.g. 39 vs 100), so
+# being 3rd doesn't imply "dominant genre". A below-threshold match still
+# routes to review rather than being silently dropped either way.
 WEIGHT_THRESHOLD = 50
 
 UA = "new-music-tracklist-bot/1.0 (personal playlist project)"
@@ -100,18 +102,17 @@ def classify(tags):
     """(decision, category, matched_tag) from a weighted tag list.
 
     decision is one of: exclude, review, keep.
-    - exclude: a blocked-category tag in the top TOP_N, or at/above the
-      weight threshold anywhere.
-    - review: a blocked-category tag present, but only weakly (low rank,
-      low weight) - ambiguous, don't guess.
+    - exclude: a blocked-category tag at or above the weight threshold.
+    - review: a blocked-category tag present, but only weakly (below
+      threshold) - ambiguous, don't guess.
     - keep: no blocked-category tag, or no tag data at all (unknown genre
       defaults to keep - that's the whole point of an exclusion list).
     """
     weak_hit = None
-    for rank, (tag, weight) in enumerate(tags):
+    for tag, weight in tags:
         for category, synonyms in CATEGORIES.items():
             if tag in synonyms:
-                if rank < TOP_N or weight >= WEIGHT_THRESHOLD:
+                if weight >= WEIGHT_THRESHOLD:
                     return "exclude", category, tag
                 if weak_hit is None:
                     weak_hit = (category, tag)
@@ -138,30 +139,28 @@ def save_json(path, data):
 
 def resolve_artist(key, artist_mbid, artist_name, cache, overrides, misses):
     """decision, category, matched_tag for one artist, consulting overrides,
-    then cache, then Last.fm (and updating the cache on a live lookup)."""
+    then cache, then Last.fm (fetching tags on a cache miss).
+
+    The cache stores tags, not decisions - classify() runs fresh every time
+    so a rule change (new synonym, new threshold) takes effect on the next
+    run without spending an API call to re-derive data Last.fm already gave
+    us. Overrides are decisions, not tags, since they exist specifically to
+    override whatever classify() would say.
+    """
     if key in overrides:
         return overrides[key]["decision"], overrides[key].get("category"), overrides[key].get("matched_tag")
 
     if key in cache:
-        entry = cache[key]
-        return entry["decision"], entry.get("category"), entry.get("matched_tag")
-
-    if not LASTFM_API_KEY:
+        tags = cache[key]["tags"]
+    elif LASTFM_API_KEY:
+        tags = lastfm_top_tags(artist_mbid, artist_name)
+        cache[key] = {"name": artist_name, "tags": tags[:10], "source": "lastfm"}
+        time.sleep(0.25)  # be polite to Last.fm, same spirit as fetch.py
+    else:
         misses.append((artist_name, artist_mbid))
-        return "keep", None, None
+        tags = []
 
-    tags = lastfm_top_tags(artist_mbid, artist_name)
-    decision, category, matched_tag = classify(tags)
-    cache[key] = {
-        "name": artist_name,
-        "tags": tags[:10],
-        "decision": decision,
-        "category": category,
-        "matched_tag": matched_tag,
-        "source": "lastfm",
-    }
-    time.sleep(0.25)  # be polite to Last.fm, same spirit as fetch.py
-    return decision, category, matched_tag
+    return classify(tags)
 
 
 def main():
@@ -170,6 +169,10 @@ def main():
         sys.exit(1)
 
     cache = load_json(ARTIST_CACHE_PATH, {})
+    for entry in cache.values():
+        entry.pop("decision", None)
+        entry.pop("category", None)
+        entry.pop("matched_tag", None)
     overrides = load_json(OVERRIDES_PATH, {})
 
     with open(TRACKS_PATH) as fh:

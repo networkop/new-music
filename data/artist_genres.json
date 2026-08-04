@@ -1,8 +1,5 @@
 {
   "00505f51-68a8-45fc-b6d6-51be64751378": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Slow Pulp",
     "source": "lastfm",
     "tags": [
@@ -49,9 +46,6 @@
     ]
   },
   "00a8bd6b-4cb2-491c-8fe5-3fca06909973": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Chanel Beads",
     "source": "lastfm",
     "tags": [
@@ -98,9 +92,6 @@
     ]
   },
   "0258934a-d273-4bc2-bd5d-f44a0b90f44a": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Flava D",
     "source": "lastfm",
     "tags": [
@@ -147,9 +138,6 @@
     ]
   },
   "042f62fc-6c2e-4b8b-8114-8dab7f974631": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Luude",
     "source": "lastfm",
     "tags": [
@@ -196,9 +184,6 @@
     ]
   },
   "045494aa-e913-4e62-bf4e-dcc276e0075a": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Kelela",
     "source": "lastfm",
     "tags": [
@@ -245,9 +230,6 @@
     ]
   },
   "06059ff3-720e-4b33-8e34-b98933817fe8": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Juls",
     "source": "lastfm",
     "tags": [
@@ -294,9 +276,6 @@
     ]
   },
   "0638ba22-040f-438d-83a5-9b670c4adaf5": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Ludacris",
     "source": "lastfm",
     "tags": [
@@ -343,9 +322,6 @@
     ]
   },
   "0707594a-f793-4255-9708-4d73484581e9": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "BNXN",
     "source": "lastfm",
     "tags": [
@@ -380,9 +356,6 @@
     ]
   },
   "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "neo-soul",
     "name": "Nia Archives",
     "source": "lastfm",
     "tags": [
@@ -429,25 +402,16 @@
     ]
   },
   "0aaf3c5c-ab4d-43a1-a69d-b7949520cf7a": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "PIXY",
     "source": "lastfm",
     "tags": []
   },
   "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "earthsignchels",
     "source": "lastfm",
     "tags": []
   },
   "0c91c655-444e-4ae7-a0a0-9e9cb160301c": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Gotts Street Park",
     "source": "lastfm",
     "tags": [
@@ -482,9 +446,6 @@
     ]
   },
   "0d351b4b-7986-4fd2-ac7f-40fdf2a34c71": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "singer-songwriter",
     "name": "Nieve Ella",
     "source": "lastfm",
     "tags": [
@@ -531,9 +492,6 @@
     ]
   },
   "0e8afdae-d488-44d6-85b5-a5007096c049": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "folk",
     "name": "Kingfishr",
     "source": "lastfm",
     "tags": [
@@ -572,9 +530,6 @@
     ]
   },
   "115dc8c9-cb04-4dd6-859e-39739eb57215": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "That Mexican OT",
     "source": "lastfm",
     "tags": [
@@ -621,17 +576,11 @@
     ]
   },
   "13637ef6-e659-4c2e-9e78-ba0acceaa10e": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Travy",
     "source": "lastfm",
     "tags": []
   },
   "145336bb-1faf-47f3-92aa-08471650edcc": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Wasia Project",
     "source": "lastfm",
     "tags": [
@@ -678,9 +627,6 @@
     ]
   },
   "1e4e9db7-5068-4a9c-bdd0-5777e47172c8": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "FKA twigs",
     "source": "lastfm",
     "tags": [
@@ -727,9 +673,6 @@
     ]
   },
   "20d49152-11a2-4e55-8251-0d11dc6424fa": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Larry June",
     "source": "lastfm",
     "tags": [
@@ -776,9 +719,6 @@
     ]
   },
   "243e9a4d-f824-4ec2-8967-09907f954c56": {
-    "category": "country",
-    "decision": "exclude",
-    "matched_tag": "alt-country",
     "name": "Westside Cowboy",
     "source": "lastfm",
     "tags": [
@@ -821,9 +761,6 @@
     ]
   },
   "24c24af0-ce68-4cb1-b76b-2f11664d1567": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "O’Flynn",
     "source": "lastfm",
     "tags": [
@@ -834,9 +771,6 @@
     ]
   },
   "260b6184-8828-48eb-945c-bc4cb6fc34ca": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Charli xcx",
     "source": "lastfm",
     "tags": [
@@ -883,17 +817,11 @@
     ]
   },
   "2b6f07bc-79f0-4b30-bff0-412c2815a0f3": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "kwn",
     "source": "lastfm",
     "tags": []
   },
   "2ba1af4b-9d6b-4a0a-af47-f00769700da2": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "singer-songwriter",
     "name": "Paris Paloma",
     "source": "lastfm",
     "tags": [
@@ -940,9 +868,6 @@
     ]
   },
   "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "The Last Dinner Party",
     "source": "lastfm",
     "tags": [
@@ -989,9 +914,6 @@
     ]
   },
   "2f3c4d70-0462-40da-bba3-0aec5772c556": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Cardi B",
     "source": "lastfm",
     "tags": [
@@ -1038,17 +960,11 @@
     ]
   },
   "30d9df0a-1ee2-40d6-8b14-67bd66dbcebf": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "SOAK",
     "source": "lastfm",
     "tags": []
   },
   "30ef765d-f7bb-4e7e-8972-13be03aa4f2c": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "singer-songwriter",
     "name": "Absolutely",
     "source": "lastfm",
     "tags": [
@@ -1095,9 +1011,6 @@
     ]
   },
   "31f7decf-2448-43f4-b792-3dfb8ea1d030": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Baby Queen",
     "source": "lastfm",
     "tags": [
@@ -1144,9 +1057,6 @@
     ]
   },
   "320f7f92-eb43-45af-8241-2c7ac97ea4eb": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Ahadadream",
     "source": "lastfm",
     "tags": [
@@ -1181,9 +1091,6 @@
     ]
   },
   "32a49e9e-2434-49ab-9194-3985d757de40": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Rose Gray",
     "source": "lastfm",
     "tags": [
@@ -1230,9 +1137,6 @@
     ]
   },
   "34ebe14b-113c-4004-9625-77cb6b13b27d": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "John Glacier",
     "source": "lastfm",
     "tags": [
@@ -1279,9 +1183,6 @@
     ]
   },
   "3547f34a-db02-4ab7-b4a0-380e1ef951a9": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Wolf Alice",
     "source": "lastfm",
     "tags": [
@@ -1328,9 +1229,6 @@
     ]
   },
   "35a65ea0-61ee-4763-b657-951931e5fa9a": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Naomi Sharon",
     "source": "lastfm",
     "tags": [
@@ -1373,9 +1271,6 @@
     ]
   },
   "396a9525-0994-4542-b480-c4587feeb476": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Tinashe",
     "source": "lastfm",
     "tags": [
@@ -1422,9 +1317,6 @@
     ]
   },
   "3d253cbd-fb66-4752-a8d1-f9b0db75bcea": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "EsDeeKid",
     "source": "lastfm",
     "tags": [
@@ -1471,9 +1363,6 @@
     ]
   },
   "3d254f1e-7d18-431b-baeb-68e57695dfdb": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Blood Orange",
     "source": "lastfm",
     "tags": [
@@ -1520,9 +1409,6 @@
     ]
   },
   "3f1ed758-50e4-401f-8dc6-e0066e546e7c": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Frost Children",
     "source": "lastfm",
     "tags": [
@@ -1569,9 +1455,6 @@
     ]
   },
   "41ca19c2-935f-4647-9ef5-26f81291a9aa": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Blxst",
     "source": "lastfm",
     "tags": [
@@ -1618,9 +1501,6 @@
     ]
   },
   "43b896c5-5652-4b04-bde1-2e4224bc99b3": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Lola Young",
     "source": "lastfm",
     "tags": [
@@ -1667,9 +1547,6 @@
     ]
   },
   "451919df-764c-40cf-9aa2-fcafe599d869": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Yazmin Lacey",
     "source": "lastfm",
     "tags": [
@@ -1716,9 +1593,6 @@
     ]
   },
   "45859d30-a45b-4cc6-b9ba-85607dcc2819": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "hemlocke springs",
     "source": "lastfm",
     "tags": [
@@ -1765,9 +1639,6 @@
     ]
   },
   "496100ef-b264-4b7b-9d7c-bf90a2f9c9ef": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Spacey Jane",
     "source": "lastfm",
     "tags": [
@@ -1814,9 +1685,6 @@
     ]
   },
   "49b5386b-a606-41b1-90e8-d9e7983b6f1b": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Alewya",
     "source": "lastfm",
     "tags": [
@@ -1863,17 +1731,11 @@
     ]
   },
   "49b72db7-608c-47e9-a2d5-bc69fd99e490": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Songer",
     "source": "lastfm",
     "tags": []
   },
   "49e8bfdc-d27f-47c6-b08f-e2915e6b3434": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Kamal",
     "source": "lastfm",
     "tags": [
@@ -1920,9 +1782,6 @@
     ]
   },
   "4a3a5fc0-af4b-4990-957b-8d94f7bfe706": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Mount Kimbie",
     "source": "lastfm",
     "tags": [
@@ -1969,9 +1828,6 @@
     ]
   },
   "4c24e126-cdc9-4be1-9caa-570ced8dafca": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Nia Smith",
     "source": "lastfm",
     "tags": [
@@ -1998,9 +1854,6 @@
     ]
   },
   "4c41d78d-9dd5-430d-81ea-286052158293": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Peggy Gou",
     "source": "lastfm",
     "tags": [
@@ -2047,9 +1900,6 @@
     ]
   },
   "4c76d2ab-cc32-47b9-8bfe-d382bed617f6": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "ROLE MODEL",
     "source": "lastfm",
     "tags": [
@@ -2096,9 +1946,6 @@
     ]
   },
   "5028bb70-8872-4806-8b4a-b693ae0da7fc": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Waterparks",
     "source": "lastfm",
     "tags": [
@@ -2145,9 +1992,6 @@
     ]
   },
   "52d273ca-1f68-440c-9c37-751358cf0434": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Erin LeCount",
     "source": "lastfm",
     "tags": [
@@ -2194,9 +2038,6 @@
     ]
   },
   "53a7335c-6b46-469b-a687-f753295e8cbe": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Sidney Charles",
     "source": "lastfm",
     "tags": [
@@ -2243,17 +2084,11 @@
     ]
   },
   "53ddd5a0-336d-4c34-8803-ffe7a49a3f39": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Lexa Gates",
     "source": "lastfm",
     "tags": []
   },
   "54fc0558-12b5-4854-9d57-9441bcd73a72": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Kim Petras",
     "source": "lastfm",
     "tags": [
@@ -2300,9 +2135,6 @@
     ]
   },
   "56252a59-5731-4a3b-96d2-fea7fe88a5d6": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "feeble little horse",
     "source": "lastfm",
     "tags": [
@@ -2349,9 +2181,6 @@
     ]
   },
   "56756959-1e78-429c-b897-e1d056cb0225": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Tove Lo",
     "source": "lastfm",
     "tags": [
@@ -2398,9 +2227,6 @@
     ]
   },
   "57dd4661-9f78-4442-8836-482fab983008": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Aitch",
     "source": "lastfm",
     "tags": [
@@ -2447,17 +2273,11 @@
     ]
   },
   "58c4026e-b5b5-4368-8743-e5579d2b1a40": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "jigitz",
     "source": "lastfm",
     "tags": []
   },
   "58d24b63-4296-42f2-bdbb-c574652707e8": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Joe James",
     "source": "lastfm",
     "tags": [
@@ -2476,9 +2296,6 @@
     ]
   },
   "58e235fc-f6ea-4614-9ed4-9855a5665ae1": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "folk",
     "name": "Bleachers",
     "source": "lastfm",
     "tags": [
@@ -2525,9 +2342,6 @@
     ]
   },
   "59fb9339-0065-42e9-8c2c-110c9f7eb863": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "MPH",
     "source": "lastfm",
     "tags": [
@@ -2574,9 +2388,6 @@
     ]
   },
   "5a85c140-dcf9-4dd2-b2c8-aff0471549f3": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Sam Smith",
     "source": "lastfm",
     "tags": [
@@ -2623,9 +2434,6 @@
     ]
   },
   "5a8e07d5-d932-4484-a7f7-e700793a9c94": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Robyn",
     "source": "lastfm",
     "tags": [
@@ -2672,9 +2480,6 @@
     ]
   },
   "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Tems",
     "source": "lastfm",
     "tags": [
@@ -2721,17 +2526,11 @@
     ]
   },
   "5d6f4f63-edd8-40b9-9940-b54d6a1e6316": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Benjamin Steer",
     "source": "lastfm",
     "tags": []
   },
   "5f3be62e-d166-453e-a3ea-07b9227fafae": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "ANOTR",
     "source": "lastfm",
     "tags": [
@@ -2754,17 +2553,11 @@
     ]
   },
   "5fd29907-c3c5-4b1d-a799-7cf9bbd288fc": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Angine de Poitrine",
     "source": "lastfm",
     "tags": []
   },
   "61a54a1e-3fa1-4ccc-bfc2-86c1a27e27de": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Baauer",
     "source": "lastfm",
     "tags": [
@@ -2811,9 +2604,6 @@
     ]
   },
   "632258cb-4ab5-4f2d-be29-bcc641a275eb": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "neo-soul",
     "name": "Genesis Owusu",
     "source": "lastfm",
     "tags": [
@@ -2860,9 +2650,6 @@
     ]
   },
   "65fc5739-3562-46a0-8b69-1d1f64941a8b": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Naomi Scott",
     "source": "lastfm",
     "tags": [
@@ -2909,9 +2696,6 @@
     ]
   },
   "66a7117a-4b67-4a85-83bf-94491340d22d": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Rostam",
     "source": "lastfm",
     "tags": [
@@ -2958,17 +2742,11 @@
     ]
   },
   "67143cee-0927-4c42-830b-611de70cbb8b": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "panicbaby",
     "source": "lastfm",
     "tags": []
   },
   "6897b46a-9236-4480-9ed7-300f6b85d62f": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Ninajirachi",
     "source": "lastfm",
     "tags": [
@@ -3015,9 +2793,6 @@
     ]
   },
   "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Keo",
     "source": "lastfm",
     "tags": [
@@ -3064,9 +2839,6 @@
     ]
   },
   "6b4e962d-3dbc-4bda-82f0-25d35786f076": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Ecca Vandal",
     "source": "lastfm",
     "tags": [
@@ -3113,9 +2885,6 @@
     ]
   },
   "6bbb3983-ce8a-4971-96e0-7cae73268fc4": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Jungle",
     "source": "lastfm",
     "tags": [
@@ -3162,17 +2931,11 @@
     ]
   },
   "6bbfc71b-5f18-4e61-82fb-bee0c2a6b5f9": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "WILLOW",
     "source": "lastfm",
     "tags": []
   },
   "6e5c1366-5891-4e01-bb13-6c8b2c8cdd35": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "MJ Cole",
     "source": "lastfm",
     "tags": [
@@ -3219,9 +2982,6 @@
     ]
   },
   "6f38418e-4695-4e20-a792-431929e95ee5": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "folk",
     "name": "Tiny Habits",
     "source": "lastfm",
     "tags": [
@@ -3260,9 +3020,6 @@
     ]
   },
   "736c8ea9-b5c3-4c5f-8782-28e633f0c084": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "singer-songwriter",
     "name": "Holly Humberstone",
     "source": "lastfm",
     "tags": [
@@ -3309,9 +3066,6 @@
     ]
   },
   "740c6238-3f5d-4e63-8836-826ad6c611ab": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Honey Dijon",
     "source": "lastfm",
     "tags": [
@@ -3358,9 +3112,6 @@
     ]
   },
   "741dbc8e-1cd5-4a66-b2b8-43bbad87ae12": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "070 Shake",
     "source": "lastfm",
     "tags": [
@@ -3407,9 +3158,6 @@
     ]
   },
   "77127115-2daf-4ca8-81c2-c3acb4ce0c31": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Bleech 9:3",
     "source": "lastfm",
     "tags": [
@@ -3456,9 +3204,6 @@
     ]
   },
   "79239441-bfd5-4981-a70c-55c3f15c1287": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Madonna",
     "source": "lastfm",
     "tags": [
@@ -3505,9 +3250,6 @@
     ]
   },
   "79598541-191b-4a97-88b5-e3d0f70e7a0a": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Nines",
     "source": "lastfm",
     "tags": [
@@ -3554,9 +3296,6 @@
     ]
   },
   "7bb3d914-0a4d-4e96-a00e-d9815725244b": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "singer-songwriter",
     "name": "Alessi Rose",
     "source": "lastfm",
     "tags": [
@@ -3603,9 +3342,6 @@
     ]
   },
   "7cc385f3-333c-48de-b341-3d728de74973": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Vybz Kartel",
     "source": "lastfm",
     "tags": [
@@ -3652,17 +3388,11 @@
     ]
   },
   "7d04679e-a855-4214-9543-febaf02de725": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Original Koffee",
     "source": "lastfm",
     "tags": []
   },
   "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Queens of the Stone Age",
     "source": "lastfm",
     "tags": [
@@ -3709,9 +3439,6 @@
     ]
   },
   "7dcf3b98-701a-4309-a90c-eb4179b96ea9": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Barry Can't Swim",
     "source": "lastfm",
     "tags": [
@@ -3738,9 +3465,6 @@
     ]
   },
   "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Nothing But Thieves",
     "source": "lastfm",
     "tags": [
@@ -3787,9 +3511,6 @@
     ]
   },
   "7eb1ce54-a355-41f9-8d68-e018b096d427": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "folk",
     "name": "Harry Styles",
     "source": "lastfm",
     "tags": [
@@ -3836,17 +3557,11 @@
     ]
   },
   "80bd07ef-4e48-4e2c-b5ad-e590e3879cf7": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Alyssa Grace",
     "source": "lastfm",
     "tags": []
   },
   "81277a03-d1e0-49cd-971b-8582a5653d4e": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Ryan Beatty",
     "source": "lastfm",
     "tags": [
@@ -3893,9 +3608,6 @@
     ]
   },
   "82e454e2-38ee-4e69-89a6-cc65167753d1": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Chase & Status",
     "source": "lastfm",
     "tags": [
@@ -3942,9 +3654,6 @@
     ]
   },
   "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Suki Waterhouse",
     "source": "lastfm",
     "tags": [
@@ -3991,9 +3700,6 @@
     ]
   },
   "859d0860-d480-4efd-970c-c05d5f1776b8": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Beyoncé",
     "source": "lastfm",
     "tags": [
@@ -4040,9 +3746,6 @@
     ]
   },
   "869851f6-ad0d-4359-98d3-3ea4ae72d543": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Jalen Ngonda",
     "source": "lastfm",
     "tags": [
@@ -4081,17 +3784,11 @@
     ]
   },
   "86f6e91e-62c6-4ae9-9fdf-17840db70f89": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "KTmelodies",
     "source": "lastfm",
     "tags": []
   },
   "889b69e3-7b18-4889-b953-9f2931597204": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "High Contrast",
     "source": "lastfm",
     "tags": [
@@ -4138,9 +3835,6 @@
     ]
   },
   "88d17133-abbc-42db-9526-4e2c1db60336": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "beabadoobee",
     "source": "lastfm",
     "tags": [
@@ -4187,9 +3881,6 @@
     ]
   },
   "8b16f1e6-d960-432b-92d1-70fc3e61176d": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Fat Dog",
     "source": "lastfm",
     "tags": [
@@ -4236,9 +3927,6 @@
     ]
   },
   "8bd5a8fb-4c25-401d-a597-2c24affdd5c5": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "2hollis",
     "source": "lastfm",
     "tags": [
@@ -4285,9 +3973,6 @@
     ]
   },
   "8c6b9ac4-e63d-4f96-9d25-9c2d5fd45387": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Jodie Harsh",
     "source": "lastfm",
     "tags": [
@@ -4318,9 +4003,6 @@
     ]
   },
   "8d96e5fb-42b4-4653-b8f3-2a31e5834dc7": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Jazzy",
     "source": "lastfm",
     "tags": [
@@ -4367,9 +4049,6 @@
     ]
   },
   "8e1450a4-1d77-4452-b51c-e2f9ed848170": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Young Jonn",
     "source": "lastfm",
     "tags": [
@@ -4408,9 +4087,6 @@
     ]
   },
   "8ec6bf47-d22f-4a2f-b930-0f7feb10ea3f": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Chip",
     "source": "lastfm",
     "tags": [
@@ -4457,17 +4133,11 @@
     ]
   },
   "8f61a701-7281-44e8-8ea9-c48a07f05902": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "WHATMORE",
     "source": "lastfm",
     "tags": []
   },
   "9058d01e-8afc-47a4-8664-621fb5f159c0": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Slayyyter",
     "source": "lastfm",
     "tags": [
@@ -4514,9 +4184,6 @@
     ]
   },
   "90c07789-6d90-4b86-9780-0a954cc4469c": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Moses Boyd",
     "source": "lastfm",
     "tags": [
@@ -4563,9 +4230,6 @@
     ]
   },
   "93dc11f4-ffc4-4039-a5c2-1c2c035b6eb8": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Holding Absence",
     "source": "lastfm",
     "tags": [
@@ -4612,9 +4276,6 @@
     ]
   },
   "94a4c177-e5ee-4e5c-a843-0fac7d7c8275": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Oscar Farrell",
     "source": "lastfm",
     "tags": [
@@ -4633,9 +4294,6 @@
     ]
   },
   "94c64122-dbd4-4927-b2fa-f204b0b4b0c2": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Ravyn Lenae",
     "source": "lastfm",
     "tags": [
@@ -4682,9 +4340,6 @@
     ]
   },
   "96855c21-b832-4366-ba12-0d2330c36a86": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "singer-songwriter",
     "name": "Phoebe Bridgers",
     "source": "lastfm",
     "tags": [
@@ -4731,17 +4386,11 @@
     ]
   },
   "980604d4-fc2b-4778-8fc5-a7d28e52ab85": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Silva Bumpa",
     "source": "lastfm",
     "tags": []
   },
   "9a709693-b4f8-4da9-8cc1-038c911a61be": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Bonobo",
     "source": "lastfm",
     "tags": [
@@ -4788,9 +4437,6 @@
     ]
   },
   "9f61afe8-7142-44ee-b518-4dbb1caefb82": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Static Dress",
     "source": "lastfm",
     "tags": [
@@ -4837,9 +4483,6 @@
     ]
   },
   "a12ffa83-0f8d-4d72-905a-3019d832d9ba": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Rossi.",
     "source": "lastfm",
     "tags": [
@@ -4850,9 +4493,6 @@
     ]
   },
   "a6623d39-2d8e-4f70-8242-0a9553b91e50": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "The Avalanches",
     "source": "lastfm",
     "tags": [
@@ -4899,9 +4539,6 @@
     ]
   },
   "a6e613d6-ff65-4972-beff-303a1b10ab05": {
-    "category": "country",
-    "decision": "exclude",
-    "matched_tag": "country",
     "name": "Lainey Wilson",
     "source": "lastfm",
     "tags": [
@@ -4948,9 +4585,6 @@
     ]
   },
   "a84a3df1-a873-4be9-b6ff-4238393d46d7": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Good Neighbours",
     "source": "lastfm",
     "tags": [
@@ -4997,9 +4631,6 @@
     ]
   },
   "a9ae7d4b-10f0-4da8-8b8c-21722a074a54": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Davido",
     "source": "lastfm",
     "tags": [
@@ -5046,9 +4677,6 @@
     ]
   },
   "a9d53ca9-6c28-4be9-ab10-6c936a11d70b": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Channel Tres",
     "source": "lastfm",
     "tags": [
@@ -5095,9 +4723,6 @@
     ]
   },
   "abc8ba85-0a27-4eaa-9813-19414a454c54": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Cara Delevingne",
     "source": "lastfm",
     "tags": [
@@ -5144,9 +4769,6 @@
     ]
   },
   "ae952d46-0f36-414c-90d4-f202ea2d4a71": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Tierra Whack",
     "source": "lastfm",
     "tags": [
@@ -5193,9 +4815,6 @@
     ]
   },
   "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Remi Wolf",
     "source": "lastfm",
     "tags": [
@@ -5242,9 +4861,6 @@
     ]
   },
   "b0311291-19f9-4288-96be-e8a5da0a104a": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Maverick Sabre",
     "source": "lastfm",
     "tags": [
@@ -5291,9 +4907,6 @@
     ]
   },
   "b29020d6-5dbf-4c99-b16f-c009f8a712ff": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Steve Lacy",
     "source": "lastfm",
     "tags": [
@@ -5340,17 +4953,11 @@
     ]
   },
   "b372c503-8488-41b2-aca0-224c4fe565c9": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "JJerome87",
     "source": "lastfm",
     "tags": []
   },
   "b5970f40-4de3-43fc-9dad-e9b160b3db04": {
-    "category": "soul",
-    "decision": "review",
-    "matched_tag": "soul",
     "name": "Kelsey Lu",
     "source": "lastfm",
     "tags": [
@@ -5397,9 +5004,6 @@
     ]
   },
   "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Overmono",
     "source": "lastfm",
     "tags": [
@@ -5446,9 +5050,6 @@
     ]
   },
   "b8638bdc-728d-4d43-a908-7be7db29073b": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "AJ Tracey",
     "source": "lastfm",
     "tags": [
@@ -5495,9 +5096,6 @@
     ]
   },
   "ba8aaa28-2de4-4d5c-824e-1e9d49235c55": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Gorgon City",
     "source": "lastfm",
     "tags": [
@@ -5544,9 +5142,6 @@
     ]
   },
   "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "singer-songwriter",
     "name": "Rachel Chinouriri",
     "source": "lastfm",
     "tags": [
@@ -5593,9 +5188,6 @@
     ]
   },
   "bca63b5d-a28c-4937-a8f4-e3f2d95426e1": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Masego",
     "source": "lastfm",
     "tags": [
@@ -5642,9 +5234,6 @@
     ]
   },
   "bdc343bd-1c45-4a5d-b956-c4429f3dbba5": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Blossoms",
     "source": "lastfm",
     "tags": [
@@ -5691,9 +5280,6 @@
     ]
   },
   "be166079-6f21-4d0d-af2a-9f55c4b34455": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Delta Heavy",
     "source": "lastfm",
     "tags": [
@@ -5740,9 +5326,6 @@
     ]
   },
   "becca5db-ec3a-404d-8e94-03ebf27276e3": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "singer-songwriter",
     "name": "Finn Wolfhard",
     "source": "lastfm",
     "tags": [
@@ -5789,9 +5372,6 @@
     ]
   },
   "c17f32b5-66fc-4d73-99c9-2085201ff9a6": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "singer-songwriter",
     "name": "Violet Grohl",
     "source": "lastfm",
     "tags": [
@@ -5838,9 +5418,6 @@
     ]
   },
   "c69af97b-4d3b-4f72-9746-829b6b9d5f88": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Yard Act",
     "source": "lastfm",
     "tags": [
@@ -5887,17 +5464,11 @@
     ]
   },
   "c74a9a82-29bf-486d-bf93-b4516ac3e338": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Temper City",
     "source": "lastfm",
     "tags": []
   },
   "c9e3089c-a7bc-4df5-80f9-9161eaa74a02": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Tiffany Day",
     "source": "lastfm",
     "tags": [
@@ -5944,9 +5515,6 @@
     ]
   },
   "cabad801-2306-46e0-a01d-dc1fd030f1d9": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Voltage",
     "source": "lastfm",
     "tags": [
@@ -5993,9 +5561,6 @@
     ]
   },
   "cc082564-87b8-405c-97b0-7c2a8e84212a": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "flowerovlove",
     "source": "lastfm",
     "tags": [
@@ -6042,9 +5607,6 @@
     ]
   },
   "cddcb582-ba2f-4629-b1bb-3bc5237b107c": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "indie folk",
     "name": "Asha Banks",
     "source": "lastfm",
     "tags": [
@@ -6071,9 +5633,6 @@
     ]
   },
   "cfe0e278-18ac-492f-956a-d8c419f53af1": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Kanine",
     "source": "lastfm",
     "tags": [
@@ -6120,9 +5679,6 @@
     ]
   },
   "d2a36c92-546b-4b81-b31b-23e21d2ea6ee": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Nemzzz",
     "source": "lastfm",
     "tags": [
@@ -6169,9 +5725,6 @@
     ]
   },
   "d2b5e992-9672-45a8-9d01-97f3b1afb053": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Sekou",
     "source": "lastfm",
     "tags": [
@@ -6218,9 +5771,6 @@
     ]
   },
   "d51acca9-a88b-4f5c-a2fe-f069de70ca1d": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Ezra Collective",
     "source": "lastfm",
     "tags": [
@@ -6267,9 +5817,6 @@
     ]
   },
   "d62614aa-ef2c-44cd-8a7b-91292755a1d0": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Jorja Smith",
     "source": "lastfm",
     "tags": [
@@ -6316,9 +5863,6 @@
     ]
   },
   "da8fb855-1a7f-4648-8d97-dd832328b92b": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Ledbyher",
     "source": "lastfm",
     "tags": [
@@ -6365,25 +5909,16 @@
     ]
   },
   "dbf83483-1ca0-411c-8571-2272355663e9": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "[IVY]",
     "source": "lastfm",
     "tags": []
   },
   "dbfff37c-146d-4415-b765-9a76d48c749c": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Erick the Architect",
     "source": "lastfm",
     "tags": []
   },
   "dcd4701d-64ec-443d-bfbf-73fc87c44bd6": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Angèle",
     "source": "lastfm",
     "tags": [
@@ -6430,9 +5965,6 @@
     ]
   },
   "de6a52b1-4f04-4c29-b471-345c06b93ac2": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "horsegiirL",
     "source": "lastfm",
     "tags": [
@@ -6479,9 +6011,6 @@
     ]
   },
   "de701d16-34d0-4ffb-a64e-2f07dea8e7a3": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "South Arcade",
     "source": "lastfm",
     "tags": [
@@ -6528,17 +6057,11 @@
     ]
   },
   "e26aebea-e2f4-48c6-ac42-b4ef54d2e787": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "K Trap",
     "source": "lastfm",
     "tags": []
   },
   "e457531c-4add-45f0-9998-f65ec53a305c": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "KETTAMA",
     "source": "lastfm",
     "tags": [
@@ -6585,9 +6108,6 @@
     ]
   },
   "e65c1d4e-0866-4db3-94a6-05e4e15649cb": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Nectar Woode",
     "source": "lastfm",
     "tags": [
@@ -6622,25 +6142,16 @@
     ]
   },
   "e881b225-42b1-41d9-9d5e-eff55568585b": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "STELLA LEFTY",
     "source": "lastfm",
     "tags": []
   },
   "e9139284-f58d-4440-927b-8a3bf41eee51": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Chloé Caillet",
     "source": "lastfm",
     "tags": []
   },
   "e9c82e1b-1d49-4fdc-b3ab-7fee17ca1cf5": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Chanpan",
     "source": "lastfm",
     "tags": [
@@ -6687,25 +6198,16 @@
     ]
   },
   "ea696191-407a-4bf2-8302-7e05f6c163c5": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Sienna Spiro",
     "source": "lastfm",
     "tags": []
   },
   "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "INJI",
     "source": "lastfm",
     "tags": []
   },
   "ec4f15e9-0a88-41d4-b73a-9dd972ba8843": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Josh Baker",
     "source": "lastfm",
     "tags": [
@@ -6728,9 +6230,6 @@
     ]
   },
   "ec853694-30a1-4c7e-84e6-4ca87ee3c314": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Andy C",
     "source": "lastfm",
     "tags": [
@@ -6777,9 +6276,6 @@
     ]
   },
   "eca85dd0-f1fb-4e83-8c47-61403f479254": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "J Hus",
     "source": "lastfm",
     "tags": [
@@ -6826,9 +6322,6 @@
     ]
   },
   "ee0b11de-0c8a-4267-9886-198f4579e1db": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "folk",
     "name": "Lizzy McAlpine",
     "source": "lastfm",
     "tags": [
@@ -6875,9 +6368,6 @@
     ]
   },
   "ee232ef6-4bfd-49c8-a135-b7f82b564531": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "singer-songwriter",
     "name": "Grace Ives",
     "source": "lastfm",
     "tags": [
@@ -6924,17 +6414,11 @@
     ]
   },
   "eead7215-59da-45f5-b719-62f349ef4133": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "HUGEL",
     "source": "lastfm",
     "tags": []
   },
   "eebb6d7a-8d3c-4cc0-a101-9d2afa188147": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Amaria BB",
     "source": "lastfm",
     "tags": [
@@ -6965,9 +6449,6 @@
     ]
   },
   "f02cf5ec-81b7-4558-9946-354ebac1a525": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "folk",
     "name": "Matilda Mann",
     "source": "lastfm",
     "tags": [
@@ -7014,17 +6495,11 @@
     ]
   },
   "f23579e2-d625-4fca-a796-ec349d89c3a7": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "she’s green",
     "source": "lastfm",
     "tags": []
   },
   "f40856e6-079f-4a0a-916e-9e6a5e04f646": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "ADÉLA",
     "source": "lastfm",
     "tags": [
@@ -7071,9 +6546,6 @@
     ]
   },
   "f4e4a8c2-4ee8-42eb-9c6a-0c21a06097a6": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "singer-songwriter",
     "name": "Julia Wolf",
     "source": "lastfm",
     "tags": [
@@ -7120,9 +6592,6 @@
     ]
   },
   "f6621a8d-5644-460a-b0a8-9171cb2c595d": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Blondshell",
     "source": "lastfm",
     "tags": [
@@ -7169,9 +6638,6 @@
     ]
   },
   "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Tyler, The Creator",
     "source": "lastfm",
     "tags": [
@@ -7218,9 +6684,6 @@
     ]
   },
   "f7441bc7-d7de-4813-a2fc-31a4033d396d": {
-    "category": "indie folk",
-    "decision": "review",
-    "matched_tag": "singer-songwriter",
     "name": "Gracie Abrams",
     "source": "lastfm",
     "tags": [
@@ -7267,9 +6730,6 @@
     ]
   },
   "f95d0f4f-d344-4acd-bec8-cc512b40f629": {
-    "category": "indie folk",
-    "decision": "exclude",
-    "matched_tag": "singer-songwriter",
     "name": "Julia Jacklin",
     "source": "lastfm",
     "tags": [
@@ -7316,9 +6776,6 @@
     ]
   },
   "fc3e8983-1f51-4c80-b2b5-146bf2162dc2": {
-    "category": "soul",
-    "decision": "exclude",
-    "matched_tag": "soul",
     "name": "Tom Misch",
     "source": "lastfm",
     "tags": [
@@ -7365,17 +6822,11 @@
     ]
   },
   "name:ayraa star": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "ayraa star",
     "source": "lastfm",
     "tags": []
   },
   "name:culture shock": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Culture Shock",
     "source": "lastfm",
     "tags": [
@@ -7422,9 +6873,6 @@
     ]
   },
   "name:nero": {
-    "category": null,
-    "decision": "keep",
-    "matched_tag": null,
     "name": "Nero",
     "source": "lastfm",
     "tags": [
