@@ -1,0 +1,1220 @@
+{
+  "pid": "m002zj91",
+  "broadcast_start": "2026-08-04T18:00:00+01:00",
+  "schedule_date": "2026-08-04",
+  "title": "Original Koffee Hottest Record",
+  "tracks": [
+    {
+      "artist": "Tyler, The Creator",
+      "title": "THAT GUY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0hlv",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p012ddld",
+          "musicbrainz_gid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+          "name": "Tyler, The Creator"
+        },
+        "artist": "Tyler, The Creator",
+        "track_title": "THAT GUY",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": "THAT GUY",
+        "record_id": "n99qvj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012ddld",
+            "name": "Tyler, The Creator",
+            "role": "Performer",
+            "musicbrainz_gid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6"
+          }
+        ],
+        "title": "THAT GUY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Cancel Me (I'm Tired)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzbktz",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Cancel Me (I'm Tired)",
+        "track_number": "3",
+        "publisher": "Domino Publishing Company Ltd/BMG (Music) Rights Limited",
+        "record_label": "Domino Recording Co.",
+        "release_title": "Cancel Me (I'm Tired)",
+        "record_id": "n99qvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Cancel Me (I'm Tired)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "Toast",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p071n351",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "Toast",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n58jz9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "Toast",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "K Trap",
+      "title": "CAN'T SAY NO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsybbw",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p05gj2yw",
+          "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787",
+          "name": "K Trap"
+        },
+        "artist": "K Trap",
+        "track_title": "CAN'T SAY NO",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "K-Trap",
+        "release_title": null,
+        "record_id": "n999pv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05gj2yw",
+            "name": "K Trap",
+            "role": "Performer",
+            "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787"
+          },
+          {
+            "pid": "p05c7n5g",
+            "name": "Young Adz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "a4afd2fa-9891-4983-b6bd-0aa40ad17c6f"
+          }
+        ],
+        "title": "CAN'T SAY NO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Someday, Somewhere",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxmxd9",
+        "duration": 146,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Someday, Somewhere",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "AWAL Recordings",
+        "release_title": null,
+        "record_id": "n9r4p2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Someday, Somewhere",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "brand new chanel$",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n6rg",
+        "duration": 236,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "brand new chanel$",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Records/Columbia",
+        "release_title": "brand new chanel$",
+        "record_id": "n9rwmg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "brand new chanel$",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Sun Has Set",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntwxqd",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Sun Has Set",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n99hv4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Sun Has Set",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Peggy Gou",
+      "title": "Wo, man",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvcs8c",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p048n567",
+          "musicbrainz_gid": "4c41d78d-9dd5-430d-81ea-286052158293",
+          "name": "Peggy Gou"
+        },
+        "artist": "Peggy Gou",
+        "track_title": "Wo, man",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL",
+        "release_title": null,
+        "record_id": "n99gjg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p048n567",
+            "name": "Peggy Gou",
+            "role": "Performer",
+            "musicbrainz_gid": "4c41d78d-9dd5-430d-81ea-286052158293"
+          },
+          {
+            "pid": "p097mf81",
+            "name": "Ayra Starr",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4"
+          }
+        ],
+        "title": "Wo, man",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "RAPID FIYAH",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nstzjy",
+        "duration": 166,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "RAPID FIYAH",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Records",
+        "release_title": null,
+        "record_id": "n99dm2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          },
+          {
+            "pid": "p08kftpb",
+            "name": "Skillibeng",
+            "role": "Performer",
+            "musicbrainz_gid": "2f639ba8-11ee-4128-9915-2303afd30078"
+          }
+        ],
+        "title": "RAPID FIYAH",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "SUMMER FRUITS (Na Na)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n96v",
+        "duration": 145,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "SUMMER FRUITS (Na Na)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Recordings Limited",
+        "release_title": null,
+        "record_id": "n9rm6z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "SUMMER FRUITS (Na Na)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Evolution",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nmc2ww",
+        "duration": 225,
+        "primary_contributor": {
+          "pid": "p0223f4n",
+          "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+          "name": "Nothing But Thieves"
+        },
+        "artist": "Nothing But Thieves",
+        "track_title": "Evolution",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n98hc6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0223f4n",
+            "name": "Nothing But Thieves",
+            "role": "Performer",
+            "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e"
+          }
+        ],
+        "title": "Evolution",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Always On Your Side",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gc4l",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Always On Your Side",
+        "track_number": null,
+        "publisher": "BMG",
+        "record_label": "Bonobo Music Inc.",
+        "release_title": null,
+        "record_id": "n9rqh8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          },
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          }
+        ],
+        "title": "Always On Your Side",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Oh Mother",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p08zqh",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p01zpdf9",
+          "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "name": "Sam Smith"
+        },
+        "artist": "Sam Smith",
+        "track_title": "Oh Mother",
+        "track_number": null,
+        "publisher": "SSW Publishing Ltd/Tim & Danny Music/Warner-Tamerlane Publishing Corp/Copyright Control/Kobalt Music Publishing",
+        "record_label": "Capitol",
+        "release_title": null,
+        "record_id": "n9rdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01zpdf9",
+            "name": "Sam Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3"
+          },
+          {
+            "pid": "p0p08zr0",
+            "name": "The TwoCity Chorus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6160891e-2d69-493d-a941-a9456383844e"
+          }
+        ],
+        "title": "Oh Mother",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Gellaitry",
+      "title": "LONGING",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2ncvn",
+        "duration": 109,
+        "primary_contributor": {
+          "pid": "p028whry",
+          "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5",
+          "name": "Sam Gellaitry"
+        },
+        "artist": "Sam Gellaitry",
+        "track_title": "LONGING",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Major Recordings",
+        "release_title": "ANYWHERE HERE IS PERFECT (DELUXE)",
+        "record_id": "n9rm65",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p028whry",
+            "name": "Sam Gellaitry",
+            "role": "Performer",
+            "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5"
+          }
+        ],
+        "title": "LONGING",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Crash Out",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p02bg9",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Crash Out",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9rcgj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Crash Out",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "Bad Bara",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw7hpb",
+        "duration": 244,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "Bad Bara",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n99jfb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          }
+        ],
+        "title": "Bad Bara",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "EsDeeKid",
+      "title": "RockWave",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxdvcw",
+        "duration": 134,
+        "primary_contributor": {
+          "pid": "p0lbt2zt",
+          "musicbrainz_gid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
+          "name": "EsDeeKid"
+        },
+        "artist": "EsDeeKid",
+        "track_title": "RockWave",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99wcq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0lbt2zt",
+            "name": "EsDeeKid",
+            "role": "Performer",
+            "musicbrainz_gid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea"
+          }
+        ],
+        "title": "RockWave",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lainey Wilson",
+      "title": "Phone, Keys, Wallet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr7ygp",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p071v3mt",
+          "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05",
+          "name": "Lainey Wilson"
+        },
+        "artist": "Lainey Wilson",
+        "track_title": "Phone, Keys, Wallet",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Broken Bow Records",
+        "release_title": "Phone, Keys, Wallet",
+        "record_id": "n99525",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p071v3mt",
+            "name": "Lainey Wilson",
+            "role": "Performer",
+            "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05"
+          },
+          {
+            "pid": "p012dp42",
+            "name": "John Mayer",
+            "role": "Performer",
+            "musicbrainz_gid": "144ef525-85e9-40c3-8335-02c32d0861f3"
+          }
+        ],
+        "title": "Phone, Keys, Wallet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Honey Dijon",
+      "title": "I Like It Hot",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0hth",
+        "duration": 239,
+        "primary_contributor": {
+          "pid": "p033l2mf",
+          "musicbrainz_gid": "740c6238-3f5d-4e63-8836-826ad6c611ab",
+          "name": "Honey Dijon"
+        },
+        "artist": "Honey Dijon",
+        "track_title": "I Like It Hot",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SOS",
+        "release_title": null,
+        "record_id": "n9pjrw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p033l2mf",
+            "name": "Honey Dijon",
+            "role": "Performer",
+            "musicbrainz_gid": "740c6238-3f5d-4e63-8836-826ad6c611ab"
+          },
+          {
+            "pid": "p07kxzzk",
+            "name": "Greentea Peng",
+            "role": "Performer",
+            "musicbrainz_gid": "2443a94a-03a6-4f0e-a369-ecda74af1c9f"
+          }
+        ],
+        "title": "I Like It Hot",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ludacris",
+      "title": "Real Hustla",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nthgzd",
+        "duration": 146,
+        "primary_contributor": {
+          "pid": "p012dhr8",
+          "musicbrainz_gid": "0638ba22-040f-438d-83a5-9b670c4adaf5",
+          "name": "Ludacris"
+        },
+        "artist": "Ludacris",
+        "track_title": "Real Hustla",
+        "track_number": null,
+        "publisher": "The Sound Of Keys BMI",
+        "record_label": "Def Jam Recordings",
+        "release_title": null,
+        "record_id": "n99gm6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dhr8",
+            "name": "Ludacris",
+            "role": "Performer",
+            "musicbrainz_gid": "0638ba22-040f-438d-83a5-9b670c4adaf5"
+          },
+          {
+            "pid": "p0cgp4mr",
+            "name": "GloRilla",
+            "role": "Performer",
+            "musicbrainz_gid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2"
+          }
+        ],
+        "title": "Real Hustla",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "she’s green",
+      "title": "locket",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxf9pk",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0mvyfps",
+          "musicbrainz_gid": "f23579e2-d625-4fca-a796-ec349d89c3a7",
+          "name": "she’s green"
+        },
+        "artist": "she’s green",
+        "track_title": "locket",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Photo Finish",
+        "release_title": null,
+        "record_id": "n9r3w9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mvyfps",
+            "name": "she’s green",
+            "role": "Performer",
+            "musicbrainz_gid": "f23579e2-d625-4fca-a796-ec349d89c3a7"
+          }
+        ],
+        "title": "locket",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ecca Vandal",
+      "title": "CRUISING TO SELF SOOTHE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzwxcb",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p02rl6wl",
+          "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076",
+          "name": "Ecca Vandal"
+        },
+        "artist": "Ecca Vandal",
+        "track_title": "CRUISING TO SELF SOOTHE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n8w6q4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02rl6wl",
+            "name": "Ecca Vandal",
+            "role": "Performer",
+            "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076"
+          }
+        ],
+        "title": "CRUISING TO SELF SOOTHE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Show Me the Body",
+      "title": "Do What's Right (Happy)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2nk08",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p042smbr",
+          "musicbrainz_gid": "bcc715bb-47a4-46c0-a62e-6467feec6091",
+          "name": "Show Me the Body"
+        },
+        "artist": "Show Me the Body",
+        "track_title": "Do What's Right (Happy)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9r4xf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p042smbr",
+            "name": "Show Me the Body",
+            "role": "Performer",
+            "musicbrainz_gid": "bcc715bb-47a4-46c0-a62e-6467feec6091"
+          }
+        ],
+        "title": "Do What's Right (Happy)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Lost Boys",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nv6t43",
+        "duration": 245,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "Lost Boys",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99j4w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "Lost Boys",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacy",
+      "title": "is it cool?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvtmn0",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p04vcw91",
+          "musicbrainz_gid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+          "name": "Steve Lacy"
+        },
+        "artist": "Steve Lacy",
+        "track_title": "is it cool?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99qr6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04vcw91",
+            "name": "Steve Lacy",
+            "role": "Performer",
+            "musicbrainz_gid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Performer",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "is it cool?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Twiggy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gjs9",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Twiggy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island/EMI",
+        "release_title": null,
+        "record_id": "n9rqhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Twiggy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Genesis Owusu",
+      "title": "Human Again",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxdn3h",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p081n2yb",
+          "musicbrainz_gid": "632258cb-4ab5-4f2d-be29-bcc641a275eb",
+          "name": "Genesis Owusu"
+        },
+        "artist": "Genesis Owusu",
+        "track_title": "Human Again",
+        "track_number": null,
+        "publisher": "OURNESS",
+        "record_label": "OURNESS",
+        "release_title": null,
+        "record_id": "n9r3hz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p081n2yb",
+            "name": "Genesis Owusu",
+            "role": "Performer",
+            "musicbrainz_gid": "632258cb-4ab5-4f2d-be29-bcc641a275eb"
+          }
+        ],
+        "title": "Human Again",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Yard Act",
+      "title": "New Beginnings",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntpj5c",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p08brhj4",
+          "musicbrainz_gid": "c69af97b-4d3b-4f72-9746-829b6b9d5f88",
+          "name": "Yard Act"
+        },
+        "artist": "Yard Act",
+        "track_title": "New Beginnings",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing",
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n99h9m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08brhj4",
+            "name": "Yard Act",
+            "role": "Performer",
+            "musicbrainz_gid": "c69af97b-4d3b-4f72-9746-829b6b9d5f88"
+          }
+        ],
+        "title": "New Beginnings",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Odeal",
+      "title": "Coming Home",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1w4j9",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "Coming Home",
+        "track_number": "4",
+        "publisher": "Copyright Control",
+        "record_label": "LVRN / OVMBR",
+        "release_title": "For A Good Time...",
+        "record_id": "n9rjnx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          },
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Coming Home",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Man/Woman/Chainsaw",
+      "title": "Nosedive",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nfsblr",
+        "duration": 228,
+        "primary_contributor": {
+          "pid": "p0gkx9fw",
+          "musicbrainz_gid": "e72f0b0e-fe8e-405a-942e-633edd84c998",
+          "name": "Man/Woman/Chainsaw"
+        },
+        "artist": "Man/Woman/Chainsaw",
+        "track_title": "Nosedive",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fiction Records",
+        "release_title": null,
+        "record_id": "n9pjmj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gkx9fw",
+            "name": "Man/Woman/Chainsaw",
+            "role": "Performer",
+            "musicbrainz_gid": "e72f0b0e-fe8e-405a-942e-633edd84c998"
+          }
+        ],
+        "title": "Nosedive",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wolf Alice",
+      "title": "Gospel Oak",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwhwpd",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p034xfbs",
+          "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+          "name": "Wolf Alice"
+        },
+        "artist": "Wolf Alice",
+        "track_title": "Gospel Oak",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n99mqc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034xfbs",
+            "name": "Wolf Alice",
+            "role": "Performer",
+            "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+          }
+        ],
+        "title": "Gospel Oak",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rose Gray",
+      "title": "Just Be Bodies",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzx6bd",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p07f9hjs",
+          "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40",
+          "name": "Rose Gray"
+        },
+        "artist": "Rose Gray",
+        "track_title": "Just Be Bodies",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9rchr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07f9hjs",
+            "name": "Rose Gray",
+            "role": "Performer",
+            "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40"
+          }
+        ],
+        "title": "Just Be Bodies",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

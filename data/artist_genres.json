@@ -1754,6 +1754,52 @@
       ]
     ]
   },
+  "47e10b14-4b74-4650-bc2b-34424c1c6bcb": {
+    "name": "Odeal",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "rap",
+        44
+      ],
+      [
+        "hip-hop",
+        29
+      ],
+      [
+        "soul",
+        7
+      ],
+      [
+        "neo-soul",
+        4
+      ],
+      [
+        "germany",
+        4
+      ],
+      [
+        "hip hop",
+        4
+      ],
+      [
+        "nigerian",
+        1
+      ],
+      [
+        "afrobeats",
+        1
+      ],
+      [
+        "afrobeat",
+        1
+      ]
+    ]
+  },
   "496100ef-b264-4b7b-9d7c-bf90a2f9c9ef": {
     "name": "Spacey Jane",
     "source": "lastfm",
@@ -5631,6 +5677,52 @@
       ]
     ]
   },
+  "bcc715bb-47a4-46c0-a62e-6467feec6091": {
+    "name": "Show Me the Body",
+    "source": "lastfm",
+    "tags": [
+      [
+        "noise rock",
+        100
+      ],
+      [
+        "post-hardcore",
+        66
+      ],
+      [
+        "hardcore",
+        26
+      ],
+      [
+        "punk",
+        24
+      ],
+      [
+        "no wave",
+        11
+      ],
+      [
+        "hardcore punk",
+        9
+      ],
+      [
+        "hip-hop",
+        6
+      ],
+      [
+        "industrial hip hop",
+        1
+      ],
+      [
+        "rap rock",
+        1
+      ],
+      [
+        "industrial hip-hop",
+        1
+      ]
+    ]
+  },
   "bdc343bd-1c45-4a5d-b956-c4429f3dbba5": {
     "name": "Blossoms",
     "source": "lastfm",
@@ -6243,6 +6335,52 @@
       ]
     ]
   },
+  "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5": {
+    "name": "Sam Gellaitry",
+    "source": "lastfm",
+    "tags": [
+      [
+        "future bass",
+        100
+      ],
+      [
+        "trap",
+        77
+      ],
+      [
+        "bass",
+        18
+      ],
+      [
+        "electronic",
+        18
+      ],
+      [
+        "beats",
+        6
+      ],
+      [
+        "future beats",
+        2
+      ],
+      [
+        "house",
+        2
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "scotland",
+        1
+      ],
+      [
+        "dubstep",
+        1
+      ]
+    ]
+  },
   "d62614aa-ef2c-44cd-8a7b-91292755a1d0": {
     "name": "Jorja Smith",
     "source": "lastfm",
@@ -6623,6 +6761,52 @@
       [
         "indie rock",
         4
+      ]
+    ]
+  },
+  "e72f0b0e-fe8e-405a-942e-633edd84c998": {
+    "name": "Man/Woman/Chainsaw",
+    "source": "lastfm",
+    "tags": [
+      [
+        "post-punk",
+        100
+      ],
+      [
+        "indie rock",
+        73
+      ],
+      [
+        "art rock",
+        34
+      ],
+      [
+        "crank wave",
+        34
+      ],
+      [
+        "noise rock",
+        6
+      ],
+      [
+        "art punk",
+        6
+      ],
+      [
+        "experimental",
+        6
+      ],
+      [
+        "chamber pop",
+        1
+      ],
+      [
+        "indie",
+        1
+      ],
+      [
+        "british",
+        1
       ]
     ]
   },

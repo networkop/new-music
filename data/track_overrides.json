@@ -1,1 +1,982 @@
-{}
+{
+  "070 shake|||baby driver": {
+    "artist": "070 Shake",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Baby Driver"
+  },
+  "2hollis|||hurt": {
+    "artist": "2hollis",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "hurt"
+  },
+  "adéla|||red bottoms": {
+    "artist": "ADÉLA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Red Bottoms"
+  },
+  "ahadadream|||make space": {
+    "artist": "Ahadadream",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Make Space"
+  },
+  "aitch|||rmb (ring my bell)": {
+    "artist": "Aitch",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "RMB (Ring My Bell)"
+  },
+  "aj tracey|||baja blast": {
+    "artist": "AJ Tracey",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Baja Blast"
+  },
+  "alewya|||selah": {
+    "artist": "Alewya",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Selah"
+  },
+  "amaria bb|||focus": {
+    "artist": "Amaria BB",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Focus"
+  },
+  "andy c|||who like the what": {
+    "artist": "Andy C",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Who Like The What"
+  },
+  "angine de poitrine|||sarniezz": {
+    "artist": "Angine de Poitrine",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sarniezz"
+  },
+  "angèle|||dis-le": {
+    "artist": "Angèle",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dis-le"
+  },
+  "anotr|||silver lines": {
+    "artist": "ANOTR",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Silver Lines"
+  },
+  "anotr|||talk to you": {
+    "artist": "ANOTR",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Talk To You"
+  },
+  "baauer|||better": {
+    "artist": "Baauer",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Better"
+  },
+  "baby queen|||permanently obsessed": {
+    "artist": "Baby Queen",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Permanently Obsessed"
+  },
+  "barry can't swim|||return to bhibo": {
+    "artist": "Barry Can't Swim",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Return to Bhibo"
+  },
+  "beabadoobee|||sun has set": {
+    "artist": "beabadoobee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sun Has Set"
+  },
+  "beabadoobee|||switchblade": {
+    "artist": "beabadoobee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Switchblade"
+  },
+  "benjamin steer|||dog eat dog": {
+    "artist": "Benjamin Steer",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dog Eat Dog"
+  },
+  "blossoms|||meet me in love": {
+    "artist": "Blossoms",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Meet Me In Love"
+  },
+  "blxst|||ruin": {
+    "artist": "Blxst",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Ruin"
+  },
+  "bnxn|||back outside": {
+    "artist": "BNXN",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Back Outside"
+  },
+  "bnxn|||eja meja": {
+    "artist": "BNXN",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "EJA MEJA"
+  },
+  "bnxn|||frank sinatra": {
+    "artist": "BNXN",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Frank Sinatra"
+  },
+  "bonobo|||always on your side": {
+    "artist": "Bonobo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Always On Your Side"
+  },
+  "bonobo|||kerala": {
+    "artist": "Bonobo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Kerala"
+  },
+  "bonobo|||me and you": {
+    "artist": "Bonobo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Me and You"
+  },
+  "cara delevingne|||out of my head": {
+    "artist": "Cara Delevingne",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Out of my Head"
+  },
+  "chanel beads|||tyler richard": {
+    "artist": "Chanel Beads",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Tyler Richard"
+  },
+  "channel tres|||creatine": {
+    "artist": "Channel Tres",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Creatine"
+  },
+  "charli xcx|||camera": {
+    "artist": "Charli xcx",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Camera"
+  },
+  "charli xcx|||von dutch": {
+    "artist": "Charli xcx",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Von Dutch"
+  },
+  "charli xcx|||wink wink": {
+    "artist": "Charli xcx",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Wink Wink"
+  },
+  "chase & status|||backbone": {
+    "artist": "Chase & Status",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "BACKBONE"
+  },
+  "chase & status|||baddadan": {
+    "artist": "Chase & Status",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Baddadan"
+  },
+  "chase & status|||disgruntled": {
+    "artist": "Chase & Status",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Disgruntled"
+  },
+  "chip|||gttb": {
+    "artist": "Chip",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "GTTB"
+  },
+  "chloé caillet|||bad bara": {
+    "artist": "Chloé Caillet",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Bad Bara"
+  },
+  "chloé caillet|||change": {
+    "artist": "Chloé Caillet",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Change"
+  },
+  "chloé caillet|||lemme dance": {
+    "artist": "Chloé Caillet",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Lemme Dance"
+  },
+  "chloé caillet|||the one": {
+    "artist": "Chloé Caillet",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "The One"
+  },
+  "culture shock|||feel again": {
+    "artist": "Culture Shock",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Feel Again"
+  },
+  "davido|||gimme dat ting": {
+    "artist": "Davido",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Gimme Dat Ting"
+  },
+  "davido|||i know who i be": {
+    "artist": "Davido",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I Know Who I Be"
+  },
+  "delta heavy|||against the tide": {
+    "artist": "Delta Heavy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Against The Tide"
+  },
+  "erick the architect|||no doubt (i'm in love)": {
+    "artist": "Erick the Architect",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "No Doubt (I'm In Love)"
+  },
+  "esdeekid|||rockwave": {
+    "artist": "EsDeeKid",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "RockWave"
+  },
+  "ezra collective|||well organised": {
+    "artist": "Ezra Collective",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Well Organised"
+  },
+  "fat dog|||cancel me (i'm tired)": {
+    "artist": "Fat Dog",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Cancel Me (I'm Tired)"
+  },
+  "feeble little horse|||rewind": {
+    "artist": "feeble little horse",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Rewind"
+  },
+  "feeble little horse|||upside down": {
+    "artist": "feeble little horse",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Upside Down"
+  },
+  "fka twigs|||on your mind": {
+    "artist": "FKA twigs",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "On Your Mind"
+  },
+  "flava d|||different": {
+    "artist": "Flava D",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Different"
+  },
+  "flowerovlove|||breaking news": {
+    "artist": "flowerovlove",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "breaking news"
+  },
+  "flowerovlove|||hannah montana": {
+    "artist": "flowerovlove",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Hannah Montana"
+  },
+  "flowerovlove|||in my victoria's secret": {
+    "artist": "flowerovlove",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "In My Victoria's Secret"
+  },
+  "good neighbours|||superstar": {
+    "artist": "Good Neighbours",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Superstar"
+  },
+  "gorgon city|||oracle": {
+    "artist": "Gorgon City",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Oracle"
+  },
+  "gorgon city|||ready for your love": {
+    "artist": "Gorgon City",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Ready For Your Love"
+  },
+  "hemlocke springs|||be the girl!": {
+    "artist": "hemlocke springs",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "be the girl!"
+  },
+  "high contrast|||around me": {
+    "artist": "High Contrast",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Around Me"
+  },
+  "honey dijon|||i like it hot": {
+    "artist": "Honey Dijon",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I Like It Hot"
+  },
+  "horsegiirl|||that's my beach!": {
+    "artist": "horsegiirL",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "that's my beach!"
+  },
+  "inji|||i wanna feel it all": {
+    "artist": "INJI",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I WANNA FEEL IT ALL"
+  },
+  "j hus|||moonlight": {
+    "artist": "J Hus",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Moonlight"
+  },
+  "jigitz|||thumbs": {
+    "artist": "jigitz",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "thumbs"
+  },
+  "jodie harsh|||i feel it": {
+    "artist": "Jodie Harsh",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I Feel It"
+  },
+  "joe james|||same emotions": {
+    "artist": "Joe James",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Same Emotions"
+  },
+  "john glacier|||bond girl": {
+    "artist": "John Glacier",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Bond Girl"
+  },
+  "john glacier|||emotions": {
+    "artist": "John Glacier",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Emotions"
+  },
+  "josh baker|||my place": {
+    "artist": "Josh Baker",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "My Place"
+  },
+  "juls|||rarri": {
+    "artist": "Juls",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "RARRI"
+  },
+  "k trap|||can't say no": {
+    "artist": "K Trap",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "CAN'T SAY NO"
+  },
+  "kamal|||the people that saved me": {
+    "artist": "Kamal",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "The People That Saved Me"
+  },
+  "kanine|||wide awake": {
+    "artist": "Kanine",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Wide Awake"
+  },
+  "keo|||that's me": {
+    "artist": "Keo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "That's Me"
+  },
+  "keo|||thorn": {
+    "artist": "Keo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Thorn"
+  },
+  "kim petras|||brutalist": {
+    "artist": "Kim Petras",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Brutalist"
+  },
+  "ktmelodies|||ten toes": {
+    "artist": "KTmelodies",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "ten toes"
+  },
+  "kwn|||risk it all": {
+    "artist": "kwn",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "risk it all"
+  },
+  "larry june|||california dream": {
+    "artist": "Larry June",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "California Dream"
+  },
+  "lexa gates|||estranged": {
+    "artist": "Lexa Gates",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Estranged"
+  },
+  "ludacris|||real hustla": {
+    "artist": "Ludacris",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Real Hustla"
+  },
+  "madonna|||danceteria": {
+    "artist": "Madonna",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Danceteria"
+  },
+  "mj cole|||move time": {
+    "artist": "MJ Cole",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Move Time"
+  },
+  "moses boyd|||say yeah": {
+    "artist": "Moses Boyd",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Say Yeah"
+  },
+  "mount kimbie|||monroe": {
+    "artist": "Mount Kimbie",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Monroe"
+  },
+  "mph|||long goodbye": {
+    "artist": "MPH",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Long Goodbye"
+  },
+  "naomi scott|||cut me loose": {
+    "artist": "Naomi Scott",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Cut Me Loose"
+  },
+  "nemzzz|||killin' em": {
+    "artist": "Nemzzz",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Killin' Em"
+  },
+  "ninajirachi|||wannacry": {
+    "artist": "Ninajirachi",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "WannaCry"
+  },
+  "nines|||milan (cc2)": {
+    "artist": "Nines",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Milan (CC2)"
+  },
+  "original koffee|||toast": {
+    "artist": "Original Koffee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Toast"
+  },
+  "oscar farrell|||don't play with me": {
+    "artist": "Oscar Farrell",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Don't Play With Me"
+  },
+  "overmono|||knight in shining prada": {
+    "artist": "Overmono",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Knight In Shining Prada"
+  },
+  "o’flynn|||faith in you": {
+    "artist": "O’Flynn",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Faith In You"
+  },
+  "o’flynn|||obey": {
+    "artist": "O’Flynn",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Obey"
+  },
+  "o’flynn|||sekete": {
+    "artist": "O’Flynn",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sekete"
+  },
+  "panicbaby|||i hate berlin!!": {
+    "artist": "panicbaby",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "i hate Berlin!!"
+  },
+  "peggy gou|||wo, man": {
+    "artist": "Peggy Gou",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Wo, man"
+  },
+  "pixy|||legacy": {
+    "artist": "PIXY",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "LEGACY"
+  },
+  "queens of the stone age|||easy street": {
+    "artist": "Queens of the Stone Age",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Easy Street"
+  },
+  "queens of the stone age|||go with the flow": {
+    "artist": "Queens of the Stone Age",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Go With The Flow"
+  },
+  "queens of the stone age|||little sister": {
+    "artist": "Queens of the Stone Age",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Little Sister"
+  },
+  "queens of the stone age|||no one knows": {
+    "artist": "Queens of the Stone Age",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "No One Knows"
+  },
+  "robyn|||talk to me, zara": {
+    "artist": "Robyn",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Talk To Me, Zara"
+  },
+  "role model|||high hopes 3000": {
+    "artist": "ROLE MODEL",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "High Hopes 3000"
+  },
+  "role model|||joy": {
+    "artist": "ROLE MODEL",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Joy"
+  },
+  "rose gray|||club to your arms": {
+    "artist": "Rose Gray",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Club To Your Arms"
+  },
+  "rossi.|||high on me": {
+    "artist": "Rossi.",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "High On Me"
+  },
+  "rossi.|||on your mind": {
+    "artist": "Rossi.",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "On Your Mind"
+  },
+  "rostam|||hardy": {
+    "artist": "Rostam",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Hardy"
+  },
+  "she’s green|||mettle": {
+    "artist": "she’s green",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Mettle"
+  },
+  "sidney charles|||trip advisor (rhythm, snare, bass) 2025 warp": {
+    "artist": "Sidney Charles",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Trip Advisor (Rhythm, Snare, Bass) 2025 Warp"
+  },
+  "silva bumpa|||on 2nite": {
+    "artist": "Silva Bumpa",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "On 2nite"
+  },
+  "slayyyter|||dance...": {
+    "artist": "Slayyyter",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "DANCE..."
+  },
+  "slow pulp|||better man": {
+    "artist": "Slow Pulp",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Better Man"
+  },
+  "songer|||something i said": {
+    "artist": "Songer",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "SOMETHING I SAID"
+  },
+  "south arcade|||deadmeat": {
+    "artist": "South Arcade",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "DEADMEAT"
+  },
+  "spacey jane|||east village": {
+    "artist": "Spacey Jane",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "East Village"
+  },
+  "suki waterhouse|||notting hill": {
+    "artist": "Suki Waterhouse",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Notting Hill"
+  },
+  "suki waterhouse|||tiny raisin": {
+    "artist": "Suki Waterhouse",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Tiny Raisin"
+  },
+  "suki waterhouse|||when i get drunk (i want you boy)": {
+    "artist": "Suki Waterhouse",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "When I Get Drunk (I Want You Boy)"
+  },
+  "temper city|||self aware": {
+    "artist": "Temper City",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Self Aware"
+  },
+  "that mexican ot|||water": {
+    "artist": "That Mexican OT",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "WATER"
+  },
+  "the avalanches|||every single weekend": {
+    "artist": "The Avalanches",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Every Single Weekend"
+  },
+  "the last dinner party|||knocking at the sky": {
+    "artist": "The Last Dinner Party",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Knocking At The Sky"
+  },
+  "the last dinner party|||nothing matters": {
+    "artist": "The Last Dinner Party",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Nothing Matters"
+  },
+  "the last dinner party|||sinner": {
+    "artist": "The Last Dinner Party",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sinner"
+  },
+  "tierra whack|||siren": {
+    "artist": "Tierra Whack",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "SIREN"
+  },
+  "tiffany day|||constantly": {
+    "artist": "Tiffany Day",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "CONSTANTLY"
+  },
+  "tyler, the creator|||that guy": {
+    "artist": "Tyler, The Creator",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "THAT GUY"
+  },
+  "voltage|||music is the answer": {
+    "artist": "Voltage",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Music Is The Answer"
+  },
+  "vybz kartel|||just love": {
+    "artist": "Vybz Kartel",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Just Love"
+  },
+  "wasia project|||whale call": {
+    "artist": "Wasia Project",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Whale Call"
+  },
+  "westside cowboy|||pin up boys": {
+    "artist": "Westside Cowboy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Pin Up Boys"
+  },
+  "willow|||she's my religion": {
+    "artist": "WILLOW",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "She's My Religion"
+  },
+  "wolf alice|||gospel oak": {
+    "artist": "Wolf Alice",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Gospel Oak"
+  },
+  "yard act|||new beginnings": {
+    "artist": "Yard Act",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "New Beginnings"
+  },
+  "young jonn|||elumelu": {
+    "artist": "Young Jonn",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Elumelu"
+  }
+}
