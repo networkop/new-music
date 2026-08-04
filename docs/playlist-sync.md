@@ -28,6 +28,15 @@ for exact lookup, but doesn't help here — the BBC segment data has no ISRC
 (confirmed 2026-08-04 against 570 fetched tracks, see `CLAUDE.md`), so this
 is fuzzy artist+title search regardless of platform.
 
+**Downvoting**: Spotify has no API-visible "dislike," but track removal from
+the playlist is real and detectable. `sync.py` records what it believes is
+in each playlist after every run (`data/spotify_synced.json`); if a track
+goes missing from Spotify's actual contents while still being something the
+current run would otherwise keep there, that gap can only mean the owner
+removed it on purpose, and it gets written as a permanent song-level
+exclude to `data/track_overrides.json` (see `docs/filtering.md`). Song-level
+only for now - see `sync.py`'s docstring for the exact detection logic.
+
 ## The rolling window is nearly free
 
 Spotify's `GET /v1/playlists/{id}/tracks` returns each item with `added_at`

@@ -53,6 +53,18 @@ hand-maintained list is more accurate than any tag source for this material.
 **Route ambiguity to a review list**, don't guess. A second playlist the owner
 skims occasionally; anything kept there teaches the artist cache.
 
+## Song-level overrides (downvoting)
+
+`data/artist_overrides.json` is artist-level and hand-maintained. There's a
+second, song-level override at `data/track_overrides.json` that's written
+automatically, not by hand: Spotify has no API-visible "dislike," but
+removing a track from the playlist is real and detectable, so `sync.py`
+treats a deliberate removal as a downvote and writes it here. Checked first,
+ahead of the artist override, since a specific song correction should
+outrank a blanket artist one - see `sync.py`'s docstring for the detection
+logic and `docs/playlist-sync.md`. Scope is song-level only for now;
+excluding an artist entirely is still a manual edit to `artist_overrides.json`.
+
 ## Expected cull rate
 
 Hand-applied to the 29 July episode (see `data/samples/`): 5 of 30 tracks, about

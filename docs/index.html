@@ -135,6 +135,7 @@
         <th>Artist</th>
         <th>Title</th>
         <th>Decision</th>
+        <th>Genre</th>
         <th>Category</th>
         <th>Matched tag</th>
       </tr>
@@ -152,7 +153,7 @@ async function load() {
   const res = await fetch(DATA_URL, { cache: "no-store" });
   if (!res.ok) throw new Error(`fetch failed: ${res.status}`);
   const text = await res.text();
-  allTracks = text
+  const parsed = text
     .split("\n")
     .filter(line => line.trim())
     .map(line => {
@@ -160,7 +161,26 @@ async function load() {
     })
     .filter(Boolean)
     .sort((a, b) => (b.broadcast || "").localeCompare(a.broadcast || "") || a.position - b.position);
+  allTracks = dedupe(parsed);
   render();
+}
+
+// The same song re-airs across multiple broadcasts within the window (some
+// up to 8x) - that's correct in the underlying data (sync.py needs every
+// airing to compute the 30-day window) but reads as noise here. Keep one
+// row per artist+title: since parsed is already sorted newest-first, the
+// first occurrence encountered is the most recent airing.
+function dedupe(tracks) {
+  const seen = new Map();
+  for (const t of tracks) {
+    const key = t.artist.toLowerCase() + "|||" + t.title.toLowerCase();
+    if (seen.has(key)) {
+      seen.get(key).count += 1;
+    } else {
+      seen.set(key, { ...t, count: 1 });
+    }
+  }
+  return [...seen.values()];
 }
 
 function render() {
@@ -184,16 +204,20 @@ function render() {
 
   const rows = document.getElementById("rows");
   if (visible.length === 0) {
-    rows.innerHTML = `<tr><td colspan="6" class="empty">No tracks match.</td></tr>`;
+    rows.innerHTML = `<tr><td colspan="7" class="empty">No tracks match.</td></tr>`;
     return;
   }
 
   rows.innerHTML = visible.map(t => `
     <tr>
-      <td><a href="https://www.bbc.co.uk/programmes/${t.episode_pid}" target="_blank" rel="noopener">${t.broadcast}</a></td>
+      <td>
+        <a href="https://www.bbc.co.uk/programmes/${t.episode_pid}" target="_blank" rel="noopener">${t.broadcast}</a>
+        ${t.count > 1 ? `<span class="tag">×${t.count}</span>` : ""}
+      </td>
       <td class="artist">${escapeHtml(t.artist)}</td>
       <td class="title">${escapeHtml(t.title)}</td>
       <td><span class="badge ${t.decision}">${t.decision}</span></td>
+      <td class="tag">${t.genre ? escapeHtml(t.genre) : "—"}</td>
       <td class="tag">${t.category ? escapeHtml(t.category) : "—"}</td>
       <td class="tag">${t.matched_tag ? escapeHtml(t.matched_tag) : "—"}</td>
     </tr>
@@ -209,7 +233,7 @@ document.getElementById("filters").addEventListener("change", render);
 
 load().catch(err => {
   document.getElementById("rows").innerHTML =
-    `<tr><td colspan="6" class="error">Failed to load data: ${escapeHtml(err.message)}</td></tr>`;
+    `<tr><td colspan="7" class="error">Failed to load data: ${escapeHtml(err.message)}</td></tr>`;
   document.getElementById("counts").textContent = "";
 });
 </script>

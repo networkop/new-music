@@ -8,11 +8,17 @@ Two playlists, created on first run and remembered in PLAYLISTS_PATH:
 
 Each run recomputes desired membership from scratch from
 data/tracks_filtered.jsonl (decision + a WINDOW_DAYS cutoff) and reconciles
-against the playlist's actual current contents fetched from Spotify - not
-against a local "what we added last time" record. That means aging out,
-an owner correcting an override, and a manual removal by the owner in the
-Spotify app all get picked up automatically with no separate state file to
-go stale. See docs/playlist-sync.md.
+against the playlist's actual current contents fetched from Spotify.
+
+Downvoting: there's no API-visible "dislike" on Spotify, but removing a
+track from the playlist is real and detectable. SYNCED_STATE_PATH records
+what we believe is in each playlist after every run. If a track is missing
+from Spotify's actual contents but is still in this run's desired set (i.e.
+aging-out and decision changes are both ruled out - a track we'd still want
+there), the owner must have removed it on purpose. That gets written to
+TRACK_OVERRIDES_PATH as a permanent song-level exclude, which filter.py
+picks up on its next run. Scope is song-level only for now; artist-level
+stays a manual edit to data/artist_overrides.json.
 
 Credentials: SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET / SPOTIFY_REFRESH_TOKEN
 (see script/spotify_setup.py for how to obtain the refresh token).
@@ -36,6 +42,8 @@ API_BASE = "https://api.spotify.com/v1"
 FILTERED_PATH = "data/tracks_filtered.jsonl"
 PLAYLISTS_PATH = "data/spotify_playlists.json"
 MATCH_CACHE_PATH = "data/track_matches.json"
+SYNCED_STATE_PATH = "data/spotify_synced.json"
+TRACK_OVERRIDES_PATH = "data/track_overrides.json"
 
 WINDOW_DAYS = int(os.environ.get("WINDOW_DAYS", "30"))
 MATCH_THRESHOLD = 0.6
@@ -160,8 +168,14 @@ def best_match(artist, title, candidates):
     return best, best_score
 
 
+def track_key(artist, title):
+    # Must match filter.py's track_key() exactly - it's how a downvote
+    # written here gets matched back up there.
+    return f"{artist.strip().lower()}|||{title.strip().lower()}"
+
+
 def resolve_track(artist, title, token, cache):
-    key = f"{artist.strip().lower()}|||{title.strip().lower()}"
+    key = track_key(artist, title)
     if key in cache:
         return cache[key]["uri"]
 
@@ -195,10 +209,31 @@ def save_json(path, data):
         json.dump(data, fh, indent=2, ensure_ascii=False, sort_keys=True)
 
 
-def reconcile(playlist_id, desired_uris, token, label):
+def reconcile(playlist_id, desired, token, label, previous_synced, track_overrides):
+    """desired / previous_synced: dict[uri] -> {"artist", "title", "broadcast"}.
+
+    Returns the new synced-state dict for this bucket. Mutates
+    track_overrides in place with any newly detected downvotes.
+    """
     actual = get_playlist_uris(playlist_id, token)
-    to_add = list(desired_uris - actual)
-    to_remove = list(actual - desired_uris)
+
+    downvoted = [
+        uri for uri, info in previous_synced.items() if uri in desired and uri not in actual
+    ]
+    for uri in downvoted:
+        info = previous_synced[uri]
+        track_overrides[track_key(info["artist"], info["title"])] = {
+            "decision": "exclude",
+            "artist": info["artist"],
+            "title": info["title"],
+            "category": "manual",
+            "matched_tag": "removed from Spotify playlist",
+        }
+        del desired[uri]  # honor it this run too, don't just re-add it
+        print(f"downvoted: {info['artist']} - {info['title']}")
+
+    to_add = [u for u in desired if u not in actual]
+    to_remove = [u for u in actual if u not in desired]
 
     for i in range(0, len(to_add), 100):
         batch = to_add[i : i + 100]
@@ -212,7 +247,11 @@ def reconcile(playlist_id, desired_uris, token, label):
             json_body={"items": [{"uri": u} for u in batch]},
         )
 
-    print(f"{label}: {len(desired_uris)} desired, +{len(to_add)} -{len(to_remove)}")
+    print(
+        f"{label}: {len(desired)} desired, +{len(to_add)} -{len(to_remove)}, "
+        f"{len(downvoted)} downvoted"
+    )
+    return desired
 
 
 def main():
@@ -226,6 +265,8 @@ def main():
 
     playlists = ensure_playlists(token)
     cache = load_json(MATCH_CACHE_PATH, {})
+    synced_state = load_json(SYNCED_STATE_PATH, {})
+    track_overrides = load_json(TRACK_OVERRIDES_PATH, {})
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)).strftime("%Y-%m-%d")
     with open(FILTERED_PATH) as fh:
@@ -233,18 +274,22 @@ def main():
 
     unmatched = []
     for bucket in ("keep", "review"):
-        desired = set()
+        desired = {}
         for t in tracks:
             if t["decision"] != bucket or t["broadcast"] < cutoff:
                 continue
             uri = resolve_track(t["artist"], t["title"], token, cache)
             if uri:
-                desired.add(uri)
+                desired[uri] = {"artist": t["artist"], "title": t["title"], "broadcast": t["broadcast"]}
             else:
                 unmatched.append((bucket, t["artist"], t["title"]))
-        reconcile(playlists[bucket], desired, token, bucket)
+        synced_state[bucket] = reconcile(
+            playlists[bucket], desired, token, bucket, synced_state.get(bucket, {}), track_overrides
+        )
 
     save_json(MATCH_CACHE_PATH, cache)
+    save_json(SYNCED_STATE_PATH, synced_state)
+    save_json(TRACK_OVERRIDES_PATH, track_overrides)
 
     if unmatched:
         print(f"{len(unmatched)} track(s) with no confident Spotify match:", file=sys.stderr)

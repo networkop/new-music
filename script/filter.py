@@ -9,6 +9,11 @@ recurring artists cost no API calls. OVERRIDES_PATH is hand-maintained and
 always wins over cache or API - see docs/filtering.md's note that a
 hand-corrected list beats any tag source for this material.
 
+TRACK_OVERRIDES_PATH is song-level and checked first, ahead of the
+artist-level override - it's written automatically by sync.py when the
+owner removes a track from the Spotify playlist (see its docstring), and a
+specific song correction should outrank a blanket artist one.
+
 Stdlib only, matching fetch.py.
 """
 
@@ -24,6 +29,7 @@ TRACKS_PATH = "data/tracks.jsonl"
 FILTERED_PATH = "data/tracks_filtered.jsonl"
 ARTIST_CACHE_PATH = "data/artist_genres.json"
 OVERRIDES_PATH = "data/artist_overrides.json"
+TRACK_OVERRIDES_PATH = "data/track_overrides.json"
 
 LASTFM_API_KEY = os.environ.get("LASTFM_API_KEY")
 LASTFM_URL = "https://ws.audioscrobbler.com/2.0/"
@@ -125,6 +131,12 @@ def artist_key(artist_mbid, artist_name):
     return artist_mbid or f"name:{artist_name.strip().lower()}"
 
 
+def track_key(artist, title):
+    # Must match sync.py's track_key() exactly - it's how a downvote
+    # written there gets matched back up here.
+    return f"{artist.strip().lower()}|||{title.strip().lower()}"
+
+
 def load_json(path, default):
     if not os.path.exists(path):
         return default
@@ -138,8 +150,13 @@ def save_json(path, data):
 
 
 def resolve_artist(key, artist_mbid, artist_name, cache, overrides, misses):
-    """decision, category, matched_tag for one artist, consulting overrides,
-    then cache, then Last.fm (fetching tags on a cache miss).
+    """decision, category, matched_tag, genre for one artist, consulting
+    overrides, then cache, then Last.fm (fetching tags on a cache miss).
+
+    genre is the artist's single top Last.fm tag, independent of whether it
+    matched a blocked category - it's informational only, so kept tracks
+    show *something* instead of always being blank. category/matched_tag
+    stay reserved for the exclusion reasoning specifically.
 
     The cache stores tags, not decisions - classify() runs fresh every time
     so a rule change (new synonym, new threshold) takes effect on the next
@@ -148,7 +165,8 @@ def resolve_artist(key, artist_mbid, artist_name, cache, overrides, misses):
     override whatever classify() would say.
     """
     if key in overrides:
-        return overrides[key]["decision"], overrides[key].get("category"), overrides[key].get("matched_tag")
+        entry = overrides[key]
+        return entry["decision"], entry.get("category"), entry.get("matched_tag"), entry.get("genre")
 
     if key in cache:
         tags = cache[key]["tags"]
@@ -160,7 +178,9 @@ def resolve_artist(key, artist_mbid, artist_name, cache, overrides, misses):
         misses.append((artist_name, artist_mbid))
         tags = []
 
-    return classify(tags)
+    genre = tags[0][0] if tags else None
+    decision, category, matched_tag = classify(tags)
+    return decision, category, matched_tag, genre
 
 
 def main():
@@ -174,6 +194,7 @@ def main():
         entry.pop("category", None)
         entry.pop("matched_tag", None)
     overrides = load_json(OVERRIDES_PATH, {})
+    track_overrides = load_json(TRACK_OVERRIDES_PATH, {})
 
     with open(TRACKS_PATH) as fh:
         tracks = [json.loads(line) for line in fh if line.strip()]
@@ -189,10 +210,17 @@ def main():
     counts = {"keep": 0, "exclude": 0, "review": 0}
     out_rows = []
     for track in tracks:
-        key = artist_key(track.get("artist_mbid"), track["artist"])
-        decision, category, matched_tag = resolve_artist(
-            key, track.get("artist_mbid"), track["artist"], cache, overrides, misses
-        )
+        tkey = track_key(track["artist"], track["title"])
+        if tkey in track_overrides:
+            entry = track_overrides[tkey]
+            decision, category, matched_tag, genre = (
+                entry["decision"], entry.get("category"), entry.get("matched_tag"), entry.get("genre")
+            )
+        else:
+            key = artist_key(track.get("artist_mbid"), track["artist"])
+            decision, category, matched_tag, genre = resolve_artist(
+                key, track.get("artist_mbid"), track["artist"], cache, overrides, misses
+            )
         counts[decision] += 1
         out_rows.append(
             {
@@ -200,6 +228,7 @@ def main():
                 "decision": decision,
                 "category": category,
                 "matched_tag": matched_tag,
+                "genre": genre,
             }
         )
 
