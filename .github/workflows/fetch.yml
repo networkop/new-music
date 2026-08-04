@@ -48,10 +48,9 @@ jobs:
         env:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
 
-      - name: Check Spotify auth
-        # sync.py is only an auth smoke test so far - see docs/playlist-sync.md.
-        # Lists the target account's playlists to prove the refresh token
-        # works headlessly.
+      - name: Sync Spotify playlists
+        # Creates/reconciles the keep and review playlists - see
+        # docs/playlist-sync.md and script/sync.py.
         run: python script/sync.py
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
