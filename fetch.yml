@@ -1,0 +1,57 @@
+name: fetch tracklists
+
+on:
+  # The show airs Mon-Thu 18:00-20:00 UK time. 21:00 UTC is 22:00 BST, safely
+  # after the end, and still after the end in GMT. Scheduled runs are often
+  # delayed by several minutes under load - that's fine here, nothing is urgent.
+  schedule:
+    - cron: "0 21 * * 1-4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check the BBC feeds are reachable from this runner
+        # This is the geo-restriction question: metadata should be fine from a
+        # US-hosted runner even though audio streams are UK-only. If this step
+        # fails, that assumption was wrong and you need a UK self-hosted runner.
+        run: |
+          set -euo pipefail
+          code=$(curl -sS -o /dev/null -w '%{http_code}' \
+            "https://www.bbc.co.uk/programmes/${BRAND_PID}.json")
+          echo "brand json -> $code"
+          if [ "$code" != "200" ]; then
+            echo "::error::BBC feed returned $code from this runner"
+            exit 1
+          fi
+        env:
+          BRAND_PID: m001chdz
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch
+        run: python scripts/fetch.py
+        env:
+          BRAND_PID: m001chdz
+          WINDOW_DAYS: "35"
+
+      - name: Commit any new data
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "nothing new"
+          else
+            git commit -m "data: tracklists as of $(date -u +%F)"
+            git push
+          fi
