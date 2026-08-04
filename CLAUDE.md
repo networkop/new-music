@@ -60,6 +60,17 @@ Established by hand against the live API. Confirmed, not assumed:
   artist cache and genre lookups by MusicBrainz GID instead of by name string.
   Last.fm's `artist.getTopTags` takes an `mbid` param directly.
 
+- **Spotify's Feb 2026 Web API migration renamed the playlist endpoints
+  `script/sync.py` uses.** Hit this live as a 403 on playlist creation despite
+  correct scopes. `POST /users/{id}/playlists` → `POST /me/playlists`.
+  `/playlists/{id}/tracks` (GET/POST/DELETE) → `/playlists/{id}/items`, with
+  the GET response renaming `items[].track` → `items[].item` and dropping the
+  max page size from 100 to 50. The DELETE body key also renamed `tracks` →
+  `items`; the POST body key for adding stayed `uris`. Also: Development Mode
+  apps now require the app owner to have an active Premium subscription.
+  Official guide:
+  https://developer.spotify.com/documentation/web-api/tutorials/february-2026-migration-guide
+
 ## Open questions — resolve these early
 
 - **Can GitHub-hosted runners reach the BBC feeds?** Geo-restriction applies to

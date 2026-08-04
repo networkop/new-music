@@ -101,14 +101,17 @@ def api_request(method, path_or_url, token, params=None, json_body=None, attempt
     raise RuntimeError(f"exhausted retries: {method} {url}")
 
 
-def ensure_playlists(token, user_id):
+def ensure_playlists(token):
+    # POST /me/playlists, not /users/{user_id}/playlists - the latter was
+    # removed for Development Mode apps in Spotify's Feb 2026 Web API
+    # migration (https://developer.spotify.com/documentation/web-api/tutorials/february-2026-migration-guide).
     config = load_json(PLAYLISTS_PATH, {})
     changed = False
     for bucket, name in PLAYLIST_NAMES.items():
         if bucket not in config:
             created = api_request(
                 "POST",
-                f"/users/{user_id}/playlists",
+                "/me/playlists",
                 token,
                 json_body={"name": name, "public": False, "description": "Managed by new-music, do not edit by hand except to remove tracks."},
             )
@@ -121,16 +124,19 @@ def ensure_playlists(token, user_id):
 
 
 def get_playlist_uris(playlist_id, token):
+    # /playlists/{id}/items, not /tracks - same Feb 2026 migration also
+    # renamed items[].track -> items[].item and dropped the max page size
+    # from 100 to 50.
     uris = set()
-    url = f"/playlists/{playlist_id}/tracks"
-    params = {"fields": "items(track(uri)),next", "limit": 100}
+    url = f"/playlists/{playlist_id}/items"
+    params = {"fields": "items(item(uri)),next", "limit": 50}
     while url:
         resp = api_request("GET", url, token, params=params)
         params = None  # 'next' already carries its own query string
-        for item in resp.get("items", []):
-            track = item.get("track")
-            if track and track.get("uri"):
-                uris.add(track["uri"])
+        for entry in resp.get("items", []):
+            item = entry.get("item")
+            if item and item.get("uri"):
+                uris.add(item["uri"])
         url = resp.get("next")
     return uris
 
@@ -196,14 +202,14 @@ def reconcile(playlist_id, desired_uris, token, label):
 
     for i in range(0, len(to_add), 100):
         batch = to_add[i : i + 100]
-        api_request("POST", f"/playlists/{playlist_id}/tracks", token, json_body={"uris": batch})
+        api_request("POST", f"/playlists/{playlist_id}/items", token, json_body={"uris": batch})
     for i in range(0, len(to_remove), 100):
         batch = to_remove[i : i + 100]
         api_request(
             "DELETE",
-            f"/playlists/{playlist_id}/tracks",
+            f"/playlists/{playlist_id}/items",
             token,
-            json_body={"tracks": [{"uri": u} for u in batch]},
+            json_body={"items": [{"uri": u} for u in batch]},
         )
 
     print(f"{label}: {len(desired_uris)} desired, +{len(to_add)} -{len(to_remove)}")
@@ -218,7 +224,7 @@ def main():
     me = api_request("GET", "/me", token)
     print(f"authenticated as {me.get('display_name')} ({me.get('id')})")
 
-    playlists = ensure_playlists(token, me["id"])
+    playlists = ensure_playlists(token)
     cache = load_json(MATCH_CACHE_PATH, {})
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)).strftime("%Y-%m-%d")
