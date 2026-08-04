@@ -13,7 +13,7 @@ CLAUDE.md                          project context — read this first
 docs/bbc-feeds.md                  the BBC JSON API, routes and traps
 docs/filtering.md                  genre filter design
 docs/playlist-sync.md              YouTube Music / Spotify options
-scripts/fetch.py                   the fetcher (stdlib only)
+script/fetch.py                    the fetcher (stdlib only)
 .github/workflows/fetch.yml        Mon–Thu 21:00 UTC, commits results
 data/episodes/<pid>.json           one file per broadcast
 data/tracks.jsonl                  flattened, one track per line
@@ -23,8 +23,8 @@ data/samples/                      a real episode, hand-annotated
 ## Running it
 
 ```bash
-python scripts/fetch.py                  # last 35 days
-WINDOW_DAYS=120 python scripts/fetch.py  # backfill
+python script/fetch.py                  # last 35 days
+WINDOW_DAYS=120 python script/fetch.py  # backfill
 ```
 
 ## First things to do

@@ -1,0 +1,43 @@
+# Radio 1's New Music Show, 2026-07-29, episode PID m002z563
+# "Rachel Chinouriri Hottest Record"
+#
+# Artist and title are real, pulled from /programmes/m002z563/segments.json.
+# genre and keep are HAND-ASSIGNED from general knowledge, NOT looked up from
+# any API. Treat as an indicative fixture, not ground truth. Three entries are
+# marked "unknown" because they are artists with no reliable information
+# available - those are exactly the cases the filter must handle by keeping.
+#
+# keep=n means excluded by the soul / country / indie folk filter.
+# keep=? means borderline, would go to the review list.
+#
+pos	artist	title	genre	keep
+1	Erin LeCount	THE CINEMA	indie pop	y
+2	Westside Cowboy	Pin Up Boys	indie rock	y
+3	Rachel Chinouriri	All I Ever Asked	indie pop	y
+4	flowerovlove	In My Victoria's Secret	bedroom pop	y
+5	The Last Dinner Party	Knocking At The Sky	art rock	y
+6	Tiffany Day	CONSTANTLY	alt-pop	y
+7	Nia Archives	Get You Down	jungle	y
+8	Rachel Chinouriri	Never Need Me	indie pop	y
+9	Rachel Chinouriri	One Song Away From Crying	indie pop	y
+10	Sidney Charles	Trip Advisor (Rhythm, Snare, Bass) 2025 Warp	tech house	y
+11	BNXN	EJA MEJA	afrobeats	y
+12	beabadoobee	Switchblade	indie rock	y
+13	Charli xcx	Wink Wink	hyperpop	y
+14	Julia Jacklin	I Wish	indie folk	n
+15	Channel Tres	Creatine	hip-house	y
+16	Vybz Kartel	Just Love	dancehall	y
+17	Ninajirachi	WannaCry	electronic	y
+18	That Mexican OT	WATER	hip-hop	y
+19	Yazmin Lacey	Summer Haze	neo-soul	n
+20	Angine de Poitrine	Sarniezz	unknown	y
+21	O'Flynn	Faith In You	house	y
+22	High Contrast	Around Me	drum & bass	y
+23	Nero	We're Not Alone	drum & bass	y
+24	panicbaby	i hate Berlin!!	unknown	y
+25	Lainey Wilson	Phone, Keys, Wallet	country	n
+26	Phoebe Bridgers	Lost Boys	indie folk	n
+27	SOAK	death valley fridge magnet	indie / alt	?
+28	Nines	Milan (CC2)	UK rap	y
+29	Maverick Sabre	Eleven	UK soul	n
+30	Mount Kimbie	Monroe	alt electronic	y

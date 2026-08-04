@@ -54,7 +54,7 @@ Established by hand against the live API. Confirmed, not assumed:
   become exact. Without one, everything depends on fuzzy matching artist+title
   for names like `Angine de Poitrine` and `panicbaby`. Run
   `curl -L -sS https://www.bbc.co.uk/programmes/m002z563/segments.json | jq '.segment_events[0]'`
-  and look at the full object. `scripts/fetch.py` already stores the raw segment
+  and look at the full object. `script/fetch.py` already stores the raw segment
   so nothing is lost either way.
 - **Can GitHub-hosted runners reach the BBC feeds?** Geo-restriction applies to
   audio streams, not metadata, so it should be fine from US runners — but this is
@@ -74,7 +74,7 @@ Established by hand against the live API. Confirmed, not assumed:
 
 - These BBC feeds are **undocumented** and have been retired and relocated
   before. If fetches start 404ing across the board, that's the first hypothesis.
-- Be polite: identifiable user-agent, sleep between requests. `scripts/fetch.py`
+- Be polite: identifiable user-agent, sleep between requests. `script/fetch.py`
   does both.
 - The fetcher is idempotent — episodes already on disk are skipped, so re-running
   is cheap and safe.

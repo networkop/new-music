@@ -38,7 +38,7 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch
-        run: python scripts/fetch.py
+        run: python script/fetch.py
         env:
           BRAND_PID: m001chdz
           WINDOW_DAYS: "35"
