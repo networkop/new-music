@@ -5,6 +5,24 @@ Goal: a rolling one-month playlist. Tracks age out after ~30 days.
 Owner uses **Spotify**. (Originally YouTube Music — see "YouTube Music,
 considered" below for why that changed.)
 
+## The two playlists
+
+`sync.py` creates and maintains two playlists, named in `PLAYLIST_NAMES`:
+
+- **"New Music Show"** — the real rolling playlist. Tracks with
+  `decision: "keep"` in `data/tracks_filtered.jsonl`.
+- **"New Music Show - Review"** — tracks with `decision: "review"`: a
+  blocked-category tag (soul/country/indie folk) showed up in the artist's
+  Last.fm tags, but too weakly to confidently exclude, so `filter.py` doesn't
+  guess either way. Meant to be skimmed occasionally rather than trusted
+  outright - see `docs/filtering.md`'s "Route ambiguity to a review list."
+
+Removing a track from *either* playlist is treated the same way: as a
+downvote (see below), permanently excluding that specific song going
+forward. There's no separate "approve" action for a review-list track - if
+you leave it alone, it just stays there, aging out after 30 days like
+anything else.
+
 ## Spotify
 
 Official REST API, well documented, plain OAuth2 + JSON — no client library

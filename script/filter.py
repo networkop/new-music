@@ -19,6 +19,7 @@ Stdlib only, matching fetch.py.
 
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -48,6 +49,34 @@ CATEGORIES = {
         "freak folk",
     },
 }
+
+# Personal/meta tags Last.fm users apply that aren't genres at all - some of
+# these outrank every real genre tag by raw count (more people add a song to
+# "my top songs" than bother tagging its actual genre), so they're skipped
+# when picking a single display genre. Narrow by design, same spirit as
+# CATEGORIES - extend as new ones turn up rather than trying to be exhaustive.
+NOISE_TAGS = {"my top songs", "seen live", "favourite", "favourites", "favorite", "favorites"}
+
+# General backstop for one-off junk tags NOISE_TAGS hasn't named yet - found
+# via real data (2026-08-05): "motherfuckin rabbits ejaculating sunshine" and
+# "she loves big cock" both showed up as an artist's #1 tag. Every legitimate
+# genre observed so far is <=3 words ("drum and bass", "singer-songwriter");
+# troll tags tend to read like a sentence, so word count is a cheap, reliable
+# discriminator without needing a profanity list.
+MAX_GENRE_WORDS = 3
+
+# "under 2000 listeners" etc. - a Last.fm popularity-tier convention, common
+# for exactly the very new/small artists this show surfaces (found via
+# O'Flynn, whose only cached tag was this). Short enough to dodge
+# MAX_GENRE_WORDS, and the number varies, so a pattern beats another
+# NOISE_TAGS entry.
+LISTENER_COUNT_RE = re.compile(r"^(under|over)?\s*[\d,]+\s*listeners?$")
+
+
+def looks_like_genre(tag):
+    if tag in NOISE_TAGS or len(tag.split()) > MAX_GENRE_WORDS:
+        return False
+    return not LISTENER_COUNT_RE.match(tag)
 
 # Exclude on weight alone, not rank - Last.fm's per-artist weight scale means
 # a rank-3 tag can trail the top tag by a huge margin (e.g. 39 vs 100), so
@@ -169,10 +198,12 @@ def resolve_artist(key, artist_mbid, artist_name, cache, overrides, misses):
     """decision, category, matched_tag, genre for one artist, consulting
     overrides, then cache, then Last.fm (fetching tags on a cache miss).
 
-    genre is the artist's single top Last.fm tag, independent of whether it
-    matched a blocked category - it's informational only, so kept tracks
-    show *something* instead of always being blank. category/matched_tag
-    stay reserved for the exclusion reasoning specifically.
+    genre is the artist's top Last.fm tag that passes looks_like_genre()
+    (not a known meta-tag, not a troll tag going by word count), independent
+    of whether it matched a blocked category - it's informational only, so
+    kept tracks show *something* instead of always being blank.
+    category/matched_tag stay reserved for the exclusion reasoning
+    specifically.
 
     The cache stores tags, not decisions - classify() runs fresh every time
     so a rule change (new synonym, new threshold) takes effect on the next
@@ -194,7 +225,7 @@ def resolve_artist(key, artist_mbid, artist_name, cache, overrides, misses):
         misses.append((artist_name, artist_mbid))
         tags = []
 
-    genre = tags[0][0] if tags else None
+    genre = next((tag for tag, _ in tags if looks_like_genre(tag)), None)
     decision, category, matched_tag = classify(tags)
     return decision, category, matched_tag, genre
 
