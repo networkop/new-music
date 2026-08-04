@@ -51,10 +51,13 @@ easier: an official first-class music API, tracks are tracks, rate limits with
 `Retry-After` rather than quota accounting, long-lived refresh tokens, and
 crucially an `isrc:` search filter that turns matching into an exact lookup.
 
-Also worth knowing: the BBC runs a `BBC_Playlists` Spotify account that publishes
-a playlist per episode of this show. If those are actively maintained, a Spotify
-implementation would reduce to aggregating existing playlists — no track
-resolution at all.
+Also worth knowing: the BBC runs a `BBC_Playlists` Spotify account. **Checked
+2026-08-04, not viable as a shortcut.** Its "Radio 1's New Music Show with Jack
+Saunders" playlist is a single 30-track snapshot dated `(Show: 2025-03-17)` —
+17 months stale relative to the shows this project fetches. The account's
+broader visible catalogue is dominated by 2017-era content (Glastonbury 2017,
+Record Store Day 2017). Not a live mirror of current airings — a Spotify build
+would still need to do its own track resolution.
 
 ## The part that will actually cost time
 

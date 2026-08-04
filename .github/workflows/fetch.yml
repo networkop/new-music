@@ -48,6 +48,19 @@ jobs:
         env:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
 
+      - name: Install ytmusicapi
+        run: pip install -r requirements.txt
+
+      - name: Check YouTube Music auth
+        # sync.py is only an auth smoke test so far - see docs/playlist-sync.md.
+        # Lists the target account's library playlists to prove the OAuth
+        # refresh token works headlessly.
+        run: python script/sync.py
+        env:
+          YTMUSIC_CLIENT_ID: ${{ secrets.YTMUSIC_CLIENT_ID }}
+          YTMUSIC_CLIENT_SECRET: ${{ secrets.YTMUSIC_CLIENT_SECRET }}
+          YTMUSIC_OAUTH_JSON: ${{ secrets.YTMUSIC_OAUTH_JSON }}
+
       - name: Commit any new data
         run: |
           set -euo pipefail

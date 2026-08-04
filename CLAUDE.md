@@ -89,5 +89,10 @@ Established by hand against the live API. Confirmed, not assumed:
 
 ## Style
 
-Don't add dependencies without a reason — `fetch.py` is stdlib-only so CI needs
-no install step. Keep that unless something genuinely requires otherwise.
+Don't add dependencies without a reason — `fetch.py` and `filter.py` are
+stdlib-only so CI needs no install step for them. Keep that unless something
+genuinely requires otherwise. `sync.py` is the exception: there is no official
+YouTube Music API, and `ytmusicapi` (in `requirements.txt`) is the standard
+library for it - reimplementing its internals would be worse than the
+dependency. `script/fetch.py` and `script/filter.py` still need no install
+step; only the sync stage does.
