@@ -44,6 +44,7 @@ PLAYLISTS_PATH = "data/spotify_playlists.json"
 MATCH_CACHE_PATH = "data/track_matches.json"
 SYNCED_STATE_PATH = "data/spotify_synced.json"
 TRACK_OVERRIDES_PATH = "data/track_overrides.json"
+NEW_EPISODES_PATH = "data/.new_episodes.json"  # written by fetch.py, transient
 
 WINDOW_DAYS = int(os.environ.get("WINDOW_DAYS", "30"))
 MATCH_THRESHOLD = 0.6
@@ -212,8 +213,9 @@ def save_json(path, data):
 def reconcile(playlist_id, desired, token, label, previous_synced, track_overrides):
     """desired / previous_synced: dict[uri] -> {"artist", "title", "broadcast"}.
 
-    Returns the new synced-state dict for this bucket. Mutates
-    track_overrides in place with any newly detected downvotes.
+    Returns (new synced-state dict for this bucket, set of URIs actually
+    added this run, set of URIs downvoted this run). Mutates track_overrides
+    in place with any newly detected downvotes.
     """
     actual = get_playlist_uris(playlist_id, token)
 
@@ -251,7 +253,7 @@ def reconcile(playlist_id, desired, token, label, previous_synced, track_overrid
         f"{label}: {len(desired)} desired, +{len(to_add)} -{len(to_remove)}, "
         f"{len(downvoted)} downvoted"
     )
-    return desired
+    return desired, set(to_add), set(downvoted)
 
 
 def main():
@@ -273,19 +275,30 @@ def main():
         tracks = [json.loads(line) for line in fh if line.strip()]
 
     unmatched = []
+    processed = []  # every keep/review track this run, for the new-episode report
     for bucket in ("keep", "review"):
         desired = {}
         for t in tracks:
             if t["decision"] != bucket or t["broadcast"] < cutoff:
                 continue
             uri = resolve_track(t["artist"], t["title"], token, cache)
+            processed.append({**t, "bucket": bucket, "uri": uri})
             if uri:
                 desired[uri] = {"artist": t["artist"], "title": t["title"], "broadcast": t["broadcast"]}
             else:
                 unmatched.append((bucket, t["artist"], t["title"]))
-        synced_state[bucket] = reconcile(
+        synced_state[bucket], added, downvoted = reconcile(
             playlists[bucket], desired, token, bucket, synced_state.get(bucket, {}), track_overrides
         )
+        for p in processed:
+            if p["bucket"] != bucket or not p["uri"]:
+                continue
+            if p["uri"] in downvoted:
+                p["outcome"] = "excluded (matched a downvote this run)"
+            elif p["uri"] in added:
+                p["outcome"] = "ADDED"
+            else:
+                p["outcome"] = "already in playlist"
 
     save_json(MATCH_CACHE_PATH, cache)
     save_json(SYNCED_STATE_PATH, synced_state)
@@ -295,6 +308,27 @@ def main():
         print(f"{len(unmatched)} track(s) with no confident Spotify match:", file=sys.stderr)
         for bucket, artist, title in unmatched:
             print(f"  [{bucket}] {artist} - {title}", file=sys.stderr)
+
+    report_new_episodes(processed)
+
+
+def report_new_episodes(processed):
+    """Spotify outcome for the keep/review half of whatever episode(s)
+    fetch.py found new this run - complements filter.py's full per-track
+    report (which already covers exclude and the decision reasoning)."""
+    new_pids = set(load_json(NEW_EPISODES_PATH, []))
+    if not new_pids:
+        return
+
+    rows = [p for p in processed if p["episode_pid"] in new_pids]
+    if not rows:
+        return
+
+    print(f"::group::New episode(s) this run: Spotify outcome ({len(rows)} tracks)")
+    for p in rows:
+        outcome = p.get("outcome") or "NO CONFIDENT MATCH"
+        print(f"  [{p['bucket']}] {p['artist']} - {p['title']}: {outcome}")
+    print("::endgroup::")
 
 
 if __name__ == "__main__":

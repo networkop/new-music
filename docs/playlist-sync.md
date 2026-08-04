@@ -55,6 +55,14 @@ removed it on purpose, and it gets written as a permanent song-level
 exclude to `data/track_overrides.json` (see `docs/filtering.md`). Song-level
 only for now - see `sync.py`'s docstring for the exact detection logic.
 
+A downvote written mid-run only lives in `track_overrides.json` until
+`filter.py` re-reads it - since `filter.py` runs *before* `sync.py` in the
+pipeline, without a second pass `data/tracks_filtered.jsonl` (and the GitHub
+Pages viewer) would show a just-removed track as `keep` for one full cycle.
+The workflow re-runs `filter.py` after `sync.py` specifically to close that
+gap within the same run - cheap, since nothing on the second pass is a fresh
+Last.fm lookup.
+
 ## The rolling window is nearly free
 
 Spotify's `GET /v1/playlists/{id}/tracks` returns each item with `added_at`

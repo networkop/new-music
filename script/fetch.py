@@ -21,6 +21,9 @@ WINDOW_DAYS = int(os.environ.get("WINDOW_DAYS", "35"))
 BASE = "https://www.bbc.co.uk/programmes"
 EPISODE_DIR = "data/episodes"
 TRACKS_PATH = "data/tracks.jsonl"
+# Transient, run-scoped - not committed. Lets filter.py and sync.py report on
+# exactly what's new this run without re-deriving it from historical state.
+NEW_EPISODES_PATH = "data/.new_episodes.json"
 
 # The BBC asks for a descriptive agent; be identifiable rather than anonymous.
 UA = "new-music-tracklist-bot/1.0 (personal playlist project)"
@@ -131,6 +134,7 @@ def main():
     print(f"{len(episodes)} broadcast(s) in the last {WINDOW_DAYS} days")
 
     fetched = 0
+    new_pids = []
     for ep in episodes:
         path = os.path.join(EPISODE_DIR, f"{ep['pid']}.json")
         if os.path.exists(path):
@@ -147,7 +151,11 @@ def main():
             json.dump(record, fh, indent=2, ensure_ascii=False)
         print(f"  {ep['pid']} {ep['schedule_date']}: {len(record['tracks'])} tracks")
         fetched += 1
+        new_pids.append(ep["pid"])
         time.sleep(1)  # be polite; this is an unofficial feed
+
+    with open(NEW_EPISODES_PATH, "w") as fh:
+        json.dump(new_pids, fh)
 
     rebuild_flat()
     print(f"done: {fetched} new episode(s)")

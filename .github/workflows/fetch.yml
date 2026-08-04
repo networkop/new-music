@@ -57,6 +57,16 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
 
+      - name: Re-filter (apply any downvotes detected during sync)
+        # A downvote detected just now by sync.py only lives in
+        # track_overrides.json until filter.py re-reads it - without this,
+        # data/tracks_filtered.jsonl (and the GitHub Pages viewer) would
+        # show a removed track as "keep" for one full cycle. Cheap: nothing
+        # here is a fresh Last.fm lookup, it's all cache/override hits.
+        run: python script/filter.py
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+
       - name: Commit any new data
         run: |
           set -euo pipefail

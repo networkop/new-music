@@ -31,6 +31,7 @@ FILTERED_PATH = "data/tracks_filtered.jsonl"
 ARTIST_CACHE_PATH = "data/artist_genres.json"
 OVERRIDES_PATH = "data/artist_overrides.json"
 TRACK_OVERRIDES_PATH = "data/track_overrides.json"
+NEW_EPISODES_PATH = "data/.new_episodes.json"  # written by fetch.py, transient
 
 LASTFM_API_KEY = os.environ.get("LASTFM_API_KEY")
 LASTFM_URL = "https://ws.audioscrobbler.com/2.0/"
@@ -288,6 +289,33 @@ def main():
     print(f"  keep={counts['keep']} exclude={counts['exclude']} review={counts['review']}")
     if misses:
         print(f"  {len(misses)} artist(s) skipped, no API key and not cached", file=sys.stderr)
+
+    report_new_episodes(out_rows)
+
+
+def report_new_episodes(out_rows):
+    """Full per-track breakdown for whatever episode(s) fetch.py found new
+    this run - every track, so nothing about a given episode's fate is left
+    to infer from aggregate counts. sync.py adds the Spotify-outcome half
+    (added/already-there/no-match) for the keep and review tracks below."""
+    new_pids = set(load_json(NEW_EPISODES_PATH, []))
+    if not new_pids:
+        print("::group::New episode(s) this run: none")
+        print("::endgroup::")
+        return
+
+    rows = [r for r in out_rows if r["episode_pid"] in new_pids]
+    dates = sorted({r["broadcast"] for r in rows})
+    print(f"::group::New episode(s) this run: {', '.join(dates)} ({len(rows)} tracks)")
+    for decision in ("keep", "review", "exclude"):
+        group = [r for r in rows if r["decision"] == decision]
+        label = {"keep": "KEEP", "review": "REVIEW (ambiguous)", "exclude": "EXCLUDE"}[decision]
+        print(f"{label} ({len(group)}):")
+        for r in group:
+            reason = f"  [{r['category']}: {r['matched_tag']}]" if r["category"] else ""
+            genre = f"  ({r['genre']})" if r.get("genre") else ""
+            print(f"  {r['artist']} - {r['title']}{reason}{genre}")
+    print("::endgroup::")
 
 
 if __name__ == "__main__":
