@@ -18,8 +18,11 @@ Three stages. Only stage 1 is built.
 
 ## Owner preferences (these drive the design)
 
-- Streaming service is **YouTube Music**. Spotify was considered and would be
-  technically easier, but switching services isn't worth it on its own.
+- Streaming service is **Spotify**. Originally YouTube Music, with Spotify
+  rejected on switching-cost grounds - reversed 2026-08-04 after YouTube
+  Music's OAuth setup turned out to be real friction, not just theory (see
+  Dead ends). Spotify's official API is also stdlib-drivable, so this
+  drops the one non-stdlib dependency the project had picked up.
 - The filter is an **exclusion list, not an allowlist**: soul, country, indie
   folk. Everything else is wanted.
 - Consequence, and it's the important one: **unknown genre means keep**. The
@@ -72,6 +75,16 @@ Established by hand against the live API. Confirmed, not assumed:
   show and its displayed clock disagreed with the real schedule (its 18:00–21:00
   Monday block was the rock show). Abandoned once the BBC API worked.
 - **Scraping BBC HTML** — unnecessary, the JSON representations exist.
+- **YouTube Music via `ytmusicapi` OAuth** — no official API exists, so this
+  was the unofficial route. Setup friction, not a hard blocker, but enough to
+  abandon it 2026-08-04: needs a Google Cloud project with a "TVs and Limited
+  Input devices" OAuth client, and the token file `ytmusicapi oauth` produces
+  is easy to confuse with the client-credentials JSON Cloud Console itself
+  hands you (`{"installed": {"client_id": ..., ...}}`) - they look similarly
+  official but are not interchangeable. On top of that, Google refresh tokens
+  for a Cloud project still in "Testing" publishing status can expire after
+  about a week, which would silently break unattended CI. Switched to Spotify
+  instead.
 
 ## Working notes
 
@@ -89,10 +102,8 @@ Established by hand against the live API. Confirmed, not assumed:
 
 ## Style
 
-Don't add dependencies without a reason — `fetch.py` and `filter.py` are
-stdlib-only so CI needs no install step for them. Keep that unless something
-genuinely requires otherwise. `sync.py` is the exception: there is no official
-YouTube Music API, and `ytmusicapi` (in `requirements.txt`) is the standard
-library for it - reimplementing its internals would be worse than the
-dependency. `script/fetch.py` and `script/filter.py` still need no install
-step; only the sync stage does.
+Don't add dependencies without a reason — every script is stdlib-only, so CI
+needs no install step. Keep that unless something genuinely requires
+otherwise. This held even for `sync.py`: the YouTube Music detour needed
+`ytmusicapi` since no official API exists, but Spotify's official REST API is
+plain OAuth2 + JSON, drivable with `urllib` like everything else here.

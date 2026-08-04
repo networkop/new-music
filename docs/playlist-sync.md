@@ -1,68 +1,68 @@
-# Playlist sync (stage 3, not built)
+# Playlist sync (stage 3, in progress)
 
 Goal: a rolling one-month playlist. Tracks age out after ~30 days.
 
-Owner uses **YouTube Music**.
+Owner uses **Spotify**. (Originally YouTube Music — see "YouTube Music,
+considered" below for why that changed.)
 
-## YouTube Music
+## Spotify
 
-There is no official YouTube Music API. Two routes:
+Official REST API, well documented, plain OAuth2 + JSON — no client library
+needed, `urllib` is enough (see `script/sync.py`).
 
-**YouTube Data API v3** (official). Manages playlists on the YouTube account,
-and those playlists surface in YouTube Music. The mismatch: the API has no
-concept of a "song" distinct from any other video, so you can end up with lyric
-videos, live cuts or topic-channel uploads instead of the track.
+**Auth**: Authorization Code flow, not Client Credentials — modifying a
+user's playlist needs a token issued *for that user*, which Client
+Credentials can't give you. One-time interactive step (`script/spotify_setup.py`):
+open an authorize URL, log in as the target account, approve, and the local
+callback server captures the code and exchanges it for a refresh token.
+That refresh token is long-lived — unlike Google's OAuth, there's no
+"Testing" publishing status or ~1-week expiry to worry about. Scopes needed:
+`playlist-modify-public playlist-modify-private playlist-read-private`.
 
-Quota is not a constraint at this volume. Current allocation is 100 `search.list`
-calls and 100 `videos.insert` calls per day, plus 10,000 units per day shared
-across all other endpoints — note searches are capped separately rather than
-drawn from the main pool. At ~30 tracks per broadcast, a nightly run uses ~30
-searches against a ceiling of 100. **Cache resolved video IDs** so retries and
-re-runs never re-search a known track; that's what keeps it comfortable.
+**Rate limits**: 429 with a `Retry-After` header, not a daily quota. Simpler
+to handle than YouTube's quota accounting — just back off and retry.
 
-**`ytmusicapi`** (unofficial). Reverse-engineered, speaks YT Music's actual
-internals — proper song search, much better matching for obscure new releases.
-Costs: browser-header auth that expires, breakage when Google changes things,
-and it's outside Google's terms. Judgement call for a personal playlist.
+**Matching**: tracks are tracks, not videos — no lyric-video/live-cut
+ambiguity. Search `GET /v1/search?type=track&q=...`. An `isrc:` filter exists
+for exact lookup, but doesn't help here — the BBC segment data has no ISRC
+(confirmed 2026-08-04 against 570 fetched tracks, see `CLAUDE.md`), so this
+is fuzzy artist+title search regardless of platform.
 
 ## The rolling window is nearly free
 
-`playlistItems` carry a `publishedAt` — when the item was added to the playlist,
-not when the video was uploaded. If tracks are added on the night they're
-broadcast, that timestamp *is* the broadcast date, and eviction becomes: list the
-playlist (1 unit), delete anything older than 30 days (50 units each). No state
-file needed.
+Spotify's `GET /v1/playlists/{id}/tracks` returns each item with `added_at`
+(ISO 8601) — same trick as YouTube's `publishedAt`. If tracks are added the
+night they're broadcast, that timestamp *is* the broadcast date, and eviction
+becomes: list the playlist, remove anything with `added_at` older than 30
+days. No state file needed.
 
 This only holds if you never backfill. Seeding the playlist with a month of
-history on day one gives every item the same added-date and the window collapses.
-If backfilling, keep a state file mapping video ID to broadcast date instead.
+history on day one gives every item the same added-date and the window
+collapses. If backfilling, keep a state file mapping track URI to broadcast
+date instead.
 
-## Auth in CI
+## The part that will actually cost time
 
-OAuth refresh tokens for apps left in **"Testing"** publishing status expire after
-about a week, which would break an unattended Action. Moving the Cloud project to
-Production fixes it. Verify current behaviour in the Cloud Console rather than
-trusting this note.
+Matching. A naive top-result-wins search will confidently return the wrong
+thing, and some tracks won't exist on the platform at all. Log every match
+with its query and chosen title, set a similarity threshold, and send
+anything below it to a review list rather than the playlist.
 
-## Spotify, for reference
+## YouTube Music, considered
 
-Considered and rejected on grounds of not switching services, but it would be
-easier: an official first-class music API, tracks are tracks, rate limits with
-`Retry-After` rather than quota accounting, long-lived refresh tokens, and
-crucially an `isrc:` search filter that turns matching into an exact lookup.
+Tried first, abandoned 2026-08-04 over OAuth setup friction — recorded in
+`CLAUDE.md`'s Dead ends so it doesn't get re-explored. Summary: no official
+YouTube Music API; the unofficial `ytmusicapi` route needs a Google Cloud
+"TVs and Limited Input devices" OAuth client, and the token file it produces
+is easy to confuse with the plain client-credentials JSON Cloud Console hands
+you — they look similarly official but aren't interchangeable. Google
+refresh tokens for a Cloud project still in "Testing" status can also expire
+after about a week, which would have silently broken unattended CI.
 
 Also worth knowing: the BBC runs a `BBC_Playlists` Spotify account. **Checked
 2026-08-04, not viable as a shortcut.** Its "Radio 1's New Music Show with Jack
 Saunders" playlist is a single 30-track snapshot dated `(Show: 2025-03-17)` —
 17 months stale relative to the shows this project fetches. The account's
 broader visible catalogue is dominated by 2017-era content (Glastonbury 2017,
-Record Store Day 2017). Not a live mirror of current airings — a Spotify build
-would still need to do its own track resolution.
-
-## The part that will actually cost time
-
-Matching, on either platform. A naive top-result-wins search will confidently
-return the wrong thing, and some tracks won't exist on the platform at all. Log
-every match with its query and chosen title, set a similarity threshold, and send
-anything below it to a review list rather than the playlist. An ISRC in the BBC
-segment data would make most of this disappear — check for one first.
+Record Store Day 2017). Not a live mirror of current airings — building on
+Spotify still means doing our own track resolution, not aggregating theirs.

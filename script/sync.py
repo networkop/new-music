@@ -1,72 +1,75 @@
 #!/usr/bin/env python3
-"""Sync kept tracks to a rolling YouTube Music playlist (stage 3).
+"""Sync kept tracks to a rolling Spotify playlist (stage 3).
 
-Not built yet - this is the auth smoke test. See docs/playlist-sync.md.
+Not built yet - this is the auth smoke test. See docs/playlist-sync.md and
+script/spotify_setup.py (run that first, once, locally - it needs a browser
+login and can't run in CI).
 
-Credentials, three pieces (none of them stdlib-obtainable, hence ytmusicapi
-in requirements.txt - there is no official YouTube Music API):
+Credentials, three pieces:
 
-- YTMUSIC_CLIENT_ID / YTMUSIC_CLIENT_SECRET: a Google Cloud OAuth client of
-  type "TVs and Limited Input devices". Create one in Cloud Console, with
-  the YouTube Data API enabled on the same project.
-- YTMUSIC_OAUTH_JSON: the contents of the oauth.json produced by running
-  `ytmusicapi oauth --client-id ... --client-secret ...` interactively, once,
-  on a machine with a browser. That step logs into the target YouTube Music
-  account and can't be done headlessly - do it locally, then paste the
-  resulting file's contents into the GitHub secret.
+- SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET: from the app at
+  https://developer.spotify.com/dashboard.
+- SPOTIFY_REFRESH_TOKEN: written by spotify_setup.py to
+  data/.spotify_refresh_token (gitignored) - put its contents in this secret.
 
-oauth.json holds the refresh token, not the client id/secret - both must be
-supplied again at runtime alongside it. The refresh token renews the access
-token indefinitely on its own, but the refresh token itself may expire if
-the Cloud project is still in "Testing" publishing status - unverified. If
-this starts failing after roughly a week, that's almost certainly it; move
-the project to Production in Cloud Console.
+Unlike Google's OAuth, Spotify refresh tokens are long-lived and don't have
+a "Testing" publishing status with a ~1-week expiry to worry about.
 """
 
+import base64
 import json
 import os
 import sys
-import tempfile
+import urllib.error
+import urllib.parse
+import urllib.request
 
-from ytmusicapi import OAuthCredentials, YTMusic
+TOKEN_URL = "https://accounts.spotify.com/api/token"
+API_BASE = "https://api.spotify.com/v1"
 
-OAUTH_FILE_PATH = "data/.oauth.json"  # local-only fallback, gitignored
 
+def get_access_token():
+    client_id = os.environ["SPOTIFY_CLIENT_ID"]
+    client_secret = os.environ["SPOTIFY_CLIENT_SECRET"]
+    refresh_token = os.environ["SPOTIFY_REFRESH_TOKEN"]
 
-def get_client():
-    client_id = os.environ["YTMUSIC_CLIENT_ID"]
-    client_secret = os.environ["YTMUSIC_CLIENT_SECRET"]
-    oauth_json = os.environ.get("YTMUSIC_OAUTH_JSON")
-
-    if oauth_json:
-        fh = tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False)
-        fh.write(oauth_json)
-        fh.close()
-        oauth_path = fh.name
-    else:
-        oauth_path = OAUTH_FILE_PATH
-
-    if not os.path.exists(oauth_path):
-        print(
-            f"no oauth token at {oauth_path} and YTMUSIC_OAUTH_JSON not set - "
-            f"run `ytmusicapi oauth --client-id ... --client-secret ... "
-            f"--file {OAUTH_FILE_PATH}` locally first",
-            file=sys.stderr,
-        )
-        sys.exit(1)
-
-    return YTMusic(
-        oauth_path,
-        oauth_credentials=OAuthCredentials(client_id=client_id, client_secret=client_secret),
+    basic = base64.b64encode(f"{client_id}:{client_secret}".encode()).decode()
+    body = urllib.parse.urlencode(
+        {"grant_type": "refresh_token", "refresh_token": refresh_token}
+    ).encode()
+    req = urllib.request.Request(
+        TOKEN_URL,
+        data=body,
+        headers={
+            "Authorization": f"Basic {basic}",
+            "Content-Type": "application/x-www-form-urlencoded",
+        },
     )
+    try:
+        with urllib.request.urlopen(req) as resp:
+            return json.load(resp)["access_token"]
+    except urllib.error.HTTPError as exc:
+        print(f"token refresh failed: {exc.code} {exc.read().decode()}", file=sys.stderr)
+        raise
+
+
+def api_get(path, token):
+    req = urllib.request.Request(
+        f"{API_BASE}{path}", headers={"Authorization": f"Bearer {token}"}
+    )
+    with urllib.request.urlopen(req) as resp:
+        return json.load(resp)
 
 
 def main():
-    ytmusic = get_client()
-    playlists = ytmusic.get_library_playlists(limit=25)
-    print(f"authenticated - {len(playlists)} playlist(s) in this account's library:")
-    for p in playlists:
-        print(f"  {p['playlistId']}  {p['title']}")
+    token = get_access_token()
+    me = api_get("/me", token)
+    print(f"authenticated as {me.get('display_name')} ({me.get('id')})")
+
+    playlists = api_get("/me/playlists?limit=50", token)
+    print(f"{playlists['total']} playlist(s) in this account:")
+    for p in playlists["items"]:
+        print(f"  {p['id']}  {p['name']}")
 
 
 if __name__ == "__main__":
