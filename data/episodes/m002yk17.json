@@ -1,0 +1,1112 @@
+{
+  "pid": "m002yk17",
+  "broadcast_start": "2026-07-14T18:00:00+01:00",
+  "schedule_date": "2026-07-14",
+  "title": "Queens of the Stone Age Hottest Record",
+  "tracks": [
+    {
+      "artist": "Charli xcx",
+      "title": "Wink Wink",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nv7l5s",
+        "duration": 119,
+        "primary_contributor": {
+          "pid": "p012f188",
+          "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+          "name": "Charli xcx"
+        },
+        "artist": "Charli xcx",
+        "track_title": "Wink Wink",
+        "track_number": null,
+        "publisher": "Warner",
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n99jp6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Wink Wink",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ROLE MODEL",
+      "title": "Joy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrcq3",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p08h0sm0",
+          "musicbrainz_gid": "4c76d2ab-cc32-47b9-8bfe-d382bed617f6",
+          "name": "ROLE MODEL"
+        },
+        "artist": "ROLE MODEL",
+        "track_title": "Joy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9r85j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08h0sm0",
+            "name": "ROLE MODEL",
+            "role": "Performer",
+            "musicbrainz_gid": "4c76d2ab-cc32-47b9-8bfe-d382bed617f6"
+          }
+        ],
+        "title": "Joy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Go With The Flow",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0bd70zr",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Go With The Flow",
+        "track_number": "1",
+        "publisher": "Board Stiff Music/Universal Music Publishing Limited",
+        "record_label": "Polydor",
+        "release_title": "Go With The Flow",
+        "record_id": "nzzgbn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Go With The Flow",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Lost Boys",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nv6t43",
+        "duration": 245,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "Lost Boys",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99j4w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "Lost Boys",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Last Dinner Party",
+      "title": "Knocking At The Sky",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxwz4y",
+        "duration": 225,
+        "primary_contributor": {
+          "pid": "p0fjk3vw",
+          "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70",
+          "name": "The Last Dinner Party"
+        },
+        "artist": "The Last Dinner Party",
+        "track_title": "Knocking At The Sky",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing Limited",
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9r4q2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fjk3vw",
+            "name": "The Last Dinner Party",
+            "role": "Performer",
+            "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70"
+          }
+        ],
+        "title": "Knocking At The Sky",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Good Neighbours",
+      "title": "Superstar",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw88tb",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p0h7w2pb",
+          "musicbrainz_gid": "a84a3df1-a873-4be9-b6ff-4238393d46d7",
+          "name": "Good Neighbours"
+        },
+        "artist": "Good Neighbours",
+        "track_title": "Superstar",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99qbz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0h7w2pb",
+            "name": "Good Neighbours",
+            "role": "Performer",
+            "musicbrainz_gid": "a84a3df1-a873-4be9-b6ff-4238393d46d7"
+          }
+        ],
+        "title": "Superstar",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Pin Up Boys",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw75wl",
+        "duration": 163,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Pin Up Boys",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n99mpq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Pin Up Boys",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wolf Alice",
+      "title": "Gospel Oak",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwhwpd",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p034xfbs",
+          "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+          "name": "Wolf Alice"
+        },
+        "artist": "Wolf Alice",
+        "track_title": "Gospel Oak",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n99mqc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034xfbs",
+            "name": "Wolf Alice",
+            "role": "Performer",
+            "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+          }
+        ],
+        "title": "Gospel Oak",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Little Sister",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrl86",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Little Sister",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "nzg8pm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Little Sister",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Easy Street",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrnxj",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Easy Street",
+        "track_number": null,
+        "publisher": "Matador Records",
+        "record_label": "Matador",
+        "release_title": null,
+        "record_id": "n9r8x9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Easy Street",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "That's Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwmv5y",
+        "duration": 129,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "That's Me",
+        "track_number": "1",
+        "publisher": "Universal Music Publishing",
+        "record_label": "Island Records",
+        "release_title": "That's Me",
+        "record_id": "n98mv5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "That's Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "flowerovlove",
+      "title": "In My Victoria's Secret",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nykwjy",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p0d60r3q",
+          "musicbrainz_gid": "cc082564-87b8-405c-97b0-7c2a8e84212a",
+          "name": "flowerovlove"
+        },
+        "artist": "flowerovlove",
+        "track_title": "In My Victoria's Secret",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9r83q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d60r3q",
+            "name": "flowerovlove",
+            "role": "Performer",
+            "musicbrainz_gid": "cc082564-87b8-405c-97b0-7c2a8e84212a"
+          }
+        ],
+        "title": "In My Victoria's Secret",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "J Hus",
+      "title": "Moonlight",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nygzcn",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p038bb28",
+          "musicbrainz_gid": "eca85dd0-f1fb-4e83-8c47-61403f479254",
+          "name": "J Hus"
+        },
+        "artist": "J Hus",
+        "track_title": "Moonlight",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Militer Music",
+        "release_title": null,
+        "record_id": "n9rzvv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p038bb28",
+            "name": "J Hus",
+            "role": "Performer",
+            "musicbrainz_gid": "eca85dd0-f1fb-4e83-8c47-61403f479254"
+          }
+        ],
+        "title": "Moonlight",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ezra Collective",
+      "title": "Well Organised",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrqrc",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p04fwqt0",
+          "musicbrainz_gid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d",
+          "name": "Ezra Collective"
+        },
+        "artist": "Ezra Collective",
+        "track_title": "Well Organised",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9r3cz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04fwqt0",
+            "name": "Ezra Collective",
+            "role": "Performer",
+            "musicbrainz_gid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d"
+          },
+          {
+            "pid": "p05g4s70",
+            "name": "Lila Iké",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c702fd8c-b9df-48e9-b100-6976aa2e3a88"
+          }
+        ],
+        "title": "Well Organised",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Creatine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrr0c",
+        "duration": 109,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Creatine",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Alta Music Group",
+        "release_title": null,
+        "record_id": "n9r8xx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Creatine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Voltage",
+      "title": "Music Is The Answer",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntx2m6",
+        "duration": 247,
+        "primary_contributor": {
+          "pid": "p03183pw",
+          "musicbrainz_gid": "cabad801-2306-46e0-a01d-dc1fd030f1d9",
+          "name": "Voltage"
+        },
+        "artist": "Voltage",
+        "track_title": "Music Is The Answer",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hospital Records",
+        "release_title": null,
+        "record_id": "n98wh4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03183pw",
+            "name": "Voltage",
+            "role": "Performer",
+            "musicbrainz_gid": "cabad801-2306-46e0-a01d-dc1fd030f1d9"
+          }
+        ],
+        "title": "Music Is The Answer",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Overmono",
+      "title": "Knight In Shining Prada",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrtbp",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p04mzzzy",
+          "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+          "name": "Overmono"
+        },
+        "artist": "Overmono",
+        "track_title": "Knight In Shining Prada",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9r8xw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04mzzzy",
+            "name": "Overmono",
+            "role": "Performer",
+            "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa"
+          },
+          {
+            "pid": "p0nyrtc6",
+            "name": "John Joseph Holt",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2837b526-a777-4ec5-9df2-f4ff0d58bd70"
+          }
+        ],
+        "title": "Knight In Shining Prada",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jodie Harsh",
+      "title": "I Feel It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj3hy",
+        "duration": 170,
+        "primary_contributor": {
+          "pid": "p082n92j",
+          "musicbrainz_gid": "8c6b9ac4-e63d-4f96-9d25-9c2d5fd45387",
+          "name": "Jodie Harsh"
+        },
+        "artist": "Jodie Harsh",
+        "track_title": "I Feel It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "HARSH BEATS",
+        "release_title": null,
+        "record_id": "n99xn8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082n92j",
+            "name": "Jodie Harsh",
+            "role": "Performer",
+            "musicbrainz_gid": "8c6b9ac4-e63d-4f96-9d25-9c2d5fd45387"
+          }
+        ],
+        "title": "I Feel It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Too Easy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr1h50",
+        "duration": 113,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Too Easy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n998pf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Too Easy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kim Petras",
+      "title": "Brutalist",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr73c2",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p05yn1fk",
+          "musicbrainz_gid": "54fc0558-12b5-4854-9d57-9441bcd73a72",
+          "name": "Kim Petras"
+        },
+        "artist": "Kim Petras",
+        "track_title": "Brutalist",
+        "track_number": "6",
+        "publisher": "BUNHEAD/Prescription Songs/Brought To You By Heavy Duty/Aaron Cooper Maine",
+        "record_label": "BunHead / Amigo Records",
+        "release_title": "Detour",
+        "record_id": "n998h8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05yn1fk",
+            "name": "Kim Petras",
+            "role": "Performer",
+            "musicbrainz_gid": "54fc0558-12b5-4854-9d57-9441bcd73a72"
+          }
+        ],
+        "title": "Brutalist",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "INJI",
+      "title": "I WANNA FEEL IT ALL",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0qj7",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0f04tgd",
+          "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15",
+          "name": "INJI"
+        },
+        "artist": "INJI",
+        "track_title": "I WANNA FEEL IT ALL",
+        "track_number": null,
+        "publisher": "POSITION MUSIC PUBLISHING,POSITION MUSIC COPYRIGHTS LLC,KOBALT MUSIC SERVICES AMERICA INC,KOBALT MUSIC PUBLISHING LTD,ATLGRANDMAPUB,PRESCRIPTION SONGS,PRESCRIPTION SONGS LLC",
+        "record_label": "broke",
+        "release_title": null,
+        "record_id": "n99hqr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f04tgd",
+            "name": "INJI",
+            "role": "Performer",
+            "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15"
+          }
+        ],
+        "title": "I WANNA FEEL IT ALL",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sienna Spiro",
+      "title": "This Is My House",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx70cl",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p0j9wp1j",
+          "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+          "name": "Sienna Spiro"
+        },
+        "artist": "Sienna Spiro",
+        "track_title": "This Is My House",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Sony",
+        "release_title": null,
+        "record_id": "n9r2d3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j9wp1j",
+            "name": "Sienna Spiro",
+            "role": "Performer",
+            "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5"
+          }
+        ],
+        "title": "This Is My House",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiny Habits",
+      "title": "Anything He Was",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsbs84",
+        "duration": 236,
+        "primary_contributor": {
+          "pid": "p0h81y2f",
+          "musicbrainz_gid": "6f38418e-4695-4e20-a792-431929e95ee5",
+          "name": "Tiny Habits"
+        },
+        "artist": "Tiny Habits",
+        "track_title": "Anything He Was",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop",
+        "release_title": null,
+        "record_id": "n99cjf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0h81y2f",
+            "name": "Tiny Habits",
+            "role": "Performer",
+            "musicbrainz_gid": "6f38418e-4695-4e20-a792-431929e95ee5"
+          },
+          {
+            "pid": "p046dm2k",
+            "name": "Matthew Healy",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "48878cad-3a64-42cd-998b-72d37631c9f6"
+          }
+        ],
+        "title": "Anything He Was",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Smith",
+      "title": "High",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0npxvmz",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0k87k3z",
+          "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca",
+          "name": "Nia Smith"
+        },
+        "artist": "Nia Smith",
+        "track_title": "High",
+        "track_number": null,
+        "publisher": "Warner Chapell",
+        "record_label": "Polydor",
+        "release_title": null,
+        "record_id": "n99nhh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k87k3z",
+            "name": "Nia Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca"
+          }
+        ],
+        "title": "High",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Misch",
+      "title": "Sisters With Me (Radio 1 Live Lounge Late, 12th July 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrzqz",
+        "duration": 241,
+        "primary_contributor": {
+          "pid": "p02bfr96",
+          "musicbrainz_gid": "fc3e8983-1f51-4c80-b2b5-146bf2162dc2",
+          "name": "Tom Misch"
+        },
+        "artist": "Tom Misch",
+        "track_title": "Sisters With Me (Radio 1 Live Lounge Late, 12th July 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rpdr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02bfr96",
+            "name": "Tom Misch",
+            "role": "Performer",
+            "musicbrainz_gid": "fc3e8983-1f51-4c80-b2b5-146bf2162dc2"
+          }
+        ],
+        "title": "Sisters With Me (Radio 1 Live Lounge Late, 12th July 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Misch",
+      "title": "Goldie (Radio 1 Live Lounge Late, 12th July 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nygp0x",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p02bfr96",
+          "musicbrainz_gid": "fc3e8983-1f51-4c80-b2b5-146bf2162dc2",
+          "name": "Tom Misch"
+        },
+        "artist": "Tom Misch",
+        "track_title": "Goldie (Radio 1 Live Lounge Late, 12th July 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rpdv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02bfr96",
+            "name": "Tom Misch",
+            "role": "Performer",
+            "musicbrainz_gid": "fc3e8983-1f51-4c80-b2b5-146bf2162dc2"
+          }
+        ],
+        "title": "Goldie (Radio 1 Live Lounge Late, 12th July 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Misch",
+      "title": "Weird Fishes (Radio 1 Live Lounge Late, 12th July 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nydqhg",
+        "duration": 275,
+        "primary_contributor": {
+          "pid": "p02bfr96",
+          "musicbrainz_gid": "fc3e8983-1f51-4c80-b2b5-146bf2162dc2",
+          "name": "Tom Misch"
+        },
+        "artist": "Tom Misch",
+        "track_title": "Weird Fishes (Radio 1 Live Lounge Late, 12th July 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rpdv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02bfr96",
+            "name": "Tom Misch",
+            "role": "Performer",
+            "musicbrainz_gid": "fc3e8983-1f51-4c80-b2b5-146bf2162dc2"
+          }
+        ],
+        "title": "Weird Fishes (Radio 1 Live Lounge Late, 12th July 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "I Wish",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nys2c4",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "I Wish",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "4AD",
+        "release_title": null,
+        "record_id": "n9r8fx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "I Wish",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "jigitz",
+      "title": "thumbs",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntq708",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p0kv4lxy",
+          "musicbrainz_gid": "58c4026e-b5b5-4368-8743-e5579d2b1a40",
+          "name": "jigitz"
+        },
+        "artist": "jigitz",
+        "track_title": "thumbs",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "R&R Digital",
+        "release_title": null,
+        "record_id": "n99hcg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kv4lxy",
+            "name": "jigitz",
+            "role": "Performer",
+            "musicbrainz_gid": "58c4026e-b5b5-4368-8743-e5579d2b1a40"
+          },
+          {
+            "pid": "p0nvtmvj",
+            "name": "Lamb",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ea5510c0-2414-40f0-a25c-6999dff027d2"
+          }
+        ],
+        "title": "thumbs",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angine de Poitrine",
+      "title": "Sarniezz",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntx111",
+        "duration": 225,
+        "primary_contributor": {
+          "pid": "p0mzjxd9",
+          "musicbrainz_gid": "5fd29907-c3c5-4b1d-a799-7cf9bbd288fc",
+          "name": "Angine de Poitrine"
+        },
+        "artist": "Angine de Poitrine",
+        "track_title": "Sarniezz",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Angine De Poitrine",
+        "release_title": null,
+        "record_id": "n9853m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mzjxd9",
+            "name": "Angine de Poitrine",
+            "role": "Performer",
+            "musicbrainz_gid": "5fd29907-c3c5-4b1d-a799-7cf9bbd288fc"
+          }
+        ],
+        "title": "Sarniezz",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

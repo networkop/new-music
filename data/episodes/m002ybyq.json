@@ -1,0 +1,1208 @@
+{
+  "pid": "m002ybyq",
+  "broadcast_start": "2026-07-09T18:00:00+01:00",
+  "schedule_date": "2026-07-09",
+  "title": "The Last Dinner Party Hottest Record",
+  "tracks": [
+    {
+      "artist": "Erin LeCount",
+      "title": "THE CINEMA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvt4hz",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p0d40wr8",
+          "musicbrainz_gid": "52d273ca-1f68-440c-9c37-751358cf0434",
+          "name": "Erin LeCount"
+        },
+        "artist": "Erin LeCount",
+        "track_title": "THE CINEMA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "ATLANTIC RECORDS",
+        "release_title": null,
+        "record_id": "n99qrz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d40wr8",
+            "name": "Erin LeCount",
+            "role": "Performer",
+            "musicbrainz_gid": "52d273ca-1f68-440c-9c37-751358cf0434"
+          }
+        ],
+        "title": "THE CINEMA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "CONSTANTLY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntxm84",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "CONSTANTLY",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Run Things",
+        "release_title": null,
+        "record_id": "n99gmw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          }
+        ],
+        "title": "CONSTANTLY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Last Dinner Party",
+      "title": "Nothing Matters",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0h37xkg",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p0fjk3vw",
+          "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70",
+          "name": "The Last Dinner Party"
+        },
+        "artist": "The Last Dinner Party",
+        "track_title": "Nothing Matters",
+        "track_number": "11",
+        "publisher": null,
+        "record_label": "Island",
+        "release_title": "Prelude To Ecstasy",
+        "record_id": "npjwwq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fjk3vw",
+            "name": "The Last Dinner Party",
+            "role": "Performer",
+            "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70"
+          }
+        ],
+        "title": "Nothing Matters",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Pin Up Boys",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw75wl",
+        "duration": 163,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Pin Up Boys",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n99mpq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Pin Up Boys",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "My Guy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nv04lj",
+        "duration": 201,
+        "primary_contributor": {
+          "pid": "p01zpdf9",
+          "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "name": "Sam Smith"
+        },
+        "artist": "Sam Smith",
+        "track_title": "My Guy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Capitol",
+        "release_title": null,
+        "record_id": "n99hjj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01zpdf9",
+            "name": "Sam Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3"
+          }
+        ],
+        "title": "My Guy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wolf Alice",
+      "title": "Gospel Oak",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwhwpd",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p034xfbs",
+          "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+          "name": "Wolf Alice"
+        },
+        "artist": "Wolf Alice",
+        "track_title": "Gospel Oak",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n99mqc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034xfbs",
+            "name": "Wolf Alice",
+            "role": "Performer",
+            "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+          }
+        ],
+        "title": "Gospel Oak",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Temper City",
+      "title": "Self Aware",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsxdwr",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0n8k6tv",
+          "musicbrainz_gid": "c74a9a82-29bf-486d-bf93-b4516ac3e338",
+          "name": "Temper City"
+        },
+        "artist": "Temper City",
+        "track_title": "Self Aware",
+        "track_number": null,
+        "publisher": "BARENHOLTZ/HENKORDOVAPUB/PLD PRODUCTIONS (EYTAN PELED)",
+        "record_label": "Thirty Knots",
+        "release_title": null,
+        "record_id": "n9pnzf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n8k6tv",
+            "name": "Temper City",
+            "role": "Performer",
+            "musicbrainz_gid": "c74a9a82-29bf-486d-bf93-b4516ac3e338"
+          }
+        ],
+        "title": "Self Aware",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "The Sun Will Never Settle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nndvxv",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "The Sun Will Never Settle",
+        "track_number": null,
+        "publisher": "Atlantic",
+        "record_label": "B-Unique Recordings",
+        "release_title": null,
+        "record_id": "n98qd2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "The Sun Will Never Settle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Last Dinner Party",
+      "title": "Sinner",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0gcb8qm",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p0fjk3vw",
+          "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70",
+          "name": "The Last Dinner Party"
+        },
+        "artist": "The Last Dinner Party",
+        "track_title": "Sinner",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Island Records Ltd.",
+        "release_title": null,
+        "record_id": "npmp95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fjk3vw",
+            "name": "The Last Dinner Party",
+            "role": "Performer",
+            "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70"
+          }
+        ],
+        "title": "Sinner",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Last Dinner Party",
+      "title": "Knocking At The Sky",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxwz4y",
+        "duration": 225,
+        "primary_contributor": {
+          "pid": "p0fjk3vw",
+          "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70",
+          "name": "The Last Dinner Party"
+        },
+        "artist": "The Last Dinner Party",
+        "track_title": "Knocking At The Sky",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing Limited",
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9r4q2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fjk3vw",
+            "name": "The Last Dinner Party",
+            "role": "Performer",
+            "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70"
+          }
+        ],
+        "title": "Knocking At The Sky",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Little Things (Nia Archives Remix)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0fwycld",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "Little Things (Nia Archives Remix)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "npqwv6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          },
+          {
+            "pid": "p09f4b2r",
+            "name": "Nia Archives",
+            "role": "Remix Artist",
+            "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd"
+          }
+        ],
+        "title": "Little Things (Nia Archives Remix)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Someday, Somewhere",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxmxd9",
+        "duration": 146,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Someday, Somewhere",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "AWAL Recordings",
+        "release_title": null,
+        "record_id": "n9r4p2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Someday, Somewhere",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Overmono",
+      "title": "Even Angels Ghost",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr7ps7",
+        "duration": 260,
+        "primary_contributor": {
+          "pid": "p04mzzzy",
+          "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+          "name": "Overmono"
+        },
+        "artist": "Overmono",
+        "track_title": "Even Angels Ghost",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL RECORDINGS",
+        "release_title": null,
+        "record_id": "n998wp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04mzzzy",
+            "name": "Overmono",
+            "role": "Performer",
+            "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa"
+          },
+          {
+            "pid": "p0nr7psp",
+            "name": "Kindora",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "37b7b05f-9549-4106-81a5-b271f3501014"
+          }
+        ],
+        "title": "Even Angels Ghost",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "title": "THAT GUY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0hlv",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p012ddld",
+          "musicbrainz_gid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+          "name": "Tyler, The Creator"
+        },
+        "artist": "Tyler, The Creator",
+        "track_title": "THAT GUY",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": "THAT GUY",
+        "record_id": "n99qvj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012ddld",
+            "name": "Tyler, The Creator",
+            "role": "Performer",
+            "musicbrainz_gid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6"
+          }
+        ],
+        "title": "THAT GUY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "INJI",
+      "title": "I WANNA FEEL IT ALL",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0qj7",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0f04tgd",
+          "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15",
+          "name": "INJI"
+        },
+        "artist": "INJI",
+        "track_title": "I WANNA FEEL IT ALL",
+        "track_number": null,
+        "publisher": "POSITION MUSIC PUBLISHING,POSITION MUSIC COPYRIGHTS LLC,KOBALT MUSIC SERVICES AMERICA INC,KOBALT MUSIC PUBLISHING LTD,ATLGRANDMAPUB,PRESCRIPTION SONGS,PRESCRIPTION SONGS LLC",
+        "record_label": "broke",
+        "release_title": null,
+        "record_id": "n99hqr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f04tgd",
+            "name": "INJI",
+            "role": "Performer",
+            "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15"
+          }
+        ],
+        "title": "I WANNA FEEL IT ALL",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ahadadream",
+      "title": "Make Space",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nrrkhv",
+        "duration": 89,
+        "primary_contributor": {
+          "pid": "p08cgf59",
+          "musicbrainz_gid": "320f7f92-eb43-45af-8241-2c7ac97ea4eb",
+          "name": "Ahadadream"
+        },
+        "artist": "Ahadadream",
+        "track_title": "Make Space",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "npj9z6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08cgf59",
+            "name": "Ahadadream",
+            "role": "Performer",
+            "musicbrainz_gid": "320f7f92-eb43-45af-8241-2c7ac97ea4eb"
+          }
+        ],
+        "title": "Make Space",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "title": "Saturday Night",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxngr5",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p03df7md",
+          "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+          "name": "Ravyn Lenae"
+        },
+        "artist": "Ravyn Lenae",
+        "track_title": "Saturday Night",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Saturday Night",
+        "record_id": "n99m8j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03df7md",
+            "name": "Ravyn Lenae",
+            "role": "Performer",
+            "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2"
+          }
+        ],
+        "title": "Saturday Night",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ludacris",
+      "title": "Real Hustla",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nthgzd",
+        "duration": 146,
+        "primary_contributor": {
+          "pid": "p012dhr8",
+          "musicbrainz_gid": "0638ba22-040f-438d-83a5-9b670c4adaf5",
+          "name": "Ludacris"
+        },
+        "artist": "Ludacris",
+        "track_title": "Real Hustla",
+        "track_number": null,
+        "publisher": "The Sound Of Keys BMI",
+        "record_label": "Def Jam Recordings",
+        "release_title": null,
+        "record_id": "n99gm6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dhr8",
+            "name": "Ludacris",
+            "role": "Performer",
+            "musicbrainz_gid": "0638ba22-040f-438d-83a5-9b670c4adaf5"
+          },
+          {
+            "pid": "p0cgp4mr",
+            "name": "GloRilla",
+            "role": "Performer",
+            "musicbrainz_gid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2"
+          }
+        ],
+        "title": "Real Hustla",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Flava D",
+      "title": "Different",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nqdzjv",
+        "duration": 152,
+        "primary_contributor": {
+          "pid": "p016xhck",
+          "musicbrainz_gid": "0258934a-d273-4bc2-bd5d-f44a0b90f44a",
+          "name": "Flava D"
+        },
+        "artist": "Flava D",
+        "track_title": "Different",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "MARAKI",
+        "release_title": null,
+        "record_id": "n984hm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p016xhck",
+            "name": "Flava D",
+            "role": "Performer",
+            "musicbrainz_gid": "0258934a-d273-4bc2-bd5d-f44a0b90f44a"
+          },
+          {
+            "pid": "p0nqdzk1",
+            "name": "SKALAH",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Performer",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Different",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chip",
+      "title": "GTTB",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nmps6b",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p012f1my",
+          "musicbrainz_gid": "8ec6bf47-d22f-4a2f-b930-0f7feb10ea3f",
+          "name": "Chip"
+        },
+        "artist": "Chip",
+        "track_title": "GTTB",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "7 Wallace",
+        "release_title": null,
+        "record_id": "n98wnp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1my",
+            "name": "Chip",
+            "role": "Performer",
+            "musicbrainz_gid": "8ec6bf47-d22f-4a2f-b930-0f7feb10ea3f"
+          },
+          {
+            "pid": "p06tr7tc",
+            "name": "Aitch",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "57dd4661-9f78-4442-8836-482fab983008"
+          }
+        ],
+        "title": "GTTB",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "070 Shake",
+      "title": "Baby Driver",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxx95s",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p05wq9gy",
+          "musicbrainz_gid": "741dbc8e-1cd5-4a66-b2b8-43bbad87ae12",
+          "name": "070 Shake"
+        },
+        "artist": "070 Shake",
+        "track_title": "Baby Driver",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Getting Out Our Dreams Inc. (G.O.O.D.) Music",
+        "release_title": null,
+        "record_id": "n99p68",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05wq9gy",
+            "name": "070 Shake",
+            "role": "Performer",
+            "musicbrainz_gid": "741dbc8e-1cd5-4a66-b2b8-43bbad87ae12"
+          }
+        ],
+        "title": "Baby Driver",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ecca Vandal",
+      "title": "VERTICAL WORLDS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nlzdf7",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p02rl6wl",
+          "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076",
+          "name": "Ecca Vandal"
+        },
+        "artist": "Ecca Vandal",
+        "track_title": "VERTICAL WORLDS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n98gdd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02rl6wl",
+            "name": "Ecca Vandal",
+            "role": "Performer",
+            "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076"
+          }
+        ],
+        "title": "VERTICAL WORLDS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Violet Grohl",
+      "title": "Bug In The Cake",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr0xmx",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p09fr9dz",
+          "musicbrainz_gid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+          "name": "Violet Grohl"
+        },
+        "artist": "Violet Grohl",
+        "track_title": "Bug In The Cake",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Records",
+        "release_title": null,
+        "record_id": "n99n58",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09fr9dz",
+            "name": "Violet Grohl",
+            "role": "Performer",
+            "musicbrainz_gid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6"
+          }
+        ],
+        "title": "Bug In The Cake",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Static Dress",
+      "title": "dull blade disguise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0npxj47",
+        "duration": 264,
+        "primary_contributor": {
+          "pid": "p08dgxnw",
+          "musicbrainz_gid": "9f61afe8-7142-44ee-b518-4dbb1caefb82",
+          "name": "Static Dress"
+        },
+        "artist": "Static Dress",
+        "track_title": "dull blade disguise",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Sumerian Records",
+        "release_title": null,
+        "record_id": "n9935w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08dgxnw",
+            "name": "Static Dress",
+            "role": "Performer",
+            "musicbrainz_gid": "9f61afe8-7142-44ee-b518-4dbb1caefb82"
+          }
+        ],
+        "title": "dull blade disguise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rostam",
+      "title": "Hardy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0npxby6",
+        "duration": 233,
+        "primary_contributor": {
+          "pid": "p01r380r",
+          "musicbrainz_gid": "66a7117a-4b67-4a85-83bf-94491340d22d",
+          "name": "Rostam"
+        },
+        "artist": "Rostam",
+        "track_title": "Hardy",
+        "track_number": null,
+        "publisher": "Matsor Projects",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n98b9d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01r380r",
+            "name": "Rostam",
+            "role": "Performer",
+            "musicbrainz_gid": "66a7117a-4b67-4a85-83bf-94491340d22d"
+          },
+          {
+            "pid": "p05tw7ym",
+            "name": "Clairo",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "d786f59b-1836-4ddb-8393-ab753edbe984"
+          }
+        ],
+        "title": "Hardy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blood Orange",
+      "title": "Essex_Honey.mp3",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0npj919",
+        "duration": 227,
+        "primary_contributor": {
+          "pid": "p01ksgz3",
+          "musicbrainz_gid": "3d254f1e-7d18-431b-baeb-68e57695dfdb",
+          "name": "Blood Orange"
+        },
+        "artist": "Blood Orange",
+        "track_title": "Essex_Honey.mp3",
+        "track_number": null,
+        "publisher": "Sony Music",
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n993nz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01ksgz3",
+            "name": "Blood Orange",
+            "role": "Performer",
+            "musicbrainz_gid": "3d254f1e-7d18-431b-baeb-68e57695dfdb"
+          }
+        ],
+        "title": "Essex_Honey.mp3",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "No Surprise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nm4xcs",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "No Surprise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n98x5d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "No Surprise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angine de Poitrine",
+      "title": "Sarniezz",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntx111",
+        "duration": 225,
+        "primary_contributor": {
+          "pid": "p0mzjxd9",
+          "musicbrainz_gid": "5fd29907-c3c5-4b1d-a799-7cf9bbd288fc",
+          "name": "Angine de Poitrine"
+        },
+        "artist": "Angine de Poitrine",
+        "track_title": "Sarniezz",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Angine De Poitrine",
+        "release_title": null,
+        "record_id": "n9853m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mzjxd9",
+            "name": "Angine de Poitrine",
+            "role": "Performer",
+            "musicbrainz_gid": "5fd29907-c3c5-4b1d-a799-7cf9bbd288fc"
+          }
+        ],
+        "title": "Sarniezz",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holding Absence",
+      "title": "LUCID LOVE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntprd7",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p050273w",
+          "musicbrainz_gid": "93dc11f4-ffc4-4039-a5c2-1c2c035b6eb8",
+          "name": "Holding Absence"
+        },
+        "artist": "Holding Absence",
+        "track_title": "LUCID LOVE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sumerian Records",
+        "release_title": null,
+        "record_id": "n99fjc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p050273w",
+            "name": "Holding Absence",
+            "role": "Performer",
+            "musicbrainz_gid": "93dc11f4-ffc4-4039-a5c2-1c2c035b6eb8"
+          }
+        ],
+        "title": "LUCID LOVE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Voltage",
+      "title": "Music Is The Answer",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntx2m6",
+        "duration": 247,
+        "primary_contributor": {
+          "pid": "p03183pw",
+          "musicbrainz_gid": "cabad801-2306-46e0-a01d-dc1fd030f1d9",
+          "name": "Voltage"
+        },
+        "artist": "Voltage",
+        "track_title": "Music Is The Answer",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hospital Records",
+        "release_title": null,
+        "record_id": "n98wh4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03183pw",
+            "name": "Voltage",
+            "role": "Performer",
+            "musicbrainz_gid": "cabad801-2306-46e0-a01d-dc1fd030f1d9"
+          }
+        ],
+        "title": "Music Is The Answer",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "O’Flynn",
+      "title": "Obey",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvd81y",
+        "duration": 144,
+        "primary_contributor": {
+          "pid": "p06zrqw5",
+          "musicbrainz_gid": "24c24af0-ce68-4cb1-b76b-2f11664d1567",
+          "name": "O’Flynn"
+        },
+        "artist": "O’Flynn",
+        "track_title": "Obey",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Panthus",
+        "release_title": null,
+        "record_id": "n99jz2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zrqw5",
+            "name": "O’Flynn",
+            "role": "Performer",
+            "musicbrainz_gid": "24c24af0-ce68-4cb1-b76b-2f11664d1567"
+          }
+        ],
+        "title": "Obey",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jodie Harsh",
+      "title": "I Feel It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj3hy",
+        "duration": 170,
+        "primary_contributor": {
+          "pid": "p082n92j",
+          "musicbrainz_gid": "8c6b9ac4-e63d-4f96-9d25-9c2d5fd45387",
+          "name": "Jodie Harsh"
+        },
+        "artist": "Jodie Harsh",
+        "track_title": "I Feel It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "HARSH BEATS",
+        "release_title": null,
+        "record_id": "n99xn8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082n92j",
+            "name": "Jodie Harsh",
+            "role": "Performer",
+            "musicbrainz_gid": "8c6b9ac4-e63d-4f96-9d25-9c2d5fd45387"
+          }
+        ],
+        "title": "I Feel It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1190 @@
+{
+  "pid": "m002yyc4",
+  "broadcast_start": "2026-07-22T18:00:00+01:00",
+  "schedule_date": "2026-07-22",
+  "title": "Sam Smith Hottest Record",
+  "tracks": [
+    {
+      "artist": "Blossoms",
+      "title": "Meet Me In Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ns4vv4",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Meet Me In Love",
+        "track_number": null,
+        "publisher": "The Orchard",
+        "record_label": "Distiller Records",
+        "release_title": null,
+        "record_id": "n99c94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          }
+        ],
+        "title": "Meet Me In Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erin LeCount",
+      "title": "THE CINEMA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvt4hz",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p0d40wr8",
+          "musicbrainz_gid": "52d273ca-1f68-440c-9c37-751358cf0434",
+          "name": "Erin LeCount"
+        },
+        "artist": "Erin LeCount",
+        "track_title": "THE CINEMA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "ATLANTIC RECORDS",
+        "release_title": null,
+        "record_id": "n99qrz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d40wr8",
+            "name": "Erin LeCount",
+            "role": "Performer",
+            "musicbrainz_gid": "52d273ca-1f68-440c-9c37-751358cf0434"
+          }
+        ],
+        "title": "THE CINEMA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Stay With Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01wytf8",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p01zpdf9",
+          "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "name": "Sam Smith"
+        },
+        "artist": "Sam Smith",
+        "track_title": "Stay With Me",
+        "track_number": null,
+        "publisher": "Naughty Words / Sony / ATV Music Publishing Ltd. / Stellar Songs / Salli Isaak Songs Ltd / Method Paperwork Ltd.",
+        "record_label": "Capitol Records",
+        "release_title": null,
+        "record_id": "n2bnqb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01zpdf9",
+            "name": "Sam Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3"
+          }
+        ],
+        "title": "Stay With Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sienna Spiro",
+      "title": "This Is My House",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nydk24",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p0j9wp1j",
+          "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+          "name": "Sienna Spiro"
+        },
+        "artist": "Sienna Spiro",
+        "track_title": "This Is My House",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Sony",
+        "release_title": null,
+        "record_id": "n9r2d3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j9wp1j",
+            "name": "Sienna Spiro",
+            "role": "Performer",
+            "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5"
+          }
+        ],
+        "title": "This Is My House",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Last Dinner Party",
+      "title": "Knocking At The Sky",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxwz4y",
+        "duration": 225,
+        "primary_contributor": {
+          "pid": "p0fjk3vw",
+          "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70",
+          "name": "The Last Dinner Party"
+        },
+        "artist": "The Last Dinner Party",
+        "track_title": "Knocking At The Sky",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing Limited",
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9r4q2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fjk3vw",
+            "name": "The Last Dinner Party",
+            "role": "Performer",
+            "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70"
+          }
+        ],
+        "title": "Knocking At The Sky",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Alive",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwm2km",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "Alive",
+        "track_number": null,
+        "publisher": "Sony Music Publishing; Warner Chappel/BMI; Sony Music Publishing; Jams of Big Family / Clementunes Worldwide",
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "n9rzzh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          },
+          {
+            "pid": "p01k92dm",
+            "name": "Wizkid",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "efc5d365-a448-4e2f-9b5f-4a7c84be725c"
+          }
+        ],
+        "title": "Alive",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nectar Woode",
+      "title": "Roses In The Dark",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nthdzn",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0ggbzn6",
+          "musicbrainz_gid": "e65c1d4e-0866-4db3-94a6-05e4e15649cb",
+          "name": "Nectar Woode"
+        },
+        "artist": "Nectar Woode",
+        "track_title": "Roses In The Dark",
+        "track_number": null,
+        "publisher": "Sony Music",
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n99gm2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ggbzn6",
+            "name": "Nectar Woode",
+            "role": "Performer",
+            "musicbrainz_gid": "e65c1d4e-0866-4db3-94a6-05e4e15649cb"
+          }
+        ],
+        "title": "Roses In The Dark",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Unholy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0d1zhw5",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p01zpdf9",
+          "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "name": "Sam Smith"
+        },
+        "artist": "Sam Smith",
+        "track_title": "Unholy",
+        "track_number": null,
+        "publisher": "Warner-Tamerlane Publishing Co / Wolf Cousins and Warner/Chappell Music Scandinavia AB; admin. by WC Music Corp (STIM) / Universal Tunes (SESAC) / Songs of Universal, Inc/Electric Feel Music/Omer Fedi",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "npcx9f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01zpdf9",
+            "name": "Sam Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3"
+          },
+          {
+            "pid": "p05yn1fk",
+            "name": "Kim Petras",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "54fc0558-12b5-4854-9d57-9441bcd73a72"
+          }
+        ],
+        "title": "Unholy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Oh Mother",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p08zqh",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p01zpdf9",
+          "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "name": "Sam Smith"
+        },
+        "artist": "Sam Smith",
+        "track_title": "Oh Mother",
+        "track_number": null,
+        "publisher": "SSW Publishing Ltd/Tim & Danny Music/Warner-Tamerlane Publishing Corp/Copyright Control/Kobalt Music Publishing",
+        "record_label": "Capitol",
+        "release_title": null,
+        "record_id": "n9rdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01zpdf9",
+            "name": "Sam Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3"
+          },
+          {
+            "pid": "p0p08zr0",
+            "name": "The TwoCity Chorus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6160891e-2d69-493d-a941-a9456383844e"
+          }
+        ],
+        "title": "Oh Mother",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Baddadan",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0g4xhyx",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Baddadan",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "EMI Records",
+        "release_title": null,
+        "record_id": "n8z6dr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p072mmz6",
+            "name": "Bou",
+            "role": "Performer",
+            "musicbrainz_gid": "b3c31c2b-f9ec-4c94-b045-119ac0994da3"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRah",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          },
+          {
+            "pid": "p01kndhr",
+            "name": "Trigga",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "8880fe9c-21a7-4202-80ff-1302fade39db"
+          },
+          {
+            "pid": "p01jbgst",
+            "name": "Flowdan",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "58998667-6dba-4436-a94c-b3ca20cd4234"
+          },
+          {
+            "pid": "p02qnwxc",
+            "name": "Takura",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5d62fdac-a8f1-431f-81ff-1584fc05274b"
+          }
+        ],
+        "title": "Baddadan",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Charli xcx",
+      "title": "The Camera",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p026z3",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p012f188",
+          "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+          "name": "Charli xcx"
+        },
+        "artist": "Charli xcx",
+        "track_title": "The Camera",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rd4g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "The Camera",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Alessi Rose",
+      "title": "Dependent",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxnkj7",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0j3vsrq",
+          "musicbrainz_gid": "7bb3d914-0a4d-4e96-a00e-d9815725244b",
+          "name": "Alessi Rose"
+        },
+        "artist": "Alessi Rose",
+        "track_title": "Dependent",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UMG Recordings, Inc.",
+        "release_title": null,
+        "record_id": "n9r488",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j3vsrq",
+            "name": "Alessi Rose",
+            "role": "Performer",
+            "musicbrainz_gid": "7bb3d914-0a4d-4e96-a00e-d9815725244b"
+          }
+        ],
+        "title": "Dependent",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Dis-le",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw7f76",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Dis-le",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n99m82",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          }
+        ],
+        "title": "Dis-le",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Archives",
+      "title": "Get Me Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ny450v",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p09f4b2r",
+          "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd",
+          "name": "Nia Archives"
+        },
+        "artist": "Nia Archives",
+        "track_title": "Get Me Down",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music Operations Limited",
+        "release_title": null,
+        "record_id": "n9r5jn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09f4b2r",
+            "name": "Nia Archives",
+            "role": "Performer",
+            "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd"
+          },
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Get Me Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "Whale Call",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzqgqd",
+        "duration": 256,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "Whale Call",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rc4h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "Whale Call",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "title": "Saturday Night",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxngr5",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p03df7md",
+          "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+          "name": "Ravyn Lenae"
+        },
+        "artist": "Ravyn Lenae",
+        "track_title": "Saturday Night",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Saturday Night",
+        "record_id": "n99m8j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03df7md",
+            "name": "Ravyn Lenae",
+            "role": "Performer",
+            "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2"
+          }
+        ],
+        "title": "Saturday Night",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gotts Street Park",
+      "title": "Easy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p096mc",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p051h1nn",
+          "musicbrainz_gid": "0c91c655-444e-4ae7-a0a0-9e9cb160301c",
+          "name": "Gotts Street Park"
+        },
+        "artist": "Gotts Street Park",
+        "track_title": "Easy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Play It Again Sam",
+        "release_title": "SOMEWHERE BETWEEN",
+        "record_id": "n9rdwh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p051h1nn",
+            "name": "Gotts Street Park",
+            "role": "Performer",
+            "musicbrainz_gid": "0c91c655-444e-4ae7-a0a0-9e9cb160301c"
+          },
+          {
+            "pid": "p02mxh0s",
+            "name": "Celeste",
+            "role": "Performer",
+            "musicbrainz_gid": "1b8a634e-9fa2-4ddb-bdcf-50bc7e4b167c"
+          }
+        ],
+        "title": "Easy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Amaria BB",
+      "title": "Focus",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nrmx6v",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0cs5jzn",
+          "musicbrainz_gid": "eebb6d7a-8d3c-4cc0-a101-9d2afa188147",
+          "name": "Amaria BB"
+        },
+        "artist": "Amaria BB",
+        "track_title": "Focus",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "XLVL Phoenix Limited",
+        "release_title": null,
+        "record_id": "n994wx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cs5jzn",
+            "name": "Amaria BB",
+            "role": "Performer",
+            "musicbrainz_gid": "eebb6d7a-8d3c-4cc0-a101-9d2afa188147"
+          }
+        ],
+        "title": "Focus",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "title": "THAT GUY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0hlv",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p012ddld",
+          "musicbrainz_gid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+          "name": "Tyler, The Creator"
+        },
+        "artist": "Tyler, The Creator",
+        "track_title": "THAT GUY",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": "THAT GUY",
+        "record_id": "n99qvj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012ddld",
+            "name": "Tyler, The Creator",
+            "role": "Performer",
+            "musicbrainz_gid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6"
+          }
+        ],
+        "title": "THAT GUY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "2hollis",
+      "title": "hurt",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p098qv",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0krvzn6",
+          "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+          "name": "2hollis"
+        },
+        "artist": "2hollis",
+        "track_title": "hurt",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "n9rdwq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0krvzn6",
+            "name": "2hollis",
+            "role": "Performer",
+            "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5"
+          }
+        ],
+        "title": "hurt",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "CONSTANTLY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntxm84",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "CONSTANTLY",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Run Things",
+        "release_title": null,
+        "record_id": "n99gmw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          }
+        ],
+        "title": "CONSTANTLY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Overmono",
+      "title": "Knight In Shining Prada",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrtbp",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p04mzzzy",
+          "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+          "name": "Overmono"
+        },
+        "artist": "Overmono",
+        "track_title": "Knight In Shining Prada",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9r8xw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04mzzzy",
+            "name": "Overmono",
+            "role": "Performer",
+            "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa"
+          },
+          {
+            "pid": "p0nyrtc6",
+            "name": "John Joseph Holt",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2837b526-a777-4ec5-9df2-f4ff0d58bd70"
+          }
+        ],
+        "title": "Knight In Shining Prada",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "RAPID FIYAH",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsvfkv",
+        "duration": 166,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "RAPID FIYAH",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99dm2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          },
+          {
+            "pid": "p08kftpb",
+            "name": "Skillibeng",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2f639ba8-11ee-4128-9915-2303afd30078"
+          }
+        ],
+        "title": "RAPID FIYAH",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "K Trap",
+      "title": "CAN'T SAY NO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsybbw",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p05gj2yw",
+          "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787",
+          "name": "K Trap"
+        },
+        "artist": "K Trap",
+        "track_title": "CAN'T SAY NO",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "K-Trap",
+        "release_title": null,
+        "record_id": "n999pv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05gj2yw",
+            "name": "K Trap",
+            "role": "Performer",
+            "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787"
+          },
+          {
+            "pid": "p05c7n5g",
+            "name": "Young Adz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "a4afd2fa-9891-4983-b6bd-0aa40ad17c6f"
+          }
+        ],
+        "title": "CAN'T SAY NO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Larry June",
+      "title": "California Dream",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz870t",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p037fcky",
+          "musicbrainz_gid": "20d49152-11a2-4e55-8251-0d11dc6424fa",
+          "name": "Larry June"
+        },
+        "artist": "Larry June",
+        "track_title": "California Dream",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Empire",
+        "release_title": null,
+        "record_id": "n9r9g6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p037fcky",
+            "name": "Larry June",
+            "role": "Performer",
+            "musicbrainz_gid": "20d49152-11a2-4e55-8251-0d11dc6424fa"
+          },
+          {
+            "pid": "p01k3rt1",
+            "name": "Jhené Aiko",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ceb3f5b7-9f1a-430f-afbe-976fdcf30482"
+          }
+        ],
+        "title": "California Dream",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Moses Boyd",
+      "title": "Say Yeah",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyl9jx",
+        "duration": 232,
+        "primary_contributor": {
+          "pid": "p040k0dc",
+          "musicbrainz_gid": "90c07789-6d90-4b86-9780-0a954cc4469c",
+          "name": "Moses Boyd"
+        },
+        "artist": "Moses Boyd",
+        "track_title": "Say Yeah",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Exodus Records",
+        "release_title": null,
+        "record_id": "n99m86",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p040k0dc",
+            "name": "Moses Boyd",
+            "role": "Performer",
+            "musicbrainz_gid": "90c07789-6d90-4b86-9780-0a954cc4469c"
+          }
+        ],
+        "title": "Say Yeah",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Upside Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p09flr",
+        "duration": 104,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Upside Down",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9rdwx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Upside Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "What If It's Right?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzqgt9",
+        "duration": 272,
+        "primary_contributor": {
+          "pid": "p0874dy1",
+          "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+          "name": "Gracie Abrams"
+        },
+        "artist": "Gracie Abrams",
+        "track_title": "What If It's Right?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rc4j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0874dy1",
+            "name": "Gracie Abrams",
+            "role": "Performer",
+            "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d"
+          },
+          {
+            "pid": "p01pl4gx",
+            "name": "Marcus Mumford",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "30415593-f831-42a1-ba3f-fbaef1272815"
+          }
+        ],
+        "title": "What If It's Right?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Absolutely",
+      "title": "I Just Don't Know You Yet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxt3zq",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0b3hcpg",
+          "musicbrainz_gid": "30ef765d-f7bb-4e7e-8972-13be03aa4f2c",
+          "name": "Absolutely"
+        },
+        "artist": "Absolutely",
+        "track_title": "I Just Don't Know You Yet",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EPIC",
+        "release_title": null,
+        "record_id": "n8mp64",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0b3hcpg",
+            "name": "Absolutely",
+            "role": "Performer",
+            "musicbrainz_gid": "30ef765d-f7bb-4e7e-8972-13be03aa4f2c"
+          }
+        ],
+        "title": "I Just Don't Know You Yet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lainey Wilson",
+      "title": "Phone, Keys, Wallet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr7ygp",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p071v3mt",
+          "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05",
+          "name": "Lainey Wilson"
+        },
+        "artist": "Lainey Wilson",
+        "track_title": "Phone, Keys, Wallet",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Broken Bow Records",
+        "release_title": "Phone, Keys, Wallet",
+        "record_id": "n99525",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p071v3mt",
+            "name": "Lainey Wilson",
+            "role": "Performer",
+            "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05"
+          },
+          {
+            "pid": "p012dp42",
+            "name": "John Mayer",
+            "role": "Performer",
+            "musicbrainz_gid": "144ef525-85e9-40c3-8335-02c32d0861f3"
+          }
+        ],
+        "title": "Phone, Keys, Wallet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

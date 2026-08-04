@@ -1,0 +1,1220 @@
+{
+  "pid": "m002y0b6",
+  "broadcast_start": "2026-07-02T18:00:00+01:00",
+  "schedule_date": "2026-07-02",
+  "title": "Wolf Alice Hottest Record",
+  "tracks": [
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Lost Boys",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nv6t43",
+        "duration": 245,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "Lost Boys",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99j4w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "Lost Boys",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Meet Me In Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ns4vv4",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Meet Me In Love",
+        "track_number": null,
+        "publisher": "The Orchard",
+        "record_label": "Distiller Records",
+        "release_title": null,
+        "record_id": "n99c94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          }
+        ],
+        "title": "Meet Me In Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wolf Alice",
+      "title": "Don't Delete The Kisses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p057vn94",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p034xfbs",
+          "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+          "name": "Wolf Alice"
+        },
+        "artist": "Wolf Alice",
+        "track_title": "Don't Delete The Kisses",
+        "track_number": "4",
+        "publisher": "Kobalt Music Group Ltd",
+        "record_label": "Dirty Hit",
+        "release_title": "Visions Of A Life",
+        "record_id": "n4dgj9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034xfbs",
+            "name": "Wolf Alice",
+            "role": "Performer",
+            "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+          }
+        ],
+        "title": "Don't Delete The Kisses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nectar Woode",
+      "title": "Roses In The Dark",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nthdzn",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0ggbzn6",
+          "musicbrainz_gid": "e65c1d4e-0866-4db3-94a6-05e4e15649cb",
+          "name": "Nectar Woode"
+        },
+        "artist": "Nectar Woode",
+        "track_title": "Roses In The Dark",
+        "track_number": null,
+        "publisher": "Sony Music",
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n99gm2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ggbzn6",
+            "name": "Nectar Woode",
+            "role": "Performer",
+            "musicbrainz_gid": "e65c1d4e-0866-4db3-94a6-05e4e15649cb"
+          }
+        ],
+        "title": "Roses In The Dark",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacy",
+      "title": "The Feeling",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nqty17",
+        "duration": 269,
+        "primary_contributor": {
+          "pid": "p04vcw91",
+          "musicbrainz_gid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+          "name": "Steve Lacy"
+        },
+        "artist": "Steve Lacy",
+        "track_title": "The Feeling",
+        "track_number": null,
+        "publisher": "RCA Records & L-M Records",
+        "record_label": "Sony Music Entertainment, L-M Records & RCA Records",
+        "release_title": "Oh yeah?",
+        "record_id": "n995xg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04vcw91",
+            "name": "Steve Lacy",
+            "role": "Performer",
+            "musicbrainz_gid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+          }
+        ],
+        "title": "The Feeling",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleachers",
+      "title": "We Should Talk",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nnvldx",
+        "duration": 184,
+        "primary_contributor": {
+          "pid": "p021lg0c",
+          "musicbrainz_gid": "58e235fc-f6ea-4614-9ed4-9855a5665ae1",
+          "name": "Bleachers"
+        },
+        "artist": "Bleachers",
+        "track_title": "We Should Talk",
+        "track_number": null,
+        "publisher": "Dirty Hit",
+        "record_label": "Dirty Hit",
+        "release_title": "everyone for ten minutes",
+        "record_id": "n98whc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p021lg0c",
+            "name": "Bleachers",
+            "role": "Performer",
+            "musicbrainz_gid": "58e235fc-f6ea-4614-9ed4-9855a5665ae1"
+          }
+        ],
+        "title": "We Should Talk",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "South Arcade",
+      "title": "DEADMEAT",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nskp3k",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0dbxqn0",
+          "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3",
+          "name": "South Arcade"
+        },
+        "artist": "South Arcade",
+        "track_title": "DEADMEAT",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n99pm8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbxqn0",
+            "name": "South Arcade",
+            "role": "Performer",
+            "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3"
+          }
+        ],
+        "title": "DEADMEAT",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wolf Alice",
+      "title": "Bloom Baby Bloom",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0lbjhv1",
+        "duration": 227,
+        "primary_contributor": {
+          "pid": "p034xfbs",
+          "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+          "name": "Wolf Alice"
+        },
+        "artist": "Wolf Alice",
+        "track_title": "Bloom Baby Bloom",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n8vbw8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034xfbs",
+            "name": "Wolf Alice",
+            "role": "Performer",
+            "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+          }
+        ],
+        "title": "Bloom Baby Bloom",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wolf Alice",
+      "title": "Gospel Oak",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwhwpd",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p034xfbs",
+          "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+          "name": "Wolf Alice"
+        },
+        "artist": "Wolf Alice",
+        "track_title": "Gospel Oak",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n99mqc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034xfbs",
+            "name": "Wolf Alice",
+            "role": "Performer",
+            "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+          }
+        ],
+        "title": "Gospel Oak",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Josh Baker",
+      "title": "Dr Feel Right",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0m6mrlt",
+        "duration": 145,
+        "primary_contributor": {
+          "pid": "p0jjtkgs",
+          "musicbrainz_gid": "ec4f15e9-0a88-41d4-b73a-9dd972ba8843",
+          "name": "Josh Baker"
+        },
+        "artist": "Josh Baker",
+        "track_title": "Dr Feel Right",
+        "track_number": null,
+        "publisher": "Unpublished",
+        "record_label": "ThreeSixZero",
+        "release_title": null,
+        "record_id": "n9ndxf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jjtkgs",
+            "name": "Josh Baker",
+            "role": "Performer",
+            "musicbrainz_gid": "ec4f15e9-0a88-41d4-b73a-9dd972ba8843"
+          },
+          {
+            "pid": "p01kf83d",
+            "name": "The Egyptian Lover",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "31200780-d9e5-4c34-a022-064410996ee0"
+          },
+          {
+            "pid": "p026xq4t",
+            "name": "Rome Fortune",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "cfa75366-4aaa-44bd-8a9f-3c36d55f8fb4"
+          }
+        ],
+        "title": "Dr Feel Right",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Pin Up Boys",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw75wl",
+        "duration": 163,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Pin Up Boys",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n99mpq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Pin Up Boys",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rose Gray",
+      "title": "Club To Your Arms",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj2tx",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p07f9hjs",
+          "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40",
+          "name": "Rose Gray"
+        },
+        "artist": "Rose Gray",
+        "track_title": "Club To Your Arms",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sugar Plum Fairy",
+        "release_title": null,
+        "record_id": "n998qx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07f9hjs",
+            "name": "Rose Gray",
+            "role": "Performer",
+            "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40"
+          }
+        ],
+        "title": "Club To Your Arms",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "jigitz",
+      "title": "thumbs",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntq708",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p0kv4lxy",
+          "musicbrainz_gid": "58c4026e-b5b5-4368-8743-e5579d2b1a40",
+          "name": "jigitz"
+        },
+        "artist": "jigitz",
+        "track_title": "thumbs",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "R&R Digital",
+        "release_title": null,
+        "record_id": "n99hcg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kv4lxy",
+            "name": "jigitz",
+            "role": "Performer",
+            "musicbrainz_gid": "58c4026e-b5b5-4368-8743-e5579d2b1a40"
+          },
+          {
+            "pid": "p0nvtmvj",
+            "name": "Lamb",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ea5510c0-2414-40f0-a25c-6999dff027d2"
+          }
+        ],
+        "title": "thumbs",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jodie Harsh",
+      "title": "I Feel It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj3hy",
+        "duration": 170,
+        "primary_contributor": {
+          "pid": "p082n92j",
+          "musicbrainz_gid": "8c6b9ac4-e63d-4f96-9d25-9c2d5fd45387",
+          "name": "Jodie Harsh"
+        },
+        "artist": "Jodie Harsh",
+        "track_title": "I Feel It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "HARSH BEATS",
+        "release_title": null,
+        "record_id": "n99xn8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082n92j",
+            "name": "Jodie Harsh",
+            "role": "Performer",
+            "musicbrainz_gid": "8c6b9ac4-e63d-4f96-9d25-9c2d5fd45387"
+          }
+        ],
+        "title": "I Feel It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Violet Grohl",
+      "title": "Bug In The Cake",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr0xmx",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p09fr9dz",
+          "musicbrainz_gid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+          "name": "Violet Grohl"
+        },
+        "artist": "Violet Grohl",
+        "track_title": "Bug In The Cake",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Records",
+        "release_title": null,
+        "record_id": "n99n58",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09fr9dz",
+            "name": "Violet Grohl",
+            "role": "Performer",
+            "musicbrainz_gid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6"
+          }
+        ],
+        "title": "Bug In The Cake",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Sun Has Set",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntwxqd",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Sun Has Set",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n99hv4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Sun Has Set",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ecca Vandal",
+      "title": "VERTICAL WORLDS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nlzdf7",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p02rl6wl",
+          "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076",
+          "name": "Ecca Vandal"
+        },
+        "artist": "Ecca Vandal",
+        "track_title": "VERTICAL WORLDS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n98gdd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02rl6wl",
+            "name": "Ecca Vandal",
+            "role": "Performer",
+            "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076"
+          }
+        ],
+        "title": "VERTICAL WORLDS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Good Neighbours",
+      "title": "Superstar",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw88tb",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p0h7w2pb",
+          "musicbrainz_gid": "a84a3df1-a873-4be9-b6ff-4238393d46d7",
+          "name": "Good Neighbours"
+        },
+        "artist": "Good Neighbours",
+        "track_title": "Superstar",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99qbz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0h7w2pb",
+            "name": "Good Neighbours",
+            "role": "Performer",
+            "musicbrainz_gid": "a84a3df1-a873-4be9-b6ff-4238393d46d7"
+          }
+        ],
+        "title": "Superstar",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Suki Waterhouse",
+      "title": "When I Get Drunk (I Want You Boy)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsv0jv",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p09z1gp3",
+          "musicbrainz_gid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
+          "name": "Suki Waterhouse"
+        },
+        "artist": "Suki Waterhouse",
+        "track_title": "When I Get Drunk (I Want You Boy)",
+        "track_number": null,
+        "publisher": "Suki Waterhouse (ASCAP)",
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n99cr4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09z1gp3",
+            "name": "Suki Waterhouse",
+            "role": "Performer",
+            "musicbrainz_gid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1"
+          }
+        ],
+        "title": "When I Get Drunk (I Want You Boy)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Juls",
+      "title": "RARRI",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsttss",
+        "duration": 126,
+        "primary_contributor": {
+          "pid": "p03856sq",
+          "musicbrainz_gid": "06059ff3-720e-4b33-8e34-b98933817fe8",
+          "name": "Juls"
+        },
+        "artist": "Juls",
+        "track_title": "RARRI",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n98w2z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03856sq",
+            "name": "Juls",
+            "role": "Performer",
+            "musicbrainz_gid": "06059ff3-720e-4b33-8e34-b98933817fe8"
+          },
+          {
+            "pid": "p08l382h",
+            "name": "Projexx",
+            "role": "Performer",
+            "musicbrainz_gid": "f3b7c5f5-055c-4490-b5bc-f9dde1c0ddc3"
+          },
+          {
+            "pid": "p0jd82h7",
+            "name": "Valiant",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "45956c1c-ee8b-47f9-b98b-9d7d0b83bfd8"
+          }
+        ],
+        "title": "RARRI",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vybz Kartel",
+      "title": "Just Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj8s7",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012dp11",
+          "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973",
+          "name": "Vybz Kartel"
+        },
+        "artist": "Vybz Kartel",
+        "track_title": "Just Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "0207 Def Jam",
+        "release_title": null,
+        "record_id": "n99mmc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dp11",
+            "name": "Vybz Kartel",
+            "role": "Performer",
+            "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973"
+          },
+          {
+            "pid": "p012dw5v",
+            "name": "Shy FX",
+            "role": "Performer",
+            "musicbrainz_gid": "ee459bd7-9768-4cc2-9452-a09700c4aeaa"
+          },
+          {
+            "pid": "p012dxmh",
+            "name": "Clipz",
+            "role": "Performer",
+            "musicbrainz_gid": "94144c85-c5ee-4ec6-85cd-15e48b16ffea"
+          }
+        ],
+        "title": "Just Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Luude",
+      "title": "All We Do Is Dance",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj93w",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p06jzh0q",
+          "musicbrainz_gid": "042f62fc-6c2e-4b8b-8114-8dab7f974631",
+          "name": "Luude"
+        },
+        "artist": "Luude",
+        "track_title": "All We Do Is Dance",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "WORSHIP",
+        "release_title": null,
+        "record_id": "n99mmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06jzh0q",
+            "name": "Luude",
+            "role": "Performer",
+            "musicbrainz_gid": "042f62fc-6c2e-4b8b-8114-8dab7f974631"
+          },
+          {
+            "pid": "p04w2t65",
+            "name": "1991",
+            "role": "Performer",
+            "musicbrainz_gid": "c478aff3-2457-4cee-bdf1-6b85758f7cc6"
+          }
+        ],
+        "title": "All We Do Is Dance",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Luude",
+      "title": "All We Do Is Dance (nms bed)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj9pt",
+        "duration": 110,
+        "primary_contributor": {
+          "pid": "p06jzh0q",
+          "musicbrainz_gid": "042f62fc-6c2e-4b8b-8114-8dab7f974631",
+          "name": "Luude"
+        },
+        "artist": "Luude",
+        "track_title": "All We Do Is Dance (nms bed)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99mmf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06jzh0q",
+            "name": "Luude",
+            "role": "Performer",
+            "musicbrainz_gid": "042f62fc-6c2e-4b8b-8114-8dab7f974631"
+          },
+          {
+            "pid": "p04w2t65",
+            "name": "1991",
+            "role": "Performer",
+            "musicbrainz_gid": "c478aff3-2457-4cee-bdf1-6b85758f7cc6"
+          }
+        ],
+        "title": "All We Do Is Dance (nms bed)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Aitch",
+      "title": "Ring My Bell",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nrhylc",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p06tr7tc",
+          "musicbrainz_gid": "57dd4661-9f78-4442-8836-482fab983008",
+          "name": "Aitch"
+        },
+        "artist": "Aitch",
+        "track_title": "Ring My Bell",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n999p2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06tr7tc",
+            "name": "Aitch",
+            "role": "Performer",
+            "musicbrainz_gid": "57dd4661-9f78-4442-8836-482fab983008"
+          }
+        ],
+        "title": "Ring My Bell",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Benjamin Steer",
+      "title": "Dog Eat Dog",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nthvw5",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0kyl2nq",
+          "musicbrainz_gid": "5d6f4f63-edd8-40b9-9940-b54d6a1e6316",
+          "name": "Benjamin Steer"
+        },
+        "artist": "Benjamin Steer",
+        "track_title": "Dog Eat Dog",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Artist Theory",
+        "release_title": null,
+        "record_id": "n99hzw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyl2nq",
+            "name": "Benjamin Steer",
+            "role": "Performer",
+            "musicbrainz_gid": "5d6f4f63-edd8-40b9-9940-b54d6a1e6316"
+          }
+        ],
+        "title": "Dog Eat Dog",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holding Absence",
+      "title": "LUCID LOVE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntprd7",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p050273w",
+          "musicbrainz_gid": "93dc11f4-ffc4-4039-a5c2-1c2c035b6eb8",
+          "name": "Holding Absence"
+        },
+        "artist": "Holding Absence",
+        "track_title": "LUCID LOVE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sumerian Records",
+        "release_title": null,
+        "record_id": "n99fjc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p050273w",
+            "name": "Holding Absence",
+            "role": "Performer",
+            "musicbrainz_gid": "93dc11f4-ffc4-4039-a5c2-1c2c035b6eb8"
+          }
+        ],
+        "title": "LUCID LOVE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Waterparks",
+      "title": "BETTER THAN THERAPY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvn7tg",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p03s2d9l",
+          "musicbrainz_gid": "5028bb70-8872-4806-8b4a-b693ae0da7fc",
+          "name": "Waterparks"
+        },
+        "artist": "Waterparks",
+        "track_title": "BETTER THAN THERAPY",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99qn3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03s2d9l",
+            "name": "Waterparks",
+            "role": "Performer",
+            "musicbrainz_gid": "5028bb70-8872-4806-8b4a-b693ae0da7fc"
+          }
+        ],
+        "title": "BETTER THAN THERAPY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Alyssa Grace",
+      "title": "bloodstream",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr1lql",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p0nkv7r1",
+          "musicbrainz_gid": "80bd07ef-4e48-4e2c-b5ad-e590e3879cf7",
+          "name": "Alyssa Grace"
+        },
+        "artist": "Alyssa Grace",
+        "track_title": "bloodstream",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99889",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nkv7r1",
+            "name": "Alyssa Grace",
+            "role": "Performer",
+            "musicbrainz_gid": "80bd07ef-4e48-4e2c-b5ad-e590e3879cf7"
+          }
+        ],
+        "title": "bloodstream",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cara Delevingne",
+      "title": "Need It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwjf9h",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p071xykl",
+          "musicbrainz_gid": "abc8ba85-0a27-4eaa-9813-19414a454c54",
+          "name": "Cara Delevingne"
+        },
+        "artist": "Cara Delevingne",
+        "track_title": "Need It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9rzzp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p071xykl",
+            "name": "Cara Delevingne",
+            "role": "Performer",
+            "musicbrainz_gid": "abc8ba85-0a27-4eaa-9813-19414a454c54"
+          }
+        ],
+        "title": "Need It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "kwn",
+      "title": "risk it all",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvmvg9",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p08zd77v",
+          "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3",
+          "name": "kwn"
+        },
+        "artist": "kwn",
+        "track_title": "risk it all",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n99jp8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Performer",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "risk it all",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sekou",
+      "title": "Does She Know",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0z1v",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p0fskp3d",
+          "musicbrainz_gid": "d2b5e992-9672-45a8-9d01-97f3b1afb053",
+          "name": "Sekou"
+        },
+        "artist": "Sekou",
+        "track_title": "Does She Know",
+        "track_number": null,
+        "publisher": "NWS Music Group/Gitty Got Goals Publishing/Rights Administered By BMG Rights Management (US) LLC/ThomasStarting5 (ASCAP), Administered by Sony/ATV Tunes",
+        "record_label": "Island",
+        "release_title": "In A World We Don't Belong Pt. 2",
+        "record_id": "n9p8z8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fskp3d",
+            "name": "Sekou",
+            "role": "Performer",
+            "musicbrainz_gid": "d2b5e992-9672-45a8-9d01-97f3b1afb053"
+          }
+        ],
+        "title": "Does She Know",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "I'm your girl right? (Fcukers Remix)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nt2j4p",
+        "duration": 318,
+        "primary_contributor": {
+          "pid": "p01k5jzx",
+          "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225",
+          "name": "Tove Lo"
+        },
+        "artist": "Tove Lo",
+        "track_title": "I'm your girl right? (Fcukers Remix)",
+        "track_number": null,
+        "publisher": "Warner Chappell Music SCAND (STIM)",
+        "record_label": "Pretty Swede Records",
+        "release_title": null,
+        "record_id": "n99f82",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01k5jzx",
+            "name": "Tove Lo",
+            "role": "Performer",
+            "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225"
+          },
+          {
+            "pid": "p0hlt7m8",
+            "name": "Fcukers",
+            "role": "Remix Artist",
+            "musicbrainz_gid": "5e23e428-d9f5-4679-bd7c-8254d6f0a437"
+          }
+        ],
+        "title": "I'm your girl right? (Fcukers Remix)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

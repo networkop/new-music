@@ -1,0 +1,1124 @@
+{
+  "pid": "m002zf1q",
+  "broadcast_start": "2026-08-03T18:00:00+01:00",
+  "schedule_date": "2026-08-03",
+  "title": "Bonobo, Joy Crookes and Davido",
+  "tracks": [
+    {
+      "artist": "Chase & Status",
+      "title": "Disgruntled",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0jnk6",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Disgruntled",
+        "track_number": null,
+        "publisher": "Sony Music Publishing, Concord Music Publishing, Imhotep Publishing, Kobalt Publishing",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rx5b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p038bb28",
+            "name": "J Hus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "eca85dd0-f1fb-4e83-8c47-61403f479254"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRah",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Disgruntled",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FKA twigs",
+      "title": "On Your Mind",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nthj1c",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p01hj47f",
+          "musicbrainz_gid": "1e4e9db7-5068-4a9c-bdd0-5777e47172c8",
+          "name": "FKA twigs"
+        },
+        "artist": "FKA twigs",
+        "track_title": "On Your Mind",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n99gmp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01hj47f",
+            "name": "FKA twigs",
+            "role": "Performer",
+            "musicbrainz_gid": "1e4e9db7-5068-4a9c-bdd0-5777e47172c8"
+          },
+          {
+            "pid": "p03mcpp1",
+            "name": "Lil Yachty",
+            "role": "Performer",
+            "musicbrainz_gid": "a668565b-41b8-44a8-9d5c-8e609dbf69fc"
+          }
+        ],
+        "title": "On Your Mind",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Me and You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr0t3f",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Me and You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9985d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          }
+        ],
+        "title": "Me and You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Pin Up Boys",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw75wl",
+        "duration": 163,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Pin Up Boys",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n99mpq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Pin Up Boys",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "One Song Away From Crying",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1jh9s",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "One Song Away From Crying",
+        "track_number": null,
+        "publisher": "Beachbreak publishing",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9rwn2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "One Song Away From Crying",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erin LeCount",
+      "title": "THE CINEMA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvt4hz",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p0d40wr8",
+          "musicbrainz_gid": "52d273ca-1f68-440c-9c37-751358cf0434",
+          "name": "Erin LeCount"
+        },
+        "artist": "Erin LeCount",
+        "track_title": "THE CINEMA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "ATLANTIC RECORDS",
+        "release_title": null,
+        "record_id": "n99qrz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d40wr8",
+            "name": "Erin LeCount",
+            "role": "Performer",
+            "musicbrainz_gid": "52d273ca-1f68-440c-9c37-751358cf0434"
+          }
+        ],
+        "title": "THE CINEMA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Last Dinner Party",
+      "title": "Knocking At The Sky",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxwz4y",
+        "duration": 225,
+        "primary_contributor": {
+          "pid": "p0fjk3vw",
+          "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70",
+          "name": "The Last Dinner Party"
+        },
+        "artist": "The Last Dinner Party",
+        "track_title": "Knocking At The Sky",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing Limited",
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9r4q2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fjk3vw",
+            "name": "The Last Dinner Party",
+            "role": "Performer",
+            "musicbrainz_gid": "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70"
+          }
+        ],
+        "title": "Knocking At The Sky",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Kerala",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nr0spx",
+        "duration": 235,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Kerala",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n44fq5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          }
+        ],
+        "title": "Kerala",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Always On Your Side",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gc4l",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Always On Your Side",
+        "track_number": null,
+        "publisher": "BMG",
+        "record_label": "Bonobo Music Inc.",
+        "release_title": null,
+        "record_id": "n9rqh8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          },
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          }
+        ],
+        "title": "Always On Your Side",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "Toast",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p071n351",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "Toast",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n58jz9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "Toast",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Charli xcx",
+      "title": "Camera",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2098g",
+        "duration": 141,
+        "primary_contributor": {
+          "pid": "p012f188",
+          "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+          "name": "Charli xcx"
+        },
+        "artist": "Charli xcx",
+        "track_title": "Camera",
+        "track_number": "4",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Music, Fashion, Film",
+        "record_id": "n9rd69",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Camera",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cardi B",
+      "title": "AH HA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gf5f",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p03y2b9j",
+          "musicbrainz_gid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+          "name": "Cardi B"
+        },
+        "artist": "Cardi B",
+        "track_title": "AH HA",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "AH HA",
+        "record_id": "n9rqgp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03y2b9j",
+            "name": "Cardi B",
+            "role": "Performer",
+            "musicbrainz_gid": "2f3c4d70-0462-40da-bba3-0aec5772c556"
+          }
+        ],
+        "title": "AH HA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Creatine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrr0c",
+        "duration": 109,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Creatine",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Alta Music Group",
+        "release_title": null,
+        "record_id": "n9r8xx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Creatine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "PIXY",
+      "title": "LEGACY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvtx2m",
+        "duration": 132,
+        "primary_contributor": {
+          "pid": "p0nrqv8k",
+          "musicbrainz_gid": "0aaf3c5c-ab4d-43a1-a69d-b7949520cf7a",
+          "name": "PIXY"
+        },
+        "artist": "PIXY",
+        "track_title": "LEGACY",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "PIXY",
+        "release_title": null,
+        "record_id": "n94w2h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nrqv8k",
+            "name": "PIXY",
+            "role": "Performer",
+            "musicbrainz_gid": "0aaf3c5c-ab4d-43a1-a69d-b7949520cf7a"
+          }
+        ],
+        "title": "LEGACY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "kwn",
+      "title": "risk it all",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz7lsf",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p08zd77v",
+          "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3",
+          "name": "kwn"
+        },
+        "artist": "kwn",
+        "track_title": "risk it all",
+        "track_number": null,
+        "publisher": "BMI; Warner-Tamerlane Publishing; Recognition Songs; Kobalt; Universal Music Publishing; Warner Chaooell; ASCAP; Swing T Publishing (BMI)",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n99jp8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Performer",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "risk it all",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vybz Kartel",
+      "title": "Just Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj8s7",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012dp11",
+          "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973",
+          "name": "Vybz Kartel"
+        },
+        "artist": "Vybz Kartel",
+        "track_title": "Just Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "0207 Def Jam",
+        "release_title": null,
+        "record_id": "n99mmc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dp11",
+            "name": "Vybz Kartel",
+            "role": "Performer",
+            "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973"
+          },
+          {
+            "pid": "p012dw5v",
+            "name": "Shy FX",
+            "role": "Performer",
+            "musicbrainz_gid": "ee459bd7-9768-4cc2-9452-a09700c4aeaa"
+          },
+          {
+            "pid": "p012dxmh",
+            "name": "Clipz",
+            "role": "Performer",
+            "musicbrainz_gid": "94144c85-c5ee-4ec6-85cd-15e48b16ffea"
+          }
+        ],
+        "title": "Just Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Archives",
+      "title": "There Goes Ma Head",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzwrcr",
+        "duration": 155,
+        "primary_contributor": {
+          "pid": "p09f4b2r",
+          "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd",
+          "name": "Nia Archives"
+        },
+        "artist": "Nia Archives",
+        "track_title": "There Goes Ma Head",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9rcfh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09f4b2r",
+            "name": "Nia Archives",
+            "role": "Performer",
+            "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd"
+          }
+        ],
+        "title": "There Goes Ma Head",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Twiggy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gjs9",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Twiggy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island/EMI",
+        "release_title": null,
+        "record_id": "n9rqhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Twiggy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nines",
+      "title": "Milan (CC2)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0mhcb",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p034wgr4",
+          "musicbrainz_gid": "79598541-191b-4a97-88b5-e3d0f70e7a0a",
+          "name": "Nines"
+        },
+        "artist": "Nines",
+        "track_title": "Milan (CC2)",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Zino Records / EMPIRE",
+        "release_title": null,
+        "record_id": "n9rxj5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034wgr4",
+            "name": "Nines",
+            "role": "Performer",
+            "musicbrainz_gid": "79598541-191b-4a97-88b5-e3d0f70e7a0a"
+          },
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          },
+          {
+            "pid": "p02svyvb",
+            "name": "Skrapz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "a89c0c6d-cff7-4bd3-bd07-61afb2ec6cae"
+          }
+        ],
+        "title": "Milan (CC2)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Masego",
+      "title": "Heaven",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2glm2",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p03hk4dr",
+          "musicbrainz_gid": "bca63b5d-a28c-4937-a8f4-e3f2d95426e1",
+          "name": "Masego"
+        },
+        "artist": "Masego",
+        "track_title": "Heaven",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "CAPITOL",
+        "release_title": null,
+        "record_id": "n9rcqz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03hk4dr",
+            "name": "Masego",
+            "role": "Performer",
+            "musicbrainz_gid": "bca63b5d-a28c-4937-a8f4-e3f2d95426e1"
+          }
+        ],
+        "title": "Heaven",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Davido",
+      "title": "I Know Who I Be",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz0950",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p01n6752",
+          "musicbrainz_gid": "a9ae7d4b-10f0-4da8-8b8c-21722a074a54",
+          "name": "Davido"
+        },
+        "artist": "Davido",
+        "track_title": "I Know Who I Be",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9r93w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01n6752",
+            "name": "Davido",
+            "role": "Performer",
+            "musicbrainz_gid": "a9ae7d4b-10f0-4da8-8b8c-21722a074a54"
+          },
+          {
+            "pid": "p0ndml5n",
+            "name": "JAZZWRLD",
+            "role": "Performer",
+            "musicbrainz_gid": "fcea301d-ad38-4733-b115-747476559583"
+          },
+          {
+            "pid": "p0ndmkp5",
+            "name": "GL_Ceejay",
+            "role": "Performer",
+            "musicbrainz_gid": "cb9bfc44-bb6f-45b7-9e6e-fbb68370cfc0"
+          }
+        ],
+        "title": "I Know Who I Be",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Davido",
+      "title": "Gimme Dat Ting",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0jvw0",
+        "duration": 201,
+        "primary_contributor": {
+          "pid": "p01n6752",
+          "musicbrainz_gid": "a9ae7d4b-10f0-4da8-8b8c-21722a074a54",
+          "name": "Davido"
+        },
+        "artist": "Davido",
+        "track_title": "Gimme Dat Ting",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n9rch3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01n6752",
+            "name": "Davido",
+            "role": "Performer",
+            "musicbrainz_gid": "a9ae7d4b-10f0-4da8-8b8c-21722a074a54"
+          },
+          {
+            "pid": "p0p25h8y",
+            "name": "NO11",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c5a9c930-f89b-4ad2-8879-f0dced1bf51e"
+          }
+        ],
+        "title": "Gimme Dat Ting",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "John Glacier",
+      "title": "Bond Girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p001fw",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p07m32f2",
+          "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d",
+          "name": "John Glacier"
+        },
+        "artist": "John Glacier",
+        "track_title": "Bond Girl",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young Records",
+        "release_title": null,
+        "record_id": "n9rcfm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Performer",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Bond Girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Robyn",
+      "title": "Talk To Me, Zara",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p19yhk",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p012d7sh",
+          "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94",
+          "name": "Robyn"
+        },
+        "artist": "Robyn",
+        "track_title": "Talk To Me, Zara",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young Records",
+        "release_title": null,
+        "record_id": "n9rhc9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7sh",
+            "name": "Robyn",
+            "role": "Performer",
+            "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94"
+          },
+          {
+            "pid": "p0324j05",
+            "name": "Zara Larsson",
+            "role": "Performer",
+            "musicbrainz_gid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d"
+          }
+        ],
+        "title": "Talk To Me, Zara",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Frost Children",
+      "title": "Satellites",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvtg1g",
+        "duration": 211,
+        "primary_contributor": {
+          "pid": "p0f6g9m5",
+          "musicbrainz_gid": "3f1ed758-50e4-401f-8dc6-e0066e546e7c",
+          "name": "Frost Children"
+        },
+        "artist": "Frost Children",
+        "track_title": "Satellites",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Frost Children/RCA Records",
+        "release_title": "Satellites",
+        "record_id": "n99qrr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f6g9m5",
+            "name": "Frost Children",
+            "role": "Performer",
+            "musicbrainz_gid": "3f1ed758-50e4-401f-8dc6-e0066e546e7c"
+          }
+        ],
+        "title": "Satellites",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JJerome87",
+      "title": "Green Velvet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0q7g",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p0myjprs",
+          "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9",
+          "name": "JJerome87"
+        },
+        "artist": "JJerome87",
+        "track_title": "Green Velvet",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing Ltd",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99hjx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0myjprs",
+            "name": "JJerome87",
+            "role": "Performer",
+            "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9"
+          }
+        ],
+        "title": "Green Velvet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Pistol",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gqdw",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Pistol",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "ISLAND RECORDS",
+        "release_title": null,
+        "record_id": "n9r932",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Pistol",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Violins",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzx1wg",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Violins",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n99wr3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Violins",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "earthsignchels",
+      "title": "My Daddy Died",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx6srp",
+        "duration": 252,
+        "primary_contributor": {
+          "pid": "p0nwbb9v",
+          "musicbrainz_gid": "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9",
+          "name": "earthsignchels"
+        },
+        "artist": "earthsignchels",
+        "track_title": "My Daddy Died",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Not Fit For Society / Columbia Records",
+        "release_title": null,
+        "record_id": "n99mxv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nwbb9v",
+            "name": "earthsignchels",
+            "role": "Performer",
+            "musicbrainz_gid": "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9"
+          }
+        ],
+        "title": "My Daddy Died",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

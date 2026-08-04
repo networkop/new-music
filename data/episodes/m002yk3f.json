@@ -1,0 +1,1262 @@
+{
+  "pid": "m002yk3f",
+  "broadcast_start": "2026-07-16T18:00:00+01:00",
+  "schedule_date": "2026-07-16",
+  "title": "Chloé Caillet and Luke Alessi Hottest Record",
+  "tracks": [
+    {
+      "artist": "Silva Bumpa",
+      "title": "On 2nite",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0np3dy7",
+        "duration": 128,
+        "primary_contributor": {
+          "pid": "p0gfs4g7",
+          "musicbrainz_gid": "980604d4-fc2b-4778-8fc5-a7d28e52ab85",
+          "name": "Silva Bumpa"
+        },
+        "artist": "Silva Bumpa",
+        "track_title": "On 2nite",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia/Two Room Recordings",
+        "release_title": null,
+        "record_id": "n99zmb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gfs4g7",
+            "name": "Silva Bumpa",
+            "role": "Performer",
+            "musicbrainz_gid": "980604d4-fc2b-4778-8fc5-a7d28e52ab85"
+          }
+        ],
+        "title": "On 2nite",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jazzy",
+      "title": "Invisible",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nstr33",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p0bg4qll",
+          "musicbrainz_gid": "8d96e5fb-42b4-4653-b8f3-2a31e5834dc7",
+          "name": "Jazzy"
+        },
+        "artist": "Jazzy",
+        "track_title": "Invisible",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n99dg5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bg4qll",
+            "name": "Jazzy",
+            "role": "Performer",
+            "musicbrainz_gid": "8d96e5fb-42b4-4653-b8f3-2a31e5834dc7"
+          },
+          {
+            "pid": "p01kd4t0",
+            "name": "Chris Lorenzo",
+            "role": "Performer",
+            "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f"
+          }
+        ],
+        "title": "Invisible",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "The One",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0l3x84t",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "The One",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SMiiLE",
+        "release_title": null,
+        "record_id": "n8jbxj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          },
+          {
+            "pid": "p09hn2k2",
+            "name": "Luke Alessi",
+            "role": "Performer",
+            "musicbrainz_gid": "cfff51d9-ed77-44f3-bec5-961a0feee0bd"
+          },
+          {
+            "pid": "p012dpyl",
+            "name": "Jocelyn Brown",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a628a50-1c5c-4d29-a13a-79a73eb012d9"
+          }
+        ],
+        "title": "The One",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "The One",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0mwzx0n",
+        "duration": 351,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "The One",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Disorder",
+        "release_title": null,
+        "record_id": "n8jbxj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          },
+          {
+            "pid": "p09hn2k2",
+            "name": "Luke Alessi",
+            "role": "Performer",
+            "musicbrainz_gid": "cfff51d9-ed77-44f3-bec5-961a0feee0bd"
+          },
+          {
+            "pid": "p012dpyl",
+            "name": "Jocelyn Brown",
+            "role": "Performer",
+            "musicbrainz_gid": "6a628a50-1c5c-4d29-a13a-79a73eb012d9"
+          }
+        ],
+        "title": "The One",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Genesis Owusu",
+      "title": "Human Again",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxdn3h",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p081n2yb",
+          "musicbrainz_gid": "632258cb-4ab5-4f2d-be29-bcc641a275eb",
+          "name": "Genesis Owusu"
+        },
+        "artist": "Genesis Owusu",
+        "track_title": "Human Again",
+        "track_number": null,
+        "publisher": "OURNESS",
+        "record_label": "OURNESS",
+        "release_title": null,
+        "record_id": "n9r3hz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p081n2yb",
+            "name": "Genesis Owusu",
+            "role": "Performer",
+            "musicbrainz_gid": "632258cb-4ab5-4f2d-be29-bcc641a275eb"
+          }
+        ],
+        "title": "Human Again",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vybz Kartel",
+      "title": "Just Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj8s7",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012dp11",
+          "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973",
+          "name": "Vybz Kartel"
+        },
+        "artist": "Vybz Kartel",
+        "track_title": "Just Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "0207 Def Jam",
+        "release_title": null,
+        "record_id": "n99mmc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dp11",
+            "name": "Vybz Kartel",
+            "role": "Performer",
+            "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973"
+          },
+          {
+            "pid": "p012dw5v",
+            "name": "Shy FX",
+            "role": "Performer",
+            "musicbrainz_gid": "ee459bd7-9768-4cc2-9452-a09700c4aeaa"
+          },
+          {
+            "pid": "p012dxmh",
+            "name": "Clipz",
+            "role": "Performer",
+            "musicbrainz_gid": "94144c85-c5ee-4ec6-85cd-15e48b16ffea"
+          }
+        ],
+        "title": "Just Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Avalanches",
+      "title": "Every Single Weekend",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0npj69j",
+        "duration": 130,
+        "primary_contributor": {
+          "pid": "p012dk4p",
+          "musicbrainz_gid": "a6623d39-2d8e-4f70-8242-0a9553b91e50",
+          "name": "The Avalanches"
+        },
+        "artist": "The Avalanches",
+        "track_title": "Every Single Weekend",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n993zf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dk4p",
+            "name": "The Avalanches",
+            "role": "Performer",
+            "musicbrainz_gid": "a6623d39-2d8e-4f70-8242-0a9553b91e50"
+          },
+          {
+            "pid": "p01k82d5",
+            "name": "Jamie xx",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "d1515727-4a93-4c0d-88cb-d7a9fce01879"
+          }
+        ],
+        "title": "Every Single Weekend",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "kwn",
+      "title": "risk it all",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz7lsf",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p08zd77v",
+          "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3",
+          "name": "kwn"
+        },
+        "artist": "kwn",
+        "track_title": "risk it all",
+        "track_number": null,
+        "publisher": "BMI; Warner-Tamerlane Publishing; Recognition Songs; Kobalt; Universal Music Publishing; Warner Chaooell; ASCAP; Swing T Publishing (BMI)",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n99jp8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Performer",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "risk it all",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kelela",
+      "title": "outta time",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsbl9r",
+        "duration": 247,
+        "primary_contributor": {
+          "pid": "p0332tw9",
+          "musicbrainz_gid": "045494aa-e913-4e62-bf4e-dcc276e0075a",
+          "name": "Kelela"
+        },
+        "artist": "Kelela",
+        "track_title": "outta time",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warp Records",
+        "release_title": null,
+        "record_id": "n99cj6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0332tw9",
+            "name": "Kelela",
+            "role": "Performer",
+            "musicbrainz_gid": "045494aa-e913-4e62-bf4e-dcc276e0075a"
+          },
+          {
+            "pid": "p02gt6ys",
+            "name": "A. K. Paul",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e652aad1-ed4f-4713-8a06-b4246cfd1a5e"
+          }
+        ],
+        "title": "outta time",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "Lemme Dance",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nrjqc4",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "Lemme Dance",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n993m5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          },
+          {
+            "pid": "p01lvrcn",
+            "name": "Myd",
+            "role": "Performer",
+            "musicbrainz_gid": "c61f03df-e3e4-4466-ba08-508383696b83"
+          }
+        ],
+        "title": "Lemme Dance",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gorgon City",
+      "title": "Ready For Your Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01njhfc",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p015kmgt",
+          "musicbrainz_gid": "ba8aaa28-2de4-4d5c-824e-1e9d49235c55",
+          "name": "Gorgon City"
+        },
+        "artist": "Gorgon City",
+        "track_title": "Ready For Your Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Virgin EMI",
+        "release_title": null,
+        "record_id": "nzrnzm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p015kmgt",
+            "name": "Gorgon City",
+            "role": "Performer",
+            "musicbrainz_gid": "ba8aaa28-2de4-4d5c-824e-1e9d49235c55"
+          },
+          {
+            "pid": "p017brw6",
+            "name": "MNEK",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "27e7c2e8-badc-4a97-8b93-24b6c530b038"
+          }
+        ],
+        "title": "Ready For Your Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "Change",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz7qc2",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "Change",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n8fwmb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          },
+          {
+            "pid": "p09hn2k2",
+            "name": "Luke Alessi",
+            "role": "Performer",
+            "musicbrainz_gid": "cfff51d9-ed77-44f3-bec5-961a0feee0bd"
+          }
+        ],
+        "title": "Change",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Pistol",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyztgb",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Pistol",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "ISLAND RECORDS",
+        "release_title": null,
+        "record_id": "n9r932",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Pistol",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "South Arcade",
+      "title": "DEADMEAT",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nskp3k",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0dbxqn0",
+          "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3",
+          "name": "South Arcade"
+        },
+        "artist": "South Arcade",
+        "track_title": "DEADMEAT",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n99pm8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbxqn0",
+            "name": "South Arcade",
+            "role": "Performer",
+            "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3"
+          }
+        ],
+        "title": "DEADMEAT",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Alessi Rose",
+      "title": "Dependent",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxnkj7",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0j3vsrq",
+          "musicbrainz_gid": "7bb3d914-0a4d-4e96-a00e-d9815725244b",
+          "name": "Alessi Rose"
+        },
+        "artist": "Alessi Rose",
+        "track_title": "Dependent",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UMG Recordings, Inc.",
+        "release_title": null,
+        "record_id": "n9r488",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j3vsrq",
+            "name": "Alessi Rose",
+            "role": "Performer",
+            "musicbrainz_gid": "7bb3d914-0a4d-4e96-a00e-d9815725244b"
+          }
+        ],
+        "title": "Dependent",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Suki Waterhouse",
+      "title": "Notting Hill",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz7xpv",
+        "duration": 187,
+        "primary_contributor": {
+          "pid": "p09z1gp3",
+          "musicbrainz_gid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
+          "name": "Suki Waterhouse"
+        },
+        "artist": "Suki Waterhouse",
+        "track_title": "Notting Hill",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9r868",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09z1gp3",
+            "name": "Suki Waterhouse",
+            "role": "Performer",
+            "musicbrainz_gid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1"
+          }
+        ],
+        "title": "Notting Hill",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Dis-le",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw7f76",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Dis-le",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n99m82",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          }
+        ],
+        "title": "Dis-le",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kelsey Lu",
+      "title": "Cutting Off The Head Of A Ghost",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nqttt5",
+        "duration": 230,
+        "primary_contributor": {
+          "pid": "p041dm30",
+          "musicbrainz_gid": "b5970f40-4de3-43fc-9dad-e9b160b3db04",
+          "name": "Kelsey Lu"
+        },
+        "artist": "Kelsey Lu",
+        "track_title": "Cutting Off The Head Of A Ghost",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n99phj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p041dm30",
+            "name": "Kelsey Lu",
+            "role": "Performer",
+            "musicbrainz_gid": "b5970f40-4de3-43fc-9dad-e9b160b3db04"
+          }
+        ],
+        "title": "Cutting Off The Head Of A Ghost",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lexa Gates",
+      "title": "Estranged",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0mmsqyh",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p0j0ts8r",
+          "musicbrainz_gid": "53ddd5a0-336d-4c34-8803-ffe7a49a3f39",
+          "name": "Lexa Gates"
+        },
+        "artist": "Lexa Gates",
+        "track_title": "Estranged",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "GoodTalk",
+        "release_title": null,
+        "record_id": "n93qwv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j0ts8r",
+            "name": "Lexa Gates",
+            "role": "Performer",
+            "musicbrainz_gid": "53ddd5a0-336d-4c34-8803-ffe7a49a3f39"
+          }
+        ],
+        "title": "Estranged",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ANOTR",
+      "title": "Silver Lines",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx6q37",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p03s23z8",
+          "musicbrainz_gid": "5f3be62e-d166-453e-a3ea-07b9227fafae",
+          "name": "ANOTR"
+        },
+        "artist": "ANOTR",
+        "track_title": "Silver Lines",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "CIRCOLOCO RECORDS",
+        "release_title": null,
+        "record_id": "n9r34p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03s23z8",
+            "name": "ANOTR",
+            "role": "Performer",
+            "musicbrainz_gid": "5f3be62e-d166-453e-a3ea-07b9227fafae"
+          },
+          {
+            "pid": "p044zxz0",
+            "name": "Emily Warren",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "28f4bb72-3ff1-427d-8cff-236585327375"
+          }
+        ],
+        "title": "Silver Lines",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "HUGEL",
+      "title": "Movin' To The Sun",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nqbwrj",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p0581vq8",
+          "musicbrainz_gid": "eead7215-59da-45f5-b719-62f349ef4133",
+          "name": "HUGEL"
+        },
+        "artist": "HUGEL",
+        "track_title": "Movin' To The Sun",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "MAKE THE GIRLS DANCE",
+        "release_title": null,
+        "record_id": "n995g4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0581vq8",
+            "name": "HUGEL",
+            "role": "Performer",
+            "musicbrainz_gid": "eead7215-59da-45f5-b719-62f349ef4133"
+          },
+          {
+            "pid": "p0nqbwrx",
+            "name": "Imael Angel",
+            "role": "Performer",
+            "musicbrainz_gid": "a3c9387a-6e60-4f49-8405-6056998e01d7"
+          },
+          {
+            "pid": "p012dv3q",
+            "name": "Ultra Naté",
+            "role": "Performer",
+            "musicbrainz_gid": "0004537a-4b12-43eb-a023-04009e738d2e"
+          }
+        ],
+        "title": "Movin' To The Sun",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Naomi Sharon",
+      "title": "Weak",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nstv2t",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0dyky09",
+          "musicbrainz_gid": "35a65ea0-61ee-4763-b657-951931e5fa9a",
+          "name": "Naomi Sharon"
+        },
+        "artist": "Naomi Sharon",
+        "track_title": "Weak",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n998z5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dyky09",
+            "name": "Naomi Sharon",
+            "role": "Performer",
+            "musicbrainz_gid": "35a65ea0-61ee-4763-b657-951931e5fa9a"
+          }
+        ],
+        "title": "Weak",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Larry June",
+      "title": "California Dream",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz870t",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p037fcky",
+          "musicbrainz_gid": "20d49152-11a2-4e55-8251-0d11dc6424fa",
+          "name": "Larry June"
+        },
+        "artist": "Larry June",
+        "track_title": "California Dream",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Empire",
+        "release_title": null,
+        "record_id": "n9r9g6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p037fcky",
+            "name": "Larry June",
+            "role": "Performer",
+            "musicbrainz_gid": "20d49152-11a2-4e55-8251-0d11dc6424fa"
+          },
+          {
+            "pid": "p01k3rt1",
+            "name": "Jhené Aiko",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ceb3f5b7-9f1a-430f-afbe-976fdcf30482"
+          }
+        ],
+        "title": "California Dream",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "That Mexican OT",
+      "title": "WATER",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0nq5",
+        "duration": 143,
+        "primary_contributor": {
+          "pid": "p0gcpk8k",
+          "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215",
+          "name": "That Mexican OT"
+        },
+        "artist": "That Mexican OT",
+        "track_title": "WATER",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "POLYDOR RECORDS",
+        "release_title": null,
+        "record_id": "n99qq8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gcpk8k",
+            "name": "That Mexican OT",
+            "role": "Performer",
+            "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215"
+          }
+        ],
+        "title": "WATER",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "RAPID FIYAH",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nstzjy",
+        "duration": 166,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "RAPID FIYAH",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Records",
+        "release_title": null,
+        "record_id": "n99dm2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          },
+          {
+            "pid": "p08kftpb",
+            "name": "Skillibeng",
+            "role": "Performer",
+            "musicbrainz_gid": "2f639ba8-11ee-4128-9915-2303afd30078"
+          }
+        ],
+        "title": "RAPID FIYAH",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "WHATMORE",
+      "title": "On Site",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz88gd",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p0m9ynvr",
+          "musicbrainz_gid": "8f61a701-7281-44e8-8ea9-c48a07f05902",
+          "name": "WHATMORE"
+        },
+        "artist": "WHATMORE",
+        "track_title": "On Site",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rpgf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m9ynvr",
+            "name": "WHATMORE",
+            "role": "Performer",
+            "musicbrainz_gid": "8f61a701-7281-44e8-8ea9-c48a07f05902"
+          }
+        ],
+        "title": "On Site",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sienna Spiro",
+      "title": "This Is My House",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx70cl",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p0j9wp1j",
+          "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+          "name": "Sienna Spiro"
+        },
+        "artist": "Sienna Spiro",
+        "track_title": "This Is My House",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Sony",
+        "release_title": null,
+        "record_id": "n9r2d3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j9wp1j",
+            "name": "Sienna Spiro",
+            "role": "Performer",
+            "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5"
+          }
+        ],
+        "title": "This Is My House",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JJerome87",
+      "title": "Green Velvet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0q7g",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p0myjprs",
+          "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9",
+          "name": "JJerome87"
+        },
+        "artist": "JJerome87",
+        "track_title": "Green Velvet",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing Ltd",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99hjx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0myjprs",
+            "name": "JJerome87",
+            "role": "Performer",
+            "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9"
+          }
+        ],
+        "title": "Green Velvet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Spacey Jane",
+      "title": "East Village",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxn6w3",
+        "duration": 211,
+        "primary_contributor": {
+          "pid": "p09grrb9",
+          "musicbrainz_gid": "496100ef-b264-4b7b-9d7c-bf90a2f9c9ef",
+          "name": "Spacey Jane"
+        },
+        "artist": "Spacey Jane",
+        "track_title": "East Village",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Concord Records",
+        "release_title": null,
+        "record_id": "n9r4pb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09grrb9",
+            "name": "Spacey Jane",
+            "role": "Performer",
+            "musicbrainz_gid": "496100ef-b264-4b7b-9d7c-bf90a2f9c9ef"
+          }
+        ],
+        "title": "East Village",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "No Surprise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nm4xcs",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "No Surprise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n98x5d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "No Surprise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "she’s green",
+      "title": "locket",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxf9pk",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0mvyfps",
+          "musicbrainz_gid": "f23579e2-d625-4fca-a796-ec349d89c3a7",
+          "name": "she’s green"
+        },
+        "artist": "she’s green",
+        "track_title": "locket",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Photo Finish",
+        "release_title": null,
+        "record_id": "n9r3w9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mvyfps",
+            "name": "she’s green",
+            "role": "Performer",
+            "musicbrainz_gid": "f23579e2-d625-4fca-a796-ec349d89c3a7"
+          }
+        ],
+        "title": "locket",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Songer",
+      "title": "SOMETHING I SAID",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxf48k",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p0c36m12",
+          "musicbrainz_gid": "49b72db7-608c-47e9-a2d5-bc69fd99e490",
+          "name": "Songer"
+        },
+        "artist": "Songer",
+        "track_title": "SOMETHING I SAID",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hard Reality",
+        "release_title": null,
+        "record_id": "n9r3hh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c36m12",
+            "name": "Songer",
+            "role": "Performer",
+            "musicbrainz_gid": "49b72db7-608c-47e9-a2d5-bc69fd99e490"
+          }
+        ],
+        "title": "SOMETHING I SAID",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
