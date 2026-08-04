@@ -32,6 +32,15 @@ three known targets.
 Spotify's audio-features endpoint (danceability, energy) was closed to new apps
 some time ago — verify before designing anything around it.
 
+**Last.fm's mbid linkage is incomplete.** `artist.gettoptags` queried by
+MusicBrainz ID can return nothing for an artist who has a real, populated
+tags page under their name — confirmed by hand 2026-08-05 for Sienna Spiro
+(mbid lookup empty; her actual top tag is `soul`). `filter.py` prefers mbid
+for exactness but falls back to a name query when that comes back empty.
+15% of cached artists (29/184) had an empty tag list before this fix; not
+all of those are genuinely untagged, so don't assume mbid-empty means
+unknown-to-Last.fm without checking the name lookup too.
+
 ## Rules that matter
 
 **Match on tag weight, not presence.** Last.fm tags carry counts. Excluding on

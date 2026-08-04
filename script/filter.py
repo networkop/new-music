@@ -79,17 +79,33 @@ def get_json(url, attempts=3):
 
 def lastfm_top_tags(artist_mbid, artist_name):
     """[(tag, weight), ...] ordered by weight descending, or [] if Last.fm has
-    nothing. Prefers mbid (exact) over name (fuzzy) when both are available."""
+    nothing under either lookup.
+
+    Tries mbid first when available (exact), but falls back to a name lookup
+    if that comes back empty. Last.fm's own mbid linkage is incomplete for
+    plenty of real artists - confirmed by hand 2026-08-05 for Sienna Spiro,
+    whose mbid lookup returns nothing despite her having a real, populated
+    top-tags page (soul, jazz, pop, indie, singer-songwriter) under her name.
+    Without this fallback an artist can look "unknown" and default to keep
+    when Last.fm actually has tag data, just not linked to that mbid.
+    """
+    tags = _lastfm_query(mbid=artist_mbid) if artist_mbid else []
+    if not tags and artist_name:
+        tags = _lastfm_query(artist=artist_name)
+    return tags
+
+
+def _lastfm_query(mbid=None, artist=None):
     params = {
         "method": "artist.gettoptags",
         "api_key": LASTFM_API_KEY,
         "autocorrect": "1",
         "format": "json",
     }
-    if artist_mbid:
-        params["mbid"] = artist_mbid
+    if mbid:
+        params["mbid"] = mbid
     else:
-        params["artist"] = artist_name
+        params["artist"] = artist
     url = f"{LASTFM_URL}?{urllib.parse.urlencode(params)}"
     payload = get_json(url)
     if not payload:
