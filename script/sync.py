@@ -65,10 +65,12 @@ def get_access_token():
     )
     try:
         with urllib.request.urlopen(req) as resp:
-            return json.load(resp)["access_token"]
+            payload = json.load(resp)
     except urllib.error.HTTPError as exc:
         print(f"token refresh failed: {exc.code} {exc.read().decode()}", file=sys.stderr)
         raise
+    print(f"token scope: {payload.get('scope')}", file=sys.stderr)
+    return payload["access_token"]
 
 
 def api_request(method, path_or_url, token, params=None, json_body=None, attempts=4):
