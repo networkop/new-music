@@ -132,6 +132,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dog Eat Dog"
   },
+  "blondshell|||violins": {
+    "artist": "Blondshell",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Violins"
+  },
   "blossoms|||meet me in love": {
     "artist": "Blossoms",
     "category": "manual",
@@ -313,6 +320,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Against The Tide"
+  },
+  "delta heavy|||set you free": {
+    "artist": "Delta Heavy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Set You Free"
   },
   "erick the architect|||no doubt (i'm in love)": {
     "artist": "Erick the Architect",
@@ -524,6 +538,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Wide Awake"
   },
+  "keo|||pistol": {
+    "artist": "Keo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Pistol"
+  },
   "keo|||that's me": {
     "artist": "Keo",
     "category": "manual",
@@ -587,6 +608,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Danceteria"
   },
+  "man/woman/chainsaw|||nosedive": {
+    "artist": "Man/Woman/Chainsaw",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Nosedive"
+  },
   "mj cole|||move time": {
     "artist": "MJ Cole",
     "category": "manual",
@@ -629,6 +657,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Killin' Em"
   },
+  "nero|||we're not alone": {
+    "artist": "Nero",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "We're Not Alone"
+  },
   "ninajirachi|||wannacry": {
     "artist": "Ninajirachi",
     "category": "manual",
@@ -643,6 +678,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Milan (CC2)"
   },
+  "nothing but thieves|||evolution": {
+    "artist": "Nothing But Thieves",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Evolution"
+  },
+  "original koffee|||summer fruits (na na)": {
+    "artist": "Original Koffee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "SUMMER FRUITS (Na Na)"
+  },
   "original koffee|||toast": {
     "artist": "Original Koffee",
     "category": "manual",
@@ -656,6 +705,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Don't Play With Me"
+  },
+  "overmono|||even angels ghost": {
+    "artist": "Overmono",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Even Angels Ghost"
   },
   "overmono|||knight in shining prada": {
     "artist": "Overmono",
@@ -762,6 +818,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Club To Your Arms"
   },
+  "rose gray|||just be bodies": {
+    "artist": "Rose Gray",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Just Be Bodies"
+  },
   "rossi.|||high on me": {
     "artist": "Rossi.",
     "category": "manual",
@@ -783,12 +846,33 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Hardy"
   },
+  "sam gellaitry|||longing": {
+    "artist": "Sam Gellaitry",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "LONGING"
+  },
+  "she’s green|||locket": {
+    "artist": "she’s green",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "locket"
+  },
   "she’s green|||mettle": {
     "artist": "she’s green",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Mettle"
+  },
+  "show me the body|||do what's right (happy)": {
+    "artist": "Show Me the Body",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Do What's Right (Happy)"
   },
   "sidney charles|||trip advisor (rhythm, snare, bass) 2025 warp": {
     "artist": "Sidney Charles",
@@ -803,6 +887,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "On 2nite"
+  },
+  "slayyyter|||brand new chanel$": {
+    "artist": "Slayyyter",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "brand new chanel$"
   },
   "slayyyter|||dance...": {
     "artist": "Slayyyter",

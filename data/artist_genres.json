@@ -942,6 +942,52 @@
       ]
     ]
   },
+  "2e2c71a6-1ac8-4442-ba00-c4dea71abd64": {
+    "name": "Headie One",
+    "source": "lastfm",
+    "tags": [
+      [
+        "grime",
+        100
+      ],
+      [
+        "rap",
+        81
+      ],
+      [
+        "hip hop",
+        32
+      ],
+      [
+        "british",
+        24
+      ],
+      [
+        "uk drill",
+        14
+      ],
+      [
+        "drill",
+        14
+      ],
+      [
+        "hip-hop",
+        8
+      ],
+      [
+        "uk",
+        2
+      ],
+      [
+        "trap",
+        2
+      ],
+      [
+        "uk hip-hop",
+        1
+      ]
+    ]
+  },
   "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70": {
     "name": "The Last Dinner Party",
     "source": "lastfm",
@@ -2190,6 +2236,52 @@
       ],
       [
         "alternative rock",
+        1
+      ]
+    ]
+  },
+  "502cf908-9921-48bc-bf0e-265c881c0156": {
+    "name": "sombr",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie",
+        100
+      ],
+      [
+        "alternative",
+        64
+      ],
+      [
+        "rock",
+        24
+      ],
+      [
+        "singer-songwriter",
+        17
+      ],
+      [
+        "indie rock",
+        8
+      ],
+      [
+        "alternative rock",
+        5
+      ],
+      [
+        "folk",
+        3
+      ],
+      [
+        "israeli",
+        1
+      ],
+      [
+        "usa",
+        1
+      ],
+      [
+        "indie pop",
         1
       ]
     ]
@@ -4855,6 +4947,40 @@
       ],
       [
         "british",
+        1
+      ]
+    ]
+  },
+  "9b189d1b-3d6d-41d1-9053-cf29a487a75e": {
+    "name": "Florence Road",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie rock",
+        100
+      ],
+      [
+        "power pop",
+        11
+      ],
+      [
+        "indie pop",
+        7
+      ],
+      [
+        "irish",
+        7
+      ],
+      [
+        "female vocalists",
+        1
+      ],
+      [
+        "rock",
+        1
+      ],
+      [
+        "female guitarists",
         1
       ]
     ]
@@ -7547,6 +7673,52 @@
       ]
     ]
   },
+  "f7625f34-1799-42a4-a1c6-22b5377c767b": {
+    "name": "Arca",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "experimental",
+        78
+      ],
+      [
+        "ambient",
+        41
+      ],
+      [
+        "glitch",
+        24
+      ],
+      [
+        "idm",
+        10
+      ],
+      [
+        "instrumental",
+        9
+      ],
+      [
+        "venezuela",
+        8
+      ],
+      [
+        "deconstructed club",
+        2
+      ],
+      [
+        "wonky",
+        2
+      ],
+      [
+        "post-rock",
+        2
+      ]
+    ]
+  },
   "f95d0f4f-d344-4acd-bec8-cc512b40f629": {
     "name": "Julia Jacklin",
     "source": "lastfm",
@@ -7686,6 +7858,52 @@
       ],
       [
         "electronic",
+        1
+      ]
+    ]
+  },
+  "name:len": {
+    "name": "Len",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "canadian",
+        83
+      ],
+      [
+        "90s",
+        41
+      ],
+      [
+        "alternative",
+        38
+      ],
+      [
+        "rock",
+        12
+      ],
+      [
+        "alternative rock",
+        9
+      ],
+      [
+        "canada",
+        5
+      ],
+      [
+        "hip hop",
+        1
+      ],
+      [
+        "pop rock",
+        1
+      ],
+      [
+        "uk",
         1
       ]
     ]
