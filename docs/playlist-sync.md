@@ -63,7 +63,20 @@ The workflow re-runs `filter.py` after `sync.py` specifically to close that
 gap within the same run - cheap, since nothing on the second pass is a fresh
 Last.fm lookup.
 
-## The rolling window is nearly free
+**Downvotes are permanent - don't rotate them along with the episode
+window.** Considered and rejected 2026-08-05. Episode data (`data/episodes/`,
+`tracks.jsonl`) is transactional - "this aired on this date" - and correctly
+gets pruned once it's outside the rolling window (see `CLAUDE.md`). A
+downvote is a standing taste decision, not tied to a specific airing:
+expiring it once the original episode ages out would silently let the song
+back into `keep`/`review` the moment it's re-aired, undoing the exact thing
+the owner asked for. "This is a new-music show, the same track won't air a
+year later" is true but doesn't argue the other way either - the file is
+tiny (140 entries, ~28KB) and grows slowly, so keeping an override forever
+costs nothing, while the real, observed protective value is short-term:
+the same track re-airs repeatedly *within* the current rolling month (one
+track showed up on 9 different broadcast dates), which is exactly the
+window a downvote has to survive regardless of what happens a year out.
 
 Spotify's `GET /v1/playlists/{id}/tracks` returns each item with `added_at`
 (ISO 8601) — same trick as YouTube's `publishedAt`. If tracks are added the

@@ -157,8 +157,33 @@ def main():
     with open(NEW_EPISODES_PATH, "w") as fh:
         json.dump(new_pids, fh)
 
+    pruned = prune_old_episodes(now)
     rebuild_flat()
-    print(f"done: {fetched} new episode(s)")
+    print(f"done: {fetched} new episode(s), {pruned} pruned")
+
+
+def prune_old_episodes(now):
+    """Delete episode files older than WINDOW_DAYS.
+
+    Without this, data/episodes/ (and tracks.jsonl/tracks_filtered.jsonl
+    built from it) grows forever - every episode ever fetched, not just the
+    rolling window the playlist actually reflects. That's confusing in the
+    GitHub Pages viewer (an all-time "keep" count next to a 30-day rolling
+    playlist) and unbounded repo growth for no benefit; history is still
+    fully recoverable from git if ever needed, just not in the working tree.
+    """
+    cutoff = now - timedelta(days=WINDOW_DAYS)
+    removed = 0
+    for name in os.listdir(EPISODE_DIR):
+        if not name.endswith(".json"):
+            continue
+        path = os.path.join(EPISODE_DIR, name)
+        with open(path) as fh:
+            ep = json.load(fh)
+        if datetime.fromisoformat(ep["broadcast_start"]) < cutoff:
+            os.remove(path)
+            removed += 1
+    return removed
 
 
 def rebuild_flat():

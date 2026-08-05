@@ -105,6 +105,12 @@ Established by hand against the live API. Confirmed, not assumed:
   does both.
 - The fetcher is idempotent — episodes already on disk are skipped, so re-running
   is cheap and safe.
+- **Episodes older than `WINDOW_DAYS` get deleted, not just left alone.**
+  Added 2026-08-05 after `data/episodes/` (and everything built from it)
+  accumulated every episode ever fetched instead of a rolling window — 52
+  unique "keep" songs showing in the GitHub Pages viewer against a 30-day,
+  21-track Spotify playlist. History is still recoverable from git; the
+  working tree just isn't the place for it.
 - Tracklists can lag the broadcast by a few hours. A missing tracklist is not an
   error; the next run picks it up.
 - Scheduled GitHub workflows are disabled after 60 days of repo inactivity. This
