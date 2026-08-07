@@ -14,6 +14,11 @@
     "score": 1.0,
     "uri": "spotify:track:7GU1xgUhSHMjc32d9zuWtF"
   },
+  "adéla|||ain't in la": {
+    "matched": "ADÉLA - Ain't In LA",
+    "score": 1.0,
+    "uri": "spotify:track:02HyFYmpzt02VJ8k0CqxKj"
+  },
   "adéla|||red bottoms": {
     "matched": "ADÉLA - Red Bottoms",
     "score": 1.0,
@@ -299,6 +304,11 @@
     "score": 1.0,
     "uri": "spotify:track:4fErrQvOX1LPDIPFDFI4eM"
   },
+  "cortis|||motion": {
+    "matched": "CORTIS - MOTION (feat. Juicy J)",
+    "score": 1.0,
+    "uri": "spotify:track:15EbINtnOI4c2jPXXskywy"
+  },
   "culture shock|||feel again": {
     "matched": "Culture Shock - Feel Again",
     "score": 1.0,
@@ -323,6 +333,11 @@
     "matched": "Delta Heavy - Set You Free",
     "score": 1.0,
     "uri": "spotify:track:0ZtsqqqeOWnqpYIs5ncQSe"
+  },
+  "dj heartstring|||another year alone": {
+    "matched": "DJ HEARTSTRING - Another Year Alone (i love you)",
+    "score": 1.0,
+    "uri": "spotify:track:12yBP15N9VsPj1oMEWOD7f"
   },
   "earthsignchels|||my daddy died": {
     "matched": null,
@@ -374,6 +389,11 @@
     "score": 1.0,
     "uri": "spotify:track:3bXd3WMvXsBttyW74xgLXf"
   },
+  "fisher|||what a life": {
+    "matched": "FISHER - What A Life (feat. Florence Arman)",
+    "score": 1.0,
+    "uri": "spotify:track:1NdZtfFjG5DGFbl7h99FV8"
+  },
   "fka twigs|||on your mind": {
     "matched": "FKA twigs - On Your Mind (feat. Lil Yachty)",
     "score": 1.0,
@@ -383,6 +403,16 @@
     "matched": "Flava D - Different",
     "score": 1.0,
     "uri": "spotify:track:7JUvSFLaI0eMufeUp4j8oa"
+  },
+  "florence road|||7563": {
+    "matched": "Florence Road - 7563",
+    "score": 1.0,
+    "uri": "spotify:track:2vJPGLhq3pub8fG9wAFN0Y"
+  },
+  "florence road|||break the girl": {
+    "matched": "Florence Road - Break the Girl",
+    "score": 1.0,
+    "uri": "spotify:track:1G6tftTrUHgg1g6cP3VkJ5"
   },
   "florence road|||hanging out to dry": {
     "matched": "Florence Road - Hanging Out To Dry",
@@ -408,6 +438,11 @@
     "matched": "Frost Children - Satellites",
     "score": 1.0,
     "uri": "spotify:track:0w1z41tugZvJHNLUWUjXkD"
+  },
+  "goldie|||jungle daze": {
+    "matched": "Goldie - Jungle Daze",
+    "score": 1.0,
+    "uri": "spotify:track:2riLIj6lcSx6mqm4kLXn8o"
   },
   "good neighbours|||superstar": {
     "matched": "Good Neighbours - Superstar",
@@ -474,10 +509,20 @@
     "score": 1.0,
     "uri": "spotify:track:25DgjoTlKK8KjstM4cZ8L2"
   },
+  "inji|||bright ideas": {
+    "matched": "INJI - BRIGHT IDEAS",
+    "score": 1.0,
+    "uri": "spotify:track:4whVtTnaIfNEvG8eKSEVxB"
+  },
   "inji|||i wanna feel it all": {
     "matched": "INJI - I WANNA FEEL IT ALL",
     "score": 1.0,
     "uri": "spotify:track:0QxKOd4IHUHG0UvPraaicT"
+  },
+  "ivri|||the golden record": {
+    "matched": "ivri - THE GOLDEN RECORD",
+    "score": 1.0,
+    "uri": "spotify:track:2thAXesjKk0g4UQHZTaBdA"
   },
   "j hus|||moonlight": {
     "matched": "J Hus - Moonlight",
@@ -553,6 +598,11 @@
     "matched": "K-Trap - CAN'T SAY NO",
     "score": 1.0,
     "uri": "spotify:track:7abSTQbiSxP8sI3S0by8no"
+  },
+  "k trap|||pressure": {
+    "matched": "K-Trap - PRESSURE",
+    "score": 1.0,
+    "uri": "spotify:track:6aRUdMoZ5iNZrisubVw0SC"
   },
   "kamal|||the people that saved me": {
     "matched": "Kamal. - the people that saved me",
@@ -633,6 +683,11 @@
     "matched": "Lexa Gates - Estranged",
     "score": 1.0,
     "uri": "spotify:track:5wAXLizMv7kFkDWA8qhyDg"
+  },
+  "loathe|||fortress down": {
+    "matched": "Loathe - Fortress Down",
+    "score": 1.0,
+    "uri": "spotify:track:63SaN607accD2T4mLJFDRd"
   },
   "ludacris|||real hustla": {
     "matched": "Ludacris - Real Hustla (ft. GloRilla)",
@@ -1079,6 +1134,11 @@
     "score": 1.0,
     "uri": "spotify:track:0NRjs5XncJ8oAosU85EdG8"
   },
+  "the avalanches|||can't get over losing you": {
+    "matched": "The Avalanches - Can't Get Over Losing You (feat. Portraits Of Tracy)",
+    "score": 1.0,
+    "uri": "spotify:track:2LfIvkV7kBvqo3tx1H9sqw"
+  },
   "the avalanches|||every single weekend": {
     "matched": "The Avalanches - Every Single Weekend (feat. Jamie xx)",
     "score": 1.0,
@@ -1123,6 +1183,16 @@
     "matched": "Tiny Habits - Anything He Was",
     "score": 1.0,
     "uri": "spotify:track:5vtMCt0sWVxCbsTUnPyCTh"
+  },
+  "tove lo|||dnh": {
+    "matched": "Tove Lo - DNH",
+    "score": 1.0,
+    "uri": "spotify:track:1PGde5PALlkGdlPizKNDLo"
+  },
+  "tsha|||girls": {
+    "matched": "TSHA - Girls",
+    "score": 1.0,
+    "uri": "spotify:track:69G7RuNzwx4xdaqxvXtbpb"
   },
   "tyler, the creator|||that guy": {
     "matched": "Tyler, The Creator - THAT GUY",

@@ -1,0 +1,854 @@
+{
+  "pid": "m002zfk9",
+  "broadcast_start": "2026-08-06T18:00:00+01:00",
+  "schedule_date": "2026-08-06",
+  "title": "Florence Road Hottest Record",
+  "tracks": [
+    {
+      "artist": "FISHER",
+      "title": "What A Life",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvctxq",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p0564jd1",
+          "musicbrainz_gid": "886dc0c9-3351-4d2d-b762-060cf1e66929",
+          "name": "FISHER"
+        },
+        "artist": "FISHER",
+        "track_title": "What A Life",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Catch & Release",
+        "release_title": null,
+        "record_id": "n99jc8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0564jd1",
+            "name": "FISHER",
+            "role": "Performer",
+            "musicbrainz_gid": "886dc0c9-3351-4d2d-b762-060cf1e66929"
+          },
+          {
+            "pid": "p0fknrtz",
+            "name": "Florence Arman",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "b22e87af-fd22-4e38-b49c-797dec152da1"
+          }
+        ],
+        "title": "What A Life",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ADÉLA",
+      "title": "Ain't In LA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p332gy",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Ain't In LA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Capitol Records",
+        "release_title": null,
+        "record_id": "n9rhxr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          }
+        ],
+        "title": "Ain't In LA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Florence Road",
+      "title": "Hanging Out To Dry",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nhz5vl",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p0l11xc3",
+          "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e",
+          "name": "Florence Road"
+        },
+        "artist": "Florence Road",
+        "track_title": "Hanging Out To Dry",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Warner Music UK",
+        "release_title": "Spring Forward",
+        "record_id": "n9p24q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l11xc3",
+            "name": "Florence Road",
+            "role": "Performer",
+            "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
+          }
+        ],
+        "title": "Hanging Out To Dry",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ROLE MODEL",
+      "title": "Joy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrcq3",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p08h0sm0",
+          "musicbrainz_gid": "4c76d2ab-cc32-47b9-8bfe-d382bed617f6",
+          "name": "ROLE MODEL"
+        },
+        "artist": "ROLE MODEL",
+        "track_title": "Joy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9r85j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08h0sm0",
+            "name": "ROLE MODEL",
+            "role": "Performer",
+            "musicbrainz_gid": "4c76d2ab-cc32-47b9-8bfe-d382bed617f6"
+          }
+        ],
+        "title": "Joy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Madonna",
+      "title": "Danceteria",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxddt3",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p09pg5m9",
+          "musicbrainz_gid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+          "name": "Madonna"
+        },
+        "artist": "Madonna",
+        "track_title": "Danceteria",
+        "track_number": "5",
+        "publisher": "Warner Chappell North America/Sony ATV/EMI Music Publishing",
+        "record_label": "Maverick",
+        "release_title": "Confessions II",
+        "record_id": "n9rzjm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09pg5m9",
+            "name": "Madonna",
+            "role": "Performer",
+            "musicbrainz_gid": "79239441-bfd5-4981-a70c-55c3f15c1287"
+          }
+        ],
+        "title": "Danceteria",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Alive",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwm2km",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "Alive",
+        "track_number": null,
+        "publisher": "Sony Music Publishing; Warner Chappel/BMI; Sony Music Publishing; Jams of Big Family / Clementunes Worldwide",
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "n9rzzh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          },
+          {
+            "pid": "p01k92dm",
+            "name": "Wizkid",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "efc5d365-a448-4e2f-9b5f-4a7c84be725c"
+          }
+        ],
+        "title": "Alive",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "Change",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzd3zr",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "Change",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n8fwmb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          },
+          {
+            "pid": "p09hn2k2",
+            "name": "Luke Alessi",
+            "role": "Performer",
+            "musicbrainz_gid": "cfff51d9-ed77-44f3-bec5-961a0feee0bd"
+          }
+        ],
+        "title": "Change",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Florence Road",
+      "title": "Break The Girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0m7tnb1",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p0l11xc3",
+          "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e",
+          "name": "Florence Road"
+        },
+        "artist": "Florence Road",
+        "track_title": "Break The Girl",
+        "track_number": null,
+        "publisher": "Warner Chappell and Manifest Music Ltd. administered Warner Chappell Music Ltd.",
+        "record_label": "Warner Music",
+        "release_title": null,
+        "record_id": "n9zvp6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l11xc3",
+            "name": "Florence Road",
+            "role": "Performer",
+            "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
+          }
+        ],
+        "title": "Break The Girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Florence Road",
+      "title": "7563",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33hs6",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0l11xc3",
+          "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e",
+          "name": "Florence Road"
+        },
+        "artist": "Florence Road",
+        "track_title": "7563",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bzp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l11xc3",
+            "name": "Florence Road",
+            "role": "Performer",
+            "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
+          }
+        ],
+        "title": "7563",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TSHA",
+      "title": "Girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0j82r87",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p079n32x",
+          "musicbrainz_gid": "0e3ca88b-910e-4daa-97db-68f3722edd5f",
+          "name": "TSHA"
+        },
+        "artist": "TSHA",
+        "track_title": "Girls",
+        "track_number": null,
+        "publisher": "BMG Publishing",
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n8r9d9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p079n32x",
+            "name": "TSHA",
+            "role": "Performer",
+            "musicbrainz_gid": "0e3ca88b-910e-4daa-97db-68f3722edd5f"
+          },
+          {
+            "pid": "p07f9hjs",
+            "name": "Rose Gray",
+            "role": "Performer",
+            "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40"
+          }
+        ],
+        "title": "Girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Baby Kool (Evelyn)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2vb5x",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p0223f4n",
+          "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+          "name": "Nothing But Thieves"
+        },
+        "artist": "Nothing But Thieves",
+        "track_title": "Baby Kool (Evelyn)",
+        "track_number": null,
+        "publisher": "Peermusic",
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9rmhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0223f4n",
+            "name": "Nothing But Thieves",
+            "role": "Performer",
+            "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e"
+          }
+        ],
+        "title": "Baby Kool (Evelyn)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "DNH",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33qz1",
+        "duration": null,
+        "primary_contributor": {
+          "pid": "p01k5jzx",
+          "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225",
+          "name": "Tove Lo"
+        },
+        "artist": "Tove Lo",
+        "track_title": "DNH",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": "DNH",
+        "record_id": "n9bzpx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01k5jzx",
+            "name": "Tove Lo",
+            "role": "Performer",
+            "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225"
+          }
+        ],
+        "title": "DNH",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "INJI",
+      "title": "BRIGHT IDEAS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gsxw",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0f04tgd",
+          "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15",
+          "name": "INJI"
+        },
+        "artist": "INJI",
+        "track_title": "BRIGHT IDEAS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Run Things",
+        "release_title": null,
+        "record_id": "n9rqwg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f04tgd",
+            "name": "INJI",
+            "role": "Performer",
+            "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15"
+          }
+        ],
+        "title": "BRIGHT IDEAS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "title": "Saturday Night",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxngr5",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p03df7md",
+          "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+          "name": "Ravyn Lenae"
+        },
+        "artist": "Ravyn Lenae",
+        "track_title": "Saturday Night",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Saturday Night",
+        "record_id": "n99m8j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03df7md",
+            "name": "Ravyn Lenae",
+            "role": "Performer",
+            "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2"
+          }
+        ],
+        "title": "Saturday Night",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "Floette",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33mpt",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p06t96fd",
+          "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+          "name": "Arlo Parks"
+        },
+        "artist": "Arlo Parks",
+        "track_title": "Floette",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Transgressive",
+        "release_title": null,
+        "record_id": "n9rm8n",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06t96fd",
+            "name": "Arlo Parks",
+            "role": "Performer",
+            "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930"
+          },
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Floette",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Avalanches",
+      "title": "Can't Get Over Losing You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33nvy",
+        "duration": 170,
+        "primary_contributor": {
+          "pid": "p0p33nw8",
+          "musicbrainz_gid": null,
+          "name": "The Avalanches"
+        },
+        "artist": "The Avalanches",
+        "track_title": "Can't Get Over Losing You",
+        "track_number": null,
+        "publisher": "EMI Music Publishing Australia Pty Ltd / EMI Music Publishing Australia Pty Ltd / Kobalt Music / Portraits Of Tracy Publishing / Secretly Publishing",
+        "record_label": "Polydor",
+        "release_title": null,
+        "record_id": "n9bzp9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p33nw8",
+            "name": "The Avalanches",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0kl5zmr",
+            "name": "Portraits of Tracy",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "a8743696-248b-4512-9176-d6666718db0c"
+          }
+        ],
+        "title": "Can't Get Over Losing You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DJ Heartstring",
+      "title": "Another Year Alone",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33q3q",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0bhc3lf",
+          "musicbrainz_gid": "fe67a450-c5a8-433f-91f0-207d148f7947",
+          "name": "DJ Heartstring"
+        },
+        "artist": "DJ Heartstring",
+        "track_title": "Another Year Alone",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "STEEL CITY DANCE DISCS",
+        "release_title": null,
+        "record_id": "n9bzpr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bhc3lf",
+            "name": "DJ Heartstring",
+            "role": "Performer",
+            "musicbrainz_gid": "fe67a450-c5a8-433f-91f0-207d148f7947"
+          }
+        ],
+        "title": "Another Year Alone",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "K Trap",
+      "title": "PRESSURE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33qx1",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p05gj2yw",
+          "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787",
+          "name": "K Trap"
+        },
+        "artist": "K Trap",
+        "track_title": "PRESSURE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Thousand8",
+        "release_title": null,
+        "record_id": "n9bzpb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05gj2yw",
+            "name": "K Trap",
+            "role": "Performer",
+            "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787"
+          },
+          {
+            "pid": "p07y7d9h",
+            "name": "Oxlade",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "4f96e4cc-d306-4ac3-89bf-c6d5fb8cc363"
+          }
+        ],
+        "title": "PRESSURE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CORTIS",
+      "title": "MOTION",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33r00",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p0p33r04",
+          "musicbrainz_gid": "d27808c8-d3a6-4bbe-acc2-22d5e19f3bca",
+          "name": "CORTIS"
+        },
+        "artist": "CORTIS",
+        "track_title": "MOTION",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Republic Records – CORTIS",
+        "release_title": null,
+        "record_id": "n9bzpd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p33r04",
+            "name": "CORTIS",
+            "role": "Performer",
+            "musicbrainz_gid": "d27808c8-d3a6-4bbe-acc2-22d5e19f3bca"
+          },
+          {
+            "pid": "p01b593j",
+            "name": "Juicy J",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c45d161f-83ce-4464-ba41-44202e6916d9"
+          }
+        ],
+        "title": "MOTION",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Goldie",
+      "title": "Jungle Daze",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p155gj",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p012dtp7",
+          "musicbrainz_gid": "c5393047-0c44-48eb-b5a8-070759f04371",
+          "name": "Goldie"
+        },
+        "artist": "Goldie",
+        "track_title": "Jungle Daze",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LDN Records",
+        "release_title": null,
+        "record_id": "n9rddv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dtp7",
+            "name": "Goldie",
+            "role": "Performer",
+            "musicbrainz_gid": "c5393047-0c44-48eb-b5a8-070759f04371"
+          },
+          {
+            "pid": "p01h9qlc",
+            "name": "Natalie Williams",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "9fdfc286-e51b-4109-9bb0-06a1d4977946"
+          }
+        ],
+        "title": "Jungle Daze",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Loathe",
+      "title": "Fortress Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p15mhm",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p06q4bjr",
+          "musicbrainz_gid": "56eb02c4-1f16-4613-8bb3-b4a752283fc3",
+          "name": "Loathe"
+        },
+        "artist": "Loathe",
+        "track_title": "Fortress Down",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SHARPTONE",
+        "release_title": null,
+        "record_id": "n9rcvm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06q4bjr",
+            "name": "Loathe",
+            "role": "Performer",
+            "musicbrainz_gid": "56eb02c4-1f16-4613-8bb3-b4a752283fc3"
+          }
+        ],
+        "title": "Fortress Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ivri",
+      "title": "THE GOLDEN RECORD",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33rs6",
+        "duration": 256,
+        "primary_contributor": {
+          "pid": "p0n5m433",
+          "musicbrainz_gid": "d5952849-0b94-4401-ba6f-81559f17f4b9",
+          "name": "ivri"
+        },
+        "artist": "ivri",
+        "track_title": "THE GOLDEN RECORD",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Universal Music Operations Ltd",
+        "release_title": null,
+        "record_id": "n9bzph",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n5m433",
+            "name": "ivri",
+            "role": "Performer",
+            "musicbrainz_gid": "d5952849-0b94-4401-ba6f-81559f17f4b9"
+          }
+        ],
+        "title": "THE GOLDEN RECORD",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

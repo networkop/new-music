@@ -90,6 +90,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Talk To You"
   },
+  "arca|||taconeando": {
+    "artist": "Arca",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Taconeando"
+  },
   "baauer|||better": {
     "artist": "Baauer",
     "category": "manual",
@@ -103,6 +110,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Permanently Obsessed"
+  },
+  "barry can't swim|||dance dance dance!": {
+    "artist": "Barry Can't Swim",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dance Dance Dance!"
   },
   "barry can't swim|||return to bhibo": {
     "artist": "Barry Can't Swim",
@@ -405,6 +419,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "In My Victoria's Secret"
   },
+  "frost children|||satellites": {
+    "artist": "Frost Children",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Satellites"
+  },
   "good neighbours|||superstar": {
     "artist": "Good Neighbours",
     "category": "manual",
@@ -425,6 +446,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Ready For Your Love"
+  },
+  "headie one|||turnt to a target": {
+    "artist": "Headie One",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Turnt To A Target"
   },
   "hemlocke springs|||be the girl!": {
     "artist": "hemlocke springs",
@@ -587,6 +615,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "California Dream"
   },
+  "len|||pick up the phone": {
+    "artist": "Len",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "pick up the phone"
+  },
   "lexa gates|||estranged": {
     "artist": "Lexa Gates",
     "category": "manual",
@@ -628,6 +663,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Say Yeah"
+  },
+  "mount kimbie|||jomox": {
+    "artist": "Mount Kimbie",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Jomox"
   },
   "mount kimbie|||monroe": {
     "artist": "Mount Kimbie",
@@ -677,6 +719,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Milan (CC2)"
+  },
+  "nothing but thieves|||baby kool (evelyn)": {
+    "artist": "Nothing But Thieves",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Baby Kool (Evelyn)"
   },
   "nothing but thieves|||evolution": {
     "artist": "Nothing But Thieves",

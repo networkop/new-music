@@ -532,6 +532,52 @@
       ]
     ]
   },
+  "0e3ca88b-910e-4daa-97db-68f3722edd5f": {
+    "name": "TSHA",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "house",
+        77
+      ],
+      [
+        "progressive house",
+        17
+      ],
+      [
+        "indie pop",
+        9
+      ],
+      [
+        "rutracker",
+        5
+      ],
+      [
+        "collection",
+        5
+      ],
+      [
+        "british",
+        2
+      ],
+      [
+        "deep house",
+        1
+      ],
+      [
+        "deezer",
+        1
+      ],
+      [
+        "upcoming album 2024",
+        1
+      ]
+    ]
+  },
   "0e8afdae-d488-44d6-85b5-a5007096c049": {
     "name": "Kingfishr",
     "source": "lastfm",
@@ -2542,6 +2588,52 @@
       ]
     ]
   },
+  "56eb02c4-1f16-4613-8bb3-b4a752283fc3": {
+    "name": "Loathe",
+    "source": "lastfm",
+    "tags": [
+      [
+        "metalcore",
+        100
+      ],
+      [
+        "alternative metal",
+        74
+      ],
+      [
+        "progressive metalcore",
+        26
+      ],
+      [
+        "shoegaze",
+        24
+      ],
+      [
+        "djent",
+        11
+      ],
+      [
+        "british",
+        6
+      ],
+      [
+        "nu metal",
+        6
+      ],
+      [
+        "ambient",
+        2
+      ],
+      [
+        "nu metalcore",
+        1
+      ],
+      [
+        "progressive metal",
+        1
+      ]
+    ]
+  },
   "57dd4661-9f78-4442-8836-482fab983008": {
     "name": "Aitch",
     "source": "lastfm",
@@ -3429,6 +3521,52 @@
       ]
     ]
   },
+  "6e8e3717-a62d-4a3f-886d-6a4e82507930": {
+    "name": "Arlo Parks",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "rnb",
+        91
+      ],
+      [
+        "pop",
+        51
+      ],
+      [
+        "neo-soul",
+        44
+      ],
+      [
+        "indie",
+        20
+      ],
+      [
+        "female vocalists",
+        18
+      ],
+      [
+        "british",
+        15
+      ],
+      [
+        "british soul",
+        4
+      ],
+      [
+        "indie pop",
+        1
+      ],
+      [
+        "hip hop",
+        1
+      ]
+    ]
+  },
   "6f38418e-4695-4e20-a792-431929e95ee5": {
     "name": "Tiny Habits",
     "source": "lastfm",
@@ -4256,6 +4394,52 @@
     "name": "KTmelodies",
     "source": "lastfm",
     "tags": []
+  },
+  "886dc0c9-3351-4d2d-b762-060cf1e66929": {
+    "name": "FISHER",
+    "source": "lastfm",
+    "tags": [
+      [
+        "female vocalists",
+        100
+      ],
+      [
+        "indie",
+        81
+      ],
+      [
+        "house",
+        41
+      ],
+      [
+        "pop",
+        31
+      ],
+      [
+        "tech house",
+        13
+      ],
+      [
+        "rock",
+        10
+      ],
+      [
+        "electronic",
+        8
+      ],
+      [
+        "female vocalist",
+        2
+      ],
+      [
+        "singer-songwriter",
+        2
+      ],
+      [
+        "australian",
+        1
+      ]
+    ]
   },
   "889b69e3-7b18-4889-b953-9f2931597204": {
     "name": "High Contrast",
@@ -6033,6 +6217,52 @@
       ]
     ]
   },
+  "c5393047-0c44-48eb-b5a8-070759f04371": {
+    "name": "Goldie",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "jungle",
+        93
+      ],
+      [
+        "drum n bass",
+        30
+      ],
+      [
+        "electronic",
+        29
+      ],
+      [
+        "dnb",
+        10
+      ],
+      [
+        "british",
+        5
+      ],
+      [
+        "electronica",
+        3
+      ],
+      [
+        "breakbeat",
+        1
+      ],
+      [
+        "drum'n'bass",
+        1
+      ],
+      [
+        "90s",
+        1
+      ]
+    ]
+  },
   "c69af97b-4d3b-4f72-9746-829b6b9d5f88": {
     "name": "Yard Act",
     "source": "lastfm",
@@ -6323,6 +6553,52 @@
       ]
     ]
   },
+  "d27808c8-d3a6-4bbe-acc2-22d5e19f3bca": {
+    "name": "CORTIS",
+    "source": "lastfm",
+    "tags": [
+      [
+        "korean",
+        100
+      ],
+      [
+        "martin",
+        100
+      ],
+      [
+        "cortis",
+        66
+      ],
+      [
+        "k-pop",
+        29
+      ],
+      [
+        "james",
+        15
+      ],
+      [
+        "juhoon da thauany",
+        15
+      ],
+      [
+        "boybands",
+        4
+      ],
+      [
+        "favs ★",
+        1
+      ],
+      [
+        "5th gen leaders",
+        1
+      ],
+      [
+        "bighit music",
+        1
+      ]
+    ]
+  },
   "d2a36c92-546b-4b81-b31b-23e21d2ea6ee": {
     "name": "Nemzzz",
     "source": "lastfm",
@@ -6457,6 +6733,52 @@
       ],
       [
         "instrumental",
+        1
+      ]
+    ]
+  },
+  "d5952849-0b94-4401-ba6f-81559f17f4b9": {
+    "name": "ivri",
+    "source": "lastfm",
+    "tags": [
+      [
+        "shoegaze",
+        100
+      ],
+      [
+        "rnb",
+        25
+      ],
+      [
+        "pop",
+        7
+      ],
+      [
+        "rock",
+        7
+      ],
+      [
+        "usa",
+        4
+      ],
+      [
+        "alternative rock",
+        4
+      ],
+      [
+        "electronic",
+        4
+      ],
+      [
+        "dream pop",
+        1
+      ],
+      [
+        "spotify",
+        1
+      ],
+      [
+        "soft rock",
         1
       ]
     ]
@@ -7811,6 +8133,52 @@
       ]
     ]
   },
+  "fe67a450-c5a8-433f-91f0-207d148f7947": {
+    "name": "DJ Heartstring",
+    "source": "lastfm",
+    "tags": [
+      [
+        "trance",
+        100
+      ],
+      [
+        "eurodance",
+        100
+      ],
+      [
+        "techno",
+        18
+      ],
+      [
+        "electronic",
+        3
+      ],
+      [
+        "german",
+        1
+      ],
+      [
+        "rave",
+        1
+      ],
+      [
+        "dance",
+        1
+      ],
+      [
+        "90s dance",
+        1
+      ],
+      [
+        "house",
+        1
+      ],
+      [
+        "germany",
+        1
+      ]
+    ]
+  },
   "name:ayraa star": {
     "name": "ayraa star",
     "source": "lastfm",
@@ -7950,6 +8318,52 @@
       ],
       [
         "liquid funk",
+        1
+      ]
+    ]
+  },
+  "name:the avalanches": {
+    "name": "The Avalanches",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "turntablism",
+        62
+      ],
+      [
+        "australian",
+        24
+      ],
+      [
+        "dance",
+        22
+      ],
+      [
+        "electronica",
+        10
+      ],
+      [
+        "plunderphonics",
+        10
+      ],
+      [
+        "hip-hop",
+        3
+      ],
+      [
+        "experimental",
+        1
+      ],
+      [
+        "trip-hop",
+        1
+      ],
+      [
+        "alternative dance",
         1
       ]
     ]
