@@ -1,0 +1,1088 @@
+{
+  "pid": "m002zs92",
+  "broadcast_start": "2026-08-10T18:00:00+01:00",
+  "schedule_date": "2026-08-10",
+  "title": "Wasia Project Hottest Record",
+  "tracks": [
+    {
+      "artist": "Charli xcx",
+      "title": "Camera",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p026z3",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p012f188",
+          "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+          "name": "Charli xcx"
+        },
+        "artist": "Charli xcx",
+        "track_title": "Camera",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rd4g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Camera",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ANOTR",
+      "title": "Silver Lines",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx6q37",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p03s23z8",
+          "musicbrainz_gid": "5f3be62e-d166-453e-a3ea-07b9227fafae",
+          "name": "ANOTR"
+        },
+        "artist": "ANOTR",
+        "track_title": "Silver Lines",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "CIRCOLOCO RECORDS",
+        "release_title": null,
+        "record_id": "n9r34p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03s23z8",
+            "name": "ANOTR",
+            "role": "Performer",
+            "musicbrainz_gid": "5f3be62e-d166-453e-a3ea-07b9227fafae"
+          },
+          {
+            "pid": "p044zxz0",
+            "name": "Emily Warren",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "28f4bb72-3ff1-427d-8cff-236585327375"
+          }
+        ],
+        "title": "Silver Lines",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "Bleeding Gold",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nww0w5",
+        "duration": 209,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "Bleeding Gold",
+        "track_number": "1",
+        "publisher": "BMG Rights Management (UK) Limited/Copyright Control",
+        "record_label": "LAOLAO Records",
+        "release_title": "Bleeding Gold",
+        "record_id": "n98b8q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "Bleeding Gold",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erin LeCount",
+      "title": "THE CINEMA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxz1gf",
+        "duration": 201,
+        "primary_contributor": {
+          "pid": "p0d40wr8",
+          "musicbrainz_gid": "52d273ca-1f68-440c-9c37-751358cf0434",
+          "name": "Erin LeCount"
+        },
+        "artist": "Erin LeCount",
+        "track_title": "THE CINEMA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n99qrz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d40wr8",
+            "name": "Erin LeCount",
+            "role": "Performer",
+            "musicbrainz_gid": "52d273ca-1f68-440c-9c37-751358cf0434"
+          }
+        ],
+        "title": "THE CINEMA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "One Song Away From Crying",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1jh9s",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "One Song Away From Crying",
+        "track_number": null,
+        "publisher": "Beachbreak publishing",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9rwn2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "One Song Away From Crying",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Someday, Somewhere",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxmxd9",
+        "duration": 146,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Someday, Somewhere",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "AWAL Recordings",
+        "release_title": null,
+        "record_id": "n9r4p2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Someday, Somewhere",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Baby Kool (Evelyn)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2vb5x",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p0223f4n",
+          "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+          "name": "Nothing But Thieves"
+        },
+        "artist": "Nothing But Thieves",
+        "track_title": "Baby Kool (Evelyn)",
+        "track_number": null,
+        "publisher": "Peermusic",
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9rmhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0223f4n",
+            "name": "Nothing But Thieves",
+            "role": "Performer",
+            "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e"
+          }
+        ],
+        "title": "Baby Kool (Evelyn)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "ur so pretty",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0g6jl15",
+        "duration": 125,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "ur so pretty",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Will Gao and Olivia Hardy t/a Wasia Project",
+        "release_title": null,
+        "record_id": "npx3mn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "ur so pretty",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "Vogue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rscx",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "Vogue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LAOLAO Records",
+        "release_title": null,
+        "record_id": "n9b3rz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "Vogue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Andy C",
+      "title": "Heartbeat Loud",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p027wnv3",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p012dzb8",
+          "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314",
+          "name": "Andy C"
+        },
+        "artist": "Andy C",
+        "track_title": "Heartbeat Loud",
+        "track_number": null,
+        "publisher": "Universal Music Publishing/Copyright Control",
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n2mwxf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dzb8",
+            "name": "Andy C",
+            "role": "Performer",
+            "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314"
+          },
+          {
+            "pid": "p01mwxb2",
+            "name": "Fiora",
+            "role": "Performer",
+            "musicbrainz_gid": "848d4a7f-8213-46c8-9936-e58b83e8a1d1"
+          }
+        ],
+        "title": "Heartbeat Loud",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Overmono",
+      "title": "After The Rain",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rvxc",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p04mzzzy",
+          "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+          "name": "Overmono"
+        },
+        "artist": "Overmono",
+        "track_title": "After The Rain",
+        "track_number": null,
+        "publisher": "BMG Music Publishing Ltd.",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9bnfv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04mzzzy",
+            "name": "Overmono",
+            "role": "Performer",
+            "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa"
+          }
+        ],
+        "title": "After The Rain",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Twiggy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gjs9",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Twiggy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island/EMI",
+        "release_title": null,
+        "record_id": "n9rqhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Twiggy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Lonely in the Future",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rwzx",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p012d9cf",
+          "musicbrainz_gid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+          "name": "The Strokes"
+        },
+        "artist": "The Strokes",
+        "track_title": "Lonely in the Future",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Cult Records/RCA Records",
+        "release_title": null,
+        "record_id": "n9rf5r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9cf",
+            "name": "The Strokes",
+            "role": "Performer",
+            "musicbrainz_gid": "f181961b-20f7-459e-89de-920ef03c7ed0"
+          }
+        ],
+        "title": "Lonely in the Future",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacey",
+      "title": "oh yeah?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rxrx",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p04wwtr2",
+          "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f",
+          "name": "Steve Lacey"
+        },
+        "artist": "Steve Lacey",
+        "track_title": "oh yeah?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9b3r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04wwtr2",
+            "name": "Steve Lacey",
+            "role": "Performer",
+            "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f"
+          }
+        ],
+        "title": "oh yeah?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Pistol",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gqdw",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Pistol",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "ISLAND RECORDS",
+        "release_title": null,
+        "record_id": "n9r932",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Pistol",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Barry Can't Swim",
+      "title": "Dance Dance Dance!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0rgm7",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p0byqyrc",
+          "musicbrainz_gid": "7dcf3b98-701a-4309-a90c-eb4179b96ea9",
+          "name": "Barry Can't Swim"
+        },
+        "artist": "Barry Can't Swim",
+        "track_title": "Dance Dance Dance!",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n9rf2f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0byqyrc",
+            "name": "Barry Can't Swim",
+            "role": "Performer",
+            "musicbrainz_gid": "7dcf3b98-701a-4309-a90c-eb4179b96ea9"
+          }
+        ],
+        "title": "Dance Dance Dance!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Crash Out",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p02bg9",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Crash Out",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9rcgj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Crash Out",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lil Baby",
+      "title": "Dead Fresh",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzcnjf",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p0627248",
+          "musicbrainz_gid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+          "name": "Lil Baby"
+        },
+        "artist": "Lil Baby",
+        "track_title": "Dead Fresh",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rrc8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0627248",
+            "name": "Lil Baby",
+            "role": "Performer",
+            "musicbrainz_gid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+          }
+        ],
+        "title": "Dead Fresh",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "brand new chanel$",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n6rg",
+        "duration": 236,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "brand new chanel$",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Records/Columbia",
+        "release_title": "brand new chanel$",
+        "record_id": "n9rwmg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "brand new chanel$",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3l5dr",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Love",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd",
+        "record_label": "Domino Recording Co.",
+        "release_title": null,
+        "record_id": "n9rmdr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CORTIS",
+      "title": "MOTION",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33r00",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p0p33r04",
+          "musicbrainz_gid": "d27808c8-d3a6-4bbe-acc2-22d5e19f3bca",
+          "name": "CORTIS"
+        },
+        "artist": "CORTIS",
+        "track_title": "MOTION",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Republic Records – CORTIS",
+        "release_title": null,
+        "record_id": "n9bzpd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p33r04",
+            "name": "CORTIS",
+            "role": "Performer",
+            "musicbrainz_gid": "d27808c8-d3a6-4bbe-acc2-22d5e19f3bca"
+          },
+          {
+            "pid": "p01b593j",
+            "name": "Juicy J",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c45d161f-83ce-4464-ba41-44202e6916d9"
+          }
+        ],
+        "title": "MOTION",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Robyn",
+      "title": "Talk To Me, Zara",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p19yhk",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p012d7sh",
+          "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94",
+          "name": "Robyn"
+        },
+        "artist": "Robyn",
+        "track_title": "Talk To Me, Zara",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young Records",
+        "release_title": null,
+        "record_id": "n9rhc9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7sh",
+            "name": "Robyn",
+            "role": "Performer",
+            "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94"
+          },
+          {
+            "pid": "p0324j05",
+            "name": "Zara Larsson",
+            "role": "Performer",
+            "musicbrainz_gid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d"
+          }
+        ],
+        "title": "Talk To Me, Zara",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Creatine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrr0c",
+        "duration": 109,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Creatine",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Alta Music Group",
+        "release_title": null,
+        "record_id": "n9r8xx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Creatine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kelela",
+      "title": "the bridge",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxdry2",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p0332tw9",
+          "musicbrainz_gid": "045494aa-e913-4e62-bf4e-dcc276e0075a",
+          "name": "Kelela"
+        },
+        "artist": "Kelela",
+        "track_title": "the bridge",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warp Records",
+        "release_title": null,
+        "record_id": "n9r3h4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0332tw9",
+            "name": "Kelela",
+            "role": "Performer",
+            "musicbrainz_gid": "045494aa-e913-4e62-bf4e-dcc276e0075a"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          }
+        ],
+        "title": "the bridge",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "PIXY",
+      "title": "LEGACY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvtx2m",
+        "duration": 132,
+        "primary_contributor": {
+          "pid": "p0nrqv8k",
+          "musicbrainz_gid": "0aaf3c5c-ab4d-43a1-a69d-b7949520cf7a",
+          "name": "PIXY"
+        },
+        "artist": "PIXY",
+        "track_title": "LEGACY",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "PIXY",
+        "release_title": null,
+        "record_id": "n94w2h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nrqv8k",
+            "name": "PIXY",
+            "role": "Performer",
+            "musicbrainz_gid": "0aaf3c5c-ab4d-43a1-a69d-b7949520cf7a"
+          }
+        ],
+        "title": "LEGACY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cardinals",
+      "title": "St Agnes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n19hl3",
+        "duration": 127,
+        "primary_contributor": {
+          "pid": "p0hxsh0j",
+          "musicbrainz_gid": "3fa89526-8faa-4c55-9400-1a2b1fe10e3d",
+          "name": "Cardinals"
+        },
+        "artist": "Cardinals",
+        "track_title": "St Agnes",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n95jzf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0hxsh0j",
+            "name": "Cardinals",
+            "role": "Performer",
+            "musicbrainz_gid": "3fa89526-8faa-4c55-9400-1a2b1fe10e3d"
+          }
+        ],
+        "title": "St Agnes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "BNXN",
+      "title": "EJA MEJA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1b57q",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p0cy9ykp",
+          "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9",
+          "name": "BNXN"
+        },
+        "artist": "BNXN",
+        "track_title": "EJA MEJA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Empire Records",
+        "release_title": null,
+        "record_id": "n9rhcg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cy9ykp",
+            "name": "BNXN",
+            "role": "Performer",
+            "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9"
+          },
+          {
+            "pid": "p0cs9jmk",
+            "name": "Asake",
+            "role": "Performer",
+            "musicbrainz_gid": "2b37ba5e-2162-46ca-bbad-f076f6a333bd"
+          }
+        ],
+        "title": "EJA MEJA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wolf Alice",
+      "title": "Hammond Song",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3s62q",
+        "duration": 340,
+        "primary_contributor": {
+          "pid": "p034xfbs",
+          "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+          "name": "Wolf Alice"
+        },
+        "artist": "Wolf Alice",
+        "track_title": "Hammond Song",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n9rwm3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034xfbs",
+            "name": "Wolf Alice",
+            "role": "Performer",
+            "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+          }
+        ],
+        "title": "Hammond Song",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Upside Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p09flr",
+        "duration": 104,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Upside Down",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9rdwx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Upside Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

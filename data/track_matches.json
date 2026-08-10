@@ -54,6 +54,11 @@
     "score": 1.0,
     "uri": "spotify:track:0AzqDU9tF8LRqZ2XgGwplG"
   },
+  "andy c|||heartbeat loud": {
+    "matched": "Andy C - Heartbeat Loud",
+    "score": 1.0,
+    "uri": "spotify:track:5PuJ00qKGWqbGeeWbt8WJb"
+  },
   "andy c|||who like the what": {
     "matched": "Andy C - Who Like The What?",
     "score": 1.0,
@@ -213,6 +218,11 @@
     "matched": "Cardi B - AH HA",
     "score": 1.0,
     "uri": "spotify:track:6fQeVMxEg2FSKfsQm5ArVR"
+  },
+  "cardinals|||st agnes": {
+    "matched": "Cardinals - St. Agnes",
+    "score": 1.0,
+    "uri": "spotify:track:1iXcHOr7lFCEsGgQvrr2G5"
   },
   "chanel beads|||leaning on the everlasting arms (radio 1 session, 16th july 2026)": {
     "matched": null,
@@ -378,6 +388,11 @@
     "matched": "Fat Dog - Cancel Me (I’m Tired)",
     "score": 1.0,
     "uri": "spotify:track:5cYKa4Cowu3Xl6qD2Mh2e6"
+  },
+  "fat dog|||love": {
+    "matched": "Fat Dog - Shit Love",
+    "score": 0.828,
+    "uri": "spotify:track:0gDl9Clr6bkgLum6Dhdh88"
   },
   "feeble little horse|||rewind": {
     "matched": "feeble little horse - Rewind",
@@ -684,6 +699,11 @@
     "score": 1.0,
     "uri": "spotify:track:5wAXLizMv7kFkDWA8qhyDg"
   },
+  "lil baby|||dead fresh": {
+    "matched": "Lil Baby - Dead Fresh",
+    "score": 1.0,
+    "uri": "spotify:track:5ZAMlvo6ZUjVRZOGu2bJib"
+  },
   "loathe|||fortress down": {
     "matched": "Loathe - Fortress Down",
     "score": 1.0,
@@ -853,6 +873,11 @@
     "matched": "Oscar Farrell - Don't Play With Me",
     "score": 1.0,
     "uri": "spotify:track:0Ti6MgIB9cmwpGW3wFugxj"
+  },
+  "overmono|||after the rain": {
+    "matched": "Overmono - After The Rain",
+    "score": 1.0,
+    "uri": "spotify:track:0rclr5nd7iwF4rJTYRLlJq"
   },
   "overmono|||even angels ghost": {
     "matched": "Overmono - Even Angels Ghost",
@@ -1094,6 +1119,11 @@
     "score": 1.0,
     "uri": "spotify:track:6ROMMDonzrFEpC46ptxhcE"
   },
+  "steve lacey|||oh yeah?": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "steve lacy|||doom": {
     "matched": "Steve Lacy - doom",
     "score": 1.0,
@@ -1159,6 +1189,11 @@
     "score": 1.0,
     "uri": "spotify:track:5IXA8J6Xugs507nAzwSa5F"
   },
+  "the strokes|||lonely in the future": {
+    "matched": "The Strokes - Lonely in the Future",
+    "score": 1.0,
+    "uri": "spotify:track:5gBMUQu2FVV1OYu92hbJjv"
+  },
   "tierra whack|||siren": {
     "matched": "Tierra Whack - SIREN",
     "score": 1.0,
@@ -1214,6 +1249,21 @@
     "score": 1.0,
     "uri": "spotify:track:7cOUAzSxknlzBK3nc8zbvQ"
   },
+  "wasia project|||bleeding gold": {
+    "matched": "Wasia Project - Bleeding Gold",
+    "score": 1.0,
+    "uri": "spotify:track:33UMuadJsuFnZ0qcgVAOs1"
+  },
+  "wasia project|||ur so pretty": {
+    "matched": "Wasia Project - ur so pretty",
+    "score": 1.0,
+    "uri": "spotify:track:1Jt24MPLz6fGXSCTlXTjzF"
+  },
+  "wasia project|||vogue": {
+    "matched": "Wasia Project - Vogue",
+    "score": 1.0,
+    "uri": "spotify:track:7gLPKqoXJue0AJeNVRaDXj"
+  },
   "wasia project|||whale call": {
     "matched": "Wasia Project - Whale Call",
     "score": 1.0,
@@ -1238,6 +1288,11 @@
     "matched": "Wolf Alice - Gospel Oak",
     "score": 1.0,
     "uri": "spotify:track:0CjC7M4cRiy8tJT4ikgv81"
+  },
+  "wolf alice|||hammond song": {
+    "matched": "Wolf Alice - Hammond Song",
+    "score": 1.0,
+    "uri": "spotify:track:2aR3Hs6ioznnfBaI1rArDi"
   },
   "yard act|||new beginnings": {
     "matched": "Yard Act - New Beginnings",

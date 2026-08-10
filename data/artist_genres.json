@@ -1662,6 +1662,52 @@
       ]
     ]
   },
+  "3fa89526-8faa-4c55-9400-1a2b1fe10e3d": {
+    "name": "Cardinals",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "indie",
+        60
+      ],
+      [
+        "indie rock",
+        29
+      ],
+      [
+        "vocal",
+        29
+      ],
+      [
+        "new age",
+        15
+      ],
+      [
+        "relaxing",
+        15
+      ],
+      [
+        "trip-hop",
+        15
+      ],
+      [
+        "relax",
+        4
+      ],
+      [
+        "choral chants",
+        4
+      ],
+      [
+        "male voice",
+        4
+      ]
+    ]
+  },
   "41ca19c2-935f-4647-9ef5-26f81291a9aa": {
     "name": "Blxst",
     "source": "lastfm",
@@ -6691,6 +6737,52 @@
       ]
     ]
   },
+  "d42a5768-ada1-4fb6-85fd-f61aba6264e0": {
+    "name": "Lil Baby",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rap",
+        100
+      ],
+      [
+        "hip-hop",
+        99
+      ],
+      [
+        "hip hop",
+        61
+      ],
+      [
+        "trap",
+        59
+      ],
+      [
+        "atlanta",
+        17
+      ],
+      [
+        "georgia",
+        1
+      ],
+      [
+        "pop rap",
+        1
+      ],
+      [
+        "gangsta rap",
+        1
+      ],
+      [
+        "southern hip hop",
+        1
+      ],
+      [
+        "american",
+        1
+      ]
+    ]
+  },
   "d51acca9-a88b-4f5c-a2fe-f069de70ca1d": {
     "name": "Ezra Collective",
     "source": "lastfm",
@@ -7546,6 +7638,11 @@
       ]
     ]
   },
+  "eddb1dda-2c8f-487a-b402-3f9261182f5f": {
+    "name": "Steve Lacey",
+    "source": "lastfm",
+    "tags": []
+  },
   "ee0b11de-0c8a-4267-9886-198f4579e1db": {
     "name": "Lizzy McAlpine",
     "source": "lastfm",
@@ -7756,6 +7853,52 @@
       ],
       [
         "gentle indie sounds",
+        1
+      ]
+    ]
+  },
+  "f181961b-20f7-459e-89de-920ef03c7ed0": {
+    "name": "The Strokes",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie rock",
+        100
+      ],
+      [
+        "indie",
+        85
+      ],
+      [
+        "rock",
+        53
+      ],
+      [
+        "alternative",
+        40
+      ],
+      [
+        "alternative rock",
+        19
+      ],
+      [
+        "garage rock",
+        7
+      ],
+      [
+        "american",
+        4
+      ],
+      [
+        "garage rock revival",
+        1
+      ],
+      [
+        "new york",
+        1
+      ],
+      [
+        "post-punk",
         1
       ]
     ]

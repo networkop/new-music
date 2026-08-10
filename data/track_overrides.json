@@ -307,6 +307,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "The One"
   },
+  "cortis|||motion": {
+    "artist": "CORTIS",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "MOTION"
+  },
   "culture shock|||feel again": {
     "artist": "Culture Shock",
     "category": "manual",
@@ -341,6 +348,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Set You Free"
+  },
+  "dj heartstring|||another year alone": {
+    "artist": "DJ Heartstring",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Another Year Alone"
   },
   "erick the architect|||no doubt (i'm in love)": {
     "artist": "Erick the Architect",
@@ -398,6 +412,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Different"
   },
+  "florence road|||7563": {
+    "artist": "Florence Road",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "7563"
+  },
+  "florence road|||break the girl": {
+    "artist": "Florence Road",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Break The Girl"
+  },
   "flowerovlove|||breaking news": {
     "artist": "flowerovlove",
     "category": "manual",
@@ -425,6 +453,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Satellites"
+  },
+  "goldie|||jungle daze": {
+    "artist": "Goldie",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Jungle Daze"
   },
   "good neighbours|||superstar": {
     "artist": "Good Neighbours",
@@ -481,6 +516,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "that's my beach!"
+  },
+  "inji|||bright ideas": {
+    "artist": "INJI",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "BRIGHT IDEAS"
   },
   "inji|||i wanna feel it all": {
     "artist": "INJI",
@@ -551,6 +593,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "CAN'T SAY NO"
+  },
+  "k trap|||pressure": {
+    "artist": "K Trap",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "PRESSURE"
   },
   "kamal|||the people that saved me": {
     "artist": "Kamal",
@@ -733,6 +782,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Evolution"
+  },
+  "original koffee|||summer fruits": {
+    "artist": "Original Koffee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Summer Fruits"
   },
   "original koffee|||summer fruits (na na)": {
     "artist": "Original Koffee",
@@ -1014,6 +1070,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "WATER"
   },
+  "the avalanches|||can't get over losing you": {
+    "artist": "The Avalanches",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Can't Get Over Losing You"
+  },
   "the avalanches|||every single weekend": {
     "artist": "The Avalanches",
     "category": "manual",
@@ -1055,6 +1118,20 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "CONSTANTLY"
+  },
+  "tove lo|||dnh": {
+    "artist": "Tove Lo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "DNH"
+  },
+  "tsha|||girls": {
+    "artist": "TSHA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Girls"
   },
   "tyler, the creator|||that guy": {
     "artist": "Tyler, The Creator",
