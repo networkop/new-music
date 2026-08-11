@@ -55,6 +55,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Focus"
   },
+  "andy c|||heartbeat loud": {
+    "artist": "Andy C",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Heartbeat Loud"
+  },
   "andy c|||who like the what": {
     "artist": "Andy C",
     "category": "manual",
@@ -146,6 +153,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dog Eat Dog"
   },
+  "bleech 9:3|||no surprise": {
+    "artist": "Bleech 9:3",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "No Surprise"
+  },
   "blondshell|||violins": {
     "artist": "Blondshell",
     "category": "manual",
@@ -215,6 +229,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Out of my Head"
+  },
+  "cardinals|||st agnes": {
+    "artist": "Cardinals",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "St Agnes"
   },
   "chanel beads|||tyler richard": {
     "artist": "Chanel Beads",
@@ -531,6 +552,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "I WANNA FEEL IT ALL"
   },
+  "ivri|||the golden record": {
+    "artist": "ivri",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "THE GOLDEN RECORD"
+  },
   "j hus|||moonlight": {
     "artist": "J Hus",
     "category": "manual",
@@ -678,6 +706,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Estranged"
   },
+  "lil baby|||dead fresh": {
+    "artist": "Lil Baby",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dead Fresh"
+  },
   "ludacris|||real hustla": {
     "artist": "Ludacris",
     "category": "manual",
@@ -783,6 +818,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Evolution"
   },
+  "nothing but thieves|||welcome to the dcc": {
+    "artist": "Nothing But Thieves",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Welcome To The DCC"
+  },
   "original koffee|||summer fruits": {
     "artist": "Original Koffee",
     "category": "manual",
@@ -810,6 +852,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Don't Play With Me"
+  },
+  "overmono|||after the rain": {
+    "artist": "Overmono",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "After The Rain"
   },
   "overmono|||even angels ghost": {
     "artist": "Overmono",
@@ -1105,6 +1154,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Sinner"
   },
+  "the strokes|||lonely in the future": {
+    "artist": "The Strokes",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Lonely in the Future"
+  },
   "tierra whack|||siren": {
     "artist": "Tierra Whack",
     "category": "manual",
@@ -1154,6 +1210,27 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Just Love"
   },
+  "wasia project|||bleeding gold": {
+    "artist": "Wasia Project",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Bleeding Gold"
+  },
+  "wasia project|||ur so pretty": {
+    "artist": "Wasia Project",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "ur so pretty"
+  },
+  "wasia project|||vogue": {
+    "artist": "Wasia Project",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Vogue"
+  },
   "wasia project|||whale call": {
     "artist": "Wasia Project",
     "category": "manual",
@@ -1181,6 +1258,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Gospel Oak"
+  },
+  "wolf alice|||hammond song": {
+    "artist": "Wolf Alice",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Hammond Song"
   },
   "yard act|||new beginnings": {
     "artist": "Yard Act",

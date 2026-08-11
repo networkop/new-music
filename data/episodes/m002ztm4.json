@@ -1,0 +1,878 @@
+{
+  "pid": "m002ztm4",
+  "broadcast_start": "2026-08-11T18:00:00+01:00",
+  "schedule_date": "2026-08-11",
+  "title": "Andy C Hottest Record",
+  "tracks": [
+    {
+      "artist": "FISHER",
+      "title": "What A Life",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvctxq",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p0564jd1",
+          "musicbrainz_gid": "886dc0c9-3351-4d2d-b762-060cf1e66929",
+          "name": "FISHER"
+        },
+        "artist": "FISHER",
+        "track_title": "What A Life",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Catch & Release",
+        "release_title": null,
+        "record_id": "n99jc8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0564jd1",
+            "name": "FISHER",
+            "role": "Performer",
+            "musicbrainz_gid": "886dc0c9-3351-4d2d-b762-060cf1e66929"
+          },
+          {
+            "pid": "p0fknrtz",
+            "name": "Florence Arman",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "b22e87af-fd22-4e38-b49c-797dec152da1"
+          }
+        ],
+        "title": "What A Life",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Disgruntled",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0jnk6",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Disgruntled",
+        "track_number": null,
+        "publisher": "Sony Music Publishing, Concord Music Publishing, Imhotep Publishing, Kobalt Publishing",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rx5b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p038bb28",
+            "name": "J Hus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "eca85dd0-f1fb-4e83-8c47-61403f479254"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRah",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Disgruntled",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Andy C",
+      "title": "Heartbeat Loud",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p027wnv3",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p012dzb8",
+          "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314",
+          "name": "Andy C"
+        },
+        "artist": "Andy C",
+        "track_title": "Heartbeat Loud",
+        "track_number": null,
+        "publisher": "Universal Music Publishing/Copyright Control",
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n2mwxf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dzb8",
+            "name": "Andy C",
+            "role": "Performer",
+            "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314"
+          },
+          {
+            "pid": "p01mwxb2",
+            "name": "Fiora",
+            "role": "Performer",
+            "musicbrainz_gid": "848d4a7f-8213-46c8-9936-e58b83e8a1d1"
+          }
+        ],
+        "title": "Heartbeat Loud",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Cancel Me (I'm Tired)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzbktz",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Cancel Me (I'm Tired)",
+        "track_number": "3",
+        "publisher": "Domino Publishing Company Ltd/BMG (Music) Rights Limited",
+        "record_label": "Domino Recording Co.",
+        "release_title": "Cancel Me (I'm Tired)",
+        "record_id": "n99qvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Cancel Me (I'm Tired)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Odeal",
+      "title": "Coming Home",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1w4j9",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "Coming Home",
+        "track_number": "4",
+        "publisher": "Copyright Control",
+        "record_label": "LVRN / OVMBR",
+        "release_title": "For A Good Time...",
+        "record_id": "n9rjnx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          },
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Coming Home",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ADÉLA",
+      "title": "Ain't In LA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p332gy",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Ain't In LA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Capitol Records",
+        "release_title": null,
+        "record_id": "n9rhxr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          }
+        ],
+        "title": "Ain't In LA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Delta Heavy",
+      "title": "Set You Free",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p14q5p",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p015bzyh",
+          "musicbrainz_gid": "be166079-6f21-4d0d-af2a-9f55c4b34455",
+          "name": "Delta Heavy"
+        },
+        "artist": "Delta Heavy",
+        "track_title": "Set You Free",
+        "track_number": null,
+        "publisher": "Universal Music Publishing Group",
+        "record_label": "UKF",
+        "release_title": null,
+        "record_id": "n9rhzn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p015bzyh",
+            "name": "Delta Heavy",
+            "role": "Performer",
+            "musicbrainz_gid": "be166079-6f21-4d0d-af2a-9f55c4b34455"
+          }
+        ],
+        "title": "Set You Free",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Andy C",
+      "title": "Indestructible",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0jmmkwx",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p012dzb8",
+          "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314",
+          "name": "Andy C"
+        },
+        "artist": "Andy C",
+        "track_title": "Indestructible",
+        "track_number": null,
+        "publisher": "Sony Music Publishing / Copyright Control / Tim & Danny Music/ Warner Chappell / Sentric Music",
+        "record_label": "Polydor",
+        "release_title": null,
+        "record_id": "n8cbf9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dzb8",
+            "name": "Andy C",
+            "role": "Performer",
+            "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314"
+          },
+          {
+            "pid": "p01hpq9v",
+            "name": "Becky Hill",
+            "role": "Performer",
+            "musicbrainz_gid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
+          }
+        ],
+        "title": "Indestructible",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Andy C",
+      "title": "Come Together",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3yd45",
+        "duration": 110,
+        "primary_contributor": {
+          "pid": "p012dzb8",
+          "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314",
+          "name": "Andy C"
+        },
+        "artist": "Andy C",
+        "track_title": "Come Together",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b3qx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dzb8",
+            "name": "Andy C",
+            "role": "Performer",
+            "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314"
+          },
+          {
+            "pid": "p08rqbzn",
+            "name": "Mali-Koa Hood",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e409e007-76b9-4aad-acf5-5dcf557c6f7a"
+          }
+        ],
+        "title": "Come Together",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Typhoons",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p094rcv3",
+        "duration": 234,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Typhoons",
+        "track_number": null,
+        "publisher": "Warner/Chappell Music",
+        "record_label": "Warner",
+        "release_title": null,
+        "record_id": "n6xw35",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Typhoons",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "Vogue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rscx",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "Vogue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LAOLAO Records",
+        "release_title": null,
+        "record_id": "n9b3rz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "Vogue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "Summer Fruits",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n96v",
+        "duration": 145,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "Summer Fruits",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Recordings Limited",
+        "release_title": null,
+        "record_id": "n9rm6z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "Summer Fruits",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "John Glacier",
+      "title": "Bond Girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p001fw",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p07m32f2",
+          "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d",
+          "name": "John Glacier"
+        },
+        "artist": "John Glacier",
+        "track_title": "Bond Girl",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young Records",
+        "release_title": null,
+        "record_id": "n9rcfm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Performer",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Bond Girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Easy Street",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrnxj",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Easy Street",
+        "track_number": null,
+        "publisher": "Matador Records",
+        "record_label": "Matador",
+        "release_title": null,
+        "record_id": "n9r8x9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Easy Street",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Matilda Mann",
+      "title": "After The Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0jthp",
+        "duration": 219,
+        "primary_contributor": {
+          "pid": "p082r72d",
+          "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525",
+          "name": "Matilda Mann"
+        },
+        "artist": "Matilda Mann",
+        "track_title": "After The Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sony",
+        "release_title": null,
+        "record_id": "n9rx5w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082r72d",
+            "name": "Matilda Mann",
+            "role": "Performer",
+            "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525"
+          }
+        ],
+        "title": "After The Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacey",
+      "title": "oh yeah?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rxrx",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p04wwtr2",
+          "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f",
+          "name": "Steve Lacey"
+        },
+        "artist": "Steve Lacey",
+        "track_title": "oh yeah?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9b3r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04wwtr2",
+            "name": "Steve Lacey",
+            "role": "Performer",
+            "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f"
+          }
+        ],
+        "title": "oh yeah?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "slayr",
+      "title": "keep me going (BIRDBRAIN)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3yjhd",
+        "duration": 129,
+        "primary_contributor": {
+          "pid": "p0nthnwm",
+          "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+          "name": "slayr"
+        },
+        "artist": "slayr",
+        "track_title": "keep me going (BIRDBRAIN)",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "slayr",
+        "release_title": "keep me going (BIRDBRAIN)",
+        "record_id": "n9b3mn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Performer",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          }
+        ],
+        "title": "keep me going (BIRDBRAIN)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cardi B",
+      "title": "AH HA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gf5f",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p03y2b9j",
+          "musicbrainz_gid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+          "name": "Cardi B"
+        },
+        "artist": "Cardi B",
+        "track_title": "AH HA",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "AH HA",
+        "record_id": "n9rqgp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03y2b9j",
+            "name": "Cardi B",
+            "role": "Performer",
+            "musicbrainz_gid": "2f3c4d70-0462-40da-bba3-0aec5772c556"
+          }
+        ],
+        "title": "AH HA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "Bad Bara",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw7hpb",
+        "duration": 244,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "Bad Bara",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n99jfb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          }
+        ],
+        "title": "Bad Bara",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mount Kimbie",
+      "title": "Jomox",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2vwhh",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p012dd1j",
+          "musicbrainz_gid": "4a3a5fc0-af4b-4990-957b-8d94f7bfe706",
+          "name": "Mount Kimbie"
+        },
+        "artist": "Mount Kimbie",
+        "track_title": "Jomox",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "fabric Records",
+        "release_title": null,
+        "record_id": "n9rmwn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dd1j",
+            "name": "Mount Kimbie",
+            "role": "Performer",
+            "musicbrainz_gid": "4a3a5fc0-af4b-4990-957b-8d94f7bfe706"
+          }
+        ],
+        "title": "Jomox",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Gellaitry",
+      "title": "Longing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2ncvn",
+        "duration": 109,
+        "primary_contributor": {
+          "pid": "p028whry",
+          "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5",
+          "name": "Sam Gellaitry"
+        },
+        "artist": "Sam Gellaitry",
+        "track_title": "Longing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Major Recordings",
+        "release_title": "ANYWHERE HERE IS PERFECT (DELUXE)",
+        "record_id": "n9rm65",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p028whry",
+            "name": "Sam Gellaitry",
+            "role": "Performer",
+            "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5"
+          }
+        ],
+        "title": "Longing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Coco Jones",
+      "title": "Body So Tea",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0dxsk",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p0d9mfw8",
+          "musicbrainz_gid": "bc089d56-5551-482f-babd-36365f9d9f0f",
+          "name": "Coco Jones"
+        },
+        "artist": "Coco Jones",
+        "track_title": "Body So Tea",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "DEF JAM",
+        "release_title": null,
+        "record_id": "n9rcjx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d9mfw8",
+            "name": "Coco Jones",
+            "role": "Performer",
+            "musicbrainz_gid": "bc089d56-5551-482f-babd-36365f9d9f0f"
+          }
+        ],
+        "title": "Body So Tea",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "John Young",
+      "title": "Elumelu",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3ym08",
+        "duration": 131,
+        "primary_contributor": {
+          "pid": "p01vvbp7",
+          "musicbrainz_gid": "57b9ef48-3d62-4739-a0cd-10cab99b1e79",
+          "name": "John Young"
+        },
+        "artist": "John Young",
+        "track_title": "Elumelu",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Music Africa",
+        "release_title": null,
+        "record_id": "n9b3m6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01vvbp7",
+            "name": "John Young",
+            "role": "Performer",
+            "musicbrainz_gid": "57b9ef48-3d62-4739-a0cd-10cab99b1e79"
+          }
+        ],
+        "title": "Elumelu",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

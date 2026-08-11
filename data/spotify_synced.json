@@ -2,7 +2,7 @@
   "keep": {
     "spotify:track:02HyFYmpzt02VJ8k0CqxKj": {
       "artist": "ADÉLA",
-      "broadcast": "2026-08-06",
+      "broadcast": "2026-08-11",
       "title": "Ain't In LA"
     },
     "spotify:track:0HEO70JZIbctSuGFtf9SM6": {
@@ -15,30 +15,10 @@
       "broadcast": "2026-08-10",
       "title": "Love"
     },
-    "spotify:track:0rclr5nd7iwF4rJTYRLlJq": {
-      "artist": "Overmono",
-      "broadcast": "2026-08-10",
-      "title": "After The Rain"
-    },
     "spotify:track:1GZ5KqHOdkU0cZoz1JfQo8": {
       "artist": "Florence Road",
       "broadcast": "2026-08-06",
       "title": "Hanging Out To Dry"
-    },
-    "spotify:track:1Jt24MPLz6fGXSCTlXTjzF": {
-      "artist": "Wasia Project",
-      "broadcast": "2026-08-10",
-      "title": "ur so pretty"
-    },
-    "spotify:track:1eivMnftGIAIeTDUfTssVX": {
-      "artist": "Nothing But Thieves",
-      "broadcast": "2026-08-05",
-      "title": "Welcome To The DCC"
-    },
-    "spotify:track:1iXcHOr7lFCEsGgQvrr2G5": {
-      "artist": "Cardinals",
-      "broadcast": "2026-08-10",
-      "title": "St Agnes"
     },
     "spotify:track:1oR5bellSIbOO720SKMdrx": {
       "artist": "Chanpan",
@@ -50,61 +30,46 @@
       "broadcast": "2026-07-23",
       "title": "Movin' To The Sun"
     },
-    "spotify:track:2aR3Hs6ioznnfBaI1rArDi": {
-      "artist": "Wolf Alice",
-      "broadcast": "2026-08-10",
-      "title": "Hammond Song"
+    "spotify:track:2julCvWIxzXfX757t5Bnsn": {
+      "artist": "slayr",
+      "broadcast": "2026-08-11",
+      "title": "keep me going (BIRDBRAIN)"
     },
-    "spotify:track:2thAXesjKk0g4UQHZTaBdA": {
-      "artist": "ivri",
-      "broadcast": "2026-08-06",
-      "title": "THE GOLDEN RECORD"
-    },
-    "spotify:track:33UMuadJsuFnZ0qcgVAOs1": {
-      "artist": "Wasia Project",
-      "broadcast": "2026-08-10",
-      "title": "Bleeding Gold"
-    },
-    "spotify:track:5PuJ00qKGWqbGeeWbt8WJb": {
+    "spotify:track:4SBuL5T5CGhl3k9w7PLf8a": {
       "artist": "Andy C",
-      "broadcast": "2026-08-10",
-      "title": "Heartbeat Loud"
+      "broadcast": "2026-08-11",
+      "title": "Indestructible"
     },
-    "spotify:track:5ZAMlvo6ZUjVRZOGu2bJib": {
-      "artist": "Lil Baby",
-      "broadcast": "2026-08-10",
-      "title": "Dead Fresh"
-    },
-    "spotify:track:5gBMUQu2FVV1OYu92hbJjv": {
-      "artist": "The Strokes",
-      "broadcast": "2026-08-10",
-      "title": "Lonely in the Future"
-    },
-    "spotify:track:5vZw0zHPkxMYr8cHleEf9k": {
-      "artist": "Bleech 9:3",
-      "broadcast": "2026-07-20",
-      "title": "No Surprise"
+    "spotify:track:5aFGo8wHEntVxFI8IF7Wuj": {
+      "artist": "Royal Blood",
+      "broadcast": "2026-08-11",
+      "title": "Typhoons"
     },
     "spotify:track:63SaN607accD2T4mLJFDRd": {
       "artist": "Loathe",
       "broadcast": "2026-08-06",
       "title": "Fortress Down"
     },
+    "spotify:track:6VHpBfCdKJeT6gEKyEedOZ": {
+      "artist": "Andy C",
+      "broadcast": "2026-08-11",
+      "title": "Come Together"
+    },
     "spotify:track:6fQeVMxEg2FSKfsQm5ArVR": {
       "artist": "Cardi B",
-      "broadcast": "2026-08-03",
+      "broadcast": "2026-08-11",
       "title": "AH HA"
     },
-    "spotify:track:7gLPKqoXJue0AJeNVRaDXj": {
-      "artist": "Wasia Project",
-      "broadcast": "2026-08-10",
-      "title": "Vogue"
+    "spotify:track:7aCW8Q337ACIFUmziqKGQd": {
+      "artist": "John Young",
+      "broadcast": "2026-08-11",
+      "title": "Elumelu"
     }
   },
   "review": {
     "spotify:track:0KUHECqcYMQGsPkfsWLUo6": {
       "artist": "Odeal",
-      "broadcast": "2026-08-04",
+      "broadcast": "2026-08-11",
       "title": "Coming Home"
     },
     "spotify:track:0ceKqpXrrC3CtFwFiLJeoY": {
@@ -114,7 +79,7 @@
     },
     "spotify:track:1NdZtfFjG5DGFbl7h99FV8": {
       "artist": "FISHER",
-      "broadcast": "2026-08-06",
+      "broadcast": "2026-08-11",
       "title": "What A Life"
     },
     "spotify:track:1PpODh3GDSFoG7EGOekVu2": {
@@ -166,6 +131,11 @@
       "artist": "Paris Paloma",
       "broadcast": "2026-07-28",
       "title": "Pre-Raphaelite"
+    },
+    "spotify:track:2V1ne5a2MBngWduIph5pqg": {
+      "artist": "Coco Jones",
+      "broadcast": "2026-08-11",
+      "title": "Body So Tea"
     },
     "spotify:track:2dt5AmiiAA7dOhE1xws9qY": {
       "artist": "Jazzy",

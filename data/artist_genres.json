@@ -2680,6 +2680,52 @@
       ]
     ]
   },
+  "57b9ef48-3d62-4739-a0cd-10cab99b1e79": {
+    "name": "John Young",
+    "source": "lastfm",
+    "tags": [
+      [
+        "progressive rock",
+        100
+      ],
+      [
+        "john young",
+        40
+      ],
+      [
+        "rock",
+        15
+      ],
+      [
+        "instrumental",
+        10
+      ],
+      [
+        "easy listening",
+        2
+      ],
+      [
+        "gentle",
+        1
+      ],
+      [
+        "supertramp",
+        1
+      ],
+      [
+        "peter gabriel",
+        1
+      ],
+      [
+        "karnataka",
+        1
+      ],
+      [
+        "camel",
+        1
+      ]
+    ]
+  },
   "57dd4661-9f78-4442-8836-482fab983008": {
     "name": "Aitch",
     "source": "lastfm",
@@ -5501,6 +5547,52 @@
       ]
     ]
   },
+  "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3": {
+    "name": "Royal Blood",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rock",
+        100
+      ],
+      [
+        "garage rock",
+        89
+      ],
+      [
+        "alternative rock",
+        53
+      ],
+      [
+        "blues rock",
+        37
+      ],
+      [
+        "hard rock",
+        13
+      ],
+      [
+        "british",
+        8
+      ],
+      [
+        "rock and roll",
+        8
+      ],
+      [
+        "stoner rock",
+        2
+      ],
+      [
+        "alternative",
+        2
+      ],
+      [
+        "indie rock",
+        2
+      ]
+    ]
+  },
   "abc8ba85-0a27-4eaa-9813-19414a454c54": {
     "name": "Cara Delevingne",
     "source": "lastfm",
@@ -5983,6 +6075,52 @@
       ],
       [
         "british",
+        1
+      ]
+    ]
+  },
+  "bc089d56-5551-482f-babd-36365f9d9f0f": {
+    "name": "Coco Jones",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "rnb",
+        81
+      ],
+      [
+        "soul",
+        17
+      ],
+      [
+        "disney",
+        11
+      ],
+      [
+        "female vocalists",
+        1
+      ],
+      [
+        "american",
+        1
+      ],
+      [
+        "usa",
+        1
+      ],
+      [
+        "bridgit mendler",
+        1
+      ],
+      [
+        "teen pop",
+        1
+      ],
+      [
+        "armpits",
         1
       ]
     ]
@@ -6550,6 +6688,52 @@
       [
         "polinacore",
         33
+      ]
+    ]
+  },
+  "cfa0e221-4717-4281-bff3-46c88d45bf93": {
+    "name": "slayr",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rage",
+        100
+      ],
+      [
+        "trap",
+        100
+      ],
+      [
+        "digicore",
+        46
+      ],
+      [
+        "pop rap",
+        46
+      ],
+      [
+        "burger",
+        15
+      ],
+      [
+        "plugg",
+        4
+      ],
+      [
+        "generational",
+        4
+      ],
+      [
+        "burger music",
+        1
+      ],
+      [
+        "drill",
+        1
+      ],
+      [
+        "american",
+        1
       ]
     ]
   },
