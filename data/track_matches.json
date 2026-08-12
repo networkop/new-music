@@ -99,10 +99,20 @@
     "score": 1.0,
     "uri": "spotify:track:0kl6Ozan3fuUdCl6TlB15v"
   },
+  "antony szmierek|||flight simulator": {
+    "matched": "Antony Szmierek - Flight Simulator",
+    "score": 1.0,
+    "uri": "spotify:track:3kSq4hXPACrq94v29PtFFk"
+  },
   "arca|||taconeando": {
     "matched": "Arca - Taconeando",
     "score": 1.0,
     "uri": "spotify:track:4pmcdJ8a2eMRi2MxxBnjGJ"
+  },
+  "arthur russell|||this is how we walk on the moon": {
+    "matched": "Arthur Russell - This Is How We Walk On The Moon",
+    "score": 1.0,
+    "uri": "spotify:track:74LbkcDTjFV1WtMmTAtORI"
   },
   "ayraa star|||tornado": {
     "matched": null,
@@ -218,6 +228,11 @@
     "matched": "Bonobo - Me and You",
     "score": 1.0,
     "uri": "spotify:track:3K3yAN6QVsLNM3tNkn8zuo"
+  },
+  "cannelle|||bb blue": {
+    "matched": "Cannelle - BB Blue",
+    "score": 1.0,
+    "uri": "spotify:track:1xduHvvoJ4KgsLqKZLdEax"
   },
   "cara delevingne|||out of my head": {
     "matched": "Cara Delevingne - Out of my Head",
@@ -359,6 +374,16 @@
     "score": 1.0,
     "uri": "spotify:track:0ZtsqqqeOWnqpYIs5ncQSe"
   },
+  "denzel curry|||difference": {
+    "matched": "Denzel Curry - DIFFERENCE [Feat. Yebba]",
+    "score": 1.0,
+    "uri": "spotify:track:2o0quqVps5WtMhiuzswkV1"
+  },
+  "diiv|||the foundation": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "dj heartstring|||another year alone": {
     "matched": "DJ HEARTSTRING - Another Year Alone (i love you)",
     "score": 1.0,
@@ -463,6 +488,11 @@
     "matched": "flowerovlove - In My Victoria's Secret",
     "score": 1.0,
     "uri": "spotify:track:3k5OStPX5fNfTd3ZQL8RkY"
+  },
+  "four tet|||human voice": {
+    "matched": "Four Tet - Human Voice",
+    "score": 1.0,
+    "uri": "spotify:track:5Lh2zmWu8BecY2l9Upggm9"
   },
   "frost children|||satellites": {
     "matched": "Frost Children - Satellites",
@@ -704,6 +734,11 @@
     "score": 1.0,
     "uri": "spotify:track:4q0CsTpnatXglYVvhD9qDI"
   },
+  "latin mafia|||quiereme": {
+    "matched": "LATIN MAFIA - Quiereme",
+    "score": 1.0,
+    "uri": "spotify:track:16WxbPKGXnphCK8UsilodJ"
+  },
   "ledbyher|||needja": {
     "matched": null,
     "score": 0.516,
@@ -899,6 +934,11 @@
     "score": 1.0,
     "uri": "spotify:track:0rclr5nd7iwF4rJTYRLlJq"
   },
+  "overmono|||barum": {
+    "matched": "Overmono - Barum",
+    "score": 1.0,
+    "uri": "spotify:track:6ZvMrLDMwNuXBIIoEQEQ5Z"
+  },
   "overmono|||even angels ghost": {
     "matched": "Overmono - Even Angels Ghost",
     "score": 1.0,
@@ -938,6 +978,11 @@
     "matched": "Peggy Gou - Wo, man - Edit",
     "score": 0.865,
     "uri": "spotify:track:1SF8DK4wmqKcxehSfheLPS"
+  },
+  "photek|||solaris": {
+    "matched": "Photek - Solaris",
+    "score": 1.0,
+    "uri": "spotify:track:52LVOolmOdXFYVvJMblay1"
   },
   "pixy|||legacy": {
     "matched": "PIXY - LEGACY",
@@ -1028,6 +1073,16 @@
     "matched": "Rostam - Hardy (feat. Clairo)",
     "score": 1.0,
     "uri": "spotify:track:6hWgskea7wM6qqROy0CCsO"
+  },
+  "royal blood|||come on over": {
+    "matched": "Royal Blood - Come on Over",
+    "score": 1.0,
+    "uri": "spotify:track:7qRmdDl9dnHkFT4MMboG7Y"
+  },
+  "royal blood|||ten over ten": {
+    "matched": "Royal Blood - Ten Over Ten",
+    "score": 1.0,
+    "uri": "spotify:track:2iXoZ4qfHQ4zfXpLo5RH0m"
   },
   "royal blood|||typhoons": {
     "matched": "Royal Blood - Typhoons",
@@ -1253,6 +1308,11 @@
     "matched": "Tove Lo - DNH",
     "score": 1.0,
     "uri": "spotify:track:1PGde5PALlkGdlPizKNDLo"
+  },
+  "travy|||keep up": {
+    "matched": "Travy - Keep Up",
+    "score": 1.0,
+    "uri": "spotify:track:1W7NwoNXkeQHtPNykbXwaP"
   },
   "tsha|||girls": {
     "matched": "TSHA - Girls",

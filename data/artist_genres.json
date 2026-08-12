@@ -764,6 +764,52 @@
       ]
     ]
   },
+  "2095b935-2007-4ae0-a48a-ef4d6fc3aac0": {
+    "name": "Photek",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "jungle",
+        58
+      ],
+      [
+        "electronic",
+        36
+      ],
+      [
+        "drum n bass",
+        23
+      ],
+      [
+        "dnb",
+        11
+      ],
+      [
+        "british",
+        4
+      ],
+      [
+        "idm",
+        3
+      ],
+      [
+        "electronica",
+        1
+      ],
+      [
+        "breakbeat",
+        1
+      ],
+      [
+        "atmospheric drum and bass",
+        1
+      ]
+    ]
+  },
   "20d49152-11a2-4e55-8251-0d11dc6424fa": {
     "name": "Larry June",
     "source": "lastfm",
@@ -1344,6 +1390,32 @@
       ]
     ]
   },
+  "33118d4b-cec1-4030-b37c-0e81fdf97dc8": {
+    "name": "LATIN MAFIA",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "latin",
+        25
+      ],
+      [
+        "rnb",
+        16
+      ],
+      [
+        "reggaeton",
+        16
+      ],
+      [
+        "mexico",
+        8
+      ]
+    ]
+  },
   "34ebe14b-113c-4004-9625-77cb6b13b27d": {
     "name": "John Glacier",
     "source": "lastfm",
@@ -1520,6 +1592,52 @@
       ],
       [
         "r&b",
+        1
+      ]
+    ]
+  },
+  "3bcff06f-675a-451f-9075-99e8657047e8": {
+    "name": "Four Tet",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "idm",
+        79
+      ],
+      [
+        "experimental",
+        48
+      ],
+      [
+        "electronica",
+        26
+      ],
+      [
+        "instrumental",
+        12
+      ],
+      [
+        "ambient",
+        6
+      ],
+      [
+        "downtempo",
+        4
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "folktronica",
+        1
+      ],
+      [
+        "trip-hop",
         1
       ]
     ]
@@ -2282,6 +2400,48 @@
       ],
       [
         "8bitpeoples",
+        1
+      ]
+    ]
+  },
+  "4e892967-3080-4a28-840f-66717360e535": {
+    "name": "Antony Szmierek",
+    "source": "lastfm",
+    "tags": [
+      [
+        "spoken word",
+        100
+      ],
+      [
+        "electronic",
+        25
+      ],
+      [
+        "indie",
+        4
+      ],
+      [
+        "hip-hop",
+        4
+      ],
+      [
+        "british",
+        2
+      ],
+      [
+        "uk",
+        2
+      ],
+      [
+        "indie hip-hop",
+        2
+      ],
+      [
+        "cringy",
+        1
+      ],
+      [
+        "edm",
         1
       ]
     ]
@@ -3090,6 +3250,52 @@
       [
         "netherlands",
         17
+      ]
+    ]
+  },
+  "5f95440d-7737-4a36-9bcf-c05337f7129b": {
+    "name": "Denzel Curry",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hip-hop",
+        100
+      ],
+      [
+        "rap",
+        83
+      ],
+      [
+        "hip hop",
+        29
+      ],
+      [
+        "trap",
+        27
+      ],
+      [
+        "southern hip hop",
+        13
+      ],
+      [
+        "cloud rap",
+        13
+      ],
+      [
+        "memphis rap",
+        7
+      ],
+      [
+        "hardcore hip hop",
+        2
+      ],
+      [
+        "florida",
+        1
+      ],
+      [
+        "american",
+        1
       ]
     ]
   },
@@ -5547,6 +5753,52 @@
       ]
     ]
   },
+  "aa2d7a70-de24-4d7c-a4ed-afac746adf1e": {
+    "name": "Cannelle",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "electroclash",
+        44
+      ],
+      [
+        "bitpop",
+        29
+      ],
+      [
+        "french pop",
+        29
+      ],
+      [
+        "synthpop",
+        4
+      ],
+      [
+        "dance",
+        4
+      ],
+      [
+        "electropop",
+        4
+      ],
+      [
+        "party",
+        1
+      ],
+      [
+        "france",
+        1
+      ],
+      [
+        "alternative dance",
+        1
+      ]
+    ]
+  },
   "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3": {
     "name": "Royal Blood",
     "source": "lastfm",
@@ -5891,6 +6143,52 @@
       ],
       [
         "usa",
+        1
+      ]
+    ]
+  },
+  "b5ff61dd-0154-4e80-b46b-c733f87db602": {
+    "name": "DIIV",
+    "source": "lastfm",
+    "tags": [
+      [
+        "shoegaze",
+        100
+      ],
+      [
+        "dream pop",
+        79
+      ],
+      [
+        "lo-fi",
+        30
+      ],
+      [
+        "psychedelic",
+        25
+      ],
+      [
+        "surf rock",
+        10
+      ],
+      [
+        "post-punk",
+        7
+      ],
+      [
+        "indie rock",
+        5
+      ],
+      [
+        "indie",
+        1
+      ],
+      [
+        "american",
+        1
+      ],
+      [
+        "rock",
         1
       ]
     ]
@@ -8134,6 +8432,52 @@
       ],
       [
         "electronic",
+        1
+      ]
+    ]
+  },
+  "f43370e3-6d86-44e7-ae4c-ca098962dcd0": {
+    "name": "Arthur Russell",
+    "source": "lastfm",
+    "tags": [
+      [
+        "avant-garde",
+        100
+      ],
+      [
+        "experimental",
+        96
+      ],
+      [
+        "disco",
+        32
+      ],
+      [
+        "electronic",
+        30
+      ],
+      [
+        "no wave",
+        15
+      ],
+      [
+        "singer-songwriter",
+        8
+      ],
+      [
+        "art pop",
+        6
+      ],
+      [
+        "minimalism",
+        1
+      ],
+      [
+        "cello",
+        1
+      ],
+      [
+        "post-punk",
         1
       ]
     ]

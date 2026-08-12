@@ -55,6 +55,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Focus"
   },
+  "andy c|||come together": {
+    "artist": "Andy C",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Come Together"
+  },
   "andy c|||heartbeat loud": {
     "artist": "Andy C",
     "category": "manual",
@@ -601,6 +608,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Emotions"
   },
+  "john young|||elumelu": {
+    "artist": "John Young",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Elumelu"
+  },
   "josh baker|||my place": {
     "artist": "Josh Baker",
     "category": "manual",
@@ -1041,6 +1055,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "On 2nite"
+  },
+  "slayr|||keep me going (birdbrain)": {
+    "artist": "slayr",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "keep me going (BIRDBRAIN)"
   },
   "slayyyter|||brand new chanel$": {
     "artist": "Slayyyter",
