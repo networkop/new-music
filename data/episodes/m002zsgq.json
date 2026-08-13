@@ -1,0 +1,1130 @@
+{
+  "pid": "m002zsgq",
+  "broadcast_start": "2026-08-13T18:00:00+01:00",
+  "schedule_date": "2026-08-13",
+  "title": "Jorja Smith Hottest Record",
+  "tracks": [
+    {
+      "artist": "Jungle",
+      "title": "Someday, Somewhere",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxmxd9",
+        "duration": 146,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Someday, Somewhere",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "AWAL Recordings",
+        "release_title": null,
+        "record_id": "n9r4p2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Someday, Somewhere",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Charli xcx",
+      "title": "Camera",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p026z3",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p012f188",
+          "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+          "name": "Charli xcx"
+        },
+        "artist": "Charli xcx",
+        "track_title": "Camera",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rd4g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Camera",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Little Things",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0fmtnk6",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "Little Things",
+        "track_number": null,
+        "publisher": "Sony Music Publishing; Stellar; Kobalt Music Publishing; Copyright Control; Warner Chappell UK",
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "npvchz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Little Things",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "K Trap",
+      "title": "CAN'T SAY NO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2dnpg",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p05gj2yw",
+          "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787",
+          "name": "K Trap"
+        },
+        "artist": "K Trap",
+        "track_title": "CAN'T SAY NO",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n999pv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05gj2yw",
+            "name": "K Trap",
+            "role": "Performer",
+            "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787"
+          },
+          {
+            "pid": "p05c7n5g",
+            "name": "Young Adz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "a4afd2fa-9891-4983-b6bd-0aa40ad17c6f"
+          }
+        ],
+        "title": "CAN'T SAY NO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "kwn",
+      "title": "risk it all",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz7lsf",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p08zd77v",
+          "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3",
+          "name": "kwn"
+        },
+        "artist": "kwn",
+        "track_title": "risk it all",
+        "track_number": null,
+        "publisher": "BMI; Warner-Tamerlane Publishing; Recognition Songs; Kobalt; Universal Music Publishing; Warner Chaooell; ASCAP; Swing T Publishing (BMI)",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n99jp8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Performer",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "risk it all",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Florence Road",
+      "title": "7563",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33hs6",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0l11xc3",
+          "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e",
+          "name": "Florence Road"
+        },
+        "artist": "Florence Road",
+        "track_title": "7563",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bzp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l11xc3",
+            "name": "Florence Road",
+            "role": "Performer",
+            "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
+          }
+        ],
+        "title": "7563",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Oh Mother",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p08zqh",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p01zpdf9",
+          "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "name": "Sam Smith"
+        },
+        "artist": "Sam Smith",
+        "track_title": "Oh Mother",
+        "track_number": null,
+        "publisher": "SSW Publishing Ltd/Tim & Danny Music/Warner-Tamerlane Publishing Corp/Copyright Control/Kobalt Music Publishing",
+        "record_label": "Capitol",
+        "release_title": null,
+        "record_id": "n9rdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01zpdf9",
+            "name": "Sam Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3"
+          },
+          {
+            "pid": "p0p08zr0",
+            "name": "The TwoCity Chorus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6160891e-2d69-493d-a941-a9456383844e"
+          }
+        ],
+        "title": "Oh Mother",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "The Way I Love You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0l7vhcw",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "The Way I Love You",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "n8v2bx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "The Way I Love You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "I Lied, You Lied",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4djk0",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "I Lied, You Lied",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "n9b52j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "I Lied, You Lied",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Raw",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0m6nhbx",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Raw",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Blackbook",
+        "release_title": null,
+        "record_id": "n8qgdc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          }
+        ],
+        "title": "Raw",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Ten Over Ten",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44cds",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Ten Over Ten",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9b4bp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Ten Over Ten",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Pistol",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gqdw",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Pistol",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "ISLAND RECORDS",
+        "release_title": null,
+        "record_id": "n9r932",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Pistol",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "INJI",
+      "title": "Bright Ideas",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gsxw",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0f04tgd",
+          "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15",
+          "name": "INJI"
+        },
+        "artist": "INJI",
+        "track_title": "Bright Ideas",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Run Things",
+        "release_title": null,
+        "record_id": "n9rqwg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f04tgd",
+            "name": "INJI",
+            "role": "Performer",
+            "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15"
+          }
+        ],
+        "title": "Bright Ideas",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Goldie",
+      "title": "Jungle Daze",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p155gj",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p012dtp7",
+          "musicbrainz_gid": "c5393047-0c44-48eb-b5a8-070759f04371",
+          "name": "Goldie"
+        },
+        "artist": "Goldie",
+        "track_title": "Jungle Daze",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LDN Records",
+        "release_title": null,
+        "record_id": "n9rddv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dtp7",
+            "name": "Goldie",
+            "role": "Performer",
+            "musicbrainz_gid": "c5393047-0c44-48eb-b5a8-070759f04371"
+          },
+          {
+            "pid": "p01h9qlc",
+            "name": "Natalie Williams",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "9fdfc286-e51b-4109-9bb0-06a1d4977946"
+          }
+        ],
+        "title": "Jungle Daze",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Culture Shock",
+      "title": "U & I",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dpq8",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p0p4dpqd",
+          "musicbrainz_gid": null,
+          "name": "Culture Shock"
+        },
+        "artist": "Culture Shock",
+        "track_title": "U & I",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Culture Shock",
+        "release_title": null,
+        "record_id": "n9b533",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p4dpqd",
+            "name": "Culture Shock",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "U & I",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vybz Kartel",
+      "title": "Just Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwrth8",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012dp11",
+          "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973",
+          "name": "Vybz Kartel"
+        },
+        "artist": "Vybz Kartel",
+        "track_title": "Just Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "0207 Def Jam",
+        "release_title": null,
+        "record_id": "n99mmc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dp11",
+            "name": "Vybz Kartel",
+            "role": "Performer",
+            "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973"
+          },
+          {
+            "pid": "p012dw5v",
+            "name": "Shy FX",
+            "role": "Performer",
+            "musicbrainz_gid": "ee459bd7-9768-4cc2-9452-a09700c4aeaa"
+          },
+          {
+            "pid": "p012dxmh",
+            "name": "Clipz",
+            "role": "Performer",
+            "musicbrainz_gid": "94144c85-c5ee-4ec6-85cd-15e48b16ffea"
+          }
+        ],
+        "title": "Just Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Juls",
+      "title": "Cutlass",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dsqp",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p03856sq",
+          "musicbrainz_gid": "06059ff3-720e-4b33-8e34-b98933817fe8",
+          "name": "Juls"
+        },
+        "artist": "Juls",
+        "track_title": "Cutlass",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b539",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03856sq",
+            "name": "Juls",
+            "role": "Performer",
+            "musicbrainz_gid": "06059ff3-720e-4b33-8e34-b98933817fe8"
+          },
+          {
+            "pid": "p08l382h",
+            "name": "Projexx",
+            "role": "Performer",
+            "musicbrainz_gid": "f3b7c5f5-055c-4490-b5bc-f9dde1c0ddc3"
+          },
+          {
+            "pid": "p07jxw7l",
+            "name": "Pa Salieu",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "03100b87-7d27-4d56-b049-2007599656cc"
+          }
+        ],
+        "title": "Cutlass",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Baby Rose",
+      "title": "Better",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dsxy",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p0fkpv76",
+          "musicbrainz_gid": "dff72d7d-751c-4b59-8aaa-7c61136191a3",
+          "name": "Baby Rose"
+        },
+        "artist": "Baby Rose",
+        "track_title": "Better",
+        "track_number": null,
+        "publisher": "Jasmine Wilson - OVRCST PUBLISHING LLC",
+        "record_label": "Secretly Canadian",
+        "release_title": null,
+        "record_id": "n9b53r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fkpv76",
+            "name": "Baby Rose",
+            "role": "Performer",
+            "musicbrainz_gid": "dff72d7d-751c-4b59-8aaa-7c61136191a3"
+          }
+        ],
+        "title": "Better",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mulaa Joans",
+      "title": "That Ain't You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dtb6",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0n70qhj",
+          "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9",
+          "name": "Mulaa Joans"
+        },
+        "artist": "Mulaa Joans",
+        "track_title": "That Ain't You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9b53c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n70qhj",
+            "name": "Mulaa Joans",
+            "role": "Performer",
+            "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9"
+          }
+        ],
+        "title": "That Ain't You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "Floette",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33mpt",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p06t96fd",
+          "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+          "name": "Arlo Parks"
+        },
+        "artist": "Arlo Parks",
+        "track_title": "Floette",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Transgressive",
+        "release_title": null,
+        "record_id": "n9rm8n",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06t96fd",
+            "name": "Arlo Parks",
+            "role": "Performer",
+            "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930"
+          },
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Floette",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nines",
+      "title": "Milan (CC2)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0mhcb",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p034wgr4",
+          "musicbrainz_gid": "79598541-191b-4a97-88b5-e3d0f70e7a0a",
+          "name": "Nines"
+        },
+        "artist": "Nines",
+        "track_title": "Milan (CC2)",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Zino Records / EMPIRE",
+        "release_title": null,
+        "record_id": "n9rxj5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034wgr4",
+            "name": "Nines",
+            "role": "Performer",
+            "musicbrainz_gid": "79598541-191b-4a97-88b5-e3d0f70e7a0a"
+          },
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          },
+          {
+            "pid": "p02svyvb",
+            "name": "Skrapz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "a89c0c6d-cff7-4bd3-bd07-61afb2ec6cae"
+          }
+        ],
+        "title": "Milan (CC2)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacey",
+      "title": "oh yeah?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rxrx",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p04wwtr2",
+          "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f",
+          "name": "Steve Lacey"
+        },
+        "artist": "Steve Lacey",
+        "track_title": "oh yeah?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9b3r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04wwtr2",
+            "name": "Steve Lacey",
+            "role": "Performer",
+            "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f"
+          }
+        ],
+        "title": "oh yeah?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erykah Badu",
+      "title": "Witch Doctor",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dwrt",
+        "duration": 386,
+        "primary_contributor": {
+          "pid": "p012d7dv",
+          "musicbrainz_gid": "321531fc-db73-4ffa-a959-61a61a2908c1",
+          "name": "Erykah Badu"
+        },
+        "artist": "Erykah Badu",
+        "track_title": "Witch Doctor",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young",
+        "release_title": null,
+        "record_id": "n9b5n4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7dv",
+            "name": "Erykah Badu",
+            "role": "Performer",
+            "musicbrainz_gid": "321531fc-db73-4ffa-a959-61a61a2908c1"
+          },
+          {
+            "pid": "p0p4dws6",
+            "name": "The Alchemist",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Witch Doctor",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Switchblade",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzwxyd",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Switchblade",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n9r8xv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Switchblade",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JJerome87",
+      "title": "Green Velvet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0q7g",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p0myjprs",
+          "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9",
+          "name": "JJerome87"
+        },
+        "artist": "JJerome87",
+        "track_title": "Green Velvet",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing Ltd",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n99hjx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0myjprs",
+            "name": "JJerome87",
+            "role": "Performer",
+            "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9"
+          }
+        ],
+        "title": "Green Velvet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ecca Vandal",
+      "title": "CRUISING TO SELF SOOTHE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzwxcb",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p02rl6wl",
+          "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076",
+          "name": "Ecca Vandal"
+        },
+        "artist": "Ecca Vandal",
+        "track_title": "CRUISING TO SELF SOOTHE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n8w6q4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02rl6wl",
+            "name": "Ecca Vandal",
+            "role": "Performer",
+            "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076"
+          }
+        ],
+        "title": "CRUISING TO SELF SOOTHE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Luude",
+      "title": "All We Do Is Dance",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwj93w",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p06jzh0q",
+          "musicbrainz_gid": "042f62fc-6c2e-4b8b-8114-8dab7f974631",
+          "name": "Luude"
+        },
+        "artist": "Luude",
+        "track_title": "All We Do Is Dance",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "WORSHIP",
+        "release_title": null,
+        "record_id": "n99mmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06jzh0q",
+            "name": "Luude",
+            "role": "Performer",
+            "musicbrainz_gid": "042f62fc-6c2e-4b8b-8114-8dab7f974631"
+          },
+          {
+            "pid": "p04w2t65",
+            "name": "1991",
+            "role": "Performer",
+            "musicbrainz_gid": "c478aff3-2457-4cee-bdf1-6b85758f7cc6"
+          }
+        ],
+        "title": "All We Do Is Dance",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ninajirachi",
+      "title": "WannaCry",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1jp34",
+        "duration": 219,
+        "primary_contributor": {
+          "pid": "p06fzdm4",
+          "musicbrainz_gid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+          "name": "Ninajirachi"
+        },
+        "artist": "Ninajirachi",
+        "track_title": "WannaCry",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "NLV Records",
+        "release_title": null,
+        "record_id": "n9rwnp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06fzdm4",
+            "name": "Ninajirachi",
+            "role": "Performer",
+            "musicbrainz_gid": "6897b46a-9236-4480-9ed7-300f6b85d62f"
+          },
+          {
+            "pid": "p012f13x",
+            "name": "Porter Robinson",
+            "role": "Performer",
+            "musicbrainz_gid": "4ae36ade-1798-48c4-b06b-cc68b7d3d83f"
+          }
+        ],
+        "title": "WannaCry",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mount Kimbie",
+      "title": "Monroe",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxn4y9",
+        "duration": 279,
+        "primary_contributor": {
+          "pid": "p012dd1j",
+          "musicbrainz_gid": "4a3a5fc0-af4b-4990-957b-8d94f7bfe706",
+          "name": "Mount Kimbie"
+        },
+        "artist": "Mount Kimbie",
+        "track_title": "Monroe",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "fabric records",
+        "release_title": null,
+        "record_id": "n99dmf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dd1j",
+            "name": "Mount Kimbie",
+            "role": "Performer",
+            "musicbrainz_gid": "4a3a5fc0-af4b-4990-957b-8d94f7bfe706"
+          }
+        ],
+        "title": "Monroe",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

@@ -69,6 +69,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Heartbeat Loud"
   },
+  "andy c|||indestructible": {
+    "artist": "Andy C",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Indestructible"
+  },
   "andy c|||who like the what": {
     "artist": "Andy C",
     "category": "manual",
@@ -103,6 +110,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Talk To You"
+  },
+  "antony szmierek|||flight simulator": {
+    "artist": "Antony Szmierek",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Flight Simulator"
   },
   "arca|||taconeando": {
     "artist": "Arca",
@@ -229,6 +243,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Me and You"
+  },
+  "cannelle|||bb blue": {
+    "artist": "Cannelle",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "BB Blue"
   },
   "cara delevingne|||out of my head": {
     "artist": "Cara Delevingne",
@@ -376,6 +397,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Set You Free"
+  },
+  "denzel curry|||difference": {
+    "artist": "Denzel Curry",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "DIFFERENCE"
   },
   "dj heartstring|||another year alone": {
     "artist": "DJ Heartstring",
@@ -1013,6 +1041,27 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Hardy"
+  },
+  "royal blood|||come on over": {
+    "artist": "Royal Blood",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Come On Over"
+  },
+  "royal blood|||ten over ten": {
+    "artist": "Royal Blood",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Ten Over Ten"
+  },
+  "royal blood|||typhoons": {
+    "artist": "Royal Blood",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Typhoons"
   },
   "sam gellaitry|||longing": {
     "artist": "Sam Gellaitry",

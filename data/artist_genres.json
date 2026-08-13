@@ -1344,6 +1344,52 @@
       ]
     ]
   },
+  "321531fc-db73-4ffa-a959-61a61a2908c1": {
+    "name": "Erykah Badu",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "neo-soul",
+        63
+      ],
+      [
+        "female vocalists",
+        37
+      ],
+      [
+        "rnb",
+        32
+      ],
+      [
+        "jazz",
+        16
+      ],
+      [
+        "funk",
+        4
+      ],
+      [
+        "hip-hop",
+        3
+      ],
+      [
+        "neo soul",
+        1
+      ],
+      [
+        "hip hop",
+        1
+      ],
+      [
+        "american",
+        1
+      ]
+    ]
+  },
   "32a49e9e-2434-49ab-9194-3985d757de40": {
     "name": "Rose Gray",
     "source": "lastfm",
@@ -6469,6 +6515,11 @@
       ]
     ]
   },
+  "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9": {
+    "name": "Mulaa Joans",
+    "source": "lastfm",
+    "tags": []
+  },
   "bcc715bb-47a4-46c0-a62e-6467feec6091": {
     "name": "Show Me the Body",
     "source": "lastfm",
@@ -7697,6 +7748,52 @@
       ],
       [
         "pop",
+        1
+      ]
+    ]
+  },
+  "dff72d7d-751c-4b59-8aaa-7c61136191a3": {
+    "name": "Baby Rose",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        100
+      ],
+      [
+        "pop",
+        29
+      ],
+      [
+        "jazz",
+        7
+      ],
+      [
+        "folk",
+        1
+      ],
+      [
+        "singer-songwriter",
+        1
+      ],
+      [
+        "sweden",
+        1
+      ],
+      [
+        "neo-soul",
+        1
+      ],
+      [
+        "american",
+        1
+      ],
+      [
+        "usa",
         1
       ]
     ]
