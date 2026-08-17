@@ -4739,6 +4739,52 @@
     "source": "lastfm",
     "tags": []
   },
+  "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87": {
+    "name": "Rex Orange County",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "rnb",
+        88
+      ],
+      [
+        "pop",
+        47
+      ],
+      [
+        "jazz",
+        43
+      ],
+      [
+        "indie",
+        16
+      ],
+      [
+        "neo-soul",
+        12
+      ],
+      [
+        "soul",
+        12
+      ],
+      [
+        "england",
+        2
+      ],
+      [
+        "bedroom pop",
+        2
+      ],
+      [
+        "british",
+        1
+      ]
+    ]
+  },
   "886dc0c9-3351-4d2d-b762-060cf1e66929": {
     "name": "FISHER",
     "source": "lastfm",
@@ -6465,6 +6511,52 @@
       ],
       [
         "armpits",
+        1
+      ]
+    ]
+  },
+  "bc883961-64d4-46b3-8b1c-64009854291c": {
+    "name": "Jamie T",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie",
+        100
+      ],
+      [
+        "british",
+        88
+      ],
+      [
+        "singer-songwriter",
+        41
+      ],
+      [
+        "alternative",
+        35
+      ],
+      [
+        "indie rock",
+        15
+      ],
+      [
+        "hip-hop",
+        5
+      ],
+      [
+        "london",
+        3
+      ],
+      [
+        "rap",
+        1
+      ],
+      [
+        "hip hop",
+        1
+      ],
+      [
+        "uk",
         1
       ]
     ]
@@ -8852,6 +8944,52 @@
       [
         "singer songwriter",
         1
+      ]
+    ]
+  },
+  "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7": {
+    "name": "Medium Build",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "indie",
+        25
+      ],
+      [
+        "indie rock",
+        17
+      ],
+      [
+        "singer-songwriter",
+        17
+      ],
+      [
+        "alaska",
+        8
+      ],
+      [
+        "queer",
+        8
+      ],
+      [
+        "usa",
+        8
+      ],
+      [
+        "alaska indie",
+        3
+      ],
+      [
+        "seen live x3",
+        3
+      ],
+      [
+        "seen live x2",
+        3
       ]
     ]
   },

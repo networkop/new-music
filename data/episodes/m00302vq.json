@@ -1,0 +1,1172 @@
+{
+  "pid": "m00302vq",
+  "broadcast_start": "2026-08-17T18:00:00+01:00",
+  "schedule_date": "2026-08-17",
+  "title": "Blondshell and Jungle",
+  "tracks": [
+    {
+      "artist": "Slayyyter",
+      "title": "brand new chanel$",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n6rg",
+        "duration": 236,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "brand new chanel$",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Records/Columbia",
+        "release_title": "brand new chanel$",
+        "record_id": "n9rwmg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "brand new chanel$",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FISHER",
+      "title": "What A Life",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvctxq",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p0564jd1",
+          "musicbrainz_gid": "886dc0c9-3351-4d2d-b762-060cf1e66929",
+          "name": "FISHER"
+        },
+        "artist": "FISHER",
+        "track_title": "What A Life",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Catch & Release",
+        "release_title": null,
+        "record_id": "n99jc8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0564jd1",
+            "name": "FISHER",
+            "role": "Performer",
+            "musicbrainz_gid": "886dc0c9-3351-4d2d-b762-060cf1e66929"
+          },
+          {
+            "pid": "p0fknrtz",
+            "name": "Florence Arman",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "b22e87af-fd22-4e38-b49c-797dec152da1"
+          }
+        ],
+        "title": "What A Life",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Olympus",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50hh0",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Olympus",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "nprvm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Olympus",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Cancel Me (I'm Tired)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzbktz",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Cancel Me (I'm Tired)",
+        "track_number": "3",
+        "publisher": "Domino Publishing Company Ltd/BMG (Music) Rights Limited",
+        "record_label": "Domino Recording Co.",
+        "release_title": "Cancel Me (I'm Tired)",
+        "record_id": "n99qvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Cancel Me (I'm Tired)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "One Song Away From Crying",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1jh9s",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "One Song Away From Crying",
+        "track_number": null,
+        "publisher": "Beachbreak publishing",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9rwn2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "One Song Away From Crying",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacey",
+      "title": "oh yeah?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rxrx",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p04wwtr2",
+          "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f",
+          "name": "Steve Lacey"
+        },
+        "artist": "Steve Lacey",
+        "track_title": "oh yeah?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9b3r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04wwtr2",
+            "name": "Steve Lacey",
+            "role": "Performer",
+            "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f"
+          }
+        ],
+        "title": "oh yeah?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Florence Road",
+      "title": "7563",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33hs6",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0l11xc3",
+          "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e",
+          "name": "Florence Road"
+        },
+        "artist": "Florence Road",
+        "track_title": "7563",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bzp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l11xc3",
+            "name": "Florence Road",
+            "role": "Performer",
+            "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
+          }
+        ],
+        "title": "7563",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Fur Elise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50m5v",
+        "duration": 255,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Fur Elise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9b8nh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Fur Elise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Loving Is Easy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p05kmsz8",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Loving Is Easy",
+        "track_number": null,
+        "publisher": "Universal Publishing Worldwide",
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n4hp8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "Loving Is Easy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Motion Sickness",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50nty",
+        "duration": 230,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "Motion Sickness",
+        "track_number": "2",
+        "publisher": "PIZZA MONEY PUBLISHING,SONY-ATV TUNES LLC,SONY/ATV MUSIC PUBLISHING LLC,SONY/ATV MUSIC PUBLISHING (UK) LIMITED,WHATEVER MOM,KOBALT MUSIC SERVICES AMERICA INC,KOBALT MUSIC PUBLISHING LTD",
+        "record_label": "Dead Oceans",
+        "release_title": "Stranger in the Alps",
+        "record_id": "n4fgzg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "Motion Sickness",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Odeal",
+      "title": "Miami",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0lr7kqk",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "Miami",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LVRN",
+        "release_title": null,
+        "record_id": "n8mpd6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          },
+          {
+            "pid": "p0fqvzv7",
+            "name": "Leon Thomas",
+            "role": "Performer",
+            "musicbrainz_gid": "412ff65d-26bf-4849-ba19-d2a58030fd1a"
+          }
+        ],
+        "title": "Miami",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Sun Has Set",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvpn6m",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Sun Has Set",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n99hv4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Sun Has Set",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "Sheila",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p003lfg2",
+        "duration": 209,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "Sheila",
+        "track_number": null,
+        "publisher": "Zomba/John Murray/Workshop/Warner-Chappe",
+        "record_label": "Virgin",
+        "release_title": "Sheila",
+        "record_id": "nz2wvf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "Sheila",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Mirage",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4m0py",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Mirage",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "DISORDER CAPITOL",
+        "release_title": null,
+        "record_id": "n9b624",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          }
+        ],
+        "title": "Mirage",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "slayr",
+      "title": "keep me going (BIRDBRAIN)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3yjhd",
+        "duration": 129,
+        "primary_contributor": {
+          "pid": "p0nthnwm",
+          "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+          "name": "slayr"
+        },
+        "artist": "slayr",
+        "track_title": "keep me going (BIRDBRAIN)",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "slayr",
+        "release_title": "keep me going (BIRDBRAIN)",
+        "record_id": "n9b3mn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Performer",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          }
+        ],
+        "title": "keep me going (BIRDBRAIN)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cardi B",
+      "title": "AH HA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gf5f",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p03y2b9j",
+          "musicbrainz_gid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+          "name": "Cardi B"
+        },
+        "artist": "Cardi B",
+        "track_title": "AH HA",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "AH HA",
+        "record_id": "n9rqgp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03y2b9j",
+            "name": "Cardi B",
+            "role": "Performer",
+            "musicbrainz_gid": "2f3c4d70-0462-40da-bba3-0aec5772c556"
+          }
+        ],
+        "title": "AH HA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Gellaitry",
+      "title": "Longing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2ncvn",
+        "duration": 109,
+        "primary_contributor": {
+          "pid": "p028whry",
+          "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5",
+          "name": "Sam Gellaitry"
+        },
+        "artist": "Sam Gellaitry",
+        "track_title": "Longing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Major Recordings",
+        "release_title": "ANYWHERE HERE IS PERFECT (DELUXE)",
+        "record_id": "n9rm65",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p028whry",
+            "name": "Sam Gellaitry",
+            "role": "Performer",
+            "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5"
+          }
+        ],
+        "title": "Longing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ninajirachi",
+      "title": "WannaCry",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1jp34",
+        "duration": 219,
+        "primary_contributor": {
+          "pid": "p06fzdm4",
+          "musicbrainz_gid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+          "name": "Ninajirachi"
+        },
+        "artist": "Ninajirachi",
+        "track_title": "WannaCry",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "NLV Records",
+        "release_title": null,
+        "record_id": "n9rwnp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06fzdm4",
+            "name": "Ninajirachi",
+            "role": "Performer",
+            "musicbrainz_gid": "6897b46a-9236-4480-9ed7-300f6b85d62f"
+          },
+          {
+            "pid": "p012f13x",
+            "name": "Porter Robinson",
+            "role": "Performer",
+            "musicbrainz_gid": "4ae36ade-1798-48c4-b06b-cc68b7d3d83f"
+          }
+        ],
+        "title": "WannaCry",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Upside Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p09flr",
+        "duration": 104,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Upside Down",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9rdwx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Upside Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "she’s green",
+      "title": "locket",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxf9pk",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0mvyfps",
+          "musicbrainz_gid": "f23579e2-d625-4fca-a796-ec349d89c3a7",
+          "name": "she’s green"
+        },
+        "artist": "she’s green",
+        "track_title": "locket",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Photo Finish",
+        "release_title": null,
+        "record_id": "n9r3w9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mvyfps",
+            "name": "she’s green",
+            "role": "Performer",
+            "musicbrainz_gid": "f23579e2-d625-4fca-a796-ec349d89c3a7"
+          }
+        ],
+        "title": "locket",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Suki Waterhouse",
+      "title": "Notting Hill",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz7xpv",
+        "duration": 187,
+        "primary_contributor": {
+          "pid": "p09z1gp3",
+          "musicbrainz_gid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
+          "name": "Suki Waterhouse"
+        },
+        "artist": "Suki Waterhouse",
+        "track_title": "Notting Hill",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9r868",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09z1gp3",
+            "name": "Suki Waterhouse",
+            "role": "Performer",
+            "musicbrainz_gid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1"
+          }
+        ],
+        "title": "Notting Hill",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Come Back to Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50vf3",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Come Back to Me",
+        "track_number": "1",
+        "publisher": "Kobalt/Sony",
+        "record_label": "Caiola Records",
+        "release_title": "Sunshine",
+        "record_id": "n9b5j8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Come Back to Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Sunshine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50w41",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Sunshine",
+        "track_number": null,
+        "publisher": "WE BLOW S UP MUSIC,PICCADILLY MUSIC CORPORATION,KASSNER ASSOCIATED PUBLISHERS LIMITED",
+        "record_label": "Caiola Records",
+        "release_title": "Sunshine",
+        "record_id": "n9b5jp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Sunshine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Romeo II",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50w4r",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Romeo II",
+        "track_number": "5",
+        "publisher": "Kobalt/Sony",
+        "record_label": "Caiola Records",
+        "release_title": "Sunshine",
+        "record_id": "n9b828",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          },
+          {
+            "pid": "p03btr98",
+            "name": "Bas",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3ba54400-4c97-450f-b108-bcd90b9b2b76"
+          }
+        ],
+        "title": "Romeo II",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "The Wave",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ns398z",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "The Wave",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "CAIOLA",
+        "release_title": null,
+        "record_id": "n98mpz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "The Wave",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Heavy on My Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50y4y",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Heavy on My Soul",
+        "track_number": "11",
+        "publisher": "Kobalt/Sony",
+        "record_label": "Caiola Records",
+        "release_title": "Sunshine",
+        "record_id": "n9b82x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Heavy on My Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "Summer Fruits",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n96v",
+        "duration": 145,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "Summer Fruits",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Recordings Limited",
+        "release_title": null,
+        "record_id": "n9rm6z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "Summer Fruits",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "Change",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzd3zr",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "Change",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n8fwmb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          },
+          {
+            "pid": "p09hn2k2",
+            "name": "Luke Alessi",
+            "role": "Performer",
+            "musicbrainz_gid": "cfff51d9-ed77-44f3-bec5-961a0feee0bd"
+          }
+        ],
+        "title": "Change",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Medium Build",
+      "title": "Home Depot",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2nrq2",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p0fmg2tp",
+          "musicbrainz_gid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+          "name": "Medium Build"
+        },
+        "artist": "Medium Build",
+        "track_title": "Home Depot",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9rmp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fmg2tp",
+            "name": "Medium Build",
+            "role": "Performer",
+            "musicbrainz_gid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7"
+          }
+        ],
+        "title": "Home Depot",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "John Glacier",
+      "title": "Bond Girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p001fw",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p07m32f2",
+          "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d",
+          "name": "John Glacier"
+        },
+        "artist": "John Glacier",
+        "track_title": "Bond Girl",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young Records",
+        "release_title": null,
+        "record_id": "n9rcfm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Performer",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Bond Girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Denzel Curry",
+      "title": "DIFFERENCE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44frc",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p01kpc89",
+          "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+          "name": "Denzel Curry"
+        },
+        "artist": "Denzel Curry",
+        "track_title": "DIFFERENCE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LOMA VISTA",
+        "release_title": null,
+        "record_id": "n9b4br",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Performer",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          },
+          {
+            "pid": "p078c29h",
+            "name": "Kenneth Blume",
+            "role": "Performer",
+            "musicbrainz_gid": "22ba00db-f132-4f3c-ab06-4ddaa4cc066b"
+          },
+          {
+            "pid": "p05lh5n3",
+            "name": "Yebba",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0aeea1ef-8d96-4556-8c4a-84b88ae271bb"
+          }
+        ],
+        "title": "DIFFERENCE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

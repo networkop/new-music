@@ -41,6 +41,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dance Dance Dance!"
   },
+  "beyoncé|||morning dew (donk)": {
+    "artist": "Beyoncé",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "MORNING DEW (DONK)"
+  },
   "bleech 9:3|||no surprise": {
     "artist": "Bleech 9:3",
     "category": "manual",
@@ -75,6 +82,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "MOTION"
+  },
+  "culture shock|||u & i": {
+    "artist": "Culture Shock",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "U & I"
   },
   "delta heavy|||set you free": {
     "artist": "Delta Heavy",
@@ -146,6 +160,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "THE GOLDEN RECORD"
   },
+  "jazzy|||invisible": {
+    "artist": "Jazzy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Invisible"
+  },
   "john young|||elumelu": {
     "artist": "John Young",
     "category": "manual",
@@ -167,6 +188,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Pistol"
   },
+  "latin mafia|||quiereme": {
+    "artist": "LATIN MAFIA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Quiereme"
+  },
   "len|||pick up the phone": {
     "artist": "Len",
     "category": "manual",
@@ -180,6 +208,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Dead Fresh"
+  },
+  "luude|||all we do is dance": {
+    "artist": "Luude",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "All We Do Is Dance"
   },
   "man/woman/chainsaw|||nosedive": {
     "artist": "Man/Woman/Chainsaw",
@@ -195,12 +230,68 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Jomox"
   },
+  "mph|||raw": {
+    "artist": "MPH",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Raw"
+  },
+  "mulaa joans|||that ain't you": {
+    "artist": "Mulaa Joans",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "That Ain't You"
+  },
   "nero|||we're not alone": {
     "artist": "Nero",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "We're Not Alone"
+  },
+  "nia archives|||feelingz go numb": {
+    "artist": "Nia Archives",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Feelingz Go Numb"
+  },
+  "nia archives|||get me down": {
+    "artist": "Nia Archives",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Get Me Down"
+  },
+  "nia archives|||lovers grief": {
+    "artist": "Nia Archives",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Lovers Grief"
+  },
+  "nia archives|||tender": {
+    "artist": "Nia Archives",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Tender"
+  },
+  "nia archives|||there goes ma head": {
+    "artist": "Nia Archives",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "There Goes Ma Head"
+  },
+  "nia archives|||train of thought": {
+    "artist": "Nia Archives",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Train Of Thought"
   },
   "nothing but thieves|||baby kool (evelyn)": {
     "artist": "Nothing But Thieves",
@@ -250,6 +341,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Even Angels Ghost"
+  },
+  "remi wolf|||twiggy": {
+    "artist": "Remi Wolf",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Twiggy"
   },
   "rose gray|||just be bodies": {
     "artist": "Rose Gray",
@@ -327,6 +425,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Lonely in the Future"
+  },
+  "tinashe|||crash out": {
+    "artist": "Tinashe",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Crash Out"
   },
   "tove lo|||dnh": {
     "artist": "Tove Lo",
