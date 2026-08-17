@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """Sync kept/review tracks to two rolling Spotify playlists (stage 3).
 
-Two playlists, created on first run and remembered in PLAYLISTS_PATH:
+Two playlists, created on first run and remembered in PLAYLISTS_PATH. If
+PLAYLISTS_PATH is missing an entry, ensure_playlists() looks for a
+same-named playlist on Spotify before creating a new one - see its
+docstring, this is what stops a lost/stale PLAYLISTS_PATH from spawning
+duplicates:
 - "keep": the real rolling playlist.
 - "review": ambiguous genre calls the owner skims occasionally, per
   docs/filtering.md ("route ambiguity to a review list, don't guess").
@@ -110,14 +114,51 @@ def api_request(method, path_or_url, token, params=None, json_body=None, attempt
     raise RuntimeError(f"exhausted retries: {method} {url}")
 
 
+def get_own_playlists_by_name(token):
+    """name -> id for every playlist in the account, most-recently-created
+    wins on a name collision (Spotify iterates newest first).
+
+    Used by ensure_playlists() to self-heal: creating a playlist and
+    recording its id in PLAYLISTS_PATH are two separate steps (an API call,
+    then a local file write that's only durable once the workflow commits
+    and pushes it), so a run that creates a playlist but doesn't get that
+    far - crash, lost local state, an overlapping run - leaves an orphan on
+    Spotify with nothing pointing at it. Without this check, the next run
+    can't tell that orphan apart from "never created" and just makes
+    another one; this is what produced duplicate "New Music Show" and
+    "New Music Show - Review" playlists on 2026-08-04. Checking by name
+    first means a lost/stale PLAYLISTS_PATH adopts the existing playlist
+    instead of duplicating it.
+    """
+    by_name = {}
+    url = "/me/playlists"
+    params = {"limit": 50}
+    while url:
+        resp = api_request("GET", url, token, params=params)
+        params = None  # 'next' already carries its own query string
+        for item in resp.get("items", []):
+            if item and item.get("name"):
+                by_name[item["name"]] = item["id"]
+        url = resp.get("next")
+    return by_name
+
+
 def ensure_playlists(token):
     # POST /me/playlists, not /users/{user_id}/playlists - the latter was
     # removed for Development Mode apps in Spotify's Feb 2026 Web API
     # migration (https://developer.spotify.com/documentation/web-api/tutorials/february-2026-migration-guide).
     config = load_json(PLAYLISTS_PATH, {})
     changed = False
+    existing_by_name = None  # lazy: only fetched if something's actually missing
     for bucket, name in PLAYLIST_NAMES.items():
         if bucket not in config:
+            if existing_by_name is None:
+                existing_by_name = get_own_playlists_by_name(token)
+            if name in existing_by_name:
+                config[bucket] = existing_by_name[name]
+                changed = True
+                print(f"adopted existing playlist {bucket!r}: {name} ({config[bucket]}) - missing from {PLAYLISTS_PATH}, found by name on Spotify instead")
+                continue
             created = api_request(
                 "POST",
                 "/me/playlists",
