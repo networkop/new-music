@@ -51,8 +51,25 @@ Require the blocked tag in the top three, or above a weight threshold.
 
 - `soul` → neo-soul, northern soul, and it shades into R&B and funk
 - `country` → americana, alt-country
-- `indie folk` → folk, singer-songwriter, freak folk; and `indie` + `folk`
-  appearing as separate tags usually is a hit
+- `indie folk` → folk, freak folk; and `indie` + `folk` appearing as
+  separate tags usually is a hit. `singer-songwriter` was in this set
+  originally but was removed 2026-08-17: it describes a performance mode,
+  not a genre, and was flagging pop/R&B/indie-pop artists who simply write
+  their own songs - see below.
+
+**A blocked tag needs real weight to count as a signal at all, not just to
+cross into exclude.** Checked against a real run (549 tracks, 2026-08-17):
+87 tracks landed in review, and nearly all of them were an artist clearly
+dominated by something else, carrying the blocked tag at trace weight -
+Erin LeCount (`rnb` 100 / `soul` 7), WHATMORE (`rap` 100 / `soul` 4), Jungle
+(`electronic` 100 / `soul` 10). That's crowd-tagging noise, not ambiguity.
+`filter.py` now requires a blocked tag's weight to clear both an absolute
+floor and a fraction of the artist's own top-tag weight
+(`REVIEW_WEIGHT_FLOOR`, `REVIEW_DOMINANCE_RATIO`) before it counts as a weak
+hit at all; below that it's treated the same as no match - keep. Also on
+that run, `singer-songwriter` alone accounted for 23 of the 87 review
+tracks, which is why it was dropped from the indie-folk synonym set rather
+than just weighted down.
 
 **Cache at artist level.** Once an artist is classified, keep it. After a few
 weeks the local list does most of the work and API calls approach zero for

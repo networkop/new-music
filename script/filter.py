@@ -39,14 +39,18 @@ LASTFM_URL = "https://ws.audioscrobbler.com/2.0/"
 # Only the three excluded categories plus their documented synonym bleed.
 # Deliberately narrow: R&B and funk are noted in docs/filtering.md as
 # adjacent to soul but are NOT excluded, so they're not in this vocabulary.
+#
+# "singer-songwriter" was dropped 2026-08-17: it describes a performance
+# mode, not a genre, and was the single biggest contributor to the review
+# queue (23/87 on a real run) by flagging pop/R&B/indie-pop artists who
+# simply write their own songs. "folk" and "indie folk" already cover the
+# real cases.
 CATEGORIES = {
     "soul": {"soul", "neo-soul", "neo soul", "northern soul", "uk soul"},
     "country": {"country", "americana", "alt-country", "alt country"},
     "indie folk": {
         "indie folk",
         "folk",
-        "singer-songwriter",
-        "singer songwriter",
         "freak folk",
     },
 }
@@ -84,6 +88,20 @@ def looks_like_genre(tag):
 # being 3rd doesn't imply "dominant genre". A below-threshold match still
 # routes to review rather than being silently dropped either way.
 WEIGHT_THRESHOLD = 50
+
+# A blocked-category tag below WEIGHT_THRESHOLD isn't automatically
+# "ambiguous" - below these bars it's noise, not a signal, and defaults to
+# keep like no match at all. Found via real data 2026-08-17: most of the
+# review queue was R&B/electronic/jazz artists carrying a trace-weight
+# "soul" tag from stray crowd-tagging (Erin LeCount: rnb 100 / soul 7,
+# WHATMORE: rap 100 / soul 4, Jungle: electronic 100 / soul 10) - nowhere
+# near "kind of soul", just noise on an otherwise clear tag profile.
+# REVIEW_DOMINANCE_RATIO compares the blocked tag's weight to the artist's
+# own top tag (tags are Last.fm-ordered, so tags[0] is the max);
+# REVIEW_WEIGHT_FLOOR is an absolute backstop for artists with a flat,
+# noisy tag profile where nothing reaches a high top weight.
+REVIEW_DOMINANCE_RATIO = 0.25
+REVIEW_WEIGHT_FLOOR = 15
 
 UA = "new-music-tracklist-bot/1.0 (personal playlist project)"
 
@@ -155,18 +173,28 @@ def classify(tags):
 
     decision is one of: exclude, review, keep.
     - exclude: a blocked-category tag at or above the weight threshold.
-    - review: a blocked-category tag present, but only weakly (below
-      threshold) - ambiguous, don't guess.
-    - keep: no blocked-category tag, or no tag data at all (unknown genre
-      defaults to keep - that's the whole point of an exclusion list).
+    - review: a blocked-category tag present with enough weight to be a real
+      signal (see REVIEW_DOMINANCE_RATIO / REVIEW_WEIGHT_FLOOR) but below the
+      exclude threshold - ambiguous, don't guess.
+    - keep: no blocked-category tag carrying real signal, or no tag data at
+      all (unknown genre defaults to keep - that's the whole point of an
+      exclusion list). A trace-weight blocked tag on an artist clearly
+      dominated by something else counts as noise here, not ambiguity.
+
+    tags is assumed weight-descending (Last.fm's own order - same assumption
+    the caller already makes when picking a display genre), so tags[0]'s
+    weight is the artist's top-tag weight and the dominance baseline below.
     """
+    top_weight = tags[0][1] if tags else 0
+    noise_floor = max(REVIEW_WEIGHT_FLOOR, REVIEW_DOMINANCE_RATIO * top_weight)
+
     weak_hit = None
     for tag, weight in tags:
         for category, synonyms in CATEGORIES.items():
             if tag in synonyms:
                 if weight >= WEIGHT_THRESHOLD:
                     return "exclude", category, tag
-                if weak_hit is None:
+                if weight >= noise_floor and weak_hit is None:
                     weak_hit = (category, tag)
     if weak_hit:
         return "review", weak_hit[0], weak_hit[1]
