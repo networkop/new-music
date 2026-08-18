@@ -2,7 +2,14 @@
 
 ## The requirement
 
-Exclude **soul, country, indie folk**. Keep everything else.
+Exclude **soul, country, indie folk, rnb**. Keep everything else.
+
+`rnb` added 2026-08-18, at the owner's request. Checked before adding it: run
+against the live tracklist data at the time, only one track in the actual
+synced Spotify playlist carried a strong `rnb` tag - Kelsey Lu, "Cutting Off
+The Head Of A Ghost" (rnb weight 100, broadcast 2026-07-21) - and one more
+(Tinashe, "Melatonin") was sitting in the review list and moved to a clean
+exclude instead. Confirmed with the owner, then added.
 
 ## Why exclusion beats an allowlist here
 
@@ -47,15 +54,17 @@ unknown-to-Last.fm without checking the name lookup too.
 any appearance of `soul` means one stray tagger removes a Charli xcx track.
 Require the blocked tag in the top three, or above a weight threshold.
 
-**The three terms bleed.** Build a synonym set per blocked category:
+**The terms bleed.** Build a synonym set per blocked category:
 
-- `soul` → neo-soul, northern soul, and it shades into R&B and funk
+- `soul` → neo-soul, northern soul, uk soul, and it shades into R&B and funk
 - `country` → americana, alt-country
 - `indie folk` → folk, freak folk; and `indie` + `folk` appearing as
   separate tags usually is a hit. `singer-songwriter` was in this set
   originally but was removed 2026-08-17: it describes a performance mode,
   not a genre, and was flagging pop/R&B/indie-pop artists who simply write
   their own songs - see below.
+- `rnb` → r&b, contemporary rnb, alternative rnb. Funk is still explicitly
+  NOT excluded, even though it's adjacent - it's not in this vocabulary.
 
 **A blocked tag needs real weight to count as a signal at all, not just to
 cross into exclude.** Checked against a real run (549 tracks, 2026-08-17):

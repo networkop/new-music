@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Drop tracks by genre: exclude soul, country, indie folk; keep everything else,
-including artists with no genre data at all (see docs/filtering.md).
+"""Drop tracks by genre: exclude soul, country, indie folk, rnb; keep everything
+else, including artists with no genre data at all (see docs/filtering.md).
 
 Looks up Last.fm top tags per artist, keyed by MusicBrainz artist ID where
 fetch.py found one (99%+ of tracks) and falling back to artist name otherwise.
@@ -36,15 +36,18 @@ NEW_EPISODES_PATH = "data/.new_episodes.json"  # written by fetch.py, transient
 LASTFM_API_KEY = os.environ.get("LASTFM_API_KEY")
 LASTFM_URL = "https://ws.audioscrobbler.com/2.0/"
 
-# Only the three excluded categories plus their documented synonym bleed.
-# Deliberately narrow: R&B and funk are noted in docs/filtering.md as
-# adjacent to soul but are NOT excluded, so they're not in this vocabulary.
+# Only the four excluded categories plus their documented synonym bleed.
+# Deliberately narrow: funk is noted in docs/filtering.md as adjacent to
+# soul but is NOT excluded, so it's not in this vocabulary.
 #
 # "singer-songwriter" was dropped 2026-08-17: it describes a performance
 # mode, not a genre, and was the single biggest contributor to the review
 # queue (23/87 on a real run) by flagging pop/R&B/indie-pop artists who
 # simply write their own songs. "folk" and "indie folk" already cover the
 # real cases.
+#
+# rnb added 2026-08-18, at the owner's request, after a before/after check
+# against real playlist history (see docs/filtering.md).
 CATEGORIES = {
     "soul": {"soul", "neo-soul", "neo soul", "northern soul", "uk soul"},
     "country": {"country", "americana", "alt-country", "alt country"},
@@ -53,6 +56,7 @@ CATEGORIES = {
         "folk",
         "freak folk",
     },
+    "rnb": {"rnb", "r&b", "contemporary rnb", "alternative rnb"},
 }
 
 # Personal/meta tags Last.fm users apply that aren't genres at all - some of
