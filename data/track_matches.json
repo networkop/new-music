@@ -284,6 +284,11 @@
     "score": 1.0,
     "uri": "spotify:track:0SHBUfTIyN3Rv3uTjfJ3rf"
   },
+  "channel tres|||gangsta": {
+    "matched": "Channel Tres - Gangsta",
+    "score": 1.0,
+    "uri": "spotify:track:74xu2XF8jnZRiwF4S0Gce1"
+  },
   "chanpan|||confessions part iii": {
     "matched": "Chanpan - confessions part iii",
     "score": 1.0,
@@ -509,10 +514,20 @@
     "score": 1.0,
     "uri": "spotify:track:3k5OStPX5fNfTd3ZQL8RkY"
   },
+  "fontaines d.c.|||marianne": {
+    "matched": "Fontaines D.C. - Marianne",
+    "score": 1.0,
+    "uri": "spotify:track:69rHKcrQpYGfToPThOV1UB"
+  },
   "four tet|||human voice": {
     "matched": "Four Tet - Human Voice",
     "score": 1.0,
     "uri": "spotify:track:5Lh2zmWu8BecY2l9Upggm9"
+  },
+  "fred again..|||lightsburndimmer": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "frost children|||satellites": {
     "matched": "Frost Children - Satellites",
@@ -609,10 +624,20 @@
     "score": 1.0,
     "uri": "spotify:track:2fQpJcpE7EoVLVi7qoRcwQ"
   },
+  "jamie t|||3310": {
+    "matched": "Jamie T - 3310",
+    "score": 1.0,
+    "uri": "spotify:track:73qjPrQyaBd7mcGR5kEiBC"
+  },
   "jamie t|||sheila": {
     "matched": "Jamie T - Sheila",
     "score": 1.0,
     "uri": "spotify:track:0FGtGmz8SVEywhUqNFYWsQ"
+  },
+  "jamie t|||sticks 'n' stones": {
+    "matched": "Jamie T - Sticks 'N' Stones",
+    "score": 1.0,
+    "uri": "spotify:track:1khoSOxg6VHzvRlVkczrbl"
   },
   "jazzy|||invisible": {
     "matched": "Jazzy - Invisible",
@@ -648,6 +673,11 @@
     "matched": "John Glacier - Emotions",
     "score": 1.0,
     "uri": "spotify:track:5MIjWtoQYHEifN8KGHuPAU"
+  },
+  "john summit|||don't believe it": {
+    "matched": "John Summit - DON'T BELIEVE IT",
+    "score": 1.0,
+    "uri": "spotify:track:5TbTOkgK8UAjtjIuIVPAjE"
   },
   "john young|||elumelu": {
     "matched": "Young Jonn - Elumelu",
@@ -814,6 +844,11 @@
     "score": 1.0,
     "uri": "spotify:track:5ZAMlvo6ZUjVRZOGu2bJib"
   },
+  "lime garden|||cross my heart": {
+    "matched": "Lime Garden - Cross My Heart",
+    "score": 1.0,
+    "uri": "spotify:track:2uEWM5lSQsl0ubzbxFd6U7"
+  },
   "loathe|||fortress down": {
     "matched": "Loathe - Fortress Down",
     "score": 1.0,
@@ -893,6 +928,11 @@
     "matched": "Naomi Scott - Cut Me Loose",
     "score": 1.0,
     "uri": "spotify:track:6HFH7nYo57j3NDU1wa3FbY"
+  },
+  "nemzzz|||4am": {
+    "matched": "Nemzzz - 4AM",
+    "score": 1.0,
+    "uri": "spotify:track:2m0LVMnYGn9AXBllkkWcDI"
   },
   "nemzzz|||killin' em": {
     "matched": "Nemzzz - KILLIN EM",
@@ -1013,6 +1053,11 @@
     "matched": "Oscar Farrell - Don't Play With Me",
     "score": 1.0,
     "uri": "spotify:track:0Ti6MgIB9cmwpGW3wFugxj"
+  },
+  "oscar farrell|||greyhound": {
+    "matched": "Oscar Farrell - Greyhound",
+    "score": 1.0,
+    "uri": "spotify:track:23RJzRaEYj1WdJqB2nBvAR"
   },
   "overmono|||after the rain": {
     "matched": "Overmono - After The Rain",
@@ -1369,6 +1414,11 @@
     "score": 1.0,
     "uri": "spotify:track:5gBMUQu2FVV1OYu92hbJjv"
   },
+  "theatre|||gaudete": {
+    "matched": "THEATRE - Gaudete",
+    "score": 1.0,
+    "uri": "spotify:track:60B4gDxTwNn1DVfRLVQMTD"
+  },
   "tierra whack|||siren": {
     "matched": "Tierra Whack - SIREN",
     "score": 1.0,
@@ -1383,6 +1433,11 @@
     "matched": "Tinashe - Crash Out",
     "score": 1.0,
     "uri": "spotify:track:3IHTGwXvGyGslBbvHDDFrM"
+  },
+  "tinashe|||melatonin": {
+    "matched": "Tinashe - Melatonin",
+    "score": 1.0,
+    "uri": "spotify:track:0Fscl5Gt6r9UfJR6OWG1wI"
   },
   "tinashe|||too easy": {
     "matched": "Tinashe - Too Easy",

@@ -616,6 +616,52 @@
       ]
     ]
   },
+  "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6": {
+    "name": "Theatre",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hardcore",
+        100
+      ],
+      [
+        "chaotic hardcore",
+        69
+      ],
+      [
+        "christian hardcore",
+        29
+      ],
+      [
+        "christian",
+        16
+      ],
+      [
+        "mathcore",
+        8
+      ],
+      [
+        "melodic hard rock",
+        8
+      ],
+      [
+        "raw",
+        4
+      ],
+      [
+        "melodic hardcore",
+        1
+      ],
+      [
+        "breakdowns",
+        1
+      ],
+      [
+        "melodic metal",
+        1
+      ]
+    ]
+  },
   "115dc8c9-cb04-4dd6-859e-39739eb57215": {
     "name": "That Mexican OT",
     "source": "lastfm",
@@ -905,6 +951,52 @@
       [
         "under 2000 listeners",
         100
+      ]
+    ]
+  },
+  "2547c5e3-314c-4332-981d-f18c902a4086": {
+    "name": "John Summit",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "techno",
+        33
+      ],
+      [
+        "tech house",
+        22
+      ],
+      [
+        "electronic",
+        12
+      ],
+      [
+        "usa",
+        3
+      ],
+      [
+        "chicago",
+        3
+      ],
+      [
+        "american",
+        3
+      ],
+      [
+        "fuck this pussy",
+        1
+      ],
+      [
+        "john summit",
+        1
+      ],
+      [
+        "funk_add_to_lidarr_batch_13",
+        1
       ]
     ]
   },
@@ -2052,6 +2144,52 @@
       ],
       [
         "usa",
+        1
+      ]
+    ]
+  },
+  "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4": {
+    "name": "Lime Garden",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie rock",
+        100
+      ],
+      [
+        "indie pop",
+        39
+      ],
+      [
+        "dance-punk",
+        26
+      ],
+      [
+        "post-punk",
+        9
+      ],
+      [
+        "british",
+        5
+      ],
+      [
+        "new wave",
+        2
+      ],
+      [
+        "united kingdom",
+        2
+      ],
+      [
+        "post-punk revival",
+        1
+      ],
+      [
+        "great britain",
+        1
+      ],
+      [
+        "indie",
         1
       ]
     ]
@@ -6561,6 +6699,52 @@
       ]
     ]
   },
+  "bca46a0c-25c9-42ca-98c2-e64c8a5e337e": {
+    "name": "Fred again..",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "electronic",
+        83
+      ],
+      [
+        "uk garage",
+        37
+      ],
+      [
+        "dance",
+        30
+      ],
+      [
+        "british",
+        9
+      ],
+      [
+        "deep house",
+        9
+      ],
+      [
+        "progressive house",
+        9
+      ],
+      [
+        "future garage",
+        3
+      ],
+      [
+        "stutter house",
+        3
+      ],
+      [
+        "pop",
+        1
+      ]
+    ]
+  },
   "bca63b5d-a28c-4937-a8f4-e3f2d95426e1": {
     "name": "Masego",
     "source": "lastfm",
@@ -9035,6 +9219,52 @@
       ],
       [
         "electronic",
+        1
+      ]
+    ]
+  },
+  "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68": {
+    "name": "Fontaines D.C.",
+    "source": "lastfm",
+    "tags": [
+      [
+        "post-punk",
+        100
+      ],
+      [
+        "crank wave",
+        54
+      ],
+      [
+        "indie rock",
+        29
+      ],
+      [
+        "irish",
+        15
+      ],
+      [
+        "post-brexit new wave",
+        5
+      ],
+      [
+        "indie",
+        4
+      ],
+      [
+        "rock",
+        4
+      ],
+      [
+        "post punk",
+        1
+      ],
+      [
+        "spoken word",
+        1
+      ],
+      [
+        "punk",
         1
       ]
     ]
