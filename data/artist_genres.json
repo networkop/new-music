@@ -355,6 +355,52 @@
       ]
     ]
   },
+  "08306f5a-c1de-42a2-8004-a9467fc30950": {
+    "name": "Tiana Major9",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        69
+      ],
+      [
+        "pop",
+        29
+      ],
+      [
+        "jazz",
+        29
+      ],
+      [
+        "hip-hop",
+        8
+      ],
+      [
+        "female vocalists",
+        4
+      ],
+      [
+        "london",
+        1
+      ],
+      [
+        "female vocalist",
+        1
+      ],
+      [
+        "jamaica",
+        1
+      ],
+      [
+        "hip hop",
+        1
+      ]
+    ]
+  },
   "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd": {
     "name": "Nia Archives",
     "source": "lastfm",
@@ -6423,6 +6469,48 @@
       ]
     ]
   },
+  "b75c3ac9-6822-4dbb-9d7a-4f78deee9b7e": {
+    "name": "Carlita",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "electronic",
+        100
+      ],
+      [
+        "usa",
+        17
+      ],
+      [
+        "dance",
+        17
+      ],
+      [
+        "italy",
+        8
+      ],
+      [
+        "ninja tune",
+        8
+      ],
+      [
+        "turkish",
+        8
+      ],
+      [
+        "turkey",
+        2
+      ],
+      [
+        "funk_add_to_lidarr_batch_5",
+        2
+      ]
+    ]
+  },
   "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa": {
     "name": "Overmono",
     "source": "lastfm",
@@ -7195,6 +7283,52 @@
       [
         "electro house",
         2
+      ]
+    ]
+  },
+  "ca57dd61-590f-4605-85ec-72e947a6148b": {
+    "name": "Getdown Services",
+    "source": "lastfm",
+    "tags": [
+      [
+        "british",
+        100
+      ],
+      [
+        "dance-punk",
+        100
+      ],
+      [
+        "indie rock",
+        16
+      ],
+      [
+        "alternative dance",
+        16
+      ],
+      [
+        "crank wave",
+        8
+      ],
+      [
+        "uk",
+        2
+      ],
+      [
+        "alternative",
+        2
+      ],
+      [
+        "england",
+        1
+      ],
+      [
+        "post-punk",
+        1
+      ],
+      [
+        "bristol",
+        1
       ]
     ]
   },
@@ -9363,6 +9497,52 @@
       [
         "electronic",
         1
+      ]
+    ]
+  },
+  "name:feng": {
+    "name": "Feng",
+    "source": "lastfm",
+    "tags": [
+      [
+        "sigilkore",
+        100
+      ],
+      [
+        "cloud rap",
+        100
+      ],
+      [
+        "uk",
+        16
+      ],
+      [
+        "uk hip hop",
+        16
+      ],
+      [
+        "love at first listen",
+        8
+      ],
+      [
+        "eroge",
+        8
+      ],
+      [
+        "pop rap",
+        8
+      ],
+      [
+        "uk underground",
+        2
+      ],
+      [
+        "electro hop",
+        2
+      ],
+      [
+        "trap",
+        2
       ]
     ]
   },

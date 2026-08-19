@@ -1,4 +1,11 @@
 {
+  "2hollis|||hurt": {
+    "artist": "2hollis",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "hurt"
+  },
   "absolutely|||i just don't know you yet": {
     "artist": "Absolutely",
     "category": "manual",
@@ -61,6 +68,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Sarniezz"
+  },
+  "angèle|||dis-le": {
+    "artist": "Angèle",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dis-le"
   },
   "anotr|||silver lines": {
     "artist": "ANOTR",
@@ -215,6 +229,20 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Tyler Richard"
+  },
+  "channel tres|||creatine": {
+    "artist": "Channel Tres",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Creatine"
+  },
+  "channel tres|||gangsta": {
+    "artist": "Channel Tres",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Gangsta"
   },
   "charli xcx|||camera": {
     "artist": "Charli xcx",
@@ -489,6 +517,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "BRIGHT IDEAS"
   },
+  "inji|||i wanna feel it all": {
+    "artist": "INJI",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I WANNA FEEL IT ALL"
+  },
   "ivri|||the golden record": {
     "artist": "ivri",
     "category": "manual",
@@ -496,12 +531,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "THE GOLDEN RECORD"
   },
+  "jamie t|||3310": {
+    "artist": "Jamie T",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "3310"
+  },
   "jamie t|||sheila": {
     "artist": "Jamie T",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Sheila"
+  },
+  "jamie t|||sticks 'n' stones": {
+    "artist": "Jamie T",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sticks 'N' Stones"
   },
   "jazzy|||invisible": {
     "artist": "Jazzy",
@@ -530,6 +579,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Emotions"
+  },
+  "john summit|||don't believe it": {
+    "artist": "John Summit",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "DON'T BELIEVE IT"
   },
   "john young|||elumelu": {
     "artist": "John Young",
@@ -650,6 +706,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dead Fresh"
   },
+  "lime garden|||cross my heart": {
+    "artist": "Lime Garden",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Cross My Heart"
+  },
   "ludacris|||real hustla": {
     "artist": "Ludacris",
     "category": "manual",
@@ -740,6 +803,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "That Ain't You"
+  },
+  "nemzzz|||4am": {
+    "artist": "Nemzzz",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "4AM"
   },
   "nero|||we're not alone": {
     "artist": "Nero",
@@ -867,6 +937,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Toast"
   },
+  "oscar farrell|||don't play with me": {
+    "artist": "Oscar Farrell",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Don't Play With Me"
+  },
+  "oscar farrell|||greyhound": {
+    "artist": "Oscar Farrell",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Greyhound"
+  },
   "overmono|||after the rain": {
     "artist": "Overmono",
     "category": "manual",
@@ -880,6 +964,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Even Angels Ghost"
+  },
+  "overmono|||knight in shining prada": {
+    "artist": "Overmono",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Knight In Shining Prada"
   },
   "o’flynn|||faith in you": {
     "artist": "O’Flynn",
@@ -908,6 +999,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Wo, man"
+  },
+  "pixy|||legacy": {
+    "artist": "PIXY",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "LEGACY"
   },
   "queens of the stone age|||easy street": {
     "artist": "Queens of the Stone Age",
@@ -1063,6 +1161,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "brand new chanel$"
   },
+  "slow pulp|||better man": {
+    "artist": "Slow Pulp",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Better Man"
+  },
   "soak|||death valley fridge magnet": {
     "artist": "SOAK",
     "category": "manual",
@@ -1112,6 +1217,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Tiny Raisin"
   },
+  "suki waterhouse|||when i get drunk (i want you boy)": {
+    "artist": "Suki Waterhouse",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "When I Get Drunk (I Want You Boy)"
+  },
   "that mexican ot|||water": {
     "artist": "That Mexican OT",
     "category": "manual",
@@ -1146,6 +1258,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "SIREN"
+  },
+  "tiffany day|||constantly": {
+    "artist": "Tiffany Day",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "CONSTANTLY"
   },
   "tinashe|||crash out": {
     "artist": "Tinashe",
