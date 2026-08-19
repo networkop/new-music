@@ -90,11 +90,6 @@
       "broadcast": "2026-08-18",
       "title": "Cross My Heart"
     },
-    "spotify:track:34h77avpCK81oQ6o6uT61x": {
-      "artist": "Kelsey Lu",
-      "broadcast": "2026-07-21",
-      "title": "Cutting Off The Head Of A Ghost"
-    },
     "spotify:track:3liYWWSuD0zcytDMrUqsEq": {
       "artist": "Overmono",
       "broadcast": "2026-08-12",
@@ -176,11 +171,5 @@
       "title": "Gangsta"
     }
   },
-  "review": {
-    "spotify:track:0Fscl5Gt6r9UfJR6OWG1wI": {
-      "artist": "Tinashe",
-      "broadcast": "2026-08-18",
-      "title": "Melatonin"
-    }
-  }
+  "review": {}
 }
