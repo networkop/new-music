@@ -1,0 +1,1244 @@
+{
+  "pid": "m00301lx",
+  "broadcast_start": "2026-08-20T18:00:00+01:00",
+  "schedule_date": "2026-08-20",
+  "title": "beabadoobee and Odeal",
+  "tracks": [
+    {
+      "artist": "K Trap",
+      "title": "CAN'T SAY NO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsybbw",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p05gj2yw",
+          "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787",
+          "name": "K Trap"
+        },
+        "artist": "K Trap",
+        "track_title": "CAN'T SAY NO",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "K-Trap",
+        "release_title": null,
+        "record_id": "n999pv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05gj2yw",
+            "name": "K Trap",
+            "role": "Performer",
+            "musicbrainz_gid": "e26aebea-e2f4-48c6-ac42-b4ef54d2e787"
+          },
+          {
+            "pid": "p05c7n5g",
+            "name": "Young Adz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "a4afd2fa-9891-4983-b6bd-0aa40ad17c6f"
+          }
+        ],
+        "title": "CAN'T SAY NO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "kwn",
+      "title": "risk it all",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nz7lsf",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p08zd77v",
+          "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3",
+          "name": "kwn"
+        },
+        "artist": "kwn",
+        "track_title": "risk it all",
+        "track_number": null,
+        "publisher": "BMI; Warner-Tamerlane Publishing; Recognition Songs; Kobalt; Universal Music Publishing; Warner Chaooell; ASCAP; Swing T Publishing (BMI)",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n99jp8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Performer",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "risk it all",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Sun Has Set",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvpn6m",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Sun Has Set",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n99hv4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Sun Has Set",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Bobby",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p51gdk",
+        "duration": 235,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "Bobby",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dead Oceans",
+        "release_title": null,
+        "record_id": "n9b5hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "Bobby",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Someday, Somewhere",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxmxd9",
+        "duration": 146,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Someday, Somewhere",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "AWAL Recordings",
+        "release_title": null,
+        "record_id": "n9r4p2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Someday, Somewhere",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Easy Street",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrnxj",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Easy Street",
+        "track_number": null,
+        "publisher": "Matador Records",
+        "record_label": "Matador",
+        "release_title": null,
+        "record_id": "n9r8x9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Easy Street",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "Vogue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rscx",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "Vogue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LAOLAO Records",
+        "release_title": null,
+        "record_id": "n9b3rz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "Vogue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "I Lied, You Lied",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4djk0",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "I Lied, You Lied",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "n9b52j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "I Lied, You Lied",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Glue Song",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0f53vjh",
+        "duration": 131,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Glue Song",
+        "track_number": null,
+        "publisher": "Sony/Atv Music Publishing (Uk) Limited",
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "nphcgj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Glue Song",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kfls",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "I Wish",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nys2c4",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "I Wish",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "4AD",
+        "release_title": null,
+        "record_id": "n9r8fx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "I Wish",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Charlemagne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p039jghq",
+        "duration": 163,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Charlemagne",
+        "track_number": null,
+        "publisher": "BMG",
+        "record_label": "VirginEMI",
+        "release_title": null,
+        "record_id": "n3xnqp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          }
+        ],
+        "title": "Charlemagne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Disgruntled",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0jnk6",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Disgruntled",
+        "track_number": null,
+        "publisher": "Sony Music Publishing, Concord Music Publishing, Imhotep Publishing, Kobalt Publishing",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rx5b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p038bb28",
+            "name": "J Hus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "eca85dd0-f1fb-4e83-8c47-61403f479254"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRah",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Disgruntled",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Cotton",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0npx85b",
+        "duration": 222,
+        "primary_contributor": {
+          "pid": "p01tcdsh",
+          "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+          "name": "Vince Staples"
+        },
+        "artist": "Vince Staples",
+        "track_title": "Cotton",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n9936g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01tcdsh",
+            "name": "Vince Staples",
+            "role": "Performer",
+            "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff"
+          }
+        ],
+        "title": "Cotton",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sonny Fodera",
+      "title": "Somedays",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0jdvkpx",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p01k2j3z",
+          "musicbrainz_gid": "bd804804-588f-423f-9f62-66ba93b4a5a4",
+          "name": "Sonny Fodera"
+        },
+        "artist": "Sonny Fodera",
+        "track_title": "Somedays",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Solotoko",
+        "release_title": null,
+        "record_id": "n8bd23",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01k2j3z",
+            "name": "Sonny Fodera",
+            "role": "Performer",
+            "musicbrainz_gid": "bd804804-588f-423f-9f62-66ba93b4a5a4"
+          },
+          {
+            "pid": "p0bg4qll",
+            "name": "Jazzy",
+            "role": "Performer",
+            "musicbrainz_gid": "8d96e5fb-42b4-4653-b8f3-2a31e5834dc7"
+          },
+          {
+            "pid": "p01q24jv",
+            "name": "D.O.D",
+            "role": "Performer",
+            "musicbrainz_gid": "62141b8b-a802-4736-913e-c29f74d9ef5c"
+          }
+        ],
+        "title": "Somedays",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Indecision",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5bqzn",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Indecision",
+        "track_number": null,
+        "publisher": "Big Pluto Ltd/AWAL Recordings Ltd",
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9b9p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          },
+          {
+            "pid": "p044mphm",
+            "name": "Daniel Caesar",
+            "role": "Performer",
+            "musicbrainz_gid": "b46e298d-d3a5-4695-a03e-63e8c523b23e"
+          }
+        ],
+        "title": "Indecision",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Mirage",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4m0py",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Mirage",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "DISORDER CAPITOL",
+        "release_title": null,
+        "record_id": "n9b624",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          }
+        ],
+        "title": "Mirage",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vybz Kartel",
+      "title": "Just Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nwrth8",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012dp11",
+          "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973",
+          "name": "Vybz Kartel"
+        },
+        "artist": "Vybz Kartel",
+        "track_title": "Just Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "0207 Def Jam",
+        "release_title": null,
+        "record_id": "n99mmc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dp11",
+            "name": "Vybz Kartel",
+            "role": "Performer",
+            "musicbrainz_gid": "7cc385f3-333c-48de-b341-3d728de74973"
+          },
+          {
+            "pid": "p012dw5v",
+            "name": "Shy FX",
+            "role": "Performer",
+            "musicbrainz_gid": "ee459bd7-9768-4cc2-9452-a09700c4aeaa"
+          },
+          {
+            "pid": "p012dxmh",
+            "name": "Clipz",
+            "role": "Performer",
+            "musicbrainz_gid": "94144c85-c5ee-4ec6-85cd-15e48b16ffea"
+          }
+        ],
+        "title": "Just Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lil Baby",
+      "title": "Dead Fresh",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzcnjf",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p0627248",
+          "musicbrainz_gid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+          "name": "Lil Baby"
+        },
+        "artist": "Lil Baby",
+        "track_title": "Dead Fresh",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rrc8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0627248",
+            "name": "Lil Baby",
+            "role": "Performer",
+            "musicbrainz_gid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+          }
+        ],
+        "title": "Dead Fresh",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lancey Foux",
+      "title": "ROCKSTAR RIDER",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kw82",
+        "duration": null,
+        "primary_contributor": {
+          "pid": "p06nlkx1",
+          "musicbrainz_gid": "6a45326d-df49-474e-8169-e3524914331b",
+          "name": "Lancey Foux"
+        },
+        "artist": "Lancey Foux",
+        "track_title": "ROCKSTAR RIDER",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rh2n",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nlkx1",
+            "name": "Lancey Foux",
+            "role": "Performer",
+            "musicbrainz_gid": "6a45326d-df49-474e-8169-e3524914331b"
+          }
+        ],
+        "title": "ROCKSTAR RIDER",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "The Fountain",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3sqrr",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "The Fountain",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b3f4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "The Fountain",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cannelle",
+      "title": "BB Blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxnt1v",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0nx7076",
+          "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e",
+          "name": "Cannelle"
+        },
+        "artist": "Cannelle",
+        "track_title": "BB Blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Cannelle",
+        "release_title": null,
+        "record_id": "n9r34g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nx7076",
+            "name": "Cannelle",
+            "role": "Performer",
+            "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e"
+          }
+        ],
+        "title": "BB Blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Eliza Rose",
+      "title": "DOVE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kvxt",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p0cpxh3j",
+          "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819",
+          "name": "Eliza Rose"
+        },
+        "artist": "Eliza Rose",
+        "track_title": "DOVE",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "10k Projects",
+        "release_title": null,
+        "record_id": "n9b9vf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cpxh3j",
+            "name": "Eliza Rose",
+            "role": "Performer",
+            "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819"
+          }
+        ],
+        "title": "DOVE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Friction",
+      "title": "Lead Dem",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kw5p",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p0p5kw5t",
+          "musicbrainz_gid": null,
+          "name": "Friction"
+        },
+        "artist": "Friction",
+        "track_title": "Lead Dem",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9vw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p5kw5t",
+            "name": "Friction",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRah",
+            "role": "Performer",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Lead Dem",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Odeal",
+      "title": "Coming Home",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5l26g",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "Coming Home",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rjnx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          },
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Coming Home",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Odeal",
+      "title": "Bluey Vitton",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5l26n",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "Bluey Vitton",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b29r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          }
+        ],
+        "title": "Bluey Vitton",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Archives",
+      "title": "There Goes Ma Head",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzwrcr",
+        "duration": 155,
+        "primary_contributor": {
+          "pid": "p09f4b2r",
+          "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd",
+          "name": "Nia Archives"
+        },
+        "artist": "Nia Archives",
+        "track_title": "There Goes Ma Head",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9rcfh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09f4b2r",
+            "name": "Nia Archives",
+            "role": "Performer",
+            "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd"
+          }
+        ],
+        "title": "There Goes Ma Head",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Denzel Curry",
+      "title": "DIFFERENCE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44frc",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p01kpc89",
+          "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+          "name": "Denzel Curry"
+        },
+        "artist": "Denzel Curry",
+        "track_title": "DIFFERENCE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LOMA VISTA",
+        "release_title": null,
+        "record_id": "n9b4br",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Performer",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          },
+          {
+            "pid": "p078c29h",
+            "name": "Kenneth Blume",
+            "role": "Performer",
+            "musicbrainz_gid": "22ba00db-f132-4f3c-ab06-4ddaa4cc066b"
+          },
+          {
+            "pid": "p05lh5n3",
+            "name": "Yebba",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0aeea1ef-8d96-4556-8c4a-84b88ae271bb"
+          }
+        ],
+        "title": "DIFFERENCE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Syd",
+      "title": "Any Time",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kz0m",
+        "duration": 261,
+        "primary_contributor": {
+          "pid": "p01qkwkp",
+          "musicbrainz_gid": "7d3d6c65-e053-4657-8705-0ca61bc012ad",
+          "name": "Syd"
+        },
+        "artist": "Syd",
+        "track_title": "Any Time",
+        "track_number": null,
+        "publisher": "Warner Chappell Music UK",
+        "record_label": "Free Lunch Records",
+        "release_title": "Beard",
+        "record_id": "n9b9qr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01qkwkp",
+            "name": "Syd",
+            "role": "Performer",
+            "musicbrainz_gid": "7d3d6c65-e053-4657-8705-0ca61bc012ad"
+          },
+          {
+            "pid": "p01lrvpp",
+            "name": "James Fauntleroy",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "4e481ad9-aa5d-4a1a-b2fc-444c0ad48b7e"
+          }
+        ],
+        "title": "Any Time",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Bottle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5l0ns",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Bottle",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9qv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Bottle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Overmono",
+      "title": "After The Rain",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rvxc",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p04mzzzy",
+          "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+          "name": "Overmono"
+        },
+        "artist": "Overmono",
+        "track_title": "After The Rain",
+        "track_number": null,
+        "publisher": "BMG Music Publishing Ltd.",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9bnfv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04mzzzy",
+            "name": "Overmono",
+            "role": "Performer",
+            "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa"
+          }
+        ],
+        "title": "After The Rain",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Arca",
+      "title": "Taconeando",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2vx34",
+        "duration": 138,
+        "primary_contributor": {
+          "pid": "p01m9qsx",
+          "musicbrainz_gid": "f7625f34-1799-42a4-a1c6-22b5377c767b",
+          "name": "Arca"
+        },
+        "artist": "Arca",
+        "track_title": "Taconeando",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Beggars Group Media Limited",
+        "release_title": null,
+        "record_id": "n9rmw4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01m9qsx",
+            "name": "Arca",
+            "role": "Performer",
+            "musicbrainz_gid": "f7625f34-1799-42a4-a1c6-22b5377c767b"
+          }
+        ],
+        "title": "Taconeando",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

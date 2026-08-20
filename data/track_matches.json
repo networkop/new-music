@@ -149,6 +149,16 @@
     "score": 1.0,
     "uri": "spotify:track:0b04O4aNqXhiUtHJcb6bcm"
   },
+  "beabadoobee|||glue song": {
+    "matched": "beabadoobee - Glue Song",
+    "score": 1.0,
+    "uri": "spotify:track:3iBgrkexCzVuPy4O9vx7Mf"
+  },
+  "beabadoobee|||memories": {
+    "matched": "beabadoobee - Memories",
+    "score": 1.0,
+    "uri": "spotify:track:2QjvcnTm5u1vWaIChGQVAY"
+  },
   "beabadoobee|||sun has set": {
     "matched": "beabadoobee - Sun Has Set",
     "score": 1.0,
@@ -203,6 +213,11 @@
     "matched": "Blood Orange - Essex_Honey.mp3",
     "score": 1.0,
     "uri": "spotify:track:6PMSpoBxswOQOkgWXv0ih3"
+  },
+  "blossoms|||charlemagne": {
+    "matched": "Blossoms - Charlemagne",
+    "score": 1.0,
+    "uri": "spotify:track:7H5WVBQdSnJ1zmu8JoD6pg"
   },
   "blossoms|||meet me in love": {
     "matched": "Blossoms - Meet Me In Love",
@@ -414,6 +429,11 @@
     "score": 0.0,
     "uri": null
   },
+  "diiv|||the fountain": {
+    "matched": "DIIV - The Fountain",
+    "score": 1.0,
+    "uri": "spotify:track:0HnLhPc4Vdg2HS1p6fJblv"
+  },
   "dj heartstring|||another year alone": {
     "matched": "DJ HEARTSTRING - Another Year Alone (i love you)",
     "score": 1.0,
@@ -543,6 +563,11 @@
     "matched": null,
     "score": 0.0,
     "uri": null
+  },
+  "friction|||lead dem": {
+    "matched": "Friction - Lead Dem",
+    "score": 1.0,
+    "uri": "spotify:track:54wrDUKN01VGqAMP0h5wWq"
   },
   "frost children|||satellites": {
     "matched": "Frost Children - Satellites",
@@ -833,6 +858,11 @@
     "matched": "kwn - risk it all",
     "score": 1.0,
     "uri": "spotify:track:4Efkz2fw4BgqFaWfLReqKN"
+  },
+  "lancey foux|||rockstar rider": {
+    "matched": "Lancey Foux - ROCKSTAR RIDER",
+    "score": 1.0,
+    "uri": "spotify:track:5oLTmlAYDjBtJgjkkJGxGn"
   },
   "larry june|||california dream": {
     "matched": "Larry June - California Dream (feat. Jhené Aiko)",
@@ -1179,6 +1209,11 @@
     "score": 1.0,
     "uri": "spotify:track:7EzqmGOTlrzy1NxZRjeuVV"
   },
+  "remi wolf|||bottle": {
+    "matched": "Remi Wolf - Bottle",
+    "score": 1.0,
+    "uri": "spotify:track:6RE9jLqeJftjRXERFYOK9E"
+  },
   "remi wolf|||twiggy": {
     "matched": "Remi Wolf - Twiggy",
     "score": 1.0,
@@ -1339,6 +1374,11 @@
     "score": 1.0,
     "uri": "spotify:track:6vAFbZAx8VVV3LS2q0OkVk"
   },
+  "sonny fodera|||somedays": {
+    "matched": "Sonny Fodera - Somedays",
+    "score": 1.0,
+    "uri": "spotify:track:3wo3d0I5H8KjkwGvnz8WbB"
+  },
   "south arcade|||deadmeat": {
     "matched": "South Arcade - DEADMEAT",
     "score": 1.0,
@@ -1488,6 +1528,11 @@
     "matched": "Tyler, The Creator - THAT GUY",
     "score": 1.0,
     "uri": "spotify:track:6wNGHSpLlHc5N89We4OOKG"
+  },
+  "vince staples|||cotton": {
+    "matched": "Vince Staples - Cotton",
+    "score": 1.0,
+    "uri": "spotify:track:2rBesRD5DkpI0dyjmXV7lf"
   },
   "violet grohl|||bug in the cake": {
     "matched": "Violet Grohl - Bug In The Cake",

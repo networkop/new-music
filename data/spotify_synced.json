@@ -10,15 +10,15 @@
       "broadcast": "2026-08-05",
       "title": "LUCID LOVE"
     },
+    "spotify:track:0HnLhPc4Vdg2HS1p6fJblv": {
+      "artist": "DIIV",
+      "broadcast": "2026-08-20",
+      "title": "The Fountain"
+    },
     "spotify:track:0gDl9Clr6bkgLum6Dhdh88": {
       "artist": "Fat Dog",
       "broadcast": "2026-08-10",
       "title": "Love"
-    },
-    "spotify:track:0x4hqWguXOxlO1sEwVXB7V": {
-      "artist": "Carlita",
-      "broadcast": "2026-08-19",
-      "title": "Manhattan"
     },
     "spotify:track:1GZ5KqHOdkU0cZoz1JfQo8": {
       "artist": "Florence Road",
@@ -30,35 +30,30 @@
       "broadcast": "2026-08-12",
       "title": "Keep Up"
     },
-    "spotify:track:1aeU0ElUC1sbK0uNWp7Ks2": {
-      "artist": "Benjamin Steer",
-      "broadcast": "2026-07-21",
-      "title": "Dog Eat Dog"
-    },
-    "spotify:track:20FqWsyuUaQTU5tk4nP6eN": {
-      "artist": "Jungle",
-      "broadcast": "2026-08-13",
-      "title": "Someday, Somewhere"
-    },
     "spotify:track:25DgjoTlKK8KjstM4cZ8L2": {
       "artist": "HUGEL",
       "broadcast": "2026-08-12",
       "title": "Movin' To The Sun"
     },
-    "spotify:track:26KwVbIh7uWnHBfEVfVar8": {
-      "artist": "Yard Act",
-      "broadcast": "2026-08-04",
-      "title": "New Beginnings"
+    "spotify:track:2QjvcnTm5u1vWaIChGQVAY": {
+      "artist": "beabadoobee",
+      "broadcast": "2026-08-20",
+      "title": "Memories"
     },
-    "spotify:track:2AbiWiDcpNcKkHeJqxWx1Z": {
-      "artist": "Bleech 9:3",
-      "broadcast": "2026-08-19",
-      "title": "Figure 8"
+    "spotify:track:2rBesRD5DkpI0dyjmXV7lf": {
+      "artist": "Vince Staples",
+      "broadcast": "2026-08-20",
+      "title": "Cotton"
     },
-    "spotify:track:413pM0wBJH35B542tx3Q8l": {
-      "artist": "Feng",
-      "broadcast": "2026-08-19",
-      "title": "Fake Friends"
+    "spotify:track:3iBgrkexCzVuPy4O9vx7Mf": {
+      "artist": "beabadoobee",
+      "broadcast": "2026-08-20",
+      "title": "Glue Song"
+    },
+    "spotify:track:3wo3d0I5H8KjkwGvnz8WbB": {
+      "artist": "Sonny Fodera",
+      "broadcast": "2026-08-20",
+      "title": "Somedays"
     },
     "spotify:track:4cErKi16sjFZOfd85t9dnt": {
       "artist": "Ecca Vandal",
@@ -69,6 +64,16 @@
       "artist": "Photek",
       "broadcast": "2026-08-12",
       "title": "Solaris"
+    },
+    "spotify:track:54wrDUKN01VGqAMP0h5wWq": {
+      "artist": "Friction",
+      "broadcast": "2026-08-20",
+      "title": "Lead Dem"
+    },
+    "spotify:track:5oLTmlAYDjBtJgjkkJGxGn": {
+      "artist": "Lancey Foux",
+      "broadcast": "2026-08-20",
+      "title": "ROCKSTAR RIDER"
     },
     "spotify:track:60B4gDxTwNn1DVfRLVQMTD": {
       "artist": "Theatre",
@@ -95,16 +100,17 @@
       "broadcast": "2026-08-17",
       "title": "AH HA"
     },
-    "spotify:track:6lrXjOMYPjbyKozRybtQxo": {
-      "artist": "Getdown Services",
-      "broadcast": "2026-08-19",
-      "title": "Lentils"
-    },
-    "spotify:track:6vBfayVtFTjDg7eGKNPbrS": {
-      "artist": "jigitz",
-      "broadcast": "2026-07-20",
-      "title": "thumbs"
+    "spotify:track:7H5WVBQdSnJ1zmu8JoD6pg": {
+      "artist": "Blossoms",
+      "broadcast": "2026-08-20",
+      "title": "Charlemagne"
     }
   },
-  "review": {}
+  "review": {
+    "spotify:track:6RE9jLqeJftjRXERFYOK9E": {
+      "artist": "Remi Wolf",
+      "broadcast": "2026-08-20",
+      "title": "Bottle"
+    }
+  }
 }

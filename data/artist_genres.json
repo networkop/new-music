@@ -3865,6 +3865,52 @@
       ]
     ]
   },
+  "6a45326d-df49-474e-8169-e3524914331b": {
+    "name": "Lancey Foux",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rage",
+        100
+      ],
+      [
+        "cloud rap",
+        100
+      ],
+      [
+        "trap",
+        46
+      ],
+      [
+        "uk",
+        29
+      ],
+      [
+        "uk hip hop",
+        8
+      ],
+      [
+        "rap",
+        8
+      ],
+      [
+        "pop rap",
+        8
+      ],
+      [
+        "dream pop",
+        1
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "hip-hop",
+        1
+      ]
+    ]
+  },
   "6b4e962d-3dbc-4bda-82f0-25d35786f076": {
     "name": "Ecca Vandal",
     "source": "lastfm",
@@ -4317,6 +4363,52 @@
       ]
     ]
   },
+  "78e854b8-9713-4ff2-9218-6b3784893bff": {
+    "name": "Vince Staples",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hip-hop",
+        100
+      ],
+      [
+        "rap",
+        73
+      ],
+      [
+        "hip hop",
+        23
+      ],
+      [
+        "underground hip-hop",
+        22
+      ],
+      [
+        "gangsta rap",
+        8
+      ],
+      [
+        "ugly",
+        6
+      ],
+      [
+        "swag",
+        5
+      ],
+      [
+        "west coast hip hop",
+        1
+      ],
+      [
+        "handsome",
+        1
+      ],
+      [
+        "experimental hip hop",
+        1
+      ]
+    ]
+  },
   "79239441-bfd5-4981-a70c-55c3f15c1287": {
     "name": "Madonna",
     "source": "lastfm",
@@ -4524,6 +4616,52 @@
       [
         "funk_add_to_lidarr_batch_20",
         8
+      ]
+    ]
+  },
+  "7d3d6c65-e053-4657-8705-0ca61bc012ad": {
+    "name": "Syd",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        71
+      ],
+      [
+        "alternative rnb",
+        23
+      ],
+      [
+        "hip-hop",
+        12
+      ],
+      [
+        "ofwgkta",
+        2
+      ],
+      [
+        "alternative",
+        1
+      ],
+      [
+        "hip hop",
+        1
+      ],
+      [
+        "female vocalists",
+        1
+      ],
+      [
+        "us",
+        1
+      ],
+      [
+        "american",
+        1
       ]
     ]
   },
@@ -6259,6 +6397,52 @@
       ]
     ]
   },
+  "afd9baa6-4402-40c8-91ad-d792ae28e819": {
+    "name": "Eliza Rose",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "soul",
+        69
+      ],
+      [
+        "dance",
+        29
+      ],
+      [
+        "electronic",
+        29
+      ],
+      [
+        "rnb",
+        15
+      ],
+      [
+        "uk",
+        4
+      ],
+      [
+        "london",
+        1
+      ],
+      [
+        "england",
+        1
+      ],
+      [
+        "pop",
+        1
+      ],
+      [
+        "british",
+        1
+      ]
+    ]
+  },
   "b0311291-19f9-4288-96be-e8a5da0a104a": {
     "name": "Maverick Sabre",
     "source": "lastfm",
@@ -6926,6 +7110,52 @@
       ],
       [
         "industrial hip-hop",
+        1
+      ]
+    ]
+  },
+  "bd804804-588f-423f-9f62-66ba93b4a5a4": {
+    "name": "Sonny Fodera",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "electronic",
+        26
+      ],
+      [
+        "deep house",
+        12
+      ],
+      [
+        "australian",
+        4
+      ],
+      [
+        "jackin",
+        2
+      ],
+      [
+        "funky house",
+        2
+      ],
+      [
+        "lounge",
+        1
+      ],
+      [
+        "deep",
+        1
+      ],
+      [
+        "seedude",
+        1
+      ],
+      [
+        "all",
         1
       ]
     ]
@@ -9543,6 +9773,52 @@
       [
         "trap",
         2
+      ]
+    ]
+  },
+  "name:friction": {
+    "name": "Friction",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "punk",
+        49
+      ],
+      [
+        "no wave",
+        24
+      ],
+      [
+        "post-punk",
+        22
+      ],
+      [
+        "japanese",
+        11
+      ],
+      [
+        "japanese punk",
+        7
+      ],
+      [
+        "dnb",
+        7
+      ],
+      [
+        "emo",
+        2
+      ],
+      [
+        "electronic",
+        1
+      ],
+      [
+        "punk rock",
+        1
       ]
     ]
   },

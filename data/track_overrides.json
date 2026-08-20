@@ -132,12 +132,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Switchblade"
   },
+  "benjamin steer|||dog eat dog": {
+    "artist": "Benjamin Steer",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dog Eat Dog"
+  },
   "beyoncé|||morning dew (donk)": {
     "artist": "Beyoncé",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "MORNING DEW (DONK)"
+  },
+  "bleech 9:3|||figure 8": {
+    "artist": "Bleech 9:3",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Figure 8"
   },
   "bleech 9:3|||no surprise": {
     "artist": "Bleech 9:3",
@@ -222,6 +236,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "St Agnes"
+  },
+  "carlita|||manhattan": {
+    "artist": "Carlita",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Manhattan"
   },
   "chanel beads|||tyler richard": {
     "artist": "Chanel Beads",
@@ -398,6 +419,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Upside Down"
   },
+  "feng|||fake friends": {
+    "artist": "Feng",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Fake Friends"
+  },
   "finn wolfhard|||follow": {
     "artist": "Finn Wolfhard",
     "category": "manual",
@@ -460,6 +488,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Satellites"
+  },
+  "getdown services|||lentils": {
+    "artist": "Getdown Services",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Lentils"
   },
   "goldie|||jungle daze": {
     "artist": "Goldie",
@@ -621,6 +656,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Romeo II"
+  },
+  "jungle|||someday, somewhere": {
+    "artist": "Jungle",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Someday, Somewhere"
   },
   "jungle|||sunshine": {
     "artist": "Jungle",
@@ -1377,5 +1419,12 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Hammond Song"
+  },
+  "yard act|||new beginnings": {
+    "artist": "Yard Act",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "New Beginnings"
   }
 }
