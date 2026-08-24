@@ -1734,6 +1734,52 @@
       ]
     ]
   },
+  "380bcc00-83b4-495e-aea6-73f2f4c22b0f": {
+    "name": "Devon Again",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "indie",
+        56
+      ],
+      [
+        "pop",
+        37
+      ],
+      [
+        "alternative",
+        37
+      ],
+      [
+        "my top songs",
+        19
+      ],
+      [
+        "electropop",
+        8
+      ],
+      [
+        "singer-songwriter",
+        2
+      ],
+      [
+        "los angeles",
+        1
+      ],
+      [
+        "usa",
+        1
+      ],
+      [
+        "rnb",
+        1
+      ]
+    ]
+  },
   "396a9525-0994-4542-b480-c4587feeb476": {
     "name": "Tinashe",
     "source": "lastfm",
@@ -3667,6 +3713,52 @@
       ]
     ]
   },
+  "64367341-4bc2-493c-8e5d-ce17841c8a7a": {
+    "name": "mary in the junkyard",
+    "source": "lastfm",
+    "tags": [
+      [
+        "art rock",
+        100
+      ],
+      [
+        "indie rock",
+        77
+      ],
+      [
+        "post-punk",
+        9
+      ],
+      [
+        "alternative",
+        9
+      ],
+      [
+        "female vocalists",
+        2
+      ],
+      [
+        "alternative rock",
+        2
+      ],
+      [
+        "experimental",
+        1
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "viola",
+        1
+      ]
+    ]
+  },
   "65fc5739-3562-46a0-8b69-1d1f64941a8b": {
     "name": "Naomi Scott",
     "source": "lastfm",
@@ -4780,6 +4872,40 @@
       [
         "uk",
         1
+      ]
+    ]
+  },
+  "7e987fc0-7606-4637-8eb1-8c9c3e57a65c": {
+    "name": "Yung Miami",
+    "source": "lastfm",
+    "tags": [
+      [
+        "miami",
+        100
+      ],
+      [
+        "rap",
+        25
+      ],
+      [
+        "usa",
+        16
+      ],
+      [
+        "hip-hop",
+        16
+      ],
+      [
+        "female rapper",
+        8
+      ],
+      [
+        "trap queen",
+        8
+      ],
+      [
+        "florida",
+        8
       ]
     ]
   },
@@ -6486,6 +6612,52 @@
       [
         "hip-hop soul",
         2
+      ]
+    ]
+  },
+  "b09ced80-aa65-43c1-9aa7-58b1e982eada": {
+    "name": "Rudimental",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "dubstep",
+        67
+      ],
+      [
+        "electronic",
+        41
+      ],
+      [
+        "british",
+        36
+      ],
+      [
+        "uk funky",
+        12
+      ],
+      [
+        "dance",
+        5
+      ],
+      [
+        "liquid funk",
+        4
+      ],
+      [
+        "all",
+        1
+      ],
+      [
+        "dnb",
+        1
+      ],
+      [
+        "house",
+        1
       ]
     ]
   },

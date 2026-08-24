@@ -13,6 +13,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "I Just Don't Know You Yet"
   },
+  "adéla|||ain't in la": {
+    "artist": "ADÉLA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Ain't In LA"
+  },
   "aj tracey|||baja blast": {
     "artist": "AJ Tracey",
     "category": "manual",
@@ -118,6 +125,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dance Dance Dance!"
   },
+  "beabadoobee|||glue song": {
+    "artist": "beabadoobee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Glue Song"
+  },
+  "beabadoobee|||memories": {
+    "artist": "beabadoobee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Memories"
+  },
   "beabadoobee|||sun has set": {
     "artist": "beabadoobee",
     "category": "manual",
@@ -174,6 +195,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Violins"
   },
+  "blossoms|||charlemagne": {
+    "artist": "Blossoms",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Charlemagne"
+  },
   "blossoms|||meet me in love": {
     "artist": "Blossoms",
     "category": "manual",
@@ -229,6 +257,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "BB Blue"
+  },
+  "cardi b|||ah ha": {
+    "artist": "Cardi B",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "AH HA"
   },
   "cardinals|||st agnes": {
     "artist": "Cardinals",
@@ -377,6 +412,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "DIFFERENCE"
   },
+  "diiv|||the fountain": {
+    "artist": "DIIV",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "The Fountain"
+  },
   "dj heartstring|||another year alone": {
     "artist": "DJ Heartstring",
     "category": "manual",
@@ -411,6 +453,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Cancel Me (I'm Tired)"
+  },
+  "fat dog|||love": {
+    "artist": "Fat Dog",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Love"
   },
   "feeble little horse|||upside down": {
     "artist": "feeble little horse",
@@ -475,12 +524,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "In My Victoria's Secret"
   },
+  "fontaines d.c.|||marianne": {
+    "artist": "Fontaines D.C.",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Marianne"
+  },
   "four tet|||human voice": {
     "artist": "Four Tet",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Human Voice"
+  },
+  "friction|||lead dem": {
+    "artist": "Friction",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Lead Dem"
   },
   "frost children|||satellites": {
     "artist": "Frost Children",
@@ -538,12 +601,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Around Me"
   },
+  "holding absence|||lucid love": {
+    "artist": "Holding Absence",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "LUCID LOVE"
+  },
   "honey dijon|||i like it hot": {
     "artist": "Honey Dijon",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "I Like It Hot"
+  },
+  "hugel|||movin' to the sun": {
+    "artist": "HUGEL",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Movin' To The Sun"
   },
   "inji|||bright ideas": {
     "artist": "INJI",
@@ -720,6 +797,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "risk it all"
   },
+  "lancey foux|||rockstar rider": {
+    "artist": "Lancey Foux",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "ROCKSTAR RIDER"
+  },
   "larry june|||california dream": {
     "artist": "Larry June",
     "category": "manual",
@@ -754,6 +838,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Cross My Heart"
+  },
+  "loathe|||fortress down": {
+    "artist": "Loathe",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Fortress Down"
   },
   "ludacris|||real hustla": {
     "artist": "Ludacris",
@@ -1000,6 +1091,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "After The Rain"
   },
+  "overmono|||barum": {
+    "artist": "Overmono",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Barum"
+  },
   "overmono|||even angels ghost": {
     "artist": "Overmono",
     "category": "manual",
@@ -1224,6 +1322,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "My Body Isn't Ready"
   },
+  "sonny fodera|||somedays": {
+    "artist": "Sonny Fodera",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Somedays"
+  },
   "south arcade|||deadmeat": {
     "artist": "South Arcade",
     "category": "manual",
@@ -1294,6 +1399,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Lonely in the Future"
   },
+  "theatre|||gaudete": {
+    "artist": "Theatre",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Gaudete"
+  },
   "tierra whack|||siren": {
     "artist": "Tierra Whack",
     "category": "manual",
@@ -1342,6 +1454,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "THAT GUY"
+  },
+  "vince staples|||cotton": {
+    "artist": "Vince Staples",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Cotton"
   },
   "voltage|||music is the answer": {
     "artist": "Voltage",
