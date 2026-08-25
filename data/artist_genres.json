@@ -810,6 +810,52 @@
       ]
     ]
   },
+  "1d543e07-d0d2-4834-a8db-d65c50c2a856": {
+    "name": "Dolly Parton",
+    "source": "lastfm",
+    "tags": [
+      [
+        "country",
+        100
+      ],
+      [
+        "female vocalists",
+        42
+      ],
+      [
+        "singer-songwriter",
+        22
+      ],
+      [
+        "folk",
+        22
+      ],
+      [
+        "bluegrass",
+        10
+      ],
+      [
+        "pop",
+        3
+      ],
+      [
+        "american",
+        3
+      ],
+      [
+        "classic country",
+        1
+      ],
+      [
+        "female vocalist",
+        1
+      ],
+      [
+        "dolly parton",
+        1
+      ]
+    ]
+  },
   "1e4e9db7-5068-4a9c-bdd0-5777e47172c8": {
     "name": "FKA twigs",
     "source": "lastfm",
@@ -1574,6 +1620,52 @@
       ]
     ]
   },
+  "330054ae-c442-489e-8901-10cff96b819b": {
+    "name": "ODUMODUBLVCK",
+    "source": "lastfm",
+    "tags": [
+      [
+        "nigeria",
+        100
+      ],
+      [
+        "pop",
+        25
+      ],
+      [
+        "rap",
+        17
+      ],
+      [
+        "hip-hop",
+        17
+      ],
+      [
+        "african",
+        8
+      ],
+      [
+        "afrobeats",
+        8
+      ],
+      [
+        "drill",
+        2
+      ],
+      [
+        "afro-pop",
+        1
+      ],
+      [
+        "pop rap",
+        1
+      ],
+      [
+        "nigerian hip-hop",
+        1
+      ]
+    ]
+  },
   "33118d4b-cec1-4030-b37c-0e81fdf97dc8": {
     "name": "LATIN MAFIA",
     "source": "lastfm",
@@ -1688,6 +1780,52 @@
       ],
       [
         "london",
+        1
+      ]
+    ]
+  },
+  "3576a9ae-904b-4043-a82b-b8268a1aca86": {
+    "name": "METTE",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "electronic",
+        44
+      ],
+      [
+        "rnb",
+        29
+      ],
+      [
+        "hip-hop",
+        29
+      ],
+      [
+        "indie pop",
+        4
+      ],
+      [
+        "electropop",
+        4
+      ],
+      [
+        "denmark",
+        4
+      ],
+      [
+        "danish",
+        1
+      ],
+      [
+        "caps",
+        1
+      ],
+      [
+        "american",
         1
       ]
     ]
@@ -5463,6 +5601,52 @@
       ]
     ]
   },
+  "8be564c3-dfba-440b-af8c-4ffbceeef45e": {
+    "name": "RAYE",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "rnb",
+        64
+      ],
+      [
+        "british",
+        21
+      ],
+      [
+        "soul",
+        17
+      ],
+      [
+        "female vocalists",
+        8
+      ],
+      [
+        "my top songs",
+        6
+      ],
+      [
+        "singer-songwriter",
+        5
+      ],
+      [
+        "dance",
+        1
+      ],
+      [
+        "jazz",
+        1
+      ],
+      [
+        "seenlivegetologist",
+        1
+      ]
+    ]
+  },
   "8c6b9ac4-e63d-4f96-9d25-9c2d5fd45387": {
     "name": "Jodie Harsh",
     "source": "lastfm",
@@ -8560,6 +8744,52 @@
       ],
       [
         "pop",
+        1
+      ]
+    ]
+  },
+  "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3": {
+    "name": "Amy Winehouse",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "jazz",
+        80
+      ],
+      [
+        "female vocalists",
+        42
+      ],
+      [
+        "british",
+        35
+      ],
+      [
+        "singer-songwriter",
+        11
+      ],
+      [
+        "pop",
+        3
+      ],
+      [
+        "blues",
+        2
+      ],
+      [
+        "amy winehouse",
+        1
+      ],
+      [
+        "rnb",
+        1
+      ],
+      [
+        "neo-soul",
         1
       ]
     ]

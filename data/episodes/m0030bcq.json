@@ -1,0 +1,1118 @@
+{
+  "pid": "m0030bcq",
+  "broadcast_start": "2026-08-25T18:00:00+01:00",
+  "schedule_date": "2026-08-25",
+  "title": "Blossoms and Declan McKenna",
+  "tracks": [
+    {
+      "artist": "Carlita",
+      "title": "Manhattan",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nrrst5",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p0c47lg8",
+          "musicbrainz_gid": "b75c3ac9-6822-4dbb-9d7a-4f78deee9b7e",
+          "name": "Carlita"
+        },
+        "artist": "Carlita",
+        "track_title": "Manhattan",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n99rd4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c47lg8",
+            "name": "Carlita",
+            "role": "Performer",
+            "musicbrainz_gid": "b75c3ac9-6822-4dbb-9d7a-4f78deee9b7e"
+          },
+          {
+            "pid": "p03b459m",
+            "name": "Sofi Tukker",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "4ac723f4-8be8-4a0d-a3ae-d5dda20f0a9a"
+          }
+        ],
+        "title": "Manhattan",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FISHER",
+      "title": "What A Life",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvctxq",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p0564jd1",
+          "musicbrainz_gid": "886dc0c9-3351-4d2d-b762-060cf1e66929",
+          "name": "FISHER"
+        },
+        "artist": "FISHER",
+        "track_title": "What A Life",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Catch & Release",
+        "release_title": null,
+        "record_id": "n99jc8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0564jd1",
+            "name": "FISHER",
+            "role": "Performer",
+            "musicbrainz_gid": "886dc0c9-3351-4d2d-b762-060cf1e66929"
+          },
+          {
+            "pid": "p0fknrtz",
+            "name": "Florence Arman",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "b22e87af-fd22-4e38-b49c-797dec152da1"
+          }
+        ],
+        "title": "What A Life",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Honey Sweet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p04pydrb",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Honey Sweet",
+        "track_number": null,
+        "publisher": "BMG RIGHTS MANAGEMENT (UK) LIMITED",
+        "record_label": "Virgin EMI",
+        "release_title": "Blossoms",
+        "record_id": "n4nbdc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          }
+        ],
+        "title": "Honey Sweet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Cancel Me (I'm Tired)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw0fss",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Cancel Me (I'm Tired)",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Domino Records",
+        "release_title": null,
+        "record_id": "n99qvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Cancel Me (I'm Tired)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ADÉLA",
+      "title": "Ain't In LA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p332gy",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Ain't In LA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Capitol Records",
+        "release_title": null,
+        "record_id": "n9rhxr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          }
+        ],
+        "title": "Ain't In LA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "Summer Fruits",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n96v",
+        "duration": 145,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "Summer Fruits",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Recordings Limited",
+        "release_title": null,
+        "record_id": "n9rm6z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "Summer Fruits",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ROLE MODEL",
+      "title": "Harmony",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67ntm",
+        "duration": 260,
+        "primary_contributor": {
+          "pid": "p08h0sm0",
+          "musicbrainz_gid": "4c76d2ab-cc32-47b9-8bfe-d382bed617f6",
+          "name": "ROLE MODEL"
+        },
+        "artist": "ROLE MODEL",
+        "track_title": "Harmony",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "n9b35v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08h0sm0",
+            "name": "ROLE MODEL",
+            "role": "Performer",
+            "musicbrainz_gid": "4c76d2ab-cc32-47b9-8bfe-d382bed617f6"
+          }
+        ],
+        "title": "Harmony",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Baby Kool (Evelyn)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2vb5x",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p0223f4n",
+          "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+          "name": "Nothing But Thieves"
+        },
+        "artist": "Nothing But Thieves",
+        "track_title": "Baby Kool (Evelyn)",
+        "track_number": null,
+        "publisher": "Peermusic",
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9rmhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0223f4n",
+            "name": "Nothing But Thieves",
+            "role": "Performer",
+            "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e"
+          }
+        ],
+        "title": "Baby Kool (Evelyn)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "At Most A Kiss",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p03dmbhs",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "At Most A Kiss",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "VirginEMI",
+        "release_title": null,
+        "record_id": "n3hnfm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          }
+        ],
+        "title": "At Most A Kiss",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Additional Driver",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67qm5",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Additional Driver",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Distiller Records LLP",
+        "release_title": null,
+        "record_id": "n9bddb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          },
+          {
+            "pid": "p038r1tj",
+            "name": "Declan McKenna",
+            "role": "Performer",
+            "musicbrainz_gid": "8b98035f-fbd2-4fb3-9c2f-263c7506680d"
+          }
+        ],
+        "title": "Additional Driver",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "BACKBONE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0jhc6gl",
+        "duration": 153,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "BACKBONE",
+        "track_number": null,
+        "publisher": "Concord CM Music Limited, Warner Chappell Music Limited",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n8bq3z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p0297s5m",
+            "name": "Stormzy",
+            "role": "Performer",
+            "musicbrainz_gid": "67fd5116-7a49-4abf-a34f-b08774128a7a"
+          }
+        ],
+        "title": "BACKBONE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Friction",
+      "title": "Lead Dem",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kw5p",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p012dvpp",
+          "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
+          "name": "Friction"
+        },
+        "artist": "Friction",
+        "track_title": "Lead Dem",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9vw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dvpp",
+            "name": "Friction",
+            "role": "Performer",
+            "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRah",
+            "role": "Performer",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Lead Dem",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Friction",
+      "title": "Lead Dem",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67sg4",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p012dvpp",
+          "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
+          "name": "Friction"
+        },
+        "artist": "Friction",
+        "track_title": "Lead Dem",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9vw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dvpp",
+            "name": "Friction",
+            "role": "Performer",
+            "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRah",
+            "role": "Performer",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Lead Dem",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "METTE",
+      "title": "SMALL WORLD",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67shr",
+        "duration": 145,
+        "primary_contributor": {
+          "pid": "p0fsz4bh",
+          "musicbrainz_gid": "3576a9ae-904b-4043-a82b-b8268a1aca86",
+          "name": "METTE"
+        },
+        "artist": "METTE",
+        "track_title": "SMALL WORLD",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Grand Darling",
+        "release_title": null,
+        "record_id": "n9bddv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fsz4bh",
+            "name": "METTE",
+            "role": "Performer",
+            "musicbrainz_gid": "3576a9ae-904b-4043-a82b-b8268a1aca86"
+          }
+        ],
+        "title": "SMALL WORLD",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ODUMODUBLVCK",
+      "title": "Isale Eko",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67syy",
+        "duration": 140,
+        "primary_contributor": {
+          "pid": "p0fs12q6",
+          "musicbrainz_gid": "330054ae-c442-489e-8901-10cff96b819b",
+          "name": "ODUMODUBLVCK"
+        },
+        "artist": "ODUMODUBLVCK",
+        "track_title": "Isale Eko",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UMG Recordings",
+        "release_title": null,
+        "record_id": "n9bddm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fs12q6",
+            "name": "ODUMODUBLVCK",
+            "role": "Performer",
+            "musicbrainz_gid": "330054ae-c442-489e-8901-10cff96b819b"
+          }
+        ],
+        "title": "Isale Eko",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Marianne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p52p2k",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Marianne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b8rg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Marianne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacey",
+      "title": "oh yeah?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rxrx",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p04wwtr2",
+          "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f",
+          "name": "Steve Lacey"
+        },
+        "artist": "Steve Lacey",
+        "track_title": "oh yeah?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9b3r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04wwtr2",
+            "name": "Steve Lacey",
+            "role": "Performer",
+            "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f"
+          }
+        ],
+        "title": "oh yeah?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Andy C",
+      "title": "Come Together",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4rlr3",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p012dzb8",
+          "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314",
+          "name": "Andy C"
+        },
+        "artist": "Andy C",
+        "track_title": "Come Together",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Armada",
+        "release_title": null,
+        "record_id": "n9b3qx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dzb8",
+            "name": "Andy C",
+            "role": "Performer",
+            "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314"
+          },
+          {
+            "pid": "p08rqbzn",
+            "name": "Mali-Koa Hood",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e409e007-76b9-4aad-acf5-5dcf557c6f7a"
+          }
+        ],
+        "title": "Come Together",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Always On Your Side",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gc4l",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Always On Your Side",
+        "track_number": null,
+        "publisher": "BMG",
+        "record_label": "Bonobo Music Inc.",
+        "release_title": null,
+        "record_id": "n9rqh8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          },
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          }
+        ],
+        "title": "Always On Your Side",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "BNXN",
+      "title": "EJA MEJA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1b57q",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p0cy9ykp",
+          "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9",
+          "name": "BNXN"
+        },
+        "artist": "BNXN",
+        "track_title": "EJA MEJA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Empire Records",
+        "release_title": null,
+        "record_id": "n9rhcg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cy9ykp",
+            "name": "BNXN",
+            "role": "Performer",
+            "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9"
+          },
+          {
+            "pid": "p0cs9jmk",
+            "name": "Asake",
+            "role": "Performer",
+            "musicbrainz_gid": "2b37ba5e-2162-46ca-bbad-f076f6a333bd"
+          }
+        ],
+        "title": "EJA MEJA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dolly Parton",
+      "title": "Jolene",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67xw7",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p0hgnp9r",
+          "musicbrainz_gid": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
+          "name": "Dolly Parton"
+        },
+        "artist": "Dolly Parton",
+        "track_title": "Jolene",
+        "track_number": null,
+        "publisher": "Carlin Music",
+        "record_label": "Disky",
+        "release_title": "Million Sellers Vol.15 - The Seventie",
+        "record_id": "n3nhzx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0hgnp9r",
+            "name": "Dolly Parton",
+            "role": "Performer",
+            "musicbrainz_gid": "1d543e07-d0d2-4834-a8db-d65c50c2a856"
+          }
+        ],
+        "title": "Jolene",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "I Can't Wait",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67y6y",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "I Can't Wait",
+        "track_number": "14",
+        "publisher": null,
+        "record_label": "Dead Oceans",
+        "release_title": "Lost Weekend",
+        "record_id": "n9b82j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "I Can't Wait",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Medium Build",
+      "title": "Home Depot",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2nrq2",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p0fmg2tp",
+          "musicbrainz_gid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+          "name": "Medium Build"
+        },
+        "artist": "Medium Build",
+        "track_title": "Home Depot",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9rmp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fmg2tp",
+            "name": "Medium Build",
+            "role": "Performer",
+            "musicbrainz_gid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7"
+          }
+        ],
+        "title": "Home Depot",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "title": "In & Out",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5c6t6",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p03df7md",
+          "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+          "name": "Ravyn Lenae"
+        },
+        "artist": "Ravyn Lenae",
+        "track_title": "In & Out",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9b985",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03df7md",
+            "name": "Ravyn Lenae",
+            "role": "Performer",
+            "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2"
+          }
+        ],
+        "title": "In & Out",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "RAYE",
+      "title": "Joy.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6808k",
+        "duration": 261,
+        "primary_contributor": {
+          "pid": "p03dv3kq",
+          "musicbrainz_gid": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
+          "name": "RAYE"
+        },
+        "artist": "RAYE",
+        "track_title": "Joy.",
+        "track_number": "15",
+        "publisher": null,
+        "record_label": "Human Re Sources",
+        "release_title": "THIS MUSIC MAY CONTAIN HOPE.",
+        "record_id": "n9p68m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03dv3kq",
+            "name": "RAYE",
+            "role": "Performer",
+            "musicbrainz_gid": "8be564c3-dfba-440b-af8c-4ffbceeef45e"
+          },
+          {
+            "pid": "p0n9z014",
+            "name": "Amma",
+            "role": "Performer",
+            "musicbrainz_gid": "72b12fe1-7907-4f15-8095-d28c460cd7f7"
+          },
+          {
+            "pid": "p0b3hcpg",
+            "name": "Absolutely",
+            "role": "Performer",
+            "musicbrainz_gid": "30ef765d-f7bb-4e7e-8972-13be03aa4f2c"
+          }
+        ],
+        "title": "Joy.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Amy Winehouse",
+      "title": "Tears Dry - Alternative Demo",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p680wd",
+        "duration": 276,
+        "primary_contributor": {
+          "pid": "p012d983",
+          "musicbrainz_gid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+          "name": "Amy Winehouse"
+        },
+        "artist": "Amy Winehouse",
+        "track_title": "Tears Dry - Alternative Demo",
+        "track_number": null,
+        "publisher": "Universal Island Records",
+        "record_label": "Universal Island Records",
+        "release_title": null,
+        "record_id": "n9bdr2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d983",
+            "name": "Amy Winehouse",
+            "role": "Performer",
+            "musicbrainz_gid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3"
+          }
+        ],
+        "title": "Tears Dry - Alternative Demo",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Insignificant Other",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p681bz",
+        "duration": 249,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Insignificant Other",
+        "track_number": null,
+        "publisher": "A Monkey Island Music Publishing",
+        "record_label": "Matador",
+        "release_title": null,
+        "record_id": "n9bddh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Insignificant Other",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mulaa Joans",
+      "title": "That Ain't You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dtb6",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0n70qhj",
+          "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9",
+          "name": "Mulaa Joans"
+        },
+        "artist": "Mulaa Joans",
+        "track_title": "That Ain't You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "NWS Music Group / Queens Road Music/ Atlantic Records",
+        "release_title": null,
+        "record_id": "n9b53c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n70qhj",
+            "name": "Mulaa Joans",
+            "role": "Performer",
+            "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9"
+          }
+        ],
+        "title": "That Ain't You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Travy",
+      "title": "Keep Up",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p682mb",
+        "duration": 89,
+        "primary_contributor": {
+          "pid": "p0k74clc",
+          "musicbrainz_gid": "13637ef6-e659-4c2e-9e78-ba0acceaa10e",
+          "name": "Travy"
+        },
+        "artist": "Travy",
+        "track_title": "Keep Up",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bzx6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k74clc",
+            "name": "Travy",
+            "role": "Performer",
+            "musicbrainz_gid": "13637ef6-e659-4c2e-9e78-ba0acceaa10e"
+          }
+        ],
+        "title": "Keep Up",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

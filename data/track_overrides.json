@@ -258,6 +258,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "BB Blue"
   },
+  "cara delevingne|||crazy, baby": {
+    "artist": "Cara Delevingne",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Crazy, Baby"
+  },
   "cardi b|||ah ha": {
     "artist": "Cardi B",
     "category": "manual",
@@ -411,6 +418,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "DIFFERENCE"
+  },
+  "devon again|||snake the drain": {
+    "artist": "Devon Again",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "snake the drain"
   },
   "diiv|||the fountain": {
     "artist": "DIIV",
@@ -874,6 +888,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Nosedive"
   },
+  "mary in the junkyard|||blood": {
+    "artist": "mary in the junkyard",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Blood"
+  },
   "masego|||heaven": {
     "artist": "Masego",
     "category": "manual",
@@ -1252,6 +1273,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Typhoons"
   },
+  "rudimental|||send shots": {
+    "artist": "Rudimental",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Send Shots"
+  },
   "sam gellaitry|||longing": {
     "artist": "Sam Gellaitry",
     "category": "manual",
@@ -1321,6 +1349,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "My Body Isn't Ready"
+  },
+  "sonny fodera|||say something": {
+    "artist": "Sonny Fodera",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Say Something"
   },
   "sonny fodera|||somedays": {
     "artist": "Sonny Fodera",
@@ -1545,5 +1580,12 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "New Beginnings"
+  },
+  "yung miami|||spend dat": {
+    "artist": "Yung Miami",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Spend Dat"
   }
 }
