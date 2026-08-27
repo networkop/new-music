@@ -994,6 +994,52 @@
       ]
     ]
   },
+  "21dab5d7-3bda-4f72-a054-6379729dcb62": {
+    "name": "Flo Milli",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rap",
+        100
+      ],
+      [
+        "hip-hop",
+        100
+      ],
+      [
+        "trap",
+        29
+      ],
+      [
+        "female vocalists",
+        15
+      ],
+      [
+        "hip hop",
+        5
+      ],
+      [
+        "usa",
+        3
+      ],
+      [
+        "american",
+        3
+      ],
+      [
+        "alabama",
+        1
+      ],
+      [
+        "female rap",
+        1
+      ],
+      [
+        "nme 100",
+        1
+      ]
+    ]
+  },
   "243e9a4d-f824-4ec2-8967-09907f954c56": {
     "name": "Westside Cowboy",
     "source": "lastfm",
@@ -5929,6 +5975,52 @@
       ],
       [
         "london",
+        1
+      ]
+    ]
+  },
+  "9385f1a7-8623-4d0c-b171-f1e6e87220c5": {
+    "name": "Shygirl",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "grime",
+        90
+      ],
+      [
+        "uk bass",
+        47
+      ],
+      [
+        "experimental",
+        44
+      ],
+      [
+        "deconstructed club",
+        22
+      ],
+      [
+        "hyperpop",
+        13
+      ],
+      [
+        "uk hip hop",
+        8
+      ],
+      [
+        "british",
+        2
+      ],
+      [
+        "hip-hop",
+        2
+      ],
+      [
+        "alternative rnb",
         1
       ]
     ]

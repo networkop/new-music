@@ -1,0 +1,1142 @@
+{
+  "pid": "m0030cqy",
+  "broadcast_start": "2026-08-26T18:00:00+01:00",
+  "schedule_date": "2026-08-26",
+  "title": "Chase & Status Hottest Record",
+  "tracks": [
+    {
+      "artist": "Slayyyter",
+      "title": "brand new chanel$",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n6rg",
+        "duration": 236,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "brand new chanel$",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Records/Columbia",
+        "release_title": "brand new chanel$",
+        "record_id": "n9rwmg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "brand new chanel$",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ANOTR",
+      "title": "Silver Lines",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx6q37",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p03s23z8",
+          "musicbrainz_gid": "5f3be62e-d166-453e-a3ea-07b9227fafae",
+          "name": "ANOTR"
+        },
+        "artist": "ANOTR",
+        "track_title": "Silver Lines",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "CIRCOLOCO RECORDS",
+        "release_title": null,
+        "record_id": "n9r34p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03s23z8",
+            "name": "ANOTR",
+            "role": "Performer",
+            "musicbrainz_gid": "5f3be62e-d166-453e-a3ea-07b9227fafae"
+          },
+          {
+            "pid": "p044zxz0",
+            "name": "Emily Warren",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "28f4bb72-3ff1-427d-8cff-236585327375"
+          }
+        ],
+        "title": "Silver Lines",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Baddadan",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0g5dyjd",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Baddadan",
+        "track_number": null,
+        "publisher": "Concord Music Publishing, Hatfish Music, Copyright Control, 2xcel Publishing",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n8z6dr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p072mmz6",
+            "name": "Bou",
+            "role": "Performer",
+            "musicbrainz_gid": "b3c31c2b-f9ec-4c94-b045-119ac0994da3"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRah",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          },
+          {
+            "pid": "p01kndhr",
+            "name": "Trigga",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "8880fe9c-21a7-4202-80ff-1302fade39db"
+          },
+          {
+            "pid": "p01jbgst",
+            "name": "Flowdan",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "58998667-6dba-4436-a94c-b3ca20cd4234"
+          },
+          {
+            "pid": "p02qnwxc",
+            "name": "Takura",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5d62fdac-a8f1-431f-81ff-1584fc05274b"
+          }
+        ],
+        "title": "Baddadan",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Mirage",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4m0py",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Mirage",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "DISORDER CAPITOL",
+        "release_title": null,
+        "record_id": "n9b624",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          }
+        ],
+        "title": "Mirage",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "I Lied, You Lied",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4djk0",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "I Lied, You Lied",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "n9b52j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "I Lied, You Lied",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Dobro",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3s8gg",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Dobro",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9bz6h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Dobro",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ezra Collective",
+      "title": "Well Organised",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nyrqrc",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p04fwqt0",
+          "musicbrainz_gid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d",
+          "name": "Ezra Collective"
+        },
+        "artist": "Ezra Collective",
+        "track_title": "Well Organised",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9r3cz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04fwqt0",
+            "name": "Ezra Collective",
+            "role": "Performer",
+            "musicbrainz_gid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d"
+          },
+          {
+            "pid": "p05g4s70",
+            "name": "Lila Iké",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c702fd8c-b9df-48e9-b100-6976aa2e3a88"
+          }
+        ],
+        "title": "Well Organised",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Blind Faith",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p00ckj5n",
+        "duration": 218,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Blind Faith",
+        "track_number": null,
+        "publisher": "EMI Music Publishing / Universal Music P",
+        "record_label": "Vertigo",
+        "release_title": null,
+        "record_id": "nzn2cb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p012dsg6",
+            "name": "Liam Bailey",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "f0301343-059a-4f68-a0b0-c6c447680c8d"
+          }
+        ],
+        "title": "Blind Faith",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Gone Too Far",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fn93",
+        "duration": 244,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Gone Too Far",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9bx2h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p0p6fn9f",
+            "name": "Debbie",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0p6frhq",
+            "name": "Debbie",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Gone Too Far",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Additional Driver",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67qm5",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Additional Driver",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Distiller Records LLP",
+        "release_title": null,
+        "record_id": "n9bddb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          },
+          {
+            "pid": "p038r1tj",
+            "name": "Declan McKenna",
+            "role": "Performer",
+            "musicbrainz_gid": "8b98035f-fbd2-4fb3-9c2f-263c7506680d"
+          }
+        ],
+        "title": "Additional Driver",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Denzel Curry",
+      "title": "DIFFERENCE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44frc",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p01kpc89",
+          "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+          "name": "Denzel Curry"
+        },
+        "artist": "Denzel Curry",
+        "track_title": "DIFFERENCE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LOMA VISTA",
+        "release_title": null,
+        "record_id": "n9b4br",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Performer",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          },
+          {
+            "pid": "p078c29h",
+            "name": "Kenneth Blume",
+            "role": "Performer",
+            "musicbrainz_gid": "22ba00db-f132-4f3c-ab06-4ddaa4cc066b"
+          },
+          {
+            "pid": "p05lh5n3",
+            "name": "Yebba",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0aeea1ef-8d96-4556-8c4a-84b88ae271bb"
+          }
+        ],
+        "title": "DIFFERENCE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Twiggy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gjs9",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Twiggy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island/EMI",
+        "release_title": null,
+        "record_id": "n9rqhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Twiggy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Marianne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p52p2k",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Marianne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b8rg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Marianne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Ten Over Ten",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fvc1",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Ten Over Ten",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": "Ten Over Ten",
+        "record_id": "n9b4bp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Ten Over Ten",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Figure 8",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5bxdj",
+        "duration": 184,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "Figure 8",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9pr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "Figure 8",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "3310",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fxkk",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "3310",
+        "track_number": null,
+        "publisher": "Universal",
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9b8wg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "3310",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Charli xcx",
+      "title": "Camera",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p026z3",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p012f188",
+          "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+          "name": "Charli xcx"
+        },
+        "artist": "Charli xcx",
+        "track_title": "Camera",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rd4g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Camera",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "After Dark",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fym2",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "After Dark",
+        "track_number": null,
+        "publisher": "hree Six Zero Pub Designee (BMI)",
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9bx2m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          }
+        ],
+        "title": "After Dark",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "John Glacier",
+      "title": "Bond Girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p001fw",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p07m32f2",
+          "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d",
+          "name": "John Glacier"
+        },
+        "artist": "John Glacier",
+        "track_title": "Bond Girl",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young Records",
+        "release_title": null,
+        "record_id": "n9rcfm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Performer",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Bond Girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Flo Milli",
+      "title": "Too Bo$$y",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6g0fs",
+        "duration": 152,
+        "primary_contributor": {
+          "pid": "p087pvgb",
+          "musicbrainz_gid": "21dab5d7-3bda-4f72-a054-6379729dcb62",
+          "name": "Flo Milli"
+        },
+        "artist": "Flo Milli",
+        "track_title": "Too Bo$$y",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Jive Records UK",
+        "release_title": "FLO STATE",
+        "record_id": "n9bx35",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p087pvgb",
+            "name": "Flo Milli",
+            "role": "Performer",
+            "musicbrainz_gid": "21dab5d7-3bda-4f72-a054-6379729dcb62"
+          }
+        ],
+        "title": "Too Bo$$y",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Alyse",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6g15r",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Alyse",
+        "track_number": null,
+        "publisher": "Universal Music Publishing UK",
+        "record_label": "Because Music UK",
+        "release_title": null,
+        "record_id": "n9b9xf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Alyse",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cannelle",
+      "title": "BB Blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxnt1v",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0nx7076",
+          "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e",
+          "name": "Cannelle"
+        },
+        "artist": "Cannelle",
+        "track_title": "BB Blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Cannelle",
+        "release_title": null,
+        "record_id": "n9r34g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nx7076",
+            "name": "Cannelle",
+            "role": "Performer",
+            "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e"
+          }
+        ],
+        "title": "BB Blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Headie One",
+      "title": "One Thousand Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6g3z0",
+        "duration": null,
+        "primary_contributor": {
+          "pid": "p05t1djw",
+          "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64",
+          "name": "Headie One"
+        },
+        "artist": "Headie One",
+        "track_title": "One Thousand Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bx3r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05t1djw",
+            "name": "Headie One",
+            "role": "Performer",
+            "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64"
+          }
+        ],
+        "title": "One Thousand Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cardi B",
+      "title": "AH HA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gf5f",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p03y2b9j",
+          "musicbrainz_gid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+          "name": "Cardi B"
+        },
+        "artist": "Cardi B",
+        "track_title": "AH HA",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "AH HA",
+        "record_id": "n9rqgp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03y2b9j",
+            "name": "Cardi B",
+            "role": "Performer",
+            "musicbrainz_gid": "2f3c4d70-0462-40da-bba3-0aec5772c556"
+          }
+        ],
+        "title": "AH HA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Archives",
+      "title": "There Goes Ma Head",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzwrcr",
+        "duration": 155,
+        "primary_contributor": {
+          "pid": "p09f4b2r",
+          "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd",
+          "name": "Nia Archives"
+        },
+        "artist": "Nia Archives",
+        "track_title": "There Goes Ma Head",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9rcfh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09f4b2r",
+            "name": "Nia Archives",
+            "role": "Performer",
+            "musicbrainz_gid": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd"
+          }
+        ],
+        "title": "There Goes Ma Head",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rose Gray",
+      "title": "Just Be Bodies",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzx6bd",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p07f9hjs",
+          "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40",
+          "name": "Rose Gray"
+        },
+        "artist": "Rose Gray",
+        "track_title": "Just Be Bodies",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9rchr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07f9hjs",
+            "name": "Rose Gray",
+            "role": "Performer",
+            "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40"
+          }
+        ],
+        "title": "Just Be Bodies",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Matilda Mann",
+      "title": "Haunt Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6g3zn",
+        "duration": 249,
+        "primary_contributor": {
+          "pid": "p082r72d",
+          "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525",
+          "name": "Matilda Mann"
+        },
+        "artist": "Matilda Mann",
+        "track_title": "Haunt Me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": "Kismet",
+        "record_id": "n9bx39",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082r72d",
+            "name": "Matilda Mann",
+            "role": "Performer",
+            "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525"
+          }
+        ],
+        "title": "Haunt Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "STELLA LEFTY",
+      "title": "Summer You Were Mine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6g4z5",
+        "duration": 184,
+        "primary_contributor": {
+          "pid": "p0mwbsf1",
+          "musicbrainz_gid": "e881b225-42b1-41d9-9d5e-eff55568585b",
+          "name": "STELLA LEFTY"
+        },
+        "artist": "STELLA LEFTY",
+        "track_title": "Summer You Were Mine",
+        "track_number": "12",
+        "publisher": null,
+        "record_label": "Atlantic Outpost",
+        "release_title": "Long Way Home",
+        "record_id": "n9bd38",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mwbsf1",
+            "name": "STELLA LEFTY",
+            "role": "Performer",
+            "musicbrainz_gid": "e881b225-42b1-41d9-9d5e-eff55568585b"
+          }
+        ],
+        "title": "Summer You Were Mine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Oh Mother",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p08zqh",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p01zpdf9",
+          "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "name": "Sam Smith"
+        },
+        "artist": "Sam Smith",
+        "track_title": "Oh Mother",
+        "track_number": null,
+        "publisher": "SSW Publishing Ltd/Tim & Danny Music/Warner-Tamerlane Publishing Corp/Copyright Control/Kobalt Music Publishing",
+        "record_label": "Capitol",
+        "release_title": null,
+        "record_id": "n9rdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01zpdf9",
+            "name": "Sam Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3"
+          },
+          {
+            "pid": "p0p08zr0",
+            "name": "The TwoCity Chorus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6160891e-2d69-493d-a941-a9456383844e"
+          }
+        ],
+        "title": "Oh Mother",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

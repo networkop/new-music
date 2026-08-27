@@ -195,12 +195,33 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Violins"
   },
+  "blossoms|||additional driver": {
+    "artist": "Blossoms",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Additional Driver"
+  },
+  "blossoms|||at most a kiss": {
+    "artist": "Blossoms",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "At Most A Kiss"
+  },
   "blossoms|||charlemagne": {
     "artist": "Blossoms",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Charlemagne"
+  },
+  "blossoms|||honey sweet": {
+    "artist": "Blossoms",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Honey Sweet"
   },
   "blossoms|||meet me in love": {
     "artist": "Blossoms",
@@ -440,6 +461,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Another Year Alone"
   },
+  "ecca vandal|||cruising to self soothe": {
+    "artist": "Ecca Vandal",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "CRUISING TO SELF SOOTHE"
+  },
   "erin lecount|||the cinema": {
     "artist": "Erin LeCount",
     "category": "manual",
@@ -530,6 +558,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Break The Girl"
+  },
+  "florence road|||hanging out to dry": {
+    "artist": "Florence Road",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Hanging Out To Dry"
   },
   "flowerovlove|||in my victoria's secret": {
     "artist": "flowerovlove",
@@ -909,6 +944,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Home Depot"
   },
+  "mette|||small world": {
+    "artist": "METTE",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "SMALL WORLD"
+  },
   "mj cole|||move time": {
     "artist": "MJ Cole",
     "category": "manual",
@@ -1070,6 +1112,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Miami"
   },
+  "odumodublvck|||isale eko": {
+    "artist": "ODUMODUBLVCK",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Isale Eko"
+  },
   "original koffee|||summer fruits": {
     "artist": "Original Koffee",
     "category": "manual",
@@ -1161,6 +1210,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Wo, man"
   },
+  "photek|||solaris": {
+    "artist": "Photek",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Solaris"
+  },
   "pixy|||legacy": {
     "artist": "PIXY",
     "category": "manual",
@@ -1174,6 +1230,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Easy Street"
+  },
+  "queens of the stone age|||insignificant other": {
+    "artist": "Queens of the Stone Age",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Insignificant Other"
   },
   "rachel chinouriri|||all i ever asked": {
     "artist": "Rachel Chinouriri",
@@ -1203,6 +1266,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "One Song Away From Crying"
   },
+  "remi wolf|||bottle": {
+    "artist": "Remi Wolf",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Bottle"
+  },
   "remi wolf|||twiggy": {
     "artist": "Remi Wolf",
     "category": "manual",
@@ -1223,6 +1293,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Talk To Me, Zara"
+  },
+  "role model|||harmony": {
+    "artist": "ROLE MODEL",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Harmony"
   },
   "role model|||joy": {
     "artist": "ROLE MODEL",
