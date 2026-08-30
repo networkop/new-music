@@ -48,6 +48,15 @@ LASTFM_URL = "https://ws.audioscrobbler.com/2.0/"
 #
 # rnb added 2026-08-18, at the owner's request, after a before/after check
 # against real playlist history (see docs/filtering.md).
+#
+# reggae added 2026-08-30, at the owner's request. Checked against the
+# cached artist tags at the time: only one currently-kept track carried a
+# real reggae/dancehall signal - Original Koffee, "RAPID FIYAH" (reggae
+# weight 100) - so the blast radius is small. "dub" is included since
+# Last.fm uses it for reggae dub specifically (not dubstep, which tags
+# itself "dubstep"); low-weight stray "dub" hits (e.g. Ezra Collective,
+# Yazmin Lacey at weight 1) don't clear WEIGHT_THRESHOLD or the review
+# noise floor either way, so including it is safe.
 CATEGORIES = {
     "soul": {"soul", "neo-soul", "neo soul", "northern soul", "uk soul"},
     "country": {"country", "americana", "alt-country", "alt country"},
@@ -57,6 +66,7 @@ CATEGORIES = {
         "freak folk",
     },
     "rnb": {"rnb", "r&b", "contemporary rnb", "alternative rnb"},
+    "reggae": {"reggae", "roots reggae", "dancehall", "dub"},
 }
 
 # Personal/meta tags Last.fm users apply that aren't genres at all - some of

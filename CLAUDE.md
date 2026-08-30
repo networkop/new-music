@@ -24,7 +24,8 @@ Three stages. Only stage 1 is built.
   Dead ends). Spotify's official API is also stdlib-drivable, so this
   drops the one non-stdlib dependency the project had picked up.
 - The filter is an **exclusion list, not an allowlist**: soul, country, indie
-  folk, rnb (added 2026-08-18). Everything else is wanted.
+  folk, rnb (added 2026-08-18), reggae (added 2026-08-30). Everything else is
+  wanted.
 - Consequence, and it's the important one: **unknown genre means keep**. The
   show's whole point is brand-new artists, and those are exactly the ones no
   genre database has data for. An allowlist would silently bin them. Don't

@@ -2,7 +2,7 @@
 
 ## The requirement
 
-Exclude **soul, country, indie folk, rnb**. Keep everything else.
+Exclude **soul, country, indie folk, rnb, reggae**. Keep everything else.
 
 `rnb` added 2026-08-18, at the owner's request. Checked before adding it: run
 against the live tracklist data at the time, only one track in the actual
@@ -10,6 +10,11 @@ synced Spotify playlist carried a strong `rnb` tag - Kelsey Lu, "Cutting Off
 The Head Of A Ghost" (rnb weight 100, broadcast 2026-07-21) - and one more
 (Tinashe, "Melatonin") was sitting in the review list and moved to a clean
 exclude instead. Confirmed with the owner, then added.
+
+`reggae` added 2026-08-30, at the owner's request. Checked against the
+cached artist tags at the time: only one currently-kept track carried a real
+reggae/dancehall signal - Original Koffee, "RAPID FIYAH" (reggae weight
+100) - so the blast radius is small.
 
 ## Why exclusion beats an allowlist here
 
@@ -65,6 +70,8 @@ Require the blocked tag in the top three, or above a weight threshold.
   their own songs - see below.
 - `rnb` → r&b, contemporary rnb, alternative rnb. Funk is still explicitly
   NOT excluded, even though it's adjacent - it's not in this vocabulary.
+- `reggae` → roots reggae, dancehall, dub. `dub` here means reggae dub
+  specifically - dubstep tags itself `dubstep`, not `dub`, on Last.fm.
 
 **A blocked tag needs real weight to count as a signal at all, not just to
 cross into exclude.** Checked against a real run (549 tracks, 2026-08-17):
