@@ -363,12 +363,33 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Baddadan"
   },
+  "chase & status|||blind faith": {
+    "artist": "Chase & Status",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Blind Faith"
+  },
   "chase & status|||disgruntled": {
     "artist": "Chase & Status",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Disgruntled"
+  },
+  "chase & status|||gone too far": {
+    "artist": "Chase & Status",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Gone Too Far"
+  },
+  "chloé caillet|||after dark": {
+    "artist": "Chloé Caillet",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "After Dark"
   },
   "chloé caillet|||bad bara": {
     "artist": "Chloé Caillet",
@@ -544,6 +565,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Different"
+  },
+  "flo milli|||too bo$$y": {
+    "artist": "Flo Milli",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Too Bo$$y"
   },
   "florence road|||7563": {
     "artist": "Florence Road",
@@ -1378,6 +1406,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Do What's Right (Happy)"
   },
+  "shygirl|||alyse": {
+    "artist": "Shygirl",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Alyse"
+  },
   "sidney charles|||trip advisor (rhythm, snare, bass) 2025 warp": {
     "artist": "Sidney Charles",
     "category": "manual",
@@ -1615,6 +1650,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Whale Call"
+  },
+  "westside cowboy|||dobro": {
+    "artist": "Westside Cowboy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dobro"
   },
   "westside cowboy|||pin up boys": {
     "artist": "Westside Cowboy",
