@@ -1184,6 +1184,52 @@
       ]
     ]
   },
+  "28d83274-26ab-4a6a-b9ff-340f4784e7dd": {
+    "name": "Victoria Monét",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        67
+      ],
+      [
+        "hip-hop",
+        13
+      ],
+      [
+        "rap",
+        9
+      ],
+      [
+        "alternative rnb",
+        3
+      ],
+      [
+        "united states",
+        2
+      ],
+      [
+        "female vocalists",
+        2
+      ],
+      [
+        "my top songs",
+        1
+      ],
+      [
+        "trap",
+        1
+      ],
+      [
+        "hip hop",
+        1
+      ]
+    ]
+  },
   "2b6f07bc-79f0-4b30-bff0-412c2815a0f3": {
     "name": "kwn",
     "source": "lastfm",
@@ -3686,6 +3732,40 @@
       ]
     ]
   },
+  "5b7f4511-1764-4d80-83b5-8c150f4636c5": {
+    "name": "CHRIS STASSY",
+    "source": "lastfm",
+    "tags": [
+      [
+        "deep house",
+        100
+      ],
+      [
+        "house",
+        100
+      ],
+      [
+        "techno",
+        24
+      ],
+      [
+        "electronic",
+        11
+      ],
+      [
+        "chill house",
+        1
+      ],
+      [
+        "tech house",
+        1
+      ],
+      [
+        "dutch",
+        1
+      ]
+    ]
+  },
   "5d6f4f63-edd8-40b9-9940-b54d6a1e6316": {
     "name": "Benjamin Steer",
     "source": "lastfm",
@@ -4229,6 +4309,52 @@
       ],
       [
         "south africa",
+        1
+      ]
+    ]
+  },
+  "6bab48a1-c3e0-4160-b574-f99fc7dfad9f": {
+    "name": "Friction",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "punk",
+        49
+      ],
+      [
+        "no wave",
+        24
+      ],
+      [
+        "post-punk",
+        22
+      ],
+      [
+        "japanese",
+        11
+      ],
+      [
+        "japanese punk",
+        7
+      ],
+      [
+        "dnb",
+        7
+      ],
+      [
+        "emo",
+        2
+      ],
+      [
+        "punk rock",
+        1
+      ],
+      [
+        "electronic",
         1
       ]
     ]
@@ -7101,6 +7227,36 @@
       ]
     ]
   },
+  "b643c24d-4cd6-4531-88bc-62b39ce43ee1": {
+    "name": "Cloonee",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "british",
+        44
+      ],
+      [
+        "tech house",
+        29
+      ],
+      [
+        "electronic",
+        7
+      ],
+      [
+        "united kingdom",
+        4
+      ],
+      [
+        "electro house",
+        4
+      ]
+    ]
+  },
   "b75c3ac9-6822-4dbb-9d7a-4f78deee9b7e": {
     "name": "Carlita",
     "source": "lastfm",
@@ -8937,6 +9093,52 @@
     "source": "lastfm",
     "tags": []
   },
+  "e337c918-098f-418e-97a2-81dc224b1bf9": {
+    "name": "Dominic Fike",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie",
+        100
+      ],
+      [
+        "indie pop",
+        81
+      ],
+      [
+        "pop",
+        24
+      ],
+      [
+        "alternative",
+        11
+      ],
+      [
+        "american",
+        5
+      ],
+      [
+        "alternative pop",
+        3
+      ],
+      [
+        "hip-hop",
+        3
+      ],
+      [
+        "my top songs",
+        1
+      ],
+      [
+        "florida",
+        1
+      ],
+      [
+        "usa",
+        1
+      ]
+    ]
+  },
   "e457531c-4add-45f0-9998-f65ec53a305c": {
     "name": "KETTAMA",
     "source": "lastfm",
@@ -10312,6 +10514,52 @@
       ],
       [
         "punk rock",
+        1
+      ]
+    ]
+  },
+  "name:geese": {
+    "name": "Geese",
+    "source": "lastfm",
+    "tags": [
+      [
+        "post-punk",
+        100
+      ],
+      [
+        "indie rock",
+        98
+      ],
+      [
+        "art punk",
+        60
+      ],
+      [
+        "crank wave",
+        45
+      ],
+      [
+        "art rock",
+        10
+      ],
+      [
+        "dance-punk",
+        10
+      ],
+      [
+        "indie",
+        8
+      ],
+      [
+        "american",
+        2
+      ],
+      [
+        "rock",
+        2
+      ],
+      [
+        "alternative",
         1
       ]
     ]
