@@ -1,0 +1,1100 @@
+{
+  "pid": "m0030ny0",
+  "broadcast_start": "2026-09-02T18:00:00+01:00",
+  "schedule_date": "2026-09-02",
+  "title": "Fat Dog Hottest Record",
+  "tracks": [
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Marianne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p556jm",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Marianne",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9b8rg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Marianne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kfls",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5khd4",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Cancel Me (I'm Tired)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzbktz",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Cancel Me (I'm Tired)",
+        "track_number": "3",
+        "publisher": "Domino Publishing Company Ltd/BMG (Music) Rights Limited",
+        "record_label": "Domino Recording Co.",
+        "release_title": "Cancel Me (I'm Tired)",
+        "record_id": "n99qvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Cancel Me (I'm Tired)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Additional Driver",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p74jc5",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Additional Driver",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Distiller Records LLP",
+        "release_title": null,
+        "record_id": "n9bddb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          },
+          {
+            "pid": "p038r1tj",
+            "name": "Declan McKenna",
+            "role": "Performer",
+            "musicbrainz_gid": "8b98035f-fbd2-4fb3-9c2f-263c7506680d"
+          }
+        ],
+        "title": "Additional Driver",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "The Hardest Thing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p632nz",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "The Hardest Thing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bd2q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "The Hardest Thing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "3310",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fxkk",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "3310",
+        "track_number": null,
+        "publisher": "Universal",
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9b8wg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "3310",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Paris Paloma",
+      "title": "Miyazaki",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n7622w",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p0fcrk59",
+          "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2",
+          "name": "Paris Paloma"
+        },
+        "artist": "Paris Paloma",
+        "track_title": "Miyazaki",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Nettwerk Music Group",
+        "release_title": null,
+        "record_id": "n96whc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fcrk59",
+            "name": "Paris Paloma",
+            "role": "Performer",
+            "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2"
+          }
+        ],
+        "title": "Miyazaki",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kanine",
+      "title": "Surrender",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7dl0b",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p059dp00",
+          "musicbrainz_gid": "cfe0e278-18ac-492f-956a-d8c419f53af1",
+          "name": "Kanine"
+        },
+        "artist": "Kanine",
+        "track_title": "Surrender",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UKF",
+        "release_title": null,
+        "record_id": "n9bwpc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p059dp00",
+            "name": "Kanine",
+            "role": "Performer",
+            "musicbrainz_gid": "cfe0e278-18ac-492f-956a-d8c419f53af1"
+          },
+          {
+            "pid": "p01kmxgl",
+            "name": "Jem Cooke",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c461d82f-3e88-40d4-80d9-a523f1b34a57"
+          }
+        ],
+        "title": "Surrender",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "flowerovlove",
+      "title": "girls will be girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lvrw",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p0d60r3q",
+          "musicbrainz_gid": "cc082564-87b8-405c-97b0-7c2a8e84212a",
+          "name": "flowerovlove"
+        },
+        "artist": "flowerovlove",
+        "track_title": "girls will be girls",
+        "track_number": null,
+        "publisher": "UMG Recordings, Inc.",
+        "record_label": "Capitol Records",
+        "release_title": null,
+        "record_id": "n9bwj9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d60r3q",
+            "name": "flowerovlove",
+            "role": "Performer",
+            "musicbrainz_gid": "cc082564-87b8-405c-97b0-7c2a8e84212a"
+          },
+          {
+            "pid": "p012dshx",
+            "name": "WILLOW",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6bbfc71b-5f18-4e61-82fb-bee0c2a6b5f9"
+          }
+        ],
+        "title": "girls will be girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Fur Elise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50m5v",
+        "duration": 255,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Fur Elise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9b8nh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Fur Elise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ecca Vandal",
+      "title": "CRUISING TO SELF SOOTHE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzwxcb",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p02rl6wl",
+          "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076",
+          "name": "Ecca Vandal"
+        },
+        "artist": "Ecca Vandal",
+        "track_title": "CRUISING TO SELF SOOTHE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n8w6q4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02rl6wl",
+            "name": "Ecca Vandal",
+            "role": "Performer",
+            "musicbrainz_gid": "6b4e962d-3dbc-4bda-82f0-25d35786f076"
+          }
+        ],
+        "title": "CRUISING TO SELF SOOTHE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Lonely in the Future",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rwzx",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p012d9cf",
+          "musicbrainz_gid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+          "name": "The Strokes"
+        },
+        "artist": "The Strokes",
+        "track_title": "Lonely in the Future",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Cult Records/RCA Records",
+        "release_title": null,
+        "record_id": "n9rf5r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9cf",
+            "name": "The Strokes",
+            "role": "Performer",
+            "musicbrainz_gid": "f181961b-20f7-459e-89de-920ef03c7ed0"
+          }
+        ],
+        "title": "Lonely in the Future",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Constant Companion",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lyrv",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p01zpdf9",
+          "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "name": "Sam Smith"
+        },
+        "artist": "Sam Smith",
+        "track_title": "Constant Companion",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "PLG - Capitol",
+        "release_title": null,
+        "record_id": "n9bd3b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01zpdf9",
+            "name": "Sam Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3"
+          }
+        ],
+        "title": "Constant Companion",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiana Major9",
+      "title": "Heaven",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5c41q",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p060jgwb",
+          "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950",
+          "name": "Tiana Major9"
+        },
+        "artist": "Tiana Major9",
+        "track_title": "Heaven",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "+1 Records",
+        "release_title": "Heaven",
+        "record_id": "n9b83r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p060jgwb",
+            "name": "Tiana Major9",
+            "role": "Performer",
+            "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950"
+          }
+        ],
+        "title": "Heaven",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Qendresa",
+      "title": "Besitos",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7m0f4",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p08zzdph",
+          "musicbrainz_gid": "56a210e8-5482-4b52-a8c4-eaf785cbcb59",
+          "name": "Qendresa"
+        },
+        "artist": "Qendresa",
+        "track_title": "Besitos",
+        "track_number": null,
+        "publisher": "Warp Publishing",
+        "record_label": "dream city discs",
+        "release_title": null,
+        "record_id": "n9b55q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08zzdph",
+            "name": "Qendresa",
+            "role": "Performer",
+            "musicbrainz_gid": "56a210e8-5482-4b52-a8c4-eaf785cbcb59"
+          }
+        ],
+        "title": "Besitos",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Kid",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7m0qh",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Kid",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fantasy Recordings",
+        "release_title": null,
+        "record_id": "n9bwjx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Kid",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "Wallflower",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7ds62",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "Wallflower",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bwpv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "Wallflower",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Headie One",
+      "title": "One Thousand Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7m1j6",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p05t1djw",
+          "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64",
+          "name": "Headie One"
+        },
+        "artist": "Headie One",
+        "track_title": "One Thousand Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "One Records",
+        "release_title": null,
+        "record_id": "n9bx3r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05t1djw",
+            "name": "Headie One",
+            "role": "Performer",
+            "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64"
+          }
+        ],
+        "title": "One Thousand Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "F3miii",
+      "title": "TAKE A TRIP",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6nk84",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p0kbzhr3",
+          "musicbrainz_gid": "0e55d4b1-6a3e-4565-accb-e1da78e83ff3",
+          "name": "F3miii"
+        },
+        "artist": "F3miii",
+        "track_title": "TAKE A TRIP",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bgdq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kbzhr3",
+            "name": "F3miii",
+            "role": "Performer",
+            "musicbrainz_gid": "0e55d4b1-6a3e-4565-accb-e1da78e83ff3"
+          },
+          {
+            "pid": "p0gm29nq",
+            "name": "Bricknasty",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "51f5a1d7-613d-4199-93dc-871fde0567e1"
+          },
+          {
+            "pid": "p0c5typ7",
+            "name": "KhakiKid",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "946c2140-1c5f-4ac6-b2fa-461465226d35"
+          }
+        ],
+        "title": "TAKE A TRIP",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "BNXN",
+      "title": "EJA MEJA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1b57q",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p0cy9ykp",
+          "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9",
+          "name": "BNXN"
+        },
+        "artist": "BNXN",
+        "track_title": "EJA MEJA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Empire Records",
+        "release_title": null,
+        "record_id": "n9rhcg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cy9ykp",
+            "name": "BNXN",
+            "role": "Performer",
+            "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9"
+          },
+          {
+            "pid": "p0cs9jmk",
+            "name": "Asake",
+            "role": "Performer",
+            "musicbrainz_gid": "2b37ba5e-2162-46ca-bbad-f076f6a333bd"
+          }
+        ],
+        "title": "EJA MEJA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Mirage",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4m0py",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Mirage",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "DISORDER CAPITOL",
+        "release_title": null,
+        "record_id": "n9b624",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          }
+        ],
+        "title": "Mirage",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ATRIP",
+      "title": "Langur",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5rcbn",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p06pfrw1",
+          "musicbrainz_gid": "c98c02c5-eb3e-4ae3-b6c1-c851187830d1",
+          "name": "ATRIP"
+        },
+        "artist": "ATRIP",
+        "track_title": "Langur",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "TANZPARTEI",
+        "release_title": "PLASTERBOY",
+        "record_id": "n9bb2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06pfrw1",
+            "name": "ATRIP",
+            "role": "Performer",
+            "musicbrainz_gid": "c98c02c5-eb3e-4ae3-b6c1-c851187830d1"
+          }
+        ],
+        "title": "Langur",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Amie Blu",
+      "title": "trees for the woods",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzxb62",
+        "duration": 245,
+        "primary_contributor": {
+          "pid": "p0g1vpy7",
+          "musicbrainz_gid": "e90eb914-89e7-4ca2-b5c6-8903cd936ae0",
+          "name": "Amie Blu"
+        },
+        "artist": "Amie Blu",
+        "track_title": "trees for the woods",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "0207 Records",
+        "release_title": null,
+        "record_id": "n9rcwx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g1vpy7",
+            "name": "Amie Blu",
+            "role": "Performer",
+            "musicbrainz_gid": "e90eb914-89e7-4ca2-b5c6-8903cd936ae0"
+          }
+        ],
+        "title": "trees for the woods",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wishy",
+      "title": "Sensational",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7f3my",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p0gpp6ss",
+          "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42",
+          "name": "Wishy"
+        },
+        "artist": "Wishy",
+        "track_title": "Sensational",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Winspear",
+        "release_title": null,
+        "record_id": "n9bdf2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gpp6ss",
+            "name": "Wishy",
+            "role": "Performer",
+            "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42"
+          }
+        ],
+        "title": "Sensational",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Melatonin",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55hht",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Melatonin",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Nice Life/Atlantic",
+        "release_title": "Melatonin",
+        "record_id": "n9b8jh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Melatonin",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Arca",
+      "title": "Taconeando",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2vx34",
+        "duration": 138,
+        "primary_contributor": {
+          "pid": "p01m9qsx",
+          "musicbrainz_gid": "f7625f34-1799-42a4-a1c6-22b5377c767b",
+          "name": "Arca"
+        },
+        "artist": "Arca",
+        "track_title": "Taconeando",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Beggars Group Media Limited",
+        "release_title": null,
+        "record_id": "n9rmw4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01m9qsx",
+            "name": "Arca",
+            "role": "Performer",
+            "musicbrainz_gid": "f7625f34-1799-42a4-a1c6-22b5377c767b"
+          }
+        ],
+        "title": "Taconeando",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "Floette",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33mpt",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p06t96fd",
+          "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+          "name": "Arlo Parks"
+        },
+        "artist": "Arlo Parks",
+        "track_title": "Floette",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Transgressive",
+        "release_title": null,
+        "record_id": "n9rm8n",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06t96fd",
+            "name": "Arlo Parks",
+            "role": "Performer",
+            "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930"
+          },
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Floette",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

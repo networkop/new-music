@@ -624,6 +624,28 @@
       ]
     ]
   },
+  "0e55d4b1-6a3e-4565-accb-e1da78e83ff3": {
+    "name": "F3miii",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "electronic",
+        100
+      ],
+      [
+        "alternative rnb",
+        66
+      ],
+      [
+        "irish",
+        66
+      ]
+    ]
+  },
   "0e8afdae-d488-44d6-85b5-a5007096c049": {
     "name": "Kingfishr",
     "source": "lastfm",
@@ -1536,6 +1558,52 @@
       ],
       [
         "math rock",
+        1
+      ]
+    ]
+  },
+  "30f10b3a-cd98-414d-b7e5-336931335f42": {
+    "name": "Wishy",
+    "source": "lastfm",
+    "tags": [
+      [
+        "shoegaze",
+        100
+      ],
+      [
+        "indie rock",
+        60
+      ],
+      [
+        "dream pop",
+        40
+      ],
+      [
+        "indie pop",
+        29
+      ],
+      [
+        "indie",
+        7
+      ],
+      [
+        "alternative rock",
+        4
+      ],
+      [
+        "power pop",
+        4
+      ],
+      [
+        "united states",
+        1
+      ],
+      [
+        "lo-fi",
+        1
+      ],
+      [
+        "american",
         1
       ]
     ]
@@ -3297,6 +3365,36 @@
       [
         "dance-pop",
         1
+      ]
+    ]
+  },
+  "56a210e8-5482-4b52-a8c4-eaf785cbcb59": {
+    "name": "Qendresa",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "pop",
+        44
+      ],
+      [
+        "british",
+        29
+      ],
+      [
+        "soul",
+        7
+      ],
+      [
+        "neo-soul",
+        4
+      ],
+      [
+        "neosoul",
+        4
       ]
     ]
   },
@@ -8074,6 +8172,44 @@
       ]
     ]
   },
+  "c98c02c5-eb3e-4ae3-b6c1-c851187830d1": {
+    "name": "ATRIP",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "electronic",
+        100
+      ],
+      [
+        "british",
+        66
+      ],
+      [
+        "breakbeat",
+        66
+      ],
+      [
+        "united kingdom",
+        8
+      ],
+      [
+        "deep house",
+        8
+      ],
+      [
+        "funk_add_to_lidarr",
+        8
+      ],
+      [
+        "funk_add_to_lidarr_batch_1",
+        3
+      ]
+    ]
+  },
   "c9e3089c-a7bc-4df5-80f9-9161eaa74a02": {
     "name": "Tiffany Day",
     "source": "lastfm",
@@ -9288,6 +9424,28 @@
       [
         "indie country",
         8
+      ]
+    ]
+  },
+  "e90eb914-89e7-4ca2-b5c6-8903cd936ae0": {
+    "name": "Amie Blu",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        100
+      ],
+      [
+        "pop",
+        7
+      ],
+      [
+        "british",
+        7
       ]
     ]
   },

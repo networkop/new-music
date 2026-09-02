@@ -7,13 +7,18 @@
     },
     "spotify:track:0IeBxP5BlIH2BDhQYVsRq3": {
       "artist": "Dominic Fike",
-      "broadcast": "2026-09-01",
+      "broadcast": "2026-09-02",
       "title": "Wallflower"
     },
     "spotify:track:0KHVv7KPMEnu54Ci5v6e5x": {
       "artist": "Ledbyher",
       "broadcast": "2026-09-01",
       "title": "On The Table"
+    },
+    "spotify:track:0aU5XPireiOWn6or4RPSVS": {
+      "artist": "Wishy",
+      "broadcast": "2026-09-02",
+      "title": "Sensational"
     },
     "spotify:track:0eT45WSj6OD4HoSZWq6uMQ": {
       "artist": "KETTAMA",
@@ -35,10 +40,35 @@
       "broadcast": "2026-09-01",
       "title": "Good Girl"
     },
+    "spotify:track:27CMx2IQna3TPFhFtPih5p": {
+      "artist": "flowerovlove",
+      "broadcast": "2026-09-02",
+      "title": "girls will be girls"
+    },
+    "spotify:track:3AiaMSTpzB3YapAP1wmhYj": {
+      "artist": "ATRIP",
+      "broadcast": "2026-09-02",
+      "title": "Langur"
+    },
+    "spotify:track:3yXMMzqvq3aTiczg8lpkfS": {
+      "artist": "DIIV",
+      "broadcast": "2026-09-02",
+      "title": "Kid"
+    },
+    "spotify:track:46museEHuxvmYT16wjAEkD": {
+      "artist": "Fat Dog",
+      "broadcast": "2026-09-02",
+      "title": "Call It What You Want"
+    },
     "spotify:track:4HIyXZ63ucWnHXCfrlWWOq": {
       "artist": "CHRIS STASSY",
       "broadcast": "2026-09-01",
       "title": "U Know Me"
+    },
+    "spotify:track:4VdqXAgfC79LeweD9qVgVZ": {
+      "artist": "Paris Paloma",
+      "broadcast": "2026-09-02",
+      "title": "Miyazaki"
     },
     "spotify:track:56eQI8WLKYX2R7FmpuJgYX": {
       "artist": "Friction",
@@ -47,7 +77,7 @@
     },
     "spotify:track:5DyueXgtnVfMqbPctVn9L4": {
       "artist": "Kanine",
-      "broadcast": "2026-09-01",
+      "broadcast": "2026-09-02",
       "title": "Surrender"
     }
   },
