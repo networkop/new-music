@@ -1,0 +1,1124 @@
+{
+  "pid": "m0030p4g",
+  "broadcast_start": "2026-09-03T18:00:00+01:00",
+  "schedule_date": "2026-09-03",
+  "title": "Paris Paloma Hottest Record",
+  "tracks": [
+    {
+      "artist": "Slayyyter",
+      "title": "brand new chanel$",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p376p2",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "brand new chanel$",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Records/Columbia",
+        "release_title": "brand new chanel$",
+        "record_id": "n9rwmg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "brand new chanel$",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "RAYE",
+      "title": "Joy.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6nh59",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p03dv3kq",
+          "musicbrainz_gid": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
+          "name": "RAYE"
+        },
+        "artist": "RAYE",
+        "track_title": "Joy.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "HUMAN RE SOURCES",
+        "release_title": "This Music May Contain Hope",
+        "record_id": "n9p68m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03dv3kq",
+            "name": "RAYE",
+            "role": "Performer",
+            "musicbrainz_gid": "8be564c3-dfba-440b-af8c-4ffbceeef45e"
+          },
+          {
+            "pid": "p0n9z014",
+            "name": "Amma",
+            "role": "Performer",
+            "musicbrainz_gid": "72b12fe1-7907-4f15-8095-d28c460cd7f7"
+          },
+          {
+            "pid": "p0b3hcpg",
+            "name": "Absolutely",
+            "role": "Performer",
+            "musicbrainz_gid": "30ef765d-f7bb-4e7e-8972-13be03aa4f2c"
+          }
+        ],
+        "title": "Joy.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Paris Paloma",
+      "title": "Miyazaki",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n7622w",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p0fcrk59",
+          "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2",
+          "name": "Paris Paloma"
+        },
+        "artist": "Paris Paloma",
+        "track_title": "Miyazaki",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Nettwerk Music Group",
+        "release_title": null,
+        "record_id": "n96whc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fcrk59",
+            "name": "Paris Paloma",
+            "role": "Performer",
+            "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2"
+          }
+        ],
+        "title": "Miyazaki",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Baby Kool (Evelyn)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2vb5x",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p0223f4n",
+          "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+          "name": "Nothing But Thieves"
+        },
+        "artist": "Nothing But Thieves",
+        "track_title": "Baby Kool (Evelyn)",
+        "track_number": null,
+        "publisher": "Peermusic",
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9rmhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0223f4n",
+            "name": "Nothing But Thieves",
+            "role": "Performer",
+            "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e"
+          }
+        ],
+        "title": "Baby Kool (Evelyn)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Florence Road",
+      "title": "7563",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33hs6",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0l11xc3",
+          "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e",
+          "name": "Florence Road"
+        },
+        "artist": "Florence Road",
+        "track_title": "7563",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bzp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l11xc3",
+            "name": "Florence Road",
+            "role": "Performer",
+            "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
+          }
+        ],
+        "title": "7563",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "Vogue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rscx",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "Vogue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LAOLAO Records",
+        "release_title": null,
+        "record_id": "n9b3rz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "Vogue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Paris Paloma",
+      "title": "Stem The Flow",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0njpt80",
+        "duration": 241,
+        "primary_contributor": {
+          "pid": "p0fcrk59",
+          "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2",
+          "name": "Paris Paloma"
+        },
+        "artist": "Paris Paloma",
+        "track_title": "Stem The Flow",
+        "track_number": null,
+        "publisher": "Sony Music Publishing Ltd.",
+        "record_label": "Nettwerk Music Group",
+        "release_title": null,
+        "record_id": "n98phb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fcrk59",
+            "name": "Paris Paloma",
+            "role": "Performer",
+            "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2"
+          }
+        ],
+        "title": "Stem The Flow",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Paris Paloma",
+      "title": "Silhouette on the Hill",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vrjw",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p0fcrk59",
+          "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2",
+          "name": "Paris Paloma"
+        },
+        "artist": "Paris Paloma",
+        "track_title": "Silhouette on the Hill",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Nettwerk Music Group",
+        "release_title": null,
+        "record_id": "n9bj5x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fcrk59",
+            "name": "Paris Paloma",
+            "role": "Performer",
+            "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2"
+          }
+        ],
+        "title": "Silhouette on the Hill",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MK",
+      "title": "17",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p05fjp1y",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p01h64zx",
+          "musicbrainz_gid": "4545675e-4006-4271-8e82-703cae7e1748",
+          "name": "MK"
+        },
+        "artist": "MK",
+        "track_title": "17",
+        "track_number": null,
+        "publisher": "Area10 Music administered by BMG Platinum Songs US (BMI), a BMG Chrysalis Company / Copyright Control / Ultra Music Publishing",
+        "record_label": "Sony",
+        "release_title": null,
+        "record_id": "n4fjvf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01h64zx",
+            "name": "MK",
+            "role": "Performer",
+            "musicbrainz_gid": "4545675e-4006-4271-8e82-703cae7e1748"
+          }
+        ],
+        "title": "17",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Overmono",
+      "title": "After The Rain",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rvxc",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p04mzzzy",
+          "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+          "name": "Overmono"
+        },
+        "artist": "Overmono",
+        "track_title": "After The Rain",
+        "track_number": null,
+        "publisher": "BMG Music Publishing Ltd.",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9bnfv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04mzzzy",
+            "name": "Overmono",
+            "role": "Performer",
+            "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa"
+          }
+        ],
+        "title": "After The Rain",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "INJI",
+      "title": "Bright Ideas",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gsxw",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0f04tgd",
+          "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15",
+          "name": "INJI"
+        },
+        "artist": "INJI",
+        "track_title": "Bright Ideas",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Run Things",
+        "release_title": null,
+        "record_id": "n9rqwg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f04tgd",
+            "name": "INJI",
+            "role": "Performer",
+            "musicbrainz_gid": "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15"
+          }
+        ],
+        "title": "Bright Ideas",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lil Baby",
+      "title": "Dead Fresh",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzcnjf",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p0627248",
+          "musicbrainz_gid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+          "name": "Lil Baby"
+        },
+        "artist": "Lil Baby",
+        "track_title": "Dead Fresh",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rrc8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0627248",
+            "name": "Lil Baby",
+            "role": "Performer",
+            "musicbrainz_gid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0"
+          }
+        ],
+        "title": "Dead Fresh",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "Ugly things",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vvjv",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p097dwv7",
+          "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+          "name": "Lizzy McAlpine"
+        },
+        "artist": "Lizzy McAlpine",
+        "track_title": "Ugly things",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Indigo Blue/RCA Records",
+        "release_title": "Ugly things",
+        "record_id": "n9bj5m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097dwv7",
+            "name": "Lizzy McAlpine",
+            "role": "Performer",
+            "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+          },
+          {
+            "pid": "p0p7vvk3",
+            "name": "Mason Stoops",
+            "role": "Performer",
+            "musicbrainz_gid": "b6462379-e0fd-416e-93ac-9d1211cff0c7"
+          },
+          {
+            "pid": "p0fdw1lw",
+            "name": "Taylor Mackall",
+            "role": "Performer",
+            "musicbrainz_gid": "9ea57c31-ca04-4f98-a5c0-d291ae92c8cc"
+          },
+          {
+            "pid": "p0p7vvk9",
+            "name": "Kiara Ana",
+            "role": "Performer",
+            "musicbrainz_gid": "673c9f69-5782-4d5c-b36b-dd3557c4e311"
+          }
+        ],
+        "title": "Ugly things",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Matilda Mann",
+      "title": "Chain Reaction",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vwx1",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p082r72d",
+          "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525",
+          "name": "Matilda Mann"
+        },
+        "artist": "Matilda Mann",
+        "track_title": "Chain Reaction",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Matilda Mann",
+        "release_title": null,
+        "record_id": "n9bj62",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082r72d",
+            "name": "Matilda Mann",
+            "role": "Performer",
+            "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525"
+          }
+        ],
+        "title": "Chain Reaction",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "Wallflower",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7ds62",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "Wallflower",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bwpv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "Wallflower",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Balu Brigada",
+      "title": "BedHead",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vy8r",
+        "duration": 302,
+        "primary_contributor": {
+          "pid": "p0jb3y86",
+          "musicbrainz_gid": "f9ad56b5-6f41-4cdc-b859-3370c8bff3e2",
+          "name": "Balu Brigada"
+        },
+        "artist": "Balu Brigada",
+        "track_title": "BedHead",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "WM New Zealand",
+        "release_title": "BedHead",
+        "record_id": "n9bj65",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jb3y86",
+            "name": "Balu Brigada",
+            "role": "Performer",
+            "musicbrainz_gid": "f9ad56b5-6f41-4cdc-b859-3370c8bff3e2"
+          }
+        ],
+        "title": "BedHead",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "After",
+      "title": "Blind",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vz2l",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0mkx1df",
+          "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31",
+          "name": "After"
+        },
+        "artist": "After",
+        "track_title": "Blind",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop",
+        "release_title": null,
+        "record_id": "n9bj66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mkx1df",
+            "name": "After",
+            "role": "Performer",
+            "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31"
+          }
+        ],
+        "title": "Blind",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Talk To Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vzc3",
+        "duration": 159,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Talk To Me",
+        "track_number": null,
+        "publisher": "Bonobo Music Inc",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bfcv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          },
+          {
+            "pid": "p050tptm",
+            "name": "Nicole Miglis",
+            "role": "Performer",
+            "musicbrainz_gid": "f8564ebc-95e5-423e-b20e-2ed034d56e67"
+          }
+        ],
+        "title": "Talk To Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "title": "In & Out",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5c6t6",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p03df7md",
+          "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+          "name": "Ravyn Lenae"
+        },
+        "artist": "Ravyn Lenae",
+        "track_title": "In & Out",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9b985",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03df7md",
+            "name": "Ravyn Lenae",
+            "role": "Performer",
+            "musicbrainz_gid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2"
+          }
+        ],
+        "title": "In & Out",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mulaa Joans",
+      "title": "That Ain't You (Radio 1 Session, 21 Jul 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p68902",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p0n70qhj",
+          "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9",
+          "name": "Mulaa Joans"
+        },
+        "artist": "Mulaa Joans",
+        "track_title": "That Ain't You (Radio 1 Session, 21 Jul 2026)",
+        "track_number": null,
+        "publisher": "North West Songs",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bdg8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n70qhj",
+            "name": "Mulaa Joans",
+            "role": "Performer",
+            "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9"
+          }
+        ],
+        "title": "That Ain't You (Radio 1 Session, 21 Jul 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mulaa Joans",
+      "title": "Don't Look Back In Anger (Radio 1 Session, 21 Jul 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p689xd",
+        "duration": 222,
+        "primary_contributor": {
+          "pid": "p0n70qhj",
+          "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9",
+          "name": "Mulaa Joans"
+        },
+        "artist": "Mulaa Joans",
+        "track_title": "Don't Look Back In Anger (Radio 1 Session, 21 Jul 2026)",
+        "track_number": null,
+        "publisher": "Sony Music",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bdgd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n70qhj",
+            "name": "Mulaa Joans",
+            "role": "Performer",
+            "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9"
+          }
+        ],
+        "title": "Don't Look Back In Anger (Radio 1 Session, 21 Jul 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "slayr",
+      "title": "Try and Fail",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w7gg",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0nthnwm",
+          "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+          "name": "slayr"
+        },
+        "artist": "slayr",
+        "track_title": "Try and Fail",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "slayr",
+        "release_title": "Try and Fail",
+        "record_id": "n9bj6d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Performer",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          },
+          {
+            "pid": "p09hn4vj",
+            "name": "SoFaygo",
+            "role": "Performer",
+            "musicbrainz_gid": "654d48fb-4fe4-472d-81e6-039e54f2f27b"
+          }
+        ],
+        "title": "Try and Fail",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Potter Payper",
+      "title": "FWM",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w7qq",
+        "duration": 149,
+        "primary_contributor": {
+          "pid": "p03dhb8f",
+          "musicbrainz_gid": "c3684c43-f507-46e4-a4a4-c2570314f104",
+          "name": "Potter Payper"
+        },
+        "artist": "Potter Payper",
+        "track_title": "FWM",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Believe UK",
+        "release_title": null,
+        "record_id": "n9rqhh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03dhb8f",
+            "name": "Potter Payper",
+            "role": "Performer",
+            "musicbrainz_gid": "c3684c43-f507-46e4-a4a4-c2570314f104"
+          }
+        ],
+        "title": "FWM",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "Summer Fruits",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n96v",
+        "duration": 145,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "Summer Fruits",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Recordings Limited",
+        "release_title": null,
+        "record_id": "n9rm6z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "Summer Fruits",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erykah Badu",
+      "title": "Witch Doctor",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dwrt",
+        "duration": 386,
+        "primary_contributor": {
+          "pid": "p012d7dv",
+          "musicbrainz_gid": "321531fc-db73-4ffa-a959-61a61a2908c1",
+          "name": "Erykah Badu"
+        },
+        "artist": "Erykah Badu",
+        "track_title": "Witch Doctor",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young",
+        "release_title": null,
+        "record_id": "n9b5n4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7dv",
+            "name": "Erykah Badu",
+            "role": "Performer",
+            "musicbrainz_gid": "321531fc-db73-4ffa-a959-61a61a2908c1"
+          },
+          {
+            "pid": "p01khtjm",
+            "name": "The Alchemist",
+            "role": "Performer",
+            "musicbrainz_gid": "03f3deb7-0419-4bf9-a1e7-511946385717"
+          }
+        ],
+        "title": "Witch Doctor",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LATIN MAFIA",
+      "title": "Quiereme",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44zlr",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p0p44zlw",
+          "musicbrainz_gid": "33118d4b-cec1-4030-b37c-0e81fdf97dc8",
+          "name": "LATIN MAFIA"
+        },
+        "artist": "LATIN MAFIA",
+        "track_title": "Quiereme",
+        "track_number": "6",
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": "9 months & 50 hours",
+        "record_id": "n9b4c3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p44zlw",
+            "name": "LATIN MAFIA",
+            "role": "Performer",
+            "musicbrainz_gid": "33118d4b-cec1-4030-b37c-0e81fdf97dc8"
+          },
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p0ghfvkr",
+            "name": "bby",
+            "role": "Performer",
+            "musicbrainz_gid": "dfdb3f72-d28f-4eab-b3dd-644872d73245"
+          }
+        ],
+        "title": "Quiereme",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Interplanetary Criminal",
+      "title": "Hold The Phone",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7bdbl",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p076pjk8",
+          "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e",
+          "name": "Interplanetary Criminal"
+        },
+        "artist": "Interplanetary Criminal",
+        "track_title": "Hold The Phone",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n9bw3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p076pjk8",
+            "name": "Interplanetary Criminal",
+            "role": "Performer",
+            "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e"
+          },
+          {
+            "pid": "p0gfs4g7",
+            "name": "Silva Bumpa",
+            "role": "Performer",
+            "musicbrainz_gid": "980604d4-fc2b-4778-8fc5-a7d28e52ab85"
+          }
+        ],
+        "title": "Hold The Phone",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Saint Ludo",
+      "title": "808",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w91t",
+        "duration": 119,
+        "primary_contributor": {
+          "pid": "p0l94t5k",
+          "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705",
+          "name": "Saint Ludo"
+        },
+        "artist": "Saint Ludo",
+        "track_title": "808",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records Label",
+        "release_title": null,
+        "record_id": "n9bwjf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l94t5k",
+            "name": "Saint Ludo",
+            "role": "Performer",
+            "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705"
+          },
+          {
+            "pid": "p0h6q7ls",
+            "name": "Cap1talA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6c24bc0f-8ce8-4baa-9ded-d977e03ebe8f"
+          }
+        ],
+        "title": "808",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

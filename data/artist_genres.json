@@ -137,6 +137,52 @@
       ]
     ]
   },
+  "02ebebd7-120e-4341-ac89-90e666d49c9e": {
+    "name": "Interplanetary Criminal",
+    "source": "lastfm",
+    "tags": [
+      [
+        "uk garage",
+        100
+      ],
+      [
+        "house",
+        44
+      ],
+      [
+        "jungle",
+        29
+      ],
+      [
+        "manchester",
+        17
+      ],
+      [
+        "outsider house",
+        8
+      ],
+      [
+        "breakbeat",
+        4
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "elkectronic",
+        1
+      ],
+      [
+        "seagrave",
+        1
+      ],
+      [
+        "live-2",
+        1
+      ]
+    ]
+  },
   "042f62fc-6c2e-4b8b-8114-8dab7f974631": {
     "name": "Luude",
     "source": "lastfm",
@@ -729,6 +775,11 @@
         1
       ]
     ]
+  },
+  "10b862f1-0863-4a71-a37f-f39b10f20705": {
+    "name": "Saint Ludo",
+    "source": "lastfm",
+    "tags": []
   },
   "115dc8c9-cb04-4dd6-859e-39739eb57215": {
     "name": "That Mexican OT",
@@ -2488,6 +2539,52 @@
       ],
       [
         "lounge",
+        1
+      ]
+    ]
+  },
+  "4545675e-4006-4271-8e82-703cae7e1748": {
+    "name": "MK",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "trance",
+        41
+      ],
+      [
+        "exit trance",
+        16
+      ],
+      [
+        "podcast",
+        12
+      ],
+      [
+        "deep house",
+        3
+      ],
+      [
+        "mk",
+        2
+      ],
+      [
+        "electronic",
+        2
+      ],
+      [
+        "newy top 5",
+        1
+      ],
+      [
+        "classic",
+        1
+      ],
+      [
+        "incredible",
         1
       ]
     ]
@@ -8046,6 +8143,52 @@
       ]
     ]
   },
+  "c3684c43-f507-46e4-a4a4-c2570314f104": {
+    "name": "Potter Payper",
+    "source": "lastfm",
+    "tags": [
+      [
+        "uk",
+        100
+      ],
+      [
+        "rap",
+        100
+      ],
+      [
+        "uk hip hop",
+        29
+      ],
+      [
+        "hip hop",
+        29
+      ],
+      [
+        "road rap",
+        15
+      ],
+      [
+        "british",
+        4
+      ],
+      [
+        "hip-hop",
+        4
+      ],
+      [
+        "england",
+        1
+      ],
+      [
+        "british hip-hop",
+        1
+      ],
+      [
+        "british rap",
+        1
+      ]
+    ]
+  },
   "c5393047-0c44-48eb-b5a8-070759f04371": {
     "name": "Goldie",
     "source": "lastfm",
@@ -10349,6 +10492,52 @@
       ]
     ]
   },
+  "f9ad56b5-6f41-4cdc-b859-3370c8bff3e2": {
+    "name": "Balu Brigada",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "indie",
+        100
+      ],
+      [
+        "new zealand",
+        66
+      ],
+      [
+        "indie rock",
+        66
+      ],
+      [
+        "alternative",
+        19
+      ],
+      [
+        "alternative pop",
+        8
+      ],
+      [
+        "pop",
+        8
+      ],
+      [
+        "idnie pop",
+        1
+      ],
+      [
+        "groove-pop",
+        1
+      ],
+      [
+        "went to a concert",
+        1
+      ]
+    ]
+  },
   "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7": {
     "name": "Medium Build",
     "source": "lastfm",
@@ -10483,6 +10672,52 @@
       ],
       [
         "punk",
+        1
+      ]
+    ]
+  },
+  "fdfad2ff-6b6d-4f94-8a33-295944b2bd31": {
+    "name": "After",
+    "source": "lastfm",
+    "tags": [
+      [
+        "progressive rock",
+        100
+      ],
+      [
+        "polish",
+        34
+      ],
+      [
+        "art rock",
+        18
+      ],
+      [
+        "progressive",
+        13
+      ],
+      [
+        "trip hop",
+        7
+      ],
+      [
+        "indietronica",
+        5
+      ],
+      [
+        "rock",
+        3
+      ],
+      [
+        "trip-hop",
+        1
+      ],
+      [
+        "pop rock",
+        1
+      ],
+      [
+        "breakbeat",
         1
       ]
     ]
