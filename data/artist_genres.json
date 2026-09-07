@@ -6502,6 +6502,28 @@
       ]
     ]
   },
+  "96cfb835-c049-4637-a07d-95753cd43d68": {
+    "name": "Haiden Henderson",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "rock",
+        25
+      ],
+      [
+        "california",
+        4
+      ],
+      [
+        "pop rock",
+        4
+      ]
+    ]
+  },
   "980604d4-fc2b-4778-8fc5-a7d28e52ab85": {
     "name": "Silva Bumpa",
     "source": "lastfm",
@@ -10446,6 +10468,52 @@
       ]
     ]
   },
+  "f82bcf78-5b69-4622-a5ef-73800768d9ac": {
+    "name": "JAY-Z",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hip-hop",
+        100
+      ],
+      [
+        "rap",
+        79
+      ],
+      [
+        "hip hop",
+        25
+      ],
+      [
+        "east coast rap",
+        22
+      ],
+      [
+        "jay-z",
+        7
+      ],
+      [
+        "new york",
+        3
+      ],
+      [
+        "east coast",
+        3
+      ],
+      [
+        "american",
+        1
+      ],
+      [
+        "brooklyn",
+        1
+      ],
+      [
+        "gangsta rap",
+        1
+      ]
+    ]
+  },
   "f95d0f4f-d344-4acd-bec8-cc512b40f629": {
     "name": "Julia Jacklin",
     "source": "lastfm",
@@ -10999,6 +11067,52 @@
       ],
       [
         "uk",
+        1
+      ]
+    ]
+  },
+  "name:miley": {
+    "name": "Miley",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "female vocalists",
+        55
+      ],
+      [
+        "dance",
+        26
+      ],
+      [
+        "disney",
+        24
+      ],
+      [
+        "guilty pleasure",
+        7
+      ],
+      [
+        "miley cyrus",
+        5
+      ],
+      [
+        "pop rock",
+        5
+      ],
+      [
+        "urban",
+        1
+      ],
+      [
+        "better than selena gomez",
+        1
+      ],
+      [
+        "american",
         1
       ]
     ]

@@ -20,6 +20,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Ain't In LA"
   },
+  "after|||blind": {
+    "artist": "After",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Blind"
+  },
   "aj tracey|||baja blast": {
     "artist": "AJ Tracey",
     "category": "manual",
@@ -111,12 +118,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "This Is How We Walk On The Moon"
   },
+  "atrip|||langur": {
+    "artist": "ATRIP",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Langur"
+  },
   "baby queen|||permanently obsessed": {
     "artist": "Baby Queen",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Permanently Obsessed"
+  },
+  "balu brigada|||bedhead": {
+    "artist": "Balu Brigada",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "BedHead"
   },
   "barry can't swim|||dance dance dance!": {
     "artist": "Barry Can't Swim",
@@ -272,6 +293,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Me and You"
   },
+  "bonobo|||talk to me": {
+    "artist": "Bonobo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Talk To Me"
+  },
   "cannelle|||bb blue": {
     "artist": "Cannelle",
     "category": "manual",
@@ -405,6 +433,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Change"
   },
+  "chris stassy|||u know me": {
+    "artist": "CHRIS STASSY",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "U Know Me"
+  },
   "cloonee|||good girl": {
     "artist": "Cloonee",
     "category": "manual",
@@ -475,6 +510,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "snake the drain"
   },
+  "diiv|||kid": {
+    "artist": "DIIV",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Kid"
+  },
   "diiv|||the fountain": {
     "artist": "DIIV",
     "category": "manual",
@@ -488,6 +530,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Another Year Alone"
+  },
+  "dominic fike|||wallflower": {
+    "artist": "Dominic Fike",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Wallflower"
   },
   "ecca vandal|||cruising to self soothe": {
     "artist": "Ecca Vandal",
@@ -510,12 +559,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "RockWave"
   },
+  "ezra collective|||jubilee feeling": {
+    "artist": "Ezra Collective",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Jubilee Feeling"
+  },
   "ezra collective|||well organised": {
     "artist": "Ezra Collective",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Well Organised"
+  },
+  "fat dog|||call it what you want": {
+    "artist": "Fat Dog",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Call It What You Want"
   },
   "fat dog|||cancel me (i'm tired)": {
     "artist": "Fat Dog",
@@ -601,6 +664,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Hanging Out To Dry"
   },
+  "flowerovlove|||girls will be girls": {
+    "artist": "flowerovlove",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "girls will be girls"
+  },
   "flowerovlove|||in my victoria's secret": {
     "artist": "flowerovlove",
     "category": "manual",
@@ -628,6 +698,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Lead Dem"
+  },
+  "friction|||your love": {
+    "artist": "Friction",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Your Love"
   },
   "frost children|||satellites": {
     "artist": "Frost Children",
@@ -860,6 +937,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "The People That Saved Me"
   },
+  "kanine|||power": {
+    "artist": "Kanine",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Power"
+  },
+  "kanine|||surrender": {
+    "artist": "Kanine",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Surrender"
+  },
   "kelela|||the bridge": {
     "artist": "Kelela",
     "category": "manual",
@@ -873,6 +964,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Pistol"
+  },
+  "kettama|||look out for me: kettama version": {
+    "artist": "KETTAMA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "LOOK OUT FOR ME: KETTAMA VERSION"
   },
   "kwn|||risk it all": {
     "artist": "kwn",
@@ -901,6 +999,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Quiereme"
+  },
+  "ledbyher|||on the table": {
+    "artist": "Ledbyher",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "On The Table"
   },
   "len|||pick up the phone": {
     "artist": "Len",
@@ -992,6 +1097,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Move Time"
+  },
+  "mk|||17": {
+    "artist": "MK",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "17"
   },
   "moses boyd|||say yeah": {
     "artist": "Moses Boyd",
@@ -1231,12 +1343,33 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "i hate Berlin!!"
   },
+  "paris paloma|||miyazaki": {
+    "artist": "Paris Paloma",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Miyazaki"
+  },
   "paris paloma|||pre-raphaelite": {
     "artist": "Paris Paloma",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Pre-Raphaelite"
+  },
+  "paris paloma|||silhouette on the hill": {
+    "artist": "Paris Paloma",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Silhouette on the Hill"
+  },
+  "paris paloma|||stem the flow": {
+    "artist": "Paris Paloma",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Stem The Flow"
   },
   "peggy gou|||wo, man": {
     "artist": "Peggy Gou",
@@ -1258,6 +1391,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "LEGACY"
+  },
+  "potter payper|||fwm": {
+    "artist": "Potter Payper",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "FWM"
   },
   "queens of the stone age|||easy street": {
     "artist": "Queens of the Stone Age",
@@ -1392,6 +1532,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Send Shots"
   },
+  "saint ludo|||808": {
+    "artist": "Saint Ludo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "808"
+  },
   "sam gellaitry|||longing": {
     "artist": "Sam Gellaitry",
     "category": "manual",
@@ -1440,6 +1587,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "keep me going (BIRDBRAIN)"
+  },
+  "slayr|||try and fail": {
+    "artist": "slayr",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Try and Fail"
   },
   "slayyyter|||brand new chanel$": {
     "artist": "Slayyyter",
@@ -1685,6 +1839,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "She's My Religion"
+  },
+  "wishy|||sensational": {
+    "artist": "Wishy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sensational"
   },
   "wolf alice|||gospel oak": {
     "artist": "Wolf Alice",
