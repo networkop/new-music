@@ -1995,6 +1995,40 @@
       ]
     ]
   },
+  "35521d07-4346-49f6-a40e-5b04b70f871e": {
+    "name": "Natanya",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        100
+      ],
+      [
+        "british",
+        66
+      ],
+      [
+        "indie",
+        16
+      ],
+      [
+        "pop",
+        8
+      ],
+      [
+        "queen",
+        8
+      ],
+      [
+        "contemporary rnb",
+        8
+      ]
+    ]
+  },
   "3576a9ae-904b-4043-a82b-b8268a1aca86": {
     "name": "METTE",
     "source": "lastfm",
@@ -2079,6 +2113,52 @@
       ],
       [
         "artist to watch",
+        1
+      ]
+    ]
+  },
+  "36086094-c2a4-49b9-8572-0fbf12fc3409": {
+    "name": "Ashe",
+    "source": "lastfm",
+    "tags": [
+      [
+        "future garage",
+        100
+      ],
+      [
+        "trip hop",
+        74
+      ],
+      [
+        "microhouse",
+        34
+      ],
+      [
+        "downtempo",
+        26
+      ],
+      [
+        "ambient house",
+        13
+      ],
+      [
+        "indie pop",
+        3
+      ],
+      [
+        "indie",
+        1
+      ],
+      [
+        "pop",
+        1
+      ],
+      [
+        "glitch hop",
+        1
+      ],
+      [
+        "usa",
         1
       ]
     ]
@@ -3206,6 +3286,52 @@
       [
         "indie pop",
         1
+      ]
+    ]
+  },
+  "50b41344-7a92-4e53-8c93-f38c66cf68f3": {
+    "name": "Dimension",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "fusion",
+        87
+      ],
+      [
+        "jazz",
+        52
+      ],
+      [
+        "japanese",
+        32
+      ],
+      [
+        "trance",
+        16
+      ],
+      [
+        "jazz fusion",
+        13
+      ],
+      [
+        "electronic",
+        11
+      ],
+      [
+        "liquid funk",
+        3
+      ],
+      [
+        "uplifting trance",
+        2
+      ],
+      [
+        "dnb",
+        2
       ]
     ]
   },
@@ -7001,6 +7127,52 @@
       [
         "indie rock",
         2
+      ]
+    ]
+  },
+  "ab1a3f85-e0ea-470a-af5c-175447ae774c": {
+    "name": "underscores",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hyperpop",
+        100
+      ],
+      [
+        "indie pop",
+        62
+      ],
+      [
+        "electronic",
+        36
+      ],
+      [
+        "indietronica",
+        32
+      ],
+      [
+        "indie rock",
+        16
+      ],
+      [
+        "electropop",
+        7
+      ],
+      [
+        "united states",
+        6
+      ],
+      [
+        "glitch pop",
+        2
+      ],
+      [
+        "future bass",
+        1
+      ],
+      [
+        "indie",
+        1
       ]
     ]
   },

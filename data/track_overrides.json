@@ -748,6 +748,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "What If It's Right?"
   },
+  "haiden henderson|||i wanna be your girl": {
+    "artist": "Haiden Henderson",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "i wanna be your girl"
+  },
   "headie one|||turnt to a target": {
     "artist": "Headie One",
     "category": "manual",
@@ -824,6 +831,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Sticks 'N' Stones"
+  },
+  "jay-z|||99 problems": {
+    "artist": "JAY-Z",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "99 Problems"
   },
   "jazzy|||invisible": {
     "artist": "Jazzy",
@@ -958,12 +972,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "the bridge"
   },
+  "keo|||bird on the wire": {
+    "artist": "Keo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Bird On The Wire"
+  },
   "keo|||pistol": {
     "artist": "Keo",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Pistol"
+  },
+  "keo|||that's me": {
+    "artist": "Keo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "That's Me"
   },
   "kettama|||look out for me: kettama version": {
     "artist": "KETTAMA",
@@ -1091,6 +1119,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "SMALL WORLD"
   },
+  "miley|||bass persuades": {
+    "artist": "Miley",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Bass Persuades"
+  },
   "mj cole|||move time": {
     "artist": "MJ Cole",
     "category": "manual",
@@ -1104,6 +1139,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "17"
+  },
+  "mk|||leaving": {
+    "artist": "MK",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Leaving"
   },
   "moses boyd|||say yeah": {
     "artist": "Moses Boyd",
@@ -1153,6 +1195,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "4AM"
+  },
+  "nemzzz|||gass": {
+    "artist": "Nemzzz",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "GASS"
   },
   "nero|||we're not alone": {
     "artist": "Nero",
@@ -1538,6 +1587,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "808"
+  },
+  "saint ludo|||subliminals": {
+    "artist": "Saint Ludo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Subliminals"
   },
   "sam gellaitry|||longing": {
     "artist": "Sam Gellaitry",
