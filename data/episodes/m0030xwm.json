@@ -1,0 +1,1094 @@
+{
+  "pid": "m0030xwm",
+  "broadcast_start": "2026-09-09T18:00:00+01:00",
+  "schedule_date": "2026-09-09",
+  "title": "Slipknot are back!",
+  "tracks": [
+    {
+      "artist": "Chase & Status",
+      "title": "Gone Too Far",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fn93",
+        "duration": 244,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Gone Too Far",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9bx2h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p0cj9189",
+            "name": "Debbie",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0f9eaed6-a05c-48ec-be0a-37accee9b9ef"
+          }
+        ],
+        "title": "Gone Too Far",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "brand new chanel$",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p376p2",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "brand new chanel$",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Records/Columbia",
+        "release_title": "brand new chanel$",
+        "record_id": "n9rwmg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "brand new chanel$",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slipknot",
+      "title": "Duality",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p002kmg6",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p012d8mf",
+          "musicbrainz_gid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+          "name": "Slipknot"
+        },
+        "artist": "Slipknot",
+        "track_title": "Duality",
+        "track_number": null,
+        "publisher": "EMI Music",
+        "record_label": "Roadrunner",
+        "release_title": "Duality",
+        "record_id": "nzncwf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8mf",
+            "name": "Slipknot",
+            "role": "Performer",
+            "musicbrainz_gid": "a466c2a2-6517-42fb-a160-1087c3bafd9f"
+          }
+        ],
+        "title": "Duality",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Cancel Me (I'm Tired)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzbktz",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Cancel Me (I'm Tired)",
+        "track_number": "3",
+        "publisher": "Domino Publishing Company Ltd/BMG (Music) Rights Limited",
+        "record_label": "Domino Recording Co.",
+        "release_title": "Cancel Me (I'm Tired)",
+        "record_id": "n99qvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Cancel Me (I'm Tired)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Andy C",
+      "title": "Come Together",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4rlr3",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p012dzb8",
+          "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314",
+          "name": "Andy C"
+        },
+        "artist": "Andy C",
+        "track_title": "Come Together",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Armada",
+        "release_title": null,
+        "record_id": "n9b3qx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dzb8",
+            "name": "Andy C",
+            "role": "Performer",
+            "musicbrainz_gid": "ec853694-30a1-4c7e-84e6-4ca87ee3c314"
+          },
+          {
+            "pid": "p08rqbzn",
+            "name": "Mali-Koa Hood",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e409e007-76b9-4aad-acf5-5dcf557c6f7a"
+          }
+        ],
+        "title": "Come Together",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "Summer Fruits",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2n96v",
+        "duration": 145,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "Summer Fruits",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Recordings Limited",
+        "release_title": null,
+        "record_id": "n9rm6z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "Summer Fruits",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "F3miii",
+      "title": "TAKE A TRIP",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6nk84",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p0kbzhr3",
+          "musicbrainz_gid": "0e55d4b1-6a3e-4565-accb-e1da78e83ff3",
+          "name": "F3miii"
+        },
+        "artist": "F3miii",
+        "track_title": "TAKE A TRIP",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bgdq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kbzhr3",
+            "name": "F3miii",
+            "role": "Performer",
+            "musicbrainz_gid": "0e55d4b1-6a3e-4565-accb-e1da78e83ff3"
+          },
+          {
+            "pid": "p0gm29nq",
+            "name": "Bricknasty",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "51f5a1d7-613d-4199-93dc-871fde0567e1"
+          },
+          {
+            "pid": "p0c5typ7",
+            "name": "KhakiKid",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "946c2140-1c5f-4ac6-b2fa-461465226d35"
+          }
+        ],
+        "title": "TAKE A TRIP",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slipknot",
+      "title": "Custer",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8smxz",
+        "duration": 247,
+        "primary_contributor": {
+          "pid": "p012d8mf",
+          "musicbrainz_gid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+          "name": "Slipknot"
+        },
+        "artist": "Slipknot",
+        "track_title": "Custer",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Roadrunner Records",
+        "release_title": null,
+        "record_id": "n3zxr4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8mf",
+            "name": "Slipknot",
+            "role": "Performer",
+            "musicbrainz_gid": "a466c2a2-6517-42fb-a160-1087c3bafd9f"
+          }
+        ],
+        "title": "Custer",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slipknot",
+      "title": "Arsenal",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8sp8s",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0p8sp95",
+          "musicbrainz_gid": null,
+          "name": "Slipknot"
+        },
+        "artist": "Slipknot",
+        "track_title": "Arsenal",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Roadrunner Records",
+        "release_title": null,
+        "record_id": "n9czp8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p8sp95",
+            "name": "Slipknot",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Arsenal",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "mr useless",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0hcfjyx",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "mr useless",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n86rh8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          },
+          {
+            "pid": "p02wpwwm",
+            "name": "SG Lewis",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ab413f29-71af-4f7f-8ca8-5ece68beeaf3"
+          }
+        ],
+        "title": "mr useless",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "A Different Kind Of Happiness",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8lw5f",
+        "duration": 239,
+        "primary_contributor": {
+          "pid": "p0223f4n",
+          "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+          "name": "Nothing But Thieves"
+        },
+        "artist": "Nothing But Thieves",
+        "track_title": "A Different Kind Of Happiness",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9bmfq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0223f4n",
+            "name": "Nothing But Thieves",
+            "role": "Performer",
+            "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e"
+          }
+        ],
+        "title": "A Different Kind Of Happiness",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Bobby",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p51gdk",
+        "duration": 235,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "Bobby",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dead Oceans",
+        "release_title": null,
+        "record_id": "n9b5hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "Bobby",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "Vogue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rscx",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "Vogue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LAOLAO Records",
+        "release_title": null,
+        "record_id": "n9b3rz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "Vogue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiana Major9",
+      "title": "alright!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8stgl",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p060jgwb",
+          "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950",
+          "name": "Tiana Major9"
+        },
+        "artist": "Tiana Major9",
+        "track_title": "alright!",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "+1 Records",
+        "release_title": null,
+        "record_id": "n9bxqd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p060jgwb",
+            "name": "Tiana Major9",
+            "role": "Performer",
+            "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950"
+          }
+        ],
+        "title": "alright!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Yung Miami",
+      "title": "Spend Dat",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p63chn",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p09ztqw5",
+          "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c",
+          "name": "Yung Miami"
+        },
+        "artist": "Yung Miami",
+        "track_title": "Spend Dat",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Yung Miami LLC",
+        "release_title": null,
+        "record_id": "n99cvw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09ztqw5",
+            "name": "Yung Miami",
+            "role": "Performer",
+            "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c"
+          }
+        ],
+        "title": "Spend Dat",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Gangsta",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55jqp",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Gangsta",
+        "track_number": "11",
+        "publisher": "Art For Their Good, Administered by Songs of Kobalt Music Publishing(BMI)/Jesse SJ Music (BMI), Administered by Songs of Kobalt Music Publishing(BMI)/David Charles Marshall Biral Publishing Designee/S",
+        "record_label": "Alta Music Group",
+        "release_title": "Enigma POV",
+        "record_id": "n9b8jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Gangsta",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Denzel Curry",
+      "title": "DIFFERENCE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44frc",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p01kpc89",
+          "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+          "name": "Denzel Curry"
+        },
+        "artist": "Denzel Curry",
+        "track_title": "DIFFERENCE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LOMA VISTA",
+        "release_title": null,
+        "record_id": "n9b4br",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Performer",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          },
+          {
+            "pid": "p078c29h",
+            "name": "Kenny Beats",
+            "role": "Performer",
+            "musicbrainz_gid": "22ba00db-f132-4f3c-ab06-4ddaa4cc066b"
+          },
+          {
+            "pid": "p05lh5n3",
+            "name": "Yebba",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0aeea1ef-8d96-4556-8c4a-84b88ae271bb"
+          }
+        ],
+        "title": "DIFFERENCE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cloonee",
+      "title": "Good Girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1y5d6",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p06lx7yf",
+          "musicbrainz_gid": "b643c24d-4cd6-4531-88bc-62b39ce43ee1",
+          "name": "Cloonee"
+        },
+        "artist": "Cloonee",
+        "track_title": "Good Girl",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hellbent Records",
+        "release_title": null,
+        "record_id": "n9rj5w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06lx7yf",
+            "name": "Cloonee",
+            "role": "Performer",
+            "musicbrainz_gid": "b643c24d-4cd6-4531-88bc-62b39ce43ee1"
+          },
+          {
+            "pid": "p06qn7w1",
+            "name": "Prospa",
+            "role": "Performer",
+            "musicbrainz_gid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a"
+          },
+          {
+            "pid": "p094szy3",
+            "name": "Tristan Henry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "cf89c56d-1d3b-4083-b0ce-bed25f0dc9c1"
+          }
+        ],
+        "title": "Good Girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ayra Starr",
+      "title": "Heaven Baby",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p895xt",
+        "duration": 159,
+        "primary_contributor": {
+          "pid": "p097mf81",
+          "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4",
+          "name": "Ayra Starr"
+        },
+        "artist": "Ayra Starr",
+        "track_title": "Heaven Baby",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b84m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097mf81",
+            "name": "Ayra Starr",
+            "role": "Performer",
+            "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4"
+          },
+          {
+            "pid": "p03gxfkl",
+            "name": "ZAYN",
+            "role": "Performer",
+            "musicbrainz_gid": "985f7e6f-0a7e-4de7-b9ec-a5dac63cb2f7"
+          }
+        ],
+        "title": "Heaven Baby",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dylan",
+      "title": "to love and to lose",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8szxf",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p07p5s32",
+          "musicbrainz_gid": "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a",
+          "name": "Dylan"
+        },
+        "artist": "Dylan",
+        "track_title": "to love and to lose",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n9czpm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07p5s32",
+            "name": "Dylan",
+            "role": "Performer",
+            "musicbrainz_gid": "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a"
+          }
+        ],
+        "title": "to love and to lose",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ATRIP",
+      "title": "Langur",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5rcbn",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p06pfrw1",
+          "musicbrainz_gid": "c98c02c5-eb3e-4ae3-b6c1-c851187830d1",
+          "name": "ATRIP"
+        },
+        "artist": "ATRIP",
+        "track_title": "Langur",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "TANZPARTEI",
+        "release_title": "PLASTERBOY",
+        "record_id": "n9bb2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06pfrw1",
+            "name": "ATRIP",
+            "role": "Performer",
+            "musicbrainz_gid": "c98c02c5-eb3e-4ae3-b6c1-c851187830d1"
+          }
+        ],
+        "title": "Langur",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "slayr",
+      "title": "Try and Fail",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w7gg",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0nthnwm",
+          "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+          "name": "slayr"
+        },
+        "artist": "slayr",
+        "track_title": "Try and Fail",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "slayr",
+        "release_title": "Try and Fail",
+        "record_id": "n9bj6d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Performer",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          },
+          {
+            "pid": "p09hn4vj",
+            "name": "SoFaygo",
+            "role": "Performer",
+            "musicbrainz_gid": "654d48fb-4fe4-472d-81e6-039e54f2f27b"
+          }
+        ],
+        "title": "Try and Fail",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nemzzz",
+      "title": "GASS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fx55",
+        "duration": 114,
+        "primary_contributor": {
+          "pid": "p0bljhs9",
+          "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+          "name": "Nemzzz"
+        },
+        "artist": "Nemzzz",
+        "track_title": "GASS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": null,
+        "record_id": "n9bm3b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bljhs9",
+            "name": "Nemzzz",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+          },
+          {
+            "pid": "p01k2lfc",
+            "name": "Travis Scott",
+            "role": "Performer",
+            "musicbrainz_gid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+          }
+        ],
+        "title": "GASS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kanine",
+      "title": "Surrender",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7dl0b",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p059dp00",
+          "musicbrainz_gid": "cfe0e278-18ac-492f-956a-d8c419f53af1",
+          "name": "Kanine"
+        },
+        "artist": "Kanine",
+        "track_title": "Surrender",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UKF",
+        "release_title": null,
+        "record_id": "n9bwpc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p059dp00",
+            "name": "Kanine",
+            "role": "Performer",
+            "musicbrainz_gid": "cfe0e278-18ac-492f-956a-d8c419f53af1"
+          },
+          {
+            "pid": "p01kmxgl",
+            "name": "Jem Cooke",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c461d82f-3e88-40d4-80d9-a523f1b34a57"
+          }
+        ],
+        "title": "Surrender",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ODUMODUBLVCK",
+      "title": "Isale Eko",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67syy",
+        "duration": 140,
+        "primary_contributor": {
+          "pid": "p0fs12q6",
+          "musicbrainz_gid": "330054ae-c442-489e-8901-10cff96b819b",
+          "name": "ODUMODUBLVCK"
+        },
+        "artist": "ODUMODUBLVCK",
+        "track_title": "Isale Eko",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UMG Recordings",
+        "release_title": null,
+        "record_id": "n9bddm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fs12q6",
+            "name": "ODUMODUBLVCK",
+            "role": "Performer",
+            "musicbrainz_gid": "330054ae-c442-489e-8901-10cff96b819b"
+          }
+        ],
+        "title": "Isale Eko",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Qendresa",
+      "title": "Besitos",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7m0f4",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p08zzdph",
+          "musicbrainz_gid": "56a210e8-5482-4b52-a8c4-eaf785cbcb59",
+          "name": "Qendresa"
+        },
+        "artist": "Qendresa",
+        "track_title": "Besitos",
+        "track_number": null,
+        "publisher": "Warp Publishing",
+        "record_label": "dream city discs",
+        "release_title": null,
+        "record_id": "n9b55q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08zzdph",
+            "name": "Qendresa",
+            "role": "Performer",
+            "musicbrainz_gid": "56a210e8-5482-4b52-a8c4-eaf785cbcb59"
+          }
+        ],
+        "title": "Besitos",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Balu Brigada",
+      "title": "BedHead",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vy8r",
+        "duration": 302,
+        "primary_contributor": {
+          "pid": "p0jb3y86",
+          "musicbrainz_gid": "f9ad56b5-6f41-4cdc-b859-3370c8bff3e2",
+          "name": "Balu Brigada"
+        },
+        "artist": "Balu Brigada",
+        "track_title": "BedHead",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "WM New Zealand",
+        "release_title": "BedHead",
+        "record_id": "n9bj65",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jb3y86",
+            "name": "Balu Brigada",
+            "role": "Performer",
+            "musicbrainz_gid": "f9ad56b5-6f41-4cdc-b859-3370c8bff3e2"
+          }
+        ],
+        "title": "BedHead",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ezra Collective",
+      "title": "Jubilee Feeling",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7dn62",
+        "duration": 254,
+        "primary_contributor": {
+          "pid": "p04fwqt0",
+          "musicbrainz_gid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d",
+          "name": "Ezra Collective"
+        },
+        "artist": "Ezra Collective",
+        "track_title": "Jubilee Feeling",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9bdx8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04fwqt0",
+            "name": "Ezra Collective",
+            "role": "Performer",
+            "musicbrainz_gid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d"
+          }
+        ],
+        "title": "Jubilee Feeling",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

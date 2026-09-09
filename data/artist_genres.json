@@ -5729,6 +5729,52 @@
       ]
     ]
   },
+  "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a": {
+    "name": "Dylan",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "darkstep",
+        72
+      ],
+      [
+        "techstep",
+        20
+      ],
+      [
+        "darkside",
+        15
+      ],
+      [
+        "pop",
+        6
+      ],
+      [
+        "british",
+        2
+      ],
+      [
+        "dnb",
+        2
+      ],
+      [
+        "drum n bass",
+        1
+      ],
+      [
+        "neurofunk",
+        1
+      ],
+      [
+        "ambient",
+        1
+      ]
+    ]
+  },
   "859d0860-d480-4efd-970c-c05d5f1776b8": {
     "name": "Beyoncé",
     "source": "lastfm",
@@ -6805,6 +6851,52 @@
       [
         "house",
         100
+      ]
+    ]
+  },
+  "a466c2a2-6517-42fb-a160-1087c3bafd9f": {
+    "name": "Slipknot",
+    "source": "lastfm",
+    "tags": [
+      [
+        "nu metal",
+        100
+      ],
+      [
+        "metal",
+        76
+      ],
+      [
+        "heavy metal",
+        30
+      ],
+      [
+        "nu-metal",
+        19
+      ],
+      [
+        "rock",
+        9
+      ],
+      [
+        "alternative metal",
+        8
+      ],
+      [
+        "alternative",
+        2
+      ],
+      [
+        "american",
+        1
+      ],
+      [
+        "slipknot",
+        1
+      ],
+      [
+        "metalcore",
+        1
       ]
     ]
   },
@@ -8379,6 +8471,52 @@
       ],
       [
         "british rap",
+        1
+      ]
+    ]
+  },
+  "c4ac4b97-2eac-46f6-85ae-f916c93847e4": {
+    "name": "Ayra Starr",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "benin",
+        79
+      ],
+      [
+        "afrobeats",
+        40
+      ],
+      [
+        "soul",
+        29
+      ],
+      [
+        "nigeria",
+        10
+      ],
+      [
+        "pop",
+        7
+      ],
+      [
+        "african",
+        2
+      ],
+      [
+        "afropop",
+        1
+      ],
+      [
+        "female vocalist",
+        1
+      ],
+      [
+        "electronic",
         1
       ]
     ]
@@ -11331,6 +11469,52 @@
       ],
       [
         "liquid funk",
+        1
+      ]
+    ]
+  },
+  "name:slipknot": {
+    "name": "Slipknot",
+    "source": "lastfm",
+    "tags": [
+      [
+        "nu metal",
+        100
+      ],
+      [
+        "metal",
+        76
+      ],
+      [
+        "heavy metal",
+        30
+      ],
+      [
+        "nu-metal",
+        19
+      ],
+      [
+        "rock",
+        9
+      ],
+      [
+        "alternative metal",
+        8
+      ],
+      [
+        "alternative",
+        2
+      ],
+      [
+        "american",
+        1
+      ],
+      [
+        "slipknot",
+        1
+      ],
+      [
+        "metalcore",
         1
       ]
     ]

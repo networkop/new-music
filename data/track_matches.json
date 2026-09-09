@@ -529,6 +529,11 @@
     "score": 1.0,
     "uri": "spotify:track:0IeBxP5BlIH2BDhQYVsRq3"
   },
+  "dylan|||to love and to lose": {
+    "matched": "Dylan - to love and to lose",
+    "score": 1.0,
+    "uri": "spotify:track:25KmVoAJzApNxuj6CDDwR5"
+  },
   "earthsignchels|||my daddy died": {
     "matched": null,
     "score": 0.0,
@@ -1579,6 +1584,11 @@
     "score": 1.0,
     "uri": "spotify:track:3KJ9LSGMl7vTZ1lHIP2CBZ"
   },
+  "shygirl|||mr useless": {
+    "matched": "Shygirl - mr useless",
+    "score": 1.0,
+    "uri": "spotify:track:1HogDCzANgKv9mE8MgeYKg"
+  },
   "sidney charles|||trip advisor (rhythm, snare, bass) 2025 warp": {
     "matched": "Sidney Charles - Trip Advisor (Rhythm, Snare, Bass) - 2025 Warp Mix",
     "score": 0.949,
@@ -1638,6 +1648,21 @@
     "matched": "Slayyyter - DANCE...",
     "score": 1.0,
     "uri": "spotify:track:5rfOARz6QO73wPATyMtQQZ"
+  },
+  "slipknot|||arsenal": {
+    "matched": "Slipknot - Arsenal",
+    "score": 1.0,
+    "uri": "spotify:track:3QEglzrnBHZg2yVGlo3G5j"
+  },
+  "slipknot|||custer": {
+    "matched": "Slipknot - Custer",
+    "score": 1.0,
+    "uri": "spotify:track:3GiJq4AQK7324mfIQbpiTf"
+  },
+  "slipknot|||duality": {
+    "matched": "Slipknot - Duality",
+    "score": 1.0,
+    "uri": "spotify:track:61mWefnWQOLf90gepjOCb3"
   },
   "slow pulp|||better man": {
     "matched": "Slow Pulp - Better Man",
