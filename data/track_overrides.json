@@ -118,6 +118,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "This Is How We Walk On The Moon"
   },
+  "ashe|||funeral": {
+    "artist": "Ashe",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Funeral"
+  },
   "atrip|||langur": {
     "artist": "ATRIP",
     "category": "manual",
@@ -524,6 +531,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "The Fountain"
   },
+  "dimension|||ghost town": {
+    "artist": "Dimension",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Ghost Town"
+  },
   "dj heartstring|||another year alone": {
     "artist": "DJ Heartstring",
     "category": "manual",
@@ -537,6 +551,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Wallflower"
+  },
+  "dylan|||to love and to lose": {
+    "artist": "Dylan",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "to love and to lose"
   },
   "ecca vandal|||cruising to self soothe": {
     "artist": "Ecca Vandal",
@@ -1273,6 +1294,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Milan (CC2)"
   },
+  "nothing but thieves|||a different kind of happiness": {
+    "artist": "Nothing But Thieves",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "A Different Kind Of Happiness"
+  },
   "nothing but thieves|||baby kool (evelyn)": {
     "artist": "Nothing But Thieves",
     "category": "manual",
@@ -1286,6 +1314,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Evolution"
+  },
+  "nothing but thieves|||is everybody going crazy": {
+    "artist": "Nothing But Thieves",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Is Everybody Going Crazy"
   },
   "nothing but thieves|||welcome to the dcc": {
     "artist": "Nothing But Thieves",
@@ -1623,6 +1658,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Alyse"
   },
+  "shygirl|||mr useless": {
+    "artist": "Shygirl",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "mr useless"
+  },
   "sidney charles|||trip advisor (rhythm, snare, bass) 2025 warp": {
     "artist": "Sidney Charles",
     "category": "manual",
@@ -1657,6 +1699,20 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "brand new chanel$"
+  },
+  "slipknot|||custer": {
+    "artist": "Slipknot",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Custer"
+  },
+  "slipknot|||duality": {
+    "artist": "Slipknot",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Duality"
   },
   "slow pulp|||better man": {
     "artist": "Slow Pulp",
@@ -1818,6 +1874,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "THAT GUY"
+  },
+  "underscores|||unlimited love": {
+    "artist": "underscores",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Unlimited Love"
   },
   "vince staples|||cotton": {
     "artist": "Vince Staples",

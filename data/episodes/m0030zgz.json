@@ -1,0 +1,1196 @@
+{
+  "pid": "m0030zgz",
+  "broadcast_start": "2026-09-10T18:00:00+01:00",
+  "schedule_date": "2026-09-10",
+  "title": "Shygirl Hottest Record",
+  "tracks": [
+    {
+      "artist": "Tiffany Day",
+      "title": "CONSTANTLY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntpzhw",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "CONSTANTLY",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n99gmw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          }
+        ],
+        "title": "CONSTANTLY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ADÉLA",
+      "title": "Nicole Kidman",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fhrl",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Nicole Kidman",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bqxq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          }
+        ],
+        "title": "Nicole Kidman",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "mr useless",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0hcfjyx",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "mr useless",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n86rh8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          },
+          {
+            "pid": "p02wpwwm",
+            "name": "SG Lewis",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ab413f29-71af-4f7f-8ca8-5ece68beeaf3"
+          }
+        ],
+        "title": "mr useless",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Dancing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8lzpl",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "Dancing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "n9bd33",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Dancing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Indecision",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5bqzn",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Indecision",
+        "track_number": null,
+        "publisher": "Big Pluto Ltd/AWAL Recordings Ltd",
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9b9p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          },
+          {
+            "pid": "p044mphm",
+            "name": "Daniel Caesar",
+            "role": "Performer",
+            "musicbrainz_gid": "b46e298d-d3a5-4695-a03e-63e8c523b23e"
+          }
+        ],
+        "title": "Indecision",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Always On Your Side",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gc4l",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Always On Your Side",
+        "track_number": null,
+        "publisher": "BMG",
+        "record_label": "Bonobo Music Inc.",
+        "release_title": null,
+        "record_id": "n9rqh8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          },
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          }
+        ],
+        "title": "Always On Your Side",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Overmono",
+      "title": "After The Rain",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rvxc",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p04mzzzy",
+          "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+          "name": "Overmono"
+        },
+        "artist": "Overmono",
+        "track_title": "After The Rain",
+        "track_number": null,
+        "publisher": "BMG Music Publishing Ltd.",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9bnfv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04mzzzy",
+            "name": "Overmono",
+            "role": "Performer",
+            "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa"
+          }
+        ],
+        "title": "After The Rain",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Cleo",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0b6h6bm",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Cleo",
+        "track_number": null,
+        "publisher": "BMG / Sony Music Publishing",
+        "record_label": "Because",
+        "release_title": null,
+        "record_id": "npnwmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Cleo",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Lucky [Hymn]",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p90jl6",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Lucky [Hymn]",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9czvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Lucky [Hymn]",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "If U Need It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0gslctv",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0813fy5",
+          "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316",
+          "name": "Sammy Virji"
+        },
+        "artist": "Sammy Virji",
+        "track_title": "If U Need It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Positiva / EMI",
+        "release_title": null,
+        "record_id": "n83cqm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "If U Need It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slipknot",
+      "title": "Arsenal",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8sp8s",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p012d8mf",
+          "musicbrainz_gid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+          "name": "Slipknot"
+        },
+        "artist": "Slipknot",
+        "track_title": "Arsenal",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Roadrunner Records",
+        "release_title": null,
+        "record_id": "n9czp8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8mf",
+            "name": "Slipknot",
+            "role": "Performer",
+            "musicbrainz_gid": "a466c2a2-6517-42fb-a160-1087c3bafd9f"
+          }
+        ],
+        "title": "Arsenal",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nemzzz",
+      "title": "GASS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fx55",
+        "duration": 114,
+        "primary_contributor": {
+          "pid": "p0bljhs9",
+          "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+          "name": "Nemzzz"
+        },
+        "artist": "Nemzzz",
+        "track_title": "GASS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": null,
+        "record_id": "n9bm3b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bljhs9",
+            "name": "Nemzzz",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+          },
+          {
+            "pid": "p01k2lfc",
+            "name": "Travis Scott",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+          }
+        ],
+        "title": "GASS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Travy",
+      "title": "Keep Up",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p682mb",
+        "duration": 89,
+        "primary_contributor": {
+          "pid": "p0k74clc",
+          "musicbrainz_gid": "13637ef6-e659-4c2e-9e78-ba0acceaa10e",
+          "name": "Travy"
+        },
+        "artist": "Travy",
+        "track_title": "Keep Up",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bzx6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k74clc",
+            "name": "Travy",
+            "role": "Performer",
+            "musicbrainz_gid": "13637ef6-e659-4c2e-9e78-ba0acceaa10e"
+          }
+        ],
+        "title": "Keep Up",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LATIN MAFIA",
+      "title": "Quiereme",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44zlr",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p0p44zlw",
+          "musicbrainz_gid": "33118d4b-cec1-4030-b37c-0e81fdf97dc8",
+          "name": "LATIN MAFIA"
+        },
+        "artist": "LATIN MAFIA",
+        "track_title": "Quiereme",
+        "track_number": "6",
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": "9 months & 50 hours",
+        "record_id": "n9b4c3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p44zlw",
+            "name": "LATIN MAFIA",
+            "role": "Performer",
+            "musicbrainz_gid": "33118d4b-cec1-4030-b37c-0e81fdf97dc8"
+          },
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p0ghfvkr",
+            "name": "bby",
+            "role": "Performer",
+            "musicbrainz_gid": "dfdb3f72-d28f-4eab-b3dd-644872d73245"
+          }
+        ],
+        "title": "Quiereme",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Gellaitry",
+      "title": "Longing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2ncvn",
+        "duration": 109,
+        "primary_contributor": {
+          "pid": "p028whry",
+          "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5",
+          "name": "Sam Gellaitry"
+        },
+        "artist": "Sam Gellaitry",
+        "track_title": "Longing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Major Recordings",
+        "release_title": "ANYWHERE HERE IS PERFECT (DELUXE)",
+        "record_id": "n9rm65",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p028whry",
+            "name": "Sam Gellaitry",
+            "role": "Performer",
+            "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5"
+          }
+        ],
+        "title": "Longing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "Floette",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p33mpt",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p06t96fd",
+          "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+          "name": "Arlo Parks"
+        },
+        "artist": "Arlo Parks",
+        "track_title": "Floette",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Transgressive",
+        "release_title": null,
+        "record_id": "n9rm8n",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06t96fd",
+            "name": "Arlo Parks",
+            "role": "Performer",
+            "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930"
+          },
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Floette",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Goldie",
+      "title": "Jungle Daze",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p155gj",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p012dtp7",
+          "musicbrainz_gid": "c5393047-0c44-48eb-b5a8-070759f04371",
+          "name": "Goldie"
+        },
+        "artist": "Goldie",
+        "track_title": "Jungle Daze",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LDN Records",
+        "release_title": null,
+        "record_id": "n9rddv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dtp7",
+            "name": "Goldie",
+            "role": "Performer",
+            "musicbrainz_gid": "c5393047-0c44-48eb-b5a8-070759f04371"
+          },
+          {
+            "pid": "p01h9qlc",
+            "name": "Natalie Williams",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "9fdfc286-e51b-4109-9bb0-06a1d4977946"
+          }
+        ],
+        "title": "Jungle Daze",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Eliza Rose",
+      "title": "Undercover Lover",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p911p5",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p0cpxh3j",
+          "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819",
+          "name": "Eliza Rose"
+        },
+        "artist": "Eliza Rose",
+        "track_title": "Undercover Lover",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Rosebud Recordings",
+        "release_title": null,
+        "record_id": "n9czq2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cpxh3j",
+            "name": "Eliza Rose",
+            "role": "Performer",
+            "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819"
+          }
+        ],
+        "title": "Undercover Lover",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JAE5",
+      "title": "Take Nobody",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p912dk",
+        "duration": 153,
+        "primary_contributor": {
+          "pid": "p07tqqj1",
+          "musicbrainz_gid": "ad2f22bc-9676-41b4-af51-6ab3a5e3f883",
+          "name": "JAE5"
+        },
+        "artist": "JAE5",
+        "track_title": "Take Nobody",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Records",
+        "release_title": null,
+        "record_id": "n9czq4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07tqqj1",
+            "name": "JAE5",
+            "role": "Performer",
+            "musicbrainz_gid": "ad2f22bc-9676-41b4-af51-6ab3a5e3f883"
+          },
+          {
+            "pid": "p038bb28",
+            "name": "J Hus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "eca85dd0-f1fb-4e83-8c47-61403f479254"
+          },
+          {
+            "pid": "p08kftpb",
+            "name": "Skillibeng",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2f639ba8-11ee-4128-9915-2303afd30078"
+          }
+        ],
+        "title": "Take Nobody",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Grafix",
+      "title": "Reflections Of U",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p912q3",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p01l32zv",
+          "musicbrainz_gid": "c02a5966-b5c4-483a-8326-483edcf3680e",
+          "name": "Grafix"
+        },
+        "artist": "Grafix",
+        "track_title": "Reflections Of U",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9czq5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l32zv",
+            "name": "Grafix",
+            "role": "Performer",
+            "musicbrainz_gid": "c02a5966-b5c4-483a-8326-483edcf3680e"
+          }
+        ],
+        "title": "Reflections Of U",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Temper City",
+      "title": "Reverse Psychlogy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8md71",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p0n8k6tv",
+          "musicbrainz_gid": "c74a9a82-29bf-486d-bf93-b4516ac3e338",
+          "name": "Temper City"
+        },
+        "artist": "Temper City",
+        "track_title": "Reverse Psychlogy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bmwx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n8k6tv",
+            "name": "Temper City",
+            "role": "Performer",
+            "musicbrainz_gid": "c74a9a82-29bf-486d-bf93-b4516ac3e338"
+          }
+        ],
+        "title": "Reverse Psychlogy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gurriers",
+      "title": "Nothing Happens Twice",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p912xh",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p0f0fgjx",
+          "musicbrainz_gid": "b3e28883-d118-4180-b458-568a18bc239d",
+          "name": "Gurriers"
+        },
+        "artist": "Gurriers",
+        "track_title": "Nothing Happens Twice",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Play It Again Sam",
+        "release_title": null,
+        "record_id": "n9b4r8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f0fgjx",
+            "name": "Gurriers",
+            "role": "Performer",
+            "musicbrainz_gid": "b3e28883-d118-4180-b458-568a18bc239d"
+          }
+        ],
+        "title": "Nothing Happens Twice",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Loathe",
+      "title": "Fortress Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p15mhm",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p06q4bjr",
+          "musicbrainz_gid": "56eb02c4-1f16-4613-8bb3-b4a752283fc3",
+          "name": "Loathe"
+        },
+        "artist": "Loathe",
+        "track_title": "Fortress Down",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SHARPTONE",
+        "release_title": null,
+        "record_id": "n9rcvm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06q4bjr",
+            "name": "Loathe",
+            "role": "Performer",
+            "musicbrainz_gid": "56eb02c4-1f16-4613-8bb3-b4a752283fc3"
+          }
+        ],
+        "title": "Fortress Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "High Contrast",
+      "title": "Around Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1jtvh",
+        "duration": 241,
+        "primary_contributor": {
+          "pid": "p012d9jl",
+          "musicbrainz_gid": "889b69e3-7b18-4889-b953-9f2931597204",
+          "name": "High Contrast"
+        },
+        "artist": "High Contrast",
+        "track_title": "Around Me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Highly Contrasting",
+        "release_title": null,
+        "record_id": "n9r6qd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9jl",
+            "name": "High Contrast",
+            "role": "Performer",
+            "musicbrainz_gid": "889b69e3-7b18-4889-b953-9f2931597204"
+          },
+          {
+            "pid": "p0dfh4d0",
+            "name": "Dawn Joseph",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "b585567b-f48f-4a4c-9ae7-2886d289c4ef"
+          }
+        ],
+        "title": "Around Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wolf Alice",
+      "title": "Hammond Song",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3s62q",
+        "duration": 340,
+        "primary_contributor": {
+          "pid": "p034xfbs",
+          "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+          "name": "Wolf Alice"
+        },
+        "artist": "Wolf Alice",
+        "track_title": "Hammond Song",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n9rwm3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p034xfbs",
+            "name": "Wolf Alice",
+            "role": "Performer",
+            "musicbrainz_gid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9"
+          }
+        ],
+        "title": "Hammond Song",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Coco Jones",
+      "title": "Body So Tea",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0dxsk",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p0d9mfw8",
+          "musicbrainz_gid": "bc089d56-5551-482f-babd-36365f9d9f0f",
+          "name": "Coco Jones"
+        },
+        "artist": "Coco Jones",
+        "track_title": "Body So Tea",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "DEF JAM",
+        "release_title": null,
+        "record_id": "n9rcjx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d9mfw8",
+            "name": "Coco Jones",
+            "role": "Performer",
+            "musicbrainz_gid": "bc089d56-5551-482f-babd-36365f9d9f0f"
+          }
+        ],
+        "title": "Body So Tea",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Twiggy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gjs9",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Twiggy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island/EMI",
+        "release_title": null,
+        "record_id": "n9rqhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Twiggy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Well Done Kid, You Did It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g8sc",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Well Done Kid, You Did It",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9bw9j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Well Done Kid, You Did It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Four Tet",
+      "title": "Human Voice",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3c3ty",
+        "duration": 391,
+        "primary_contributor": {
+          "pid": "p012dczj",
+          "musicbrainz_gid": "3bcff06f-675a-451f-9075-99e8657047e8",
+          "name": "Four Tet"
+        },
+        "artist": "Four Tet",
+        "track_title": "Human Voice",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Text Records",
+        "release_title": null,
+        "record_id": "n9bnhj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dczj",
+            "name": "Four Tet",
+            "role": "Performer",
+            "musicbrainz_gid": "3bcff06f-675a-451f-9075-99e8657047e8"
+          }
+        ],
+        "title": "Human Voice",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cannelle",
+      "title": "BB Blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxnt1v",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0nx7076",
+          "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e",
+          "name": "Cannelle"
+        },
+        "artist": "Cannelle",
+        "track_title": "BB Blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Cannelle",
+        "release_title": null,
+        "record_id": "n9r34g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nx7076",
+            "name": "Cannelle",
+            "role": "Performer",
+            "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e"
+          }
+        ],
+        "title": "BB Blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

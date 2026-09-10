@@ -7314,6 +7314,36 @@
       ]
     ]
   },
+  "ad2f22bc-9676-41b4-af51-6ab3a5e3f883": {
+    "name": "JAE5",
+    "source": "lastfm",
+    "tags": [
+      [
+        "afrobeats",
+        100
+      ],
+      [
+        "rap",
+        100
+      ],
+      [
+        "hip hop",
+        7
+      ],
+      [
+        "hip-hop",
+        7
+      ],
+      [
+        "british",
+        4
+      ],
+      [
+        "afrobears",
+        4
+      ]
+    ]
+  },
   "ae952d46-0f36-414c-90d4-f202ea2d4a71": {
     "name": "Tierra Whack",
     "source": "lastfm",
@@ -7613,6 +7643,52 @@
       [
         "british",
         33
+      ]
+    ]
+  },
+  "b3e28883-d118-4180-b458-568a18bc239d": {
+    "name": "Gurriers",
+    "source": "lastfm",
+    "tags": [
+      [
+        "post-punk",
+        100
+      ],
+      [
+        "irish",
+        36
+      ],
+      [
+        "ireland",
+        11
+      ],
+      [
+        "dublin",
+        11
+      ],
+      [
+        "noise rock",
+        3
+      ],
+      [
+        "crank wave",
+        3
+      ],
+      [
+        "garage rock",
+        1
+      ],
+      [
+        "garage punk",
+        1
+      ],
+      [
+        "acute sounds",
+        1
+      ],
+      [
+        "rock",
+        1
       ]
     ]
   },
@@ -8380,6 +8456,52 @@
       [
         "folk rock",
         2
+      ]
+    ]
+  },
+  "c02a5966-b5c4-483a-8326-483edcf3680e": {
+    "name": "Grafix",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "liquid funk",
+        57
+      ],
+      [
+        "electronic",
+        19
+      ],
+      [
+        "dnb",
+        18
+      ],
+      [
+        "jungle",
+        8
+      ],
+      [
+        "uk garage",
+        8
+      ],
+      [
+        "dubstep",
+        8
+      ],
+      [
+        "footwork",
+        2
+      ],
+      [
+        "all",
+        1
+      ],
+      [
+        "soul",
+        1
       ]
     ]
   },
@@ -9695,6 +9817,52 @@
       ],
       [
         "usa",
+        1
+      ]
+    ]
+  },
+  "e23abc5f-478a-4594-ad18-b3805b3c5316": {
+    "name": "Sammy Virji",
+    "source": "lastfm",
+    "tags": [
+      [
+        "uk garage",
+        100
+      ],
+      [
+        "electronic",
+        33
+      ],
+      [
+        "speed garage",
+        12
+      ],
+      [
+        "bassline",
+        12
+      ],
+      [
+        "british",
+        3
+      ],
+      [
+        "garage",
+        3
+      ],
+      [
+        "dance",
+        3
+      ],
+      [
+        "2-step",
+        1
+      ],
+      [
+        "english",
+        1
+      ],
+      [
+        "house",
         1
       ]
     ]
