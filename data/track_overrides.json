@@ -20,6 +20,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Ain't In LA"
   },
+  "adéla|||nicole kidman": {
+    "artist": "ADÉLA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Nicole Kidman"
+  },
   "after|||blind": {
     "artist": "After",
     "category": "manual",
@@ -769,6 +776,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "What If It's Right?"
   },
+  "gurriers|||nothing happens twice": {
+    "artist": "Gurriers",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Nothing Happens Twice"
+  },
   "haiden henderson|||i wanna be your girl": {
     "artist": "Haiden Henderson",
     "category": "manual",
@@ -831,6 +845,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "THE GOLDEN RECORD"
+  },
+  "jae5|||take nobody": {
+    "artist": "JAE5",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Take Nobody"
   },
   "jamie t|||3310": {
     "artist": "Jamie T",
@@ -1637,6 +1658,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "LONGING"
   },
+  "sammy virji|||if u need it": {
+    "artist": "Sammy Virji",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "If U Need It"
+  },
   "she’s green|||locket": {
     "artist": "she’s green",
     "category": "manual",
@@ -1657,6 +1685,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Alyse"
+  },
+  "shygirl|||cleo": {
+    "artist": "Shygirl",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Cleo"
   },
   "shygirl|||mr useless": {
     "artist": "Shygirl",
@@ -1944,6 +1979,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Pin Up Boys"
+  },
+  "westside cowboy|||well done kid, you did it": {
+    "artist": "Westside Cowboy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Well Done Kid, You Did It"
   },
   "whatmore|||on site": {
     "artist": "WHATMORE",
