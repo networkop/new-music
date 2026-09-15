@@ -160,6 +160,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dance Dance Dance!"
   },
+  "barry can't swim|||i could be madonna": {
+    "artist": "Barry Can't Swim",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I Could Be Madonna"
+  },
   "beabadoobee|||glue song": {
     "artist": "beabadoobee",
     "category": "manual",
@@ -313,6 +320,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Talk To Me"
+  },
+  "bonobo|||youths fountain": {
+    "artist": "Bonobo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Youths Fountain"
   },
   "cannelle|||bb blue": {
     "artist": "Cannelle",
@@ -509,6 +523,20 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Set You Free"
+  },
+  "denzel curry|||candlelight": {
+    "artist": "Denzel Curry",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "CANDLELIGHT"
+  },
+  "denzel curry|||crown": {
+    "artist": "Denzel Curry",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "CROWN"
   },
   "denzel curry|||difference": {
     "artist": "Denzel Curry",
@@ -1161,6 +1189,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "SMALL WORLD"
   },
+  "miley cyrus|||flowers": {
+    "artist": "Miley Cyrus",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Flowers"
+  },
+  "miley cyrus|||we can't stop": {
+    "artist": "Miley Cyrus",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "We Can't Stop"
+  },
   "miley|||bass persuades": {
     "artist": "Miley",
     "category": "manual",
@@ -1300,6 +1342,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Bite Back"
+  },
+  "nieve ella|||romance is a desert": {
+    "artist": "Nieve Ella",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Romance Is A Desert"
   },
   "ninajirachi|||wannacry": {
     "artist": "Ninajirachi",
@@ -1693,6 +1742,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Cleo"
   },
+  "shygirl|||lucky [hymn]": {
+    "artist": "Shygirl",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Lucky [Hymn]"
+  },
   "shygirl|||mr useless": {
     "artist": "Shygirl",
     "category": "manual",
@@ -1755,6 +1811,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Better Man"
+  },
+  "slow pulp|||spill": {
+    "artist": "Slow Pulp",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Spill"
   },
   "soak|||death valley fridge magnet": {
     "artist": "SOAK",

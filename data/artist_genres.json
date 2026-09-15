@@ -5132,6 +5132,52 @@
       ]
     ]
   },
+  "75b9caea-c639-4120-9391-05dbf15f30be": {
+    "name": "Freya Skye",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "uk",
+        100
+      ],
+      [
+        "disney",
+        29
+      ],
+      [
+        "british",
+        29
+      ],
+      [
+        "jesc",
+        15
+      ],
+      [
+        "jesc 2022",
+        15
+      ],
+      [
+        "junior eurovision",
+        15
+      ],
+      [
+        "female vocalist",
+        1
+      ],
+      [
+        "teen pop",
+        1
+      ],
+      [
+        "soundtrack",
+        1
+      ]
+    ]
+  },
   "77127115-2daf-4ca8-81c2-c3acb4ce0c31": {
     "name": "Bleech 9:3",
     "source": "lastfm",
@@ -6607,6 +6653,16 @@
       [
         "london",
         1
+      ]
+    ]
+  },
+  "92d62a2e-0e1d-4b6b-9327-6d4e2360eb08": {
+    "name": "Waylon Wyatt",
+    "source": "lastfm",
+    "tags": [
+      [
+        "united states",
+        100
       ]
     ]
   },

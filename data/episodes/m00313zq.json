@@ -1,0 +1,1064 @@
+{
+  "pid": "m00313zq",
+  "broadcast_start": "2026-09-15T18:00:00+01:00",
+  "schedule_date": "2026-09-15",
+  "title": "Joy Crookes and Denzel Curry Hottest Record",
+  "tracks": [
+    {
+      "artist": "Blossoms",
+      "title": "Additional Driver",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p74jc5",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Additional Driver",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Distiller Records LLP",
+        "release_title": null,
+        "record_id": "n9bddb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          },
+          {
+            "pid": "p038r1tj",
+            "name": "Declan McKenna",
+            "role": "Performer",
+            "musicbrainz_gid": "8b98035f-fbd2-4fb3-9c2f-263c7506680d"
+          }
+        ],
+        "title": "Additional Driver",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Baby Kool (Evelyn)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p849f3",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p0223f4n",
+          "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+          "name": "Nothing But Thieves"
+        },
+        "artist": "Nothing But Thieves",
+        "track_title": "Baby Kool (Evelyn)",
+        "track_number": null,
+        "publisher": "Peermusic (UK) (MCPS/BIEM)",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9rmhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0223f4n",
+            "name": "Nothing But Thieves",
+            "role": "Performer",
+            "musicbrainz_gid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e"
+          }
+        ],
+        "title": "Baby Kool (Evelyn)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Feet Don't Fail Me Now",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p09nylrp",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Feet Don't Fail Me Now",
+        "track_number": null,
+        "publisher": "BMG Rights Management Ltd &Promised Land",
+        "record_label": "Speakerbox Recordings",
+        "release_title": null,
+        "record_id": "n6v2jr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          }
+        ],
+        "title": "Feet Don't Fail Me Now",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Dancing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9472f",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "Dancing",
+        "track_number": "8",
+        "publisher": "Sony Music Publishing/Warner Chappel/BMI/Concord Music Publishing/Rhea Vasquez Robles (Copyright Control)",
+        "record_label": "FAMM",
+        "release_title": "What Are The Odds",
+        "record_id": "n9bd33",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Dancing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "After Dark",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fym2",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "After Dark",
+        "track_number": null,
+        "publisher": "hree Six Zero Pub Designee (BMI)",
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9bx2m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          }
+        ],
+        "title": "After Dark",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "The Hardest Thing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p632nz",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "The Hardest Thing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bd2q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "The Hardest Thing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ashe",
+      "title": "Stop The Wedding!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p80php",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p06xlksz",
+          "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409",
+          "name": "Ashe"
+        },
+        "artist": "Ashe",
+        "track_title": "Stop The Wedding!",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Stop The Wedding!",
+        "record_id": "n9b6qr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06xlksz",
+            "name": "Ashe",
+            "role": "Performer",
+            "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409"
+          }
+        ],
+        "title": "Stop The Wedding!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Perfect Crime",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ln5nt0",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Perfect Crime",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n8qfzn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          }
+        ],
+        "title": "Perfect Crime",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Painkiller",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rrlj",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Painkiller",
+        "track_number": null,
+        "publisher": "BMG RIghts Management",
+        "record_label": "Speakerbox",
+        "release_title": null,
+        "record_id": "n9c49x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          },
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          }
+        ],
+        "title": "Painkiller",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fred again..",
+      "title": "places to be",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0j1dl7j",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p07xvqx4",
+          "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e",
+          "name": "Fred again.."
+        },
+        "artist": "Fred again..",
+        "track_title": "places to be",
+        "track_number": null,
+        "publisher": "Promised Land Music administered by Sony Music Publishing (UK), Warner Geo Met Ric Music, Khlexs Dream and Hard Workin Black Folks Pub Designee (GMR) All rights administered by Warner Geo Met Ric Musi",
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n89v5j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          }
+        ],
+        "title": "places to be",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Gangsta",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55jqp",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Gangsta",
+        "track_number": "11",
+        "publisher": "Art For Their Good, Administered by Songs of Kobalt Music Publishing(BMI)/Jesse SJ Music (BMI), Administered by Songs of Kobalt Music Publishing(BMI)/David Charles Marshall Biral Publishing Designee/S",
+        "record_label": "Alta Music Group",
+        "release_title": "Enigma POV",
+        "record_id": "n9b8jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Gangsta",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nemzzz",
+      "title": "GASS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fx55",
+        "duration": 114,
+        "primary_contributor": {
+          "pid": "p0bljhs9",
+          "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+          "name": "Nemzzz"
+        },
+        "artist": "Nemzzz",
+        "track_title": "GASS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": null,
+        "record_id": "n9bm3b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bljhs9",
+            "name": "Nemzzz",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+          },
+          {
+            "pid": "p01k2lfc",
+            "name": "Travis Scott",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+          }
+        ],
+        "title": "GASS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Saint Ludo",
+      "title": "808",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w91t",
+        "duration": 119,
+        "primary_contributor": {
+          "pid": "p0l94t5k",
+          "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705",
+          "name": "Saint Ludo"
+        },
+        "artist": "Saint Ludo",
+        "track_title": "808",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records Label",
+        "release_title": null,
+        "record_id": "n9bwjf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l94t5k",
+            "name": "Saint Ludo",
+            "role": "Performer",
+            "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705"
+          },
+          {
+            "pid": "p0h6q7ls",
+            "name": "Cap1talA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6c24bc0f-8ce8-4baa-9ded-d977e03ebe8f"
+          }
+        ],
+        "title": "808",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Alyse",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6g15r",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Alyse",
+        "track_number": null,
+        "publisher": "Universal Music Publishing UK",
+        "record_label": "Because Music UK",
+        "release_title": null,
+        "record_id": "n9b9xf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Alyse",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dimension",
+      "title": "Ghost Town",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5wk7c",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p014rdgk",
+          "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3",
+          "name": "Dimension"
+        },
+        "artist": "Dimension",
+        "track_title": "Ghost Town",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Dimension",
+        "release_title": "Ghost Town",
+        "record_id": "n9bc5h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p014rdgk",
+            "name": "Dimension",
+            "role": "Performer",
+            "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3"
+          },
+          {
+            "pid": "p0d74mcr",
+            "name": "Subsonic",
+            "role": "Performer",
+            "musicbrainz_gid": "3208557c-c04d-4e69-b652-c7266e139876"
+          }
+        ],
+        "title": "Ghost Town",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Getdown Services",
+      "title": "Lentils",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5bt3x",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p0g5kz8x",
+          "musicbrainz_gid": "ca57dd61-590f-4605-85ec-72e947a6148b",
+          "name": "Getdown Services"
+        },
+        "artist": "Getdown Services",
+        "track_title": "Lentils",
+        "track_number": "12",
+        "publisher": null,
+        "record_label": "Breakfast Records",
+        "release_title": "Massive Champion",
+        "record_id": "n9b5wp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g5kz8x",
+            "name": "Getdown Services",
+            "role": "Performer",
+            "musicbrainz_gid": "ca57dd61-590f-4605-85ec-72e947a6148b"
+          }
+        ],
+        "title": "Lentils",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wishy",
+      "title": "Sensational",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7f3my",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p0gpp6ss",
+          "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42",
+          "name": "Wishy"
+        },
+        "artist": "Wishy",
+        "track_title": "Sensational",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Winspear",
+        "release_title": null,
+        "record_id": "n9bdf2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gpp6ss",
+            "name": "Wishy",
+            "role": "Performer",
+            "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42"
+          }
+        ],
+        "title": "Sensational",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rxzc",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p0dckhd7",
+          "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be",
+          "name": "Freya Skye"
+        },
+        "artist": "Freya Skye",
+        "track_title": "bad taste",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c4r6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dckhd7",
+            "name": "Freya Skye",
+            "role": "Performer",
+            "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be"
+          }
+        ],
+        "title": "bad taste",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Eliza Rose",
+      "title": "DOVE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kvxt",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p0cpxh3j",
+          "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819",
+          "name": "Eliza Rose"
+        },
+        "artist": "Eliza Rose",
+        "track_title": "DOVE",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "10k Projects",
+        "release_title": null,
+        "record_id": "n9b9vf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cpxh3j",
+            "name": "Eliza Rose",
+            "role": "Performer",
+            "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819"
+          }
+        ],
+        "title": "DOVE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Show Me the Body",
+      "title": "Eat For Peace (Radio 1 Session, 15 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rytw",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p042smbr",
+          "musicbrainz_gid": "bcc715bb-47a4-46c0-a62e-6467feec6091",
+          "name": "Show Me the Body"
+        },
+        "artist": "Show Me the Body",
+        "track_title": "Eat For Peace (Radio 1 Session, 15 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c4rr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p042smbr",
+            "name": "Show Me the Body",
+            "role": "Performer",
+            "musicbrainz_gid": "bcc715bb-47a4-46c0-a62e-6467feec6091"
+          }
+        ],
+        "title": "Eat For Peace (Radio 1 Session, 15 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Show Me the Body",
+      "title": "Do What's Right (Radio 1 Session, 15 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rzq5",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p042smbr",
+          "musicbrainz_gid": "bcc715bb-47a4-46c0-a62e-6467feec6091",
+          "name": "Show Me the Body"
+        },
+        "artist": "Show Me the Body",
+        "track_title": "Do What's Right (Radio 1 Session, 15 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c4rc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p042smbr",
+            "name": "Show Me the Body",
+            "role": "Performer",
+            "musicbrainz_gid": "bcc715bb-47a4-46c0-a62e-6467feec6091"
+          }
+        ],
+        "title": "Do What's Right (Radio 1 Session, 15 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Show Me the Body",
+      "title": "1 Thing (Radio 1 Session, 15 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9s14p",
+        "duration": 116,
+        "primary_contributor": {
+          "pid": "p042smbr",
+          "musicbrainz_gid": "bcc715bb-47a4-46c0-a62e-6467feec6091",
+          "name": "Show Me the Body"
+        },
+        "artist": "Show Me the Body",
+        "track_title": "1 Thing (Radio 1 Session, 15 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c4rf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p042smbr",
+            "name": "Show Me the Body",
+            "role": "Performer",
+            "musicbrainz_gid": "bcc715bb-47a4-46c0-a62e-6467feec6091"
+          }
+        ],
+        "title": "1 Thing (Radio 1 Session, 15 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Alewya",
+      "title": "Cairo FM",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx1cfk",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p08hxgvs",
+          "musicbrainz_gid": "49b5386b-a606-41b1-90e8-d9e7983b6f1b",
+          "name": "Alewya"
+        },
+        "artist": "Alewya",
+        "track_title": "Cairo FM",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LDN Records",
+        "release_title": null,
+        "record_id": "n99j84",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08hxgvs",
+            "name": "Alewya",
+            "role": "Performer",
+            "musicbrainz_gid": "49b5386b-a606-41b1-90e8-d9e7983b6f1b"
+          }
+        ],
+        "title": "Cairo FM",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Beyoncé",
+      "title": "CAN I WATCH YOU",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fxk3",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p019h602",
+          "musicbrainz_gid": "859d0860-d480-4efd-970c-c05d5f1776b8",
+          "name": "Beyoncé"
+        },
+        "artist": "Beyoncé",
+        "track_title": "CAN I WATCH YOU",
+        "track_number": "17",
+        "publisher": null,
+        "record_label": "Parkwood Entertainment/Columbia",
+        "release_title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
+        "record_id": "n9bm3d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p019h602",
+            "name": "Beyoncé",
+            "role": "Performer",
+            "musicbrainz_gid": "859d0860-d480-4efd-970c-c05d5f1776b8"
+          },
+          {
+            "pid": "p01yvcy0",
+            "name": "Pharrell Williams",
+            "role": "Performer",
+            "musicbrainz_gid": "149f91ef-1287-46da-9a8e-87fee02f1471"
+          }
+        ],
+        "title": "CAN I WATCH YOU",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "After",
+      "title": "Blind",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vz2l",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0mkx1df",
+          "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31",
+          "name": "After"
+        },
+        "artist": "After",
+        "track_title": "Blind",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop",
+        "release_title": null,
+        "record_id": "n9bj66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mkx1df",
+            "name": "After",
+            "role": "Performer",
+            "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31"
+          }
+        ],
+        "title": "Blind",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ezra Collective",
+      "title": "NUEVAYoL (Radio 1 Live Lounge, 15th Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9r7k9",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p04fwqt0",
+          "musicbrainz_gid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d",
+          "name": "Ezra Collective"
+        },
+        "artist": "Ezra Collective",
+        "track_title": "NUEVAYoL (Radio 1 Live Lounge, 15th Sept 2026)",
+        "track_number": null,
+        "publisher": "Rimas Publishing",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c48z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04fwqt0",
+            "name": "Ezra Collective",
+            "role": "Performer",
+            "musicbrainz_gid": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d"
+          }
+        ],
+        "title": "NUEVAYoL (Radio 1 Live Lounge, 15th Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Waylon Wyatt",
+      "title": "I'm Sorry But I Love You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9s3h0",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0jnbw3z",
+          "musicbrainz_gid": "92d62a2e-0e1d-4b6b-9327-6d4e2360eb08",
+          "name": "Waylon Wyatt"
+        },
+        "artist": "Waylon Wyatt",
+        "track_title": "I'm Sorry But I Love You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Darkroom Records",
+        "release_title": null,
+        "record_id": "n9c4bz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jnbw3z",
+            "name": "Waylon Wyatt",
+            "role": "Performer",
+            "musicbrainz_gid": "92d62a2e-0e1d-4b6b-9327-6d4e2360eb08"
+          },
+          {
+            "pid": "p0cjf81w",
+            "name": "Carter Faith",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "60c143b1-f1c1-404b-a674-ce51a05f022c"
+          }
+        ],
+        "title": "I'm Sorry But I Love You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
