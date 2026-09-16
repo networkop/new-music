@@ -2209,6 +2209,52 @@
       ]
     ]
   },
+  "38474d18-9204-4f60-a137-1fcc6750b869": {
+    "name": "Skepta",
+    "source": "lastfm",
+    "tags": [
+      [
+        "grime",
+        100
+      ],
+      [
+        "dubstep",
+        40
+      ],
+      [
+        "hip-hop",
+        25
+      ],
+      [
+        "uk garage",
+        19
+      ],
+      [
+        "uk",
+        8
+      ],
+      [
+        "british",
+        5
+      ],
+      [
+        "rap",
+        4
+      ],
+      [
+        "uk hiphop",
+        1
+      ],
+      [
+        "uk hip-hop",
+        1
+      ],
+      [
+        "hip hop",
+        1
+      ]
+    ]
+  },
   "396a9525-0994-4542-b480-c4587feeb476": {
     "name": "Tinashe",
     "source": "lastfm",
@@ -6912,6 +6958,52 @@
       ]
     ]
   },
+  "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2": {
+    "name": "Cordae",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rap",
+        100
+      ],
+      [
+        "trap",
+        67
+      ],
+      [
+        "hip-hop",
+        36
+      ],
+      [
+        "jazz rap",
+        16
+      ],
+      [
+        "hip hop",
+        6
+      ],
+      [
+        "american",
+        2
+      ],
+      [
+        "southern hip hop",
+        2
+      ],
+      [
+        "conscious hip hop",
+        1
+      ],
+      [
+        "southern hip-hop",
+        1
+      ],
+      [
+        "pop rap",
+        1
+      ]
+    ]
+  },
   "9a709693-b4f8-4da9-8cc1-038c911a61be": {
     "name": "Bonobo",
     "source": "lastfm",
@@ -9300,6 +9392,52 @@
       [
         "instrumental",
         1
+      ]
+    ]
+  },
+  "d02dd67e-f655-4600-bc47-f789f59e7367": {
+    "name": "Anderson .Paak",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "hip-hop",
+        94
+      ],
+      [
+        "rnb",
+        51
+      ],
+      [
+        "neo-soul",
+        37
+      ],
+      [
+        "alternative rnb",
+        13
+      ],
+      [
+        "hip hop",
+        11
+      ],
+      [
+        "funk",
+        9
+      ],
+      [
+        "contemporary rnb",
+        2
+      ],
+      [
+        "american",
+        2
+      ],
+      [
+        "rap",
+        2
       ]
     ]
   },

@@ -132,6 +132,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Funeral"
   },
+  "ashe|||stop the wedding!": {
+    "artist": "Ashe",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Stop The Wedding!"
+  },
   "atrip|||langur": {
     "artist": "ATRIP",
     "category": "manual",
@@ -747,6 +754,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Human Voice"
+  },
+  "fred again..|||places to be": {
+    "artist": "Fred again..",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "places to be"
   },
   "friction|||lead dem": {
     "artist": "Friction",
@@ -2028,6 +2042,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Whale Call"
+  },
+  "waylon wyatt|||i'm sorry but i love you": {
+    "artist": "Waylon Wyatt",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I'm Sorry But I Love You"
   },
   "westside cowboy|||dobro": {
     "artist": "Westside Cowboy",

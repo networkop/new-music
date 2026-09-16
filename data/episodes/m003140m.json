@@ -1,0 +1,1226 @@
+{
+  "pid": "m003140m",
+  "broadcast_start": "2026-09-16T18:00:00+01:00",
+  "schedule_date": "2026-09-16",
+  "title": "Anderson .Paak and Cordae Hottest Record",
+  "tracks": [
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kfls",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5khd4",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "Wallflower",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7ds62",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "Wallflower",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bwpv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "Wallflower",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fred again..",
+      "title": "places to be",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0j1dl7j",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p07xvqx4",
+          "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e",
+          "name": "Fred again.."
+        },
+        "artist": "Fred again..",
+        "track_title": "places to be",
+        "track_number": null,
+        "publisher": "Promised Land Music administered by Sony Music Publishing (UK), Warner Geo Met Ric Music, Khlexs Dream and Hard Workin Black Folks Pub Designee (GMR) All rights administered by Warner Geo Met Ric Musi",
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n89v5j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          }
+        ],
+        "title": "places to be",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kanine",
+      "title": "Surrender",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7dl0b",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p059dp00",
+          "musicbrainz_gid": "cfe0e278-18ac-492f-956a-d8c419f53af1",
+          "name": "Kanine"
+        },
+        "artist": "Kanine",
+        "track_title": "Surrender",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UKF",
+        "release_title": null,
+        "record_id": "n9bwpc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p059dp00",
+            "name": "Kanine",
+            "role": "Performer",
+            "musicbrainz_gid": "cfe0e278-18ac-492f-956a-d8c419f53af1"
+          },
+          {
+            "pid": "p01kmxgl",
+            "name": "Jem Cooke",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c461d82f-3e88-40d4-80d9-a523f1b34a57"
+          }
+        ],
+        "title": "Surrender",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "F3miii",
+      "title": "TAKE A TRIP",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6nk84",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p0kbzhr3",
+          "musicbrainz_gid": "0e55d4b1-6a3e-4565-accb-e1da78e83ff3",
+          "name": "F3miii"
+        },
+        "artist": "F3miii",
+        "track_title": "TAKE A TRIP",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bgdq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kbzhr3",
+            "name": "F3miii",
+            "role": "Performer",
+            "musicbrainz_gid": "0e55d4b1-6a3e-4565-accb-e1da78e83ff3"
+          },
+          {
+            "pid": "p0gm29nq",
+            "name": "Bricknasty",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "51f5a1d7-613d-4199-93dc-871fde0567e1"
+          },
+          {
+            "pid": "p0c5typ7",
+            "name": "KhakiKid",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "946c2140-1c5f-4ac6-b2fa-461465226d35"
+          }
+        ],
+        "title": "TAKE A TRIP",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacey",
+      "title": "oh yeah?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rxrx",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p04wwtr2",
+          "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f",
+          "name": "Steve Lacey"
+        },
+        "artist": "Steve Lacey",
+        "track_title": "oh yeah?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9b3r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04wwtr2",
+            "name": "Steve Lacey",
+            "role": "Performer",
+            "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f"
+          }
+        ],
+        "title": "oh yeah?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Indecision",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5bqzn",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Indecision",
+        "track_number": null,
+        "publisher": "Big Pluto Ltd/AWAL Recordings Ltd",
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9b9p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          },
+          {
+            "pid": "p044mphm",
+            "name": "Daniel Caesar",
+            "role": "Performer",
+            "musicbrainz_gid": "b46e298d-d3a5-4695-a03e-63e8c523b23e"
+          }
+        ],
+        "title": "Indecision",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cordae",
+      "title": "Two Tens",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0f2hv0d",
+        "duration": 152,
+        "primary_contributor": {
+          "pid": "p070sk99",
+          "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2",
+          "name": "Cordae"
+        },
+        "artist": "Cordae",
+        "track_title": "Two Tens",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Recording Corporation",
+        "release_title": null,
+        "record_id": "npgmcx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          },
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          }
+        ],
+        "title": "Two Tens",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Anderson .Paak",
+      "title": "A Good Day",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y5zl",
+        "duration": 149,
+        "primary_contributor": {
+          "pid": "p0246xtn",
+          "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+          "name": "Anderson .Paak"
+        },
+        "artist": "Anderson .Paak",
+        "track_title": "A Good Day",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EMPIRE",
+        "release_title": null,
+        "record_id": "n9c5n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          },
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          }
+        ],
+        "title": "A Good Day",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "That's Not Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01z1466",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "That's Not Me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "3 Beat",
+        "release_title": null,
+        "record_id": "n2b99x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          },
+          {
+            "pid": "p015zdb8",
+            "name": "Jme",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "57879ca6-44aa-4b75-9a97-b801f57a1331"
+          }
+        ],
+        "title": "That's Not Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Painkiller",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rrlj",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Painkiller",
+        "track_number": null,
+        "publisher": "BMG RIghts Management",
+        "record_label": "Speakerbox",
+        "release_title": null,
+        "record_id": "n9c49x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          },
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          }
+        ],
+        "title": "Painkiller",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "3310",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fxkk",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "3310",
+        "track_number": null,
+        "publisher": "Universal",
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9b8wg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "3310",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "crank 2",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y8bk",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "crank 2",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9c5np",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "crank 2",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "underscores",
+      "title": "Unlimited Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y9ww",
+        "duration": 162,
+        "primary_contributor": {
+          "pid": "p062j9j4",
+          "musicbrainz_gid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+          "name": "underscores"
+        },
+        "artist": "underscores",
+        "track_title": "Unlimited Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop Music",
+        "release_title": null,
+        "record_id": "n9bfdw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p062j9j4",
+            "name": "underscores",
+            "role": "Performer",
+            "musicbrainz_gid": "ab1a3f85-e0ea-470a-af5c-175447ae774c"
+          }
+        ],
+        "title": "Unlimited Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Gangsta",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55jqp",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Gangsta",
+        "track_number": "11",
+        "publisher": "Art For Their Good, Administered by Songs of Kobalt Music Publishing(BMI)/Jesse SJ Music (BMI), Administered by Songs of Kobalt Music Publishing(BMI)/David Charles Marshall Biral Publishing Designee/S",
+        "record_label": "Alta Music Group",
+        "release_title": "Enigma POV",
+        "record_id": "n9b8jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Gangsta",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ODUMODUBLVCK",
+      "title": "Isale Eko",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67syy",
+        "duration": 140,
+        "primary_contributor": {
+          "pid": "p0fs12q6",
+          "musicbrainz_gid": "330054ae-c442-489e-8901-10cff96b819b",
+          "name": "ODUMODUBLVCK"
+        },
+        "artist": "ODUMODUBLVCK",
+        "track_title": "Isale Eko",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UMG Recordings",
+        "release_title": null,
+        "record_id": "n9bddm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fs12q6",
+            "name": "ODUMODUBLVCK",
+            "role": "Performer",
+            "musicbrainz_gid": "330054ae-c442-489e-8901-10cff96b819b"
+          }
+        ],
+        "title": "Isale Eko",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gurriers",
+      "title": "Nothing Happens Twice",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p912xh",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p0f0fgjx",
+          "musicbrainz_gid": "b3e28883-d118-4180-b458-568a18bc239d",
+          "name": "Gurriers"
+        },
+        "artist": "Gurriers",
+        "track_title": "Nothing Happens Twice",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Play It Again Sam",
+        "release_title": null,
+        "record_id": "n9b4r8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f0fgjx",
+            "name": "Gurriers",
+            "role": "Performer",
+            "musicbrainz_gid": "b3e28883-d118-4180-b458-568a18bc239d"
+          }
+        ],
+        "title": "Nothing Happens Twice",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "The Fountain",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3sqrr",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "The Fountain",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b3f4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "The Fountain",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Silva Bumpa",
+      "title": "Fantasy (Baby If u know me)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4hy6y",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0gfs4g7",
+          "musicbrainz_gid": "980604d4-fc2b-4778-8fc5-a7d28e52ab85",
+          "name": "Silva Bumpa"
+        },
+        "artist": "Silva Bumpa",
+        "track_title": "Fantasy (Baby If u know me)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b5mn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gfs4g7",
+            "name": "Silva Bumpa",
+            "role": "Performer",
+            "musicbrainz_gid": "980604d4-fc2b-4778-8fc5-a7d28e52ab85"
+          },
+          {
+            "pid": "p0m6mqwh",
+            "name": "Kosmo Kint",
+            "role": "Performer",
+            "musicbrainz_gid": "0d2ef20f-e22b-4845-9a3f-532cfee1978e"
+          }
+        ],
+        "title": "Fantasy (Baby If u know me)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "KETTAMA",
+      "title": "LOOK OUT FOR ME (KETTAMA VERSION)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7dt5d",
+        "duration": 280,
+        "primary_contributor": {
+          "pid": "p074zzc3",
+          "musicbrainz_gid": "e457531c-4add-45f0-9998-f65ec53a305c",
+          "name": "KETTAMA"
+        },
+        "artist": "KETTAMA",
+        "track_title": "LOOK OUT FOR ME (KETTAMA VERSION)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Roadrunner Records",
+        "release_title": null,
+        "record_id": "n9bw83",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074zzc3",
+            "name": "KETTAMA",
+            "role": "Performer",
+            "musicbrainz_gid": "e457531c-4add-45f0-9998-f65ec53a305c"
+          },
+          {
+            "pid": "p02m29c8",
+            "name": "Turnstile",
+            "role": "Performer",
+            "musicbrainz_gid": "7b748dac-f5ce-45a7-9b95-c1d8b5b013ed"
+          }
+        ],
+        "title": "LOOK OUT FOR ME (KETTAMA VERSION)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JAE5",
+      "title": "Take Nobody",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p912dk",
+        "duration": 153,
+        "primary_contributor": {
+          "pid": "p07tqqj1",
+          "musicbrainz_gid": "ad2f22bc-9676-41b4-af51-6ab3a5e3f883",
+          "name": "JAE5"
+        },
+        "artist": "JAE5",
+        "track_title": "Take Nobody",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Promised Land Records",
+        "release_title": null,
+        "record_id": "n9czq4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07tqqj1",
+            "name": "JAE5",
+            "role": "Performer",
+            "musicbrainz_gid": "ad2f22bc-9676-41b4-af51-6ab3a5e3f883"
+          },
+          {
+            "pid": "p038bb28",
+            "name": "J Hus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "eca85dd0-f1fb-4e83-8c47-61403f479254"
+          },
+          {
+            "pid": "p08kftpb",
+            "name": "Skillibeng",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2f639ba8-11ee-4128-9915-2303afd30078"
+          }
+        ],
+        "title": "Take Nobody",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Yung Miami",
+      "title": "Spend Dat",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p63chn",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p09ztqw5",
+          "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c",
+          "name": "Yung Miami"
+        },
+        "artist": "Yung Miami",
+        "track_title": "Spend Dat",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Yung Miami LLC",
+        "release_title": null,
+        "record_id": "n99cvw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09ztqw5",
+            "name": "Yung Miami",
+            "role": "Performer",
+            "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c"
+          }
+        ],
+        "title": "Spend Dat",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Gellaitry",
+      "title": "Longing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2ncvn",
+        "duration": 109,
+        "primary_contributor": {
+          "pid": "p028whry",
+          "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5",
+          "name": "Sam Gellaitry"
+        },
+        "artist": "Sam Gellaitry",
+        "track_title": "Longing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Major Recordings",
+        "release_title": "ANYWHERE HERE IS PERFECT (DELUXE)",
+        "record_id": "n9rm65",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p028whry",
+            "name": "Sam Gellaitry",
+            "role": "Performer",
+            "musicbrainz_gid": "d5f6180d-4ea6-46b1-bf21-f8d8c92c73c5"
+          }
+        ],
+        "title": "Longing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Goldie",
+      "title": "Jungle Daze",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p155gj",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p012dtp7",
+          "musicbrainz_gid": "c5393047-0c44-48eb-b5a8-070759f04371",
+          "name": "Goldie"
+        },
+        "artist": "Goldie",
+        "track_title": "Jungle Daze",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LDN Records",
+        "release_title": null,
+        "record_id": "n9rddv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dtp7",
+            "name": "Goldie",
+            "role": "Performer",
+            "musicbrainz_gid": "c5393047-0c44-48eb-b5a8-070759f04371"
+          },
+          {
+            "pid": "p01h9qlc",
+            "name": "Natalie Williams",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "9fdfc286-e51b-4109-9bb0-06a1d4977946"
+          }
+        ],
+        "title": "Jungle Daze",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Juls",
+      "title": "Cutlass",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dsqp",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p03856sq",
+          "musicbrainz_gid": "06059ff3-720e-4b33-8e34-b98933817fe8",
+          "name": "Juls"
+        },
+        "artist": "Juls",
+        "track_title": "Cutlass",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b539",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03856sq",
+            "name": "Juls",
+            "role": "Performer",
+            "musicbrainz_gid": "06059ff3-720e-4b33-8e34-b98933817fe8"
+          },
+          {
+            "pid": "p08l382h",
+            "name": "Projexx",
+            "role": "Performer",
+            "musicbrainz_gid": "f3b7c5f5-055c-4490-b5bc-f9dde1c0ddc3"
+          },
+          {
+            "pid": "p07jxw7l",
+            "name": "Pa Salieu",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "03100b87-7d27-4d56-b049-2007599656cc"
+          }
+        ],
+        "title": "Cutlass",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Melatonin",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55hht",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Melatonin",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Nice Life/Atlantic",
+        "release_title": "Melatonin",
+        "record_id": "n9b8jh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Melatonin",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "jigitz",
+      "title": "can't be nothing but what I am",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9ymbz",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p0kv4lxy",
+          "musicbrainz_gid": "58c4026e-b5b5-4368-8743-e5579d2b1a40",
+          "name": "jigitz"
+        },
+        "artist": "jigitz",
+        "track_title": "can't be nothing but what I am",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b4np",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kv4lxy",
+            "name": "jigitz",
+            "role": "Performer",
+            "musicbrainz_gid": "58c4026e-b5b5-4368-8743-e5579d2b1a40"
+          },
+          {
+            "pid": "p09jlr02",
+            "name": "glaive",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "fd36f43e-5bd1-488e-b844-0e059250ef78"
+          }
+        ],
+        "title": "can't be nothing but what I am",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Balu Brigada",
+      "title": "BedHead",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vy8r",
+        "duration": 302,
+        "primary_contributor": {
+          "pid": "p0jb3y86",
+          "musicbrainz_gid": "f9ad56b5-6f41-4cdc-b859-3370c8bff3e2",
+          "name": "Balu Brigada"
+        },
+        "artist": "Balu Brigada",
+        "track_title": "BedHead",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "WM New Zealand",
+        "release_title": "BedHead",
+        "record_id": "n9bj65",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jb3y86",
+            "name": "Balu Brigada",
+            "role": "Performer",
+            "musicbrainz_gid": "f9ad56b5-6f41-4cdc-b859-3370c8bff3e2"
+          }
+        ],
+        "title": "BedHead",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiny Habits",
+      "title": "Love Ruins Everything",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7mgzp",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0h81y2f",
+          "musicbrainz_gid": "6f38418e-4695-4e20-a792-431929e95ee5",
+          "name": "Tiny Habits"
+        },
+        "artist": "Tiny Habits",
+        "track_title": "Love Ruins Everything",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop",
+        "release_title": null,
+        "record_id": "n9bwqb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0h81y2f",
+            "name": "Tiny Habits",
+            "role": "Performer",
+            "musicbrainz_gid": "6f38418e-4695-4e20-a792-431929e95ee5"
+          }
+        ],
+        "title": "Love Ruins Everything",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Fur Elise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50m5v",
+        "duration": 255,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Fur Elise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9b8nh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Fur Elise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
