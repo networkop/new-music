@@ -1,0 +1,1136 @@
+{
+  "pid": "m00315d3",
+  "broadcast_start": "2026-09-17T18:00:00+01:00",
+  "schedule_date": "2026-09-17",
+  "title": "Skepta, Chase & Status and Suggs Hottest Record",
+  "tracks": [
+    {
+      "artist": "Odeal",
+      "title": "Coming Home",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p631t2",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "Coming Home",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "LVRN / OVMBR",
+        "release_title": "For A Good Time...",
+        "record_id": "n9rjnx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          },
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Coming Home",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cloonee",
+      "title": "Good Girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p1y5d6",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p06lx7yf",
+          "musicbrainz_gid": "b643c24d-4cd6-4531-88bc-62b39ce43ee1",
+          "name": "Cloonee"
+        },
+        "artist": "Cloonee",
+        "track_title": "Good Girl",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hellbent Records",
+        "release_title": null,
+        "record_id": "n9rj5w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06lx7yf",
+            "name": "Cloonee",
+            "role": "Performer",
+            "musicbrainz_gid": "b643c24d-4cd6-4531-88bc-62b39ce43ee1"
+          },
+          {
+            "pid": "p06qn7w1",
+            "name": "Prospa",
+            "role": "Performer",
+            "musicbrainz_gid": "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a"
+          },
+          {
+            "pid": "p094szy3",
+            "name": "Tristan Henry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "cf89c56d-1d3b-4083-b0ce-bed25f0dc9c1"
+          }
+        ],
+        "title": "Good Girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Shutdown",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p02mfvm7",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Shutdown",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "BBK Records",
+        "release_title": null,
+        "record_id": "n35jhq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Shutdown",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Headie One",
+      "title": "One Thousand Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7m1j6",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p05t1djw",
+          "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64",
+          "name": "Headie One"
+        },
+        "artist": "Headie One",
+        "track_title": "One Thousand Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "One Records",
+        "release_title": null,
+        "record_id": "n9bx3r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05t1djw",
+            "name": "Headie One",
+            "role": "Performer",
+            "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64"
+          }
+        ],
+        "title": "One Thousand Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Sunshine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50w41",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Sunshine",
+        "track_number": null,
+        "publisher": "WE BLOW S UP MUSIC,PICCADILLY MUSIC CORPORATION,KASSNER ASSOCIATED PUBLISHERS LIMITED",
+        "record_label": "Caiola Records",
+        "release_title": "Sunshine",
+        "record_id": "n9b5jp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Sunshine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Gone Too Far",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6r181",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Gone Too Far",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner",
+        "release_title": null,
+        "record_id": "n9bx2h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p0cj9189",
+            "name": "Debbie",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0f9eaed6-a05c-48ec-be0a-37accee9b9ef"
+          }
+        ],
+        "title": "Gone Too Far",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Friction",
+      "title": "Lead Dem",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kw5p",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p012dvpp",
+          "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
+          "name": "Friction"
+        },
+        "artist": "Friction",
+        "track_title": "Lead Dem",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9vw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dvpp",
+            "name": "Friction",
+            "role": "Performer",
+            "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRAH",
+            "role": "Performer",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Lead Dem",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Greaze Mode",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p078rwb6",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Greaze Mode",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Boy Better Know",
+        "release_title": "Ignorance Is Bliss",
+        "record_id": "n5f89g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          },
+          {
+            "pid": "p03fqttv",
+            "name": "Nafe Smallz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6ee8c6fc-05be-4f55-a1a7-70c0601ac526"
+          }
+        ],
+        "title": "Greaze Mode",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Innocent Smile",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb4yns",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Innocent Smile",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Big Smoke Records",
+        "release_title": null,
+        "record_id": "n9c5cn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          },
+          {
+            "pid": "p012drz4",
+            "name": "Suggs",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ff84e1f5-258c-45a3-8da5-11b3eeddcb7a"
+          },
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          }
+        ],
+        "title": "Innocent Smile",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "The One",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0l40w9x",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "The One",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SMiiLE",
+        "release_title": null,
+        "record_id": "n8jbxj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          },
+          {
+            "pid": "p09hn2k2",
+            "name": "Luke Alessi",
+            "role": "Performer",
+            "musicbrainz_gid": "cfff51d9-ed77-44f3-bec5-961a0feee0bd"
+          },
+          {
+            "pid": "p012dpyl",
+            "name": "Jocelyn Brown",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a628a50-1c5c-4d29-a13a-79a73eb012d9"
+          }
+        ],
+        "title": "The One",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Marianne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p52p2k",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Marianne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b8rg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Marianne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Twiggy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2gjs9",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Twiggy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island/EMI",
+        "release_title": null,
+        "record_id": "n9rqhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Twiggy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JENNIE",
+      "title": "Fallen Angel",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5589",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p06zwxc9",
+          "musicbrainz_gid": "779351de-0da5-4943-928b-495a3c40e8c0",
+          "name": "JENNIE"
+        },
+        "artist": "JENNIE",
+        "track_title": "Fallen Angel",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bqfx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwxc9",
+            "name": "JENNIE",
+            "role": "Performer",
+            "musicbrainz_gid": "779351de-0da5-4943-928b-495a3c40e8c0"
+          }
+        ],
+        "title": "Fallen Angel",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "slayr",
+      "title": "Try and Fail",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w7gg",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0nthnwm",
+          "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+          "name": "slayr"
+        },
+        "artist": "slayr",
+        "track_title": "Try and Fail",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "slayr",
+        "release_title": "Try and Fail",
+        "record_id": "n9bj6d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Performer",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          },
+          {
+            "pid": "p09hn4vj",
+            "name": "SoFaygo",
+            "role": "Performer",
+            "musicbrainz_gid": "654d48fb-4fe4-472d-81e6-039e54f2f27b"
+          }
+        ],
+        "title": "Try and Fail",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Une seule vie",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5709",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Une seule vie",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9bwq8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          }
+        ],
+        "title": "Une seule vie",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Mirage",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4m0py",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Mirage",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "DISORDER CAPITOL",
+        "release_title": null,
+        "record_id": "n9b624",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          }
+        ],
+        "title": "Mirage",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "untitled (halo)",
+      "title": "aimee lou wood freestyle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb58l2",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p0ghbj36",
+          "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789",
+          "name": "untitled (halo)"
+        },
+        "artist": "untitled (halo)",
+        "track_title": "aimee lou wood freestyle",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n9bx3g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ghbj36",
+            "name": "untitled (halo)",
+            "role": "Performer",
+            "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789"
+          }
+        ],
+        "title": "aimee lou wood freestyle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Husband",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb58q0",
+        "duration": 234,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Husband",
+        "track_number": null,
+        "publisher": "ot Given",
+        "record_label": "The Orchard",
+        "release_title": null,
+        "record_id": "n9c5c5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          }
+        ],
+        "title": "Husband",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ashe",
+      "title": "Funeral",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8m1z7",
+        "duration": 211,
+        "primary_contributor": {
+          "pid": "p06xlksz",
+          "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409",
+          "name": "Ashe"
+        },
+        "artist": "Ashe",
+        "track_title": "Funeral",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Funeral",
+        "record_id": "n9bmgd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06xlksz",
+            "name": "Ashe",
+            "role": "Performer",
+            "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409"
+          }
+        ],
+        "title": "Funeral",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hemlocke springs",
+      "title": "gloria",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5934",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0dp7vhc",
+          "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819",
+          "name": "hemlocke springs"
+        },
+        "artist": "hemlocke springs",
+        "track_title": "gloria",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c5cr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dp7vhc",
+            "name": "hemlocke springs",
+            "role": "Performer",
+            "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819"
+          }
+        ],
+        "title": "gloria",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Benjamin Steer",
+      "title": "Flatline",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3yt9f",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p0kyl2nq",
+          "musicbrainz_gid": "5d6f4f63-edd8-40b9-9940-b54d6a1e6316",
+          "name": "Benjamin Steer"
+        },
+        "artist": "Benjamin Steer",
+        "track_title": "Flatline",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Artist Theory",
+        "release_title": null,
+        "record_id": "n9b4z4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyl2nq",
+            "name": "Benjamin Steer",
+            "role": "Performer",
+            "musicbrainz_gid": "5d6f4f63-edd8-40b9-9940-b54d6a1e6316"
+          }
+        ],
+        "title": "Flatline",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Man/Woman/Chainsaw",
+      "title": "Nosedive",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nfsblr",
+        "duration": 228,
+        "primary_contributor": {
+          "pid": "p0gkx9fw",
+          "musicbrainz_gid": "e72f0b0e-fe8e-405a-942e-633edd84c998",
+          "name": "Man/Woman/Chainsaw"
+        },
+        "artist": "Man/Woman/Chainsaw",
+        "track_title": "Nosedive",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fiction Records",
+        "release_title": null,
+        "record_id": "n9pjmj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gkx9fw",
+            "name": "Man/Woman/Chainsaw",
+            "role": "Performer",
+            "musicbrainz_gid": "e72f0b0e-fe8e-405a-942e-633edd84c998"
+          }
+        ],
+        "title": "Nosedive",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LATIN MAFIA",
+      "title": "Quiereme",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44zlr",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p0p44zlw",
+          "musicbrainz_gid": "33118d4b-cec1-4030-b37c-0e81fdf97dc8",
+          "name": "LATIN MAFIA"
+        },
+        "artist": "LATIN MAFIA",
+        "track_title": "Quiereme",
+        "track_number": "6",
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": "9 months & 50 hours",
+        "record_id": "n9b4c3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p44zlw",
+            "name": "LATIN MAFIA",
+            "role": "Performer",
+            "musicbrainz_gid": "33118d4b-cec1-4030-b37c-0e81fdf97dc8"
+          },
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p0ghfvkr",
+            "name": "bby",
+            "role": "Performer",
+            "musicbrainz_gid": "dfdb3f72-d28f-4eab-b3dd-644872d73245"
+          }
+        ],
+        "title": "Quiereme",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Eliza Rose",
+      "title": "Undercover Lover",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p911p5",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p0cpxh3j",
+          "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819",
+          "name": "Eliza Rose"
+        },
+        "artist": "Eliza Rose",
+        "track_title": "Undercover Lover",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Rosebud Recordings",
+        "release_title": null,
+        "record_id": "n9czq2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cpxh3j",
+            "name": "Eliza Rose",
+            "role": "Performer",
+            "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819"
+          }
+        ],
+        "title": "Undercover Lover",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Gangsta",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55jqp",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Gangsta",
+        "track_number": "11",
+        "publisher": "Art For Their Good, Administered by Songs of Kobalt Music Publishing(BMI)/Jesse SJ Music (BMI), Administered by Songs of Kobalt Music Publishing(BMI)/David Charles Marshall Biral Publishing Designee/S",
+        "record_label": "Alta Music Group",
+        "release_title": "Enigma POV",
+        "record_id": "n9b8jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Gangsta",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MOLIY",
+      "title": "911",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p71487",
+        "duration": 140,
+        "primary_contributor": {
+          "pid": "p09b79zb",
+          "musicbrainz_gid": "3472754c-1a8f-4466-aad8-b42626bbe8b0",
+          "name": "MOLIY"
+        },
+        "artist": "MOLIY",
+        "track_title": "911",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Gamma",
+        "release_title": null,
+        "record_id": "n9bggg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09b79zb",
+            "name": "MOLIY",
+            "role": "Performer",
+            "musicbrainz_gid": "3472754c-1a8f-4466-aad8-b42626bbe8b0"
+          }
+        ],
+        "title": "911",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cannelle",
+      "title": "BB Blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxnt1v",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0nx7076",
+          "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e",
+          "name": "Cannelle"
+        },
+        "artist": "Cannelle",
+        "track_title": "BB Blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Cannelle",
+        "release_title": null,
+        "record_id": "n9r34g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nx7076",
+            "name": "Cannelle",
+            "role": "Performer",
+            "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e"
+          }
+        ],
+        "title": "BB Blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Culture Shock",
+      "title": "U & I",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4dpq8",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p0p4dpqd",
+          "musicbrainz_gid": null,
+          "name": "Culture Shock"
+        },
+        "artist": "Culture Shock",
+        "track_title": "U & I",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Culture Shock",
+        "release_title": null,
+        "record_id": "n9b533",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p4dpqd",
+            "name": "Culture Shock",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "U & I",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

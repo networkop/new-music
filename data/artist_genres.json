@@ -1903,6 +1903,52 @@
       ]
     ]
   },
+  "3472754c-1a8f-4466-aad8-b42626bbe8b0": {
+    "name": "MOLIY",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "reggae",
+        100
+      ],
+      [
+        "african",
+        66
+      ],
+      [
+        "ghana",
+        66
+      ],
+      [
+        "afrobeats",
+        33
+      ],
+      [
+        "female vocalist",
+        8
+      ],
+      [
+        "hip-hop",
+        8
+      ],
+      [
+        "africa",
+        2
+      ],
+      [
+        "dancehall",
+        2
+      ],
+      [
+        "america",
+        2
+      ]
+    ]
+  },
   "34ebe14b-113c-4004-9625-77cb6b13b27d": {
     "name": "John Glacier",
     "source": "lastfm",
@@ -5266,6 +5312,52 @@
       ],
       [
         "cool",
+        1
+      ]
+    ]
+  },
+  "779351de-0da5-4943-928b-495a3c40e8c0": {
+    "name": "JENNIE",
+    "source": "lastfm",
+    "tags": [
+      [
+        "k-pop",
+        100
+      ],
+      [
+        "korean",
+        74
+      ],
+      [
+        "kpop",
+        28
+      ],
+      [
+        "pop",
+        22
+      ],
+      [
+        "jennie",
+        6
+      ],
+      [
+        "rnb",
+        4
+      ],
+      [
+        "blackpink",
+        4
+      ],
+      [
+        "oddatelier",
+        1
+      ],
+      [
+        "female vocalist",
+        1
+      ],
+      [
+        "female vocalists",
         1
       ]
     ]
@@ -10057,6 +10149,52 @@
       ],
       [
         "pop",
+        1
+      ]
+    ]
+  },
+  "defc7b30-587a-4d8d-b405-f8ae5bc70789": {
+    "name": "untitled (halo)",
+    "source": "lastfm",
+    "tags": [
+      [
+        "dream pop",
+        100
+      ],
+      [
+        "slowcore",
+        39
+      ],
+      [
+        "shoegaze",
+        17
+      ],
+      [
+        "indie rock",
+        9
+      ],
+      [
+        "lo-fi",
+        2
+      ],
+      [
+        "noise pop",
+        2
+      ],
+      [
+        "indie pop",
+        2
+      ],
+      [
+        "slacker rock",
+        1
+      ],
+      [
+        "hypnagogic pop",
+        1
+      ],
+      [
+        "neo-psychedelia",
         1
       ]
     ]

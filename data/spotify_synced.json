@@ -1,5 +1,10 @@
 {
   "keep": {
+    "spotify:track:0JvxCw2L2ChMeVpIfSwvqN": {
+      "artist": "hemlocke springs",
+      "broadcast": "2026-09-17",
+      "title": "gloria"
+    },
     "spotify:track:1VmbQReOH8U2zkxtZnOqae": {
       "artist": "jigitz",
       "broadcast": "2026-09-16",
@@ -10,20 +15,60 @@
       "broadcast": "2026-09-10",
       "title": "Keep Up"
     },
+    "spotify:track:1cCSwhGE10BeDaze8r7HOD": {
+      "artist": "Blossoms",
+      "broadcast": "2026-09-17",
+      "title": "Husband"
+    },
     "spotify:track:293ulxBpFSZei0i7LIdcXx": {
       "artist": "Tiny Habits",
       "broadcast": "2026-09-16",
       "title": "Love Ruins Everything"
+    },
+    "spotify:track:2vaQLoyoTBiG07lwseHd3f": {
+      "artist": "Skepta",
+      "broadcast": "2026-09-17",
+      "title": "Innocent Smile"
     },
     "spotify:track:3QEglzrnBHZg2yVGlo3G5j": {
       "artist": "Slipknot",
       "broadcast": "2026-09-10",
       "title": "Arsenal"
     },
+    "spotify:track:3nG784YlxS4VQOF0qiHKVP": {
+      "artist": "Skepta",
+      "broadcast": "2026-09-17",
+      "title": "Greaze Mode"
+    },
     "spotify:track:3tTDOodJcr6vKF2DASlwMZ": {
       "artist": "Skepta",
       "broadcast": "2026-09-16",
       "title": "That's Not Me"
+    },
+    "spotify:track:44GokgCa37BTZP2NU2zkoJ": {
+      "artist": "Skepta",
+      "broadcast": "2026-09-17",
+      "title": "Shutdown"
+    },
+    "spotify:track:4Wmg2XCak0mV7R4pqIxJFp": {
+      "artist": "untitled (halo)",
+      "broadcast": "2026-09-17",
+      "title": "aimee lou wood freestyle"
+    },
+    "spotify:track:4fErrQvOX1LPDIPFDFI4eM": {
+      "artist": "Chloé Caillet",
+      "broadcast": "2026-09-17",
+      "title": "The One"
+    },
+    "spotify:track:59k6IKbmZ41Nb7AHWkD44E": {
+      "artist": "Benjamin Steer",
+      "broadcast": "2026-09-17",
+      "title": "Flatline"
+    },
+    "spotify:track:5Y3p9cIQH4TxX3sI4ZQIAL": {
+      "artist": "Angèle",
+      "broadcast": "2026-09-17",
+      "title": "Une seule vie"
     },
     "spotify:track:5vBOE85x2iJsbtBmDg34Hi": {
       "artist": "Silva Bumpa",
@@ -39,6 +84,11 @@
       "artist": "Cordae",
       "broadcast": "2026-09-16",
       "title": "Two Tens"
+    },
+    "spotify:track:75QkBCdRc5DGgcyPiVSg4b": {
+      "artist": "JENNIE",
+      "broadcast": "2026-09-17",
+      "title": "Fallen Angel"
     }
   },
   "review": {}
