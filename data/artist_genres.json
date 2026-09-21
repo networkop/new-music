@@ -2577,6 +2577,52 @@
       ]
     ]
   },
+  "3f83dc3c-8b95-4220-baee-4a6d85d4ae33": {
+    "name": "TOMORA",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "techno",
+        36
+      ],
+      [
+        "big beat",
+        24
+      ],
+      [
+        "trip hop",
+        24
+      ],
+      [
+        "dance",
+        5
+      ],
+      [
+        "norway",
+        1
+      ],
+      [
+        "electronica",
+        1
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "trip-hop",
+        1
+      ],
+      [
+        "female vocalists",
+        1
+      ]
+    ]
+  },
   "3fa89526-8faa-4c55-9400-1a2b1fe10e3d": {
     "name": "Cardinals",
     "source": "lastfm",
@@ -4768,6 +4814,52 @@
       ],
       [
         "hip-hop",
+        1
+      ]
+    ]
+  },
+  "6a93afbb-257f-4166-b389-9f2a1e5c5df8": {
+    "name": "CHVRCHES",
+    "source": "lastfm",
+    "tags": [
+      [
+        "synthpop",
+        100
+      ],
+      [
+        "electronic",
+        67
+      ],
+      [
+        "electropop",
+        40
+      ],
+      [
+        "indie",
+        33
+      ],
+      [
+        "female vocalists",
+        12
+      ],
+      [
+        "scottish",
+        5
+      ],
+      [
+        "dreamwave",
+        4
+      ],
+      [
+        "pop",
+        1
+      ],
+      [
+        "indie pop",
+        1
+      ],
+      [
+        "british",
         1
       ]
     ]
@@ -7274,6 +7366,52 @@
       ],
       [
         "metalcore",
+        1
+      ]
+    ]
+  },
+  "a5aa915d-1696-4387-8b1b-58425539942a": {
+    "name": "CA7RIEL",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electro",
+        100
+      ],
+      [
+        "trance",
+        96
+      ],
+      [
+        "rave",
+        63
+      ],
+      [
+        "hardcore",
+        63
+      ],
+      [
+        "hard techno",
+        32
+      ],
+      [
+        "boring",
+        2
+      ],
+      [
+        "argentina",
+        1
+      ],
+      [
+        "topo",
+        1
+      ],
+      [
+        "cringe",
+        1
+      ],
+      [
+        "una poronga",
         1
       ]
     ]
@@ -10434,6 +10572,52 @@
       ]
     ]
   },
+  "e5712ceb-c37a-4c49-a11c-ccf4e21852d4": {
+    "name": "Troye Sivan",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "indie pop",
+        72
+      ],
+      [
+        "indie",
+        32
+      ],
+      [
+        "male vocalists",
+        26
+      ],
+      [
+        "synthpop",
+        11
+      ],
+      [
+        "electronic",
+        11
+      ],
+      [
+        "alternative",
+        10
+      ],
+      [
+        "australian",
+        2
+      ],
+      [
+        "electronica",
+        2
+      ],
+      [
+        "dream pop",
+        2
+      ]
+    ]
+  },
   "e65c1d4e-0866-4db3-94a6-05e4e15649cb": {
     "name": "Nectar Woode",
     "source": "lastfm",
@@ -10994,6 +11178,52 @@
       [
         "dancehall",
         4
+      ]
+    ]
+  },
+  "eefe0ce9-822e-4814-be32-d5fc0f83db2e": {
+    "name": "Basht.",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie rock",
+        100
+      ],
+      [
+        "alternative rock",
+        100
+      ],
+      [
+        "seen live x3",
+        29
+      ],
+      [
+        "seen live x2",
+        29
+      ],
+      [
+        "garage punk",
+        4
+      ],
+      [
+        "garage rock",
+        4
+      ],
+      [
+        "indie",
+        4
+      ],
+      [
+        "ireland",
+        1
+      ],
+      [
+        "irish",
+        1
+      ],
+      [
+        "punk rock",
+        1
       ]
     ]
   },

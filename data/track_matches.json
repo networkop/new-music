@@ -189,6 +189,11 @@
     "score": 1.0,
     "uri": "spotify:track:0b04O4aNqXhiUtHJcb6bcm"
   },
+  "basht.|||terror tv": {
+    "matched": "Basht. - Terror TV",
+    "score": 1.0,
+    "uri": "spotify:track:7yug9Rrhhz76Nl2dAijt9X"
+  },
   "beabadoobee|||glue song": {
     "matched": "beabadoobee - Glue Song",
     "score": 1.0,
@@ -334,6 +339,11 @@
     "score": 0.978,
     "uri": "spotify:track:57rqH0ceGjerSdSBrDqhCX"
   },
+  "ca7riel|||vida loca": {
+    "matched": "CA7RIEL & Paco Amoroso - Vida Loca",
+    "score": 0.723,
+    "uri": "spotify:track:5dNky6SuEfNBan5perlSGl"
+  },
   "cannelle|||bb blue": {
     "matched": "Cannelle - BB Blue",
     "score": 1.0,
@@ -469,6 +479,11 @@
     "score": 1.0,
     "uri": "spotify:track:5mw7Yu0K0iCAI3pIKxnZ9B"
   },
+  "chloé caillet|||noise keeper": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "chloé caillet|||the one": {
     "matched": "Chloé Caillet - The One (feat. Jocelyn Brown)",
     "score": 1.0,
@@ -478,6 +493,11 @@
     "matched": "CHRIS STASSY - U know me",
     "score": 1.0,
     "uri": "spotify:track:4HIyXZ63ucWnHXCfrlWWOq"
+  },
+  "chvrches|||the mother we share": {
+    "matched": "CHVRCHES - The Mother We Share",
+    "score": 1.0,
+    "uri": "spotify:track:20Dw7Jar5hUbwX5FwHdQoG"
   },
   "cloonee|||good girl": {
     "matched": "Cloonee - Good Girl",
@@ -2019,6 +2039,21 @@
     "score": 1.0,
     "uri": "spotify:track:293ulxBpFSZei0i7LIdcXx"
   },
+  "tomora|||celebration": {
+    "matched": "TOMORA - Celebration",
+    "score": 1.0,
+    "uri": "spotify:track:0mVE7ho0GazVMHVyt6cFz5"
+  },
+  "tomora|||ring the alarm": {
+    "matched": "TOMORA - RING THE ALARM",
+    "score": 1.0,
+    "uri": "spotify:track:3i3Qa9DLMVeexn7ighFoVS"
+  },
+  "tomora|||somewhere else": {
+    "matched": "TOMORA - SOMEWHERE ELSE",
+    "score": 1.0,
+    "uri": "spotify:track:4ROFunSkVUlXqU0cMi6vYJ"
+  },
   "tove lo|||dnh": {
     "matched": "Tove Lo - DNH",
     "score": 1.0,
@@ -2028,6 +2063,11 @@
     "matched": "Travy - Keep Up",
     "score": 1.0,
     "uri": "spotify:track:1W7NwoNXkeQHtPNykbXwaP"
+  },
+  "troye sivan|||party": {
+    "matched": "Troye Sivan - Party",
+    "score": 1.0,
+    "uri": "spotify:track:0zbf6dj8GkCdYRRRph7ELk"
   },
   "tsha|||girls": {
     "matched": "TSHA - Girls",

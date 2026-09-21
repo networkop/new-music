@@ -1,0 +1,1106 @@
+{
+  "pid": "m0031k3b",
+  "broadcast_start": "2026-09-21T18:00:00+01:00",
+  "schedule_date": "2026-09-21",
+  "title": "TOMORA Hottest Record",
+  "tracks": [
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kfls",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5khd4",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "I Lied, You Lied",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4djk0",
+        "duration": 202,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "I Lied, You Lied",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "FAMM",
+        "release_title": null,
+        "record_id": "n9b52j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "I Lied, You Lied",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "SOMEWHERE ELSE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n6bbph",
+        "duration": 209,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "SOMEWHERE ELSE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal",
+        "release_title": null,
+        "record_id": "n96xhx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          },
+          {
+            "pid": "p02pv2cq",
+            "name": "AURORA",
+            "role": "Performer",
+            "musicbrainz_gid": "484a4e90-6899-4e4b-a948-a2255d365340"
+          },
+          {
+            "pid": "p01l086v",
+            "name": "Tom Rowlands",
+            "role": "Performer",
+            "musicbrainz_gid": "40a1354c-206c-40db-a599-cfb94a1db71a"
+          }
+        ],
+        "title": "SOMEWHERE ELSE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wasia Project",
+      "title": "Vogue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rscx",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p0dd52xt",
+          "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc",
+          "name": "Wasia Project"
+        },
+        "artist": "Wasia Project",
+        "track_title": "Vogue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LAOLAO Records",
+        "release_title": null,
+        "record_id": "n9b3rz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dd52xt",
+            "name": "Wasia Project",
+            "role": "Performer",
+            "musicbrainz_gid": "145336bb-1faf-47f3-92aa-08471650edcc"
+          }
+        ],
+        "title": "Vogue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Anderson .Paak",
+      "title": "A Good Day",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y5zl",
+        "duration": 149,
+        "primary_contributor": {
+          "pid": "p0246xtn",
+          "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+          "name": "Anderson .Paak"
+        },
+        "artist": "Anderson .Paak",
+        "track_title": "A Good Day",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EMPIRE",
+        "release_title": null,
+        "record_id": "n9c5n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          },
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          }
+        ],
+        "title": "A Good Day",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nemzzz",
+      "title": "GASS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fx55",
+        "duration": 114,
+        "primary_contributor": {
+          "pid": "p0bljhs9",
+          "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+          "name": "Nemzzz"
+        },
+        "artist": "Nemzzz",
+        "track_title": "GASS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": null,
+        "record_id": "n9bm3b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bljhs9",
+            "name": "Nemzzz",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+          },
+          {
+            "pid": "p01k2lfc",
+            "name": "Travis Scott",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+          }
+        ],
+        "title": "GASS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Eliza Rose",
+      "title": "DOVE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kvxt",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p0cpxh3j",
+          "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819",
+          "name": "Eliza Rose"
+        },
+        "artist": "Eliza Rose",
+        "track_title": "DOVE",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "10k Projects",
+        "release_title": null,
+        "record_id": "n9b9vf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cpxh3j",
+            "name": "Eliza Rose",
+            "role": "Performer",
+            "musicbrainz_gid": "afd9baa6-4402-40c8-91ad-d792ae28e819"
+          }
+        ],
+        "title": "DOVE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "RING THE ALARM",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0mlmb2j",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "RING THE ALARM",
+        "track_number": null,
+        "publisher": "TOMORA",
+        "record_label": "UMO",
+        "release_title": null,
+        "record_id": "n93wdn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "RING THE ALARM",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Celebration",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbslj3",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Celebration",
+        "track_number": null,
+        "publisher": "Peer Music",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9c8p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Celebration",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Fur Elise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50m5v",
+        "duration": 255,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Fur Elise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9b8nh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Fur Elise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CA7RIEL",
+      "title": "Vida Loca",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nbcsfd",
+        "duration": 155,
+        "primary_contributor": {
+          "pid": "p0l57w65",
+          "musicbrainz_gid": "a5aa915d-1696-4387-8b1b-58425539942a",
+          "name": "CA7RIEL"
+        },
+        "artist": "CA7RIEL",
+        "track_title": "Vida Loca",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "5020 Records",
+        "release_title": null,
+        "record_id": "n9pzpm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l57w65",
+            "name": "CA7RIEL",
+            "role": "Performer",
+            "musicbrainz_gid": "a5aa915d-1696-4387-8b1b-58425539942a"
+          },
+          {
+            "pid": "p0m86r08",
+            "name": "Paco Amoroso",
+            "role": "Performer",
+            "musicbrainz_gid": "d069bf52-d213-49ac-8f9c-31841405bc9d"
+          }
+        ],
+        "title": "Vida Loca",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "The Sun Will Never Settle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nndvxv",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "The Sun Will Never Settle",
+        "track_number": null,
+        "publisher": "Atlantic",
+        "record_label": "B-Unique Recordings",
+        "release_title": null,
+        "record_id": "n98qd2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "The Sun Will Never Settle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hemlocke springs",
+      "title": "be the girl!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n30yc3",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p0dp7vhc",
+          "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819",
+          "name": "hemlocke springs"
+        },
+        "artist": "hemlocke springs",
+        "track_title": "be the girl!",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "GOOD LUCK HAVE FUN",
+        "release_title": null,
+        "record_id": "n963vp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dp7vhc",
+            "name": "hemlocke springs",
+            "role": "Performer",
+            "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819"
+          }
+        ],
+        "title": "be the girl!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "The Mother We Share",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01fp5ny",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "The Mother We Share",
+        "track_number": null,
+        "publisher": "UNIVERSAL MUSIC PUBLISHING LIMITED",
+        "record_label": "Virgin Records",
+        "release_title": null,
+        "record_id": "nzn2gn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "The Mother We Share",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "Noise Keeper",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbcmr8",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "Noise Keeper",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9rxhd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          },
+          {
+            "pid": "p0jqgw85",
+            "name": "D Stone",
+            "role": "Performer",
+            "musicbrainz_gid": "f38265e9-9699-44af-96c1-a98d964db4b5"
+          }
+        ],
+        "title": "Noise Keeper",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "Party",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbrhp4",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p023qjwv",
+          "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "name": "Troye Sivan"
+        },
+        "artist": "Troye Sivan",
+        "track_title": "Party",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Interscope",
+        "release_title": null,
+        "record_id": "n9c84q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p023qjwv",
+            "name": "Troye Sivan",
+            "role": "Performer",
+            "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+          }
+        ],
+        "title": "Party",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "underscores",
+      "title": "Unlimited Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y9ww",
+        "duration": 162,
+        "primary_contributor": {
+          "pid": "p062j9j4",
+          "musicbrainz_gid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+          "name": "underscores"
+        },
+        "artist": "underscores",
+        "track_title": "Unlimited Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop Music",
+        "release_title": null,
+        "record_id": "n9bfdw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p062j9j4",
+            "name": "underscores",
+            "role": "Performer",
+            "musicbrainz_gid": "ab1a3f85-e0ea-470a-af5c-175447ae774c"
+          }
+        ],
+        "title": "Unlimited Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dimension",
+      "title": "Ghost Town",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5wk7c",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p014rdgk",
+          "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3",
+          "name": "Dimension"
+        },
+        "artist": "Dimension",
+        "track_title": "Ghost Town",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Dimension",
+        "release_title": "Ghost Town",
+        "record_id": "n9bc5h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p014rdgk",
+            "name": "Dimension",
+            "role": "Performer",
+            "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3"
+          },
+          {
+            "pid": "p0d74mcr",
+            "name": "Subsonic",
+            "role": "Performer",
+            "musicbrainz_gid": "3208557c-c04d-4e69-b652-c7266e139876"
+          }
+        ],
+        "title": "Ghost Town",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "crank 2",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y8bk",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "crank 2",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9c5np",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "crank 2",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Beyoncé",
+      "title": "CAN I WATCH YOU",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fxk3",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p019h602",
+          "musicbrainz_gid": "859d0860-d480-4efd-970c-c05d5f1776b8",
+          "name": "Beyoncé"
+        },
+        "artist": "Beyoncé",
+        "track_title": "CAN I WATCH YOU",
+        "track_number": "17",
+        "publisher": null,
+        "record_label": "Parkwood Entertainment/Columbia",
+        "release_title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
+        "record_id": "n9bm3d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p019h602",
+            "name": "Beyoncé",
+            "role": "Performer",
+            "musicbrainz_gid": "859d0860-d480-4efd-970c-c05d5f1776b8"
+          },
+          {
+            "pid": "p01yvcy0",
+            "name": "Pharrell Williams",
+            "role": "Performer",
+            "musicbrainz_gid": "149f91ef-1287-46da-9a8e-87fee02f1471"
+          }
+        ],
+        "title": "CAN I WATCH YOU",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Yung Miami",
+      "title": "Spend Dat",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p63chn",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p09ztqw5",
+          "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c",
+          "name": "Yung Miami"
+        },
+        "artist": "Yung Miami",
+        "track_title": "Spend Dat",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Yung Miami LLC",
+        "release_title": null,
+        "record_id": "n99cvw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09ztqw5",
+            "name": "Yung Miami",
+            "role": "Performer",
+            "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c"
+          }
+        ],
+        "title": "Spend Dat",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Melatonin",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55hht",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Melatonin",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Nice Life/Atlantic",
+        "release_title": "Melatonin",
+        "record_id": "n9b8jh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Melatonin",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Painkiller",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rrlj",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Painkiller",
+        "track_number": null,
+        "publisher": "BMG RIghts Management",
+        "record_label": "Speakerbox",
+        "release_title": null,
+        "record_id": "n9c49x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          },
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          }
+        ],
+        "title": "Painkiller",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Lucky [Hymn]",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p90jl6",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Lucky [Hymn]",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9czvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Lucky [Hymn]",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Basht.",
+      "title": "Terror TV",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbsx52",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0lhcc0r",
+          "musicbrainz_gid": "eefe0ce9-822e-4814-be32-d5fc0f83db2e",
+          "name": "Basht."
+        },
+        "artist": "Basht.",
+        "track_title": "Terror TV",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bn3r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0lhcc0r",
+            "name": "Basht.",
+            "role": "Performer",
+            "musicbrainz_gid": "eefe0ce9-822e-4814-be32-d5fc0f83db2e"
+          }
+        ],
+        "title": "Terror TV",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "The Hardest Thing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p632nz",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "The Hardest Thing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bd2q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "The Hardest Thing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "After",
+      "title": "Blind",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vz2l",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0mkx1df",
+          "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31",
+          "name": "After"
+        },
+        "artist": "After",
+        "track_title": "Blind",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop",
+        "release_title": null,
+        "record_id": "n9bj66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mkx1df",
+            "name": "After",
+            "role": "Performer",
+            "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31"
+          }
+        ],
+        "title": "Blind",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MOLIY",
+      "title": "911",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p71487",
+        "duration": 140,
+        "primary_contributor": {
+          "pid": "p09b79zb",
+          "musicbrainz_gid": "3472754c-1a8f-4466-aad8-b42626bbe8b0",
+          "name": "MOLIY"
+        },
+        "artist": "MOLIY",
+        "track_title": "911",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Gamma",
+        "release_title": null,
+        "record_id": "n9bggg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09b79zb",
+            "name": "MOLIY",
+            "role": "Performer",
+            "musicbrainz_gid": "3472754c-1a8f-4466-aad8-b42626bbe8b0"
+          }
+        ],
+        "title": "911",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

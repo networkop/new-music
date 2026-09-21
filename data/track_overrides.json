@@ -489,6 +489,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Body So Tea"
   },
+  "cordae|||two tens": {
+    "artist": "Cordae",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Two Tens"
+  },
   "cortis|||motion": {
     "artist": "CORTIS",
     "category": "manual",
@@ -929,6 +936,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Invisible"
+  },
+  "jigitz|||can't be nothing but what i am": {
+    "artist": "jigitz",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "can't be nothing but what I am"
   },
   "joe james|||same emotions": {
     "artist": "Joe James",
@@ -1784,6 +1798,34 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "On 2nite"
   },
+  "skepta|||greaze mode": {
+    "artist": "Skepta",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Greaze Mode"
+  },
+  "skepta|||innocent smile": {
+    "artist": "Skepta",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Innocent Smile"
+  },
+  "skepta|||shutdown": {
+    "artist": "Skepta",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Shutdown"
+  },
+  "skepta|||that's not me": {
+    "artist": "Skepta",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "That's Not Me"
+  },
   "slayr|||keep me going (birdbrain)": {
     "artist": "slayr",
     "category": "manual",
@@ -1804,6 +1846,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "brand new chanel$"
+  },
+  "slayyyter|||crank 2": {
+    "artist": "Slayyyter",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "crank 2"
   },
   "slipknot|||custer": {
     "artist": "Slipknot",
@@ -1965,6 +2014,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Anything He Was"
+  },
+  "tiny habits|||love ruins everything": {
+    "artist": "Tiny Habits",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Love Ruins Everything"
   },
   "tove lo|||dnh": {
     "artist": "Tove Lo",
