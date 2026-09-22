@@ -97,6 +97,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dis-le"
   },
+  "angèle|||une seule vie": {
+    "artist": "Angèle",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Une seule vie"
+  },
   "anotr|||silver lines": {
     "artist": "ANOTR",
     "category": "manual",
@@ -209,6 +216,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dog Eat Dog"
   },
+  "benjamin steer|||flatline": {
+    "artist": "Benjamin Steer",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Flatline"
+  },
   "beyoncé|||morning dew (donk)": {
     "artist": "Beyoncé",
     "category": "manual",
@@ -272,6 +286,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Honey Sweet"
   },
+  "blossoms|||husband": {
+    "artist": "Blossoms",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Husband"
+  },
   "blossoms|||meet me in love": {
     "artist": "Blossoms",
     "category": "manual",
@@ -334,6 +355,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Youths Fountain"
+  },
+  "ca7riel|||vida loca": {
+    "artist": "CA7RIEL",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Vida Loca"
   },
   "cannelle|||bb blue": {
     "artist": "Cannelle",
@@ -468,12 +496,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Change"
   },
+  "chloé caillet|||the one": {
+    "artist": "Chloé Caillet",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "The One"
+  },
   "chris stassy|||u know me": {
     "artist": "CHRIS STASSY",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "U Know Me"
+  },
+  "chvrches|||the mother we share": {
+    "artist": "CHVRCHES",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "The Mother We Share"
   },
   "cloonee|||good girl": {
     "artist": "Cloonee",
@@ -846,6 +888,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Turnt To A Target"
   },
+  "hemlocke springs|||be the girl!": {
+    "artist": "hemlocke springs",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "be the girl!"
+  },
+  "hemlocke springs|||gloria": {
+    "artist": "hemlocke springs",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "gloria"
+  },
   "high contrast|||around me": {
     "artist": "High Contrast",
     "category": "manual",
@@ -936,6 +992,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Invisible"
+  },
+  "jennie|||fallen angel": {
+    "artist": "JENNIE",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Fallen Angel"
   },
   "jigitz|||can't be nothing but what i am": {
     "artist": "jigitz",
@@ -1791,6 +1854,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Trip Advisor (Rhythm, Snare, Bass) 2025 Warp"
   },
+  "silva bumpa|||fantasy (baby if u know me)": {
+    "artist": "Silva Bumpa",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Fantasy (Baby If u know me)"
+  },
   "silva bumpa|||on 2nite": {
     "artist": "Silva Bumpa",
     "category": "manual",
@@ -2022,6 +2092,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Love Ruins Everything"
   },
+  "tomora|||somewhere else": {
+    "artist": "TOMORA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "SOMEWHERE ELSE"
+  },
   "tove lo|||dnh": {
     "artist": "Tove Lo",
     "category": "manual",
@@ -2049,6 +2126,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Unlimited Love"
+  },
+  "untitled (halo)|||aimee lou wood freestyle": {
+    "artist": "untitled (halo)",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "aimee lou wood freestyle"
   },
   "vince staples|||cotton": {
     "artist": "Vince Staples",

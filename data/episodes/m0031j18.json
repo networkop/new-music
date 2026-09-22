@@ -1,0 +1,1076 @@
+{
+  "pid": "m0031j18",
+  "broadcast_start": "2026-09-22T18:00:00+01:00",
+  "schedule_date": "2026-09-22",
+  "title": "Chvrches Hottest Record",
+  "tracks": [
+    {
+      "artist": "ADÉLA",
+      "title": "Nicole Kidman",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fhrl",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Nicole Kidman",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bqxq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          }
+        ],
+        "title": "Nicole Kidman",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Miley",
+      "title": "Different Religion",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9m1cy",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0p8j258",
+          "musicbrainz_gid": "3cb11790-114b-4885-864c-2e2da4fdce43",
+          "name": "Miley"
+        },
+        "artist": "Miley",
+        "track_title": "Different Religion",
+        "track_number": null,
+        "publisher": "MCEO Publishing (BMI)",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c3mj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p8j258",
+            "name": "Miley",
+            "role": "Performer",
+            "musicbrainz_gid": "3cb11790-114b-4885-864c-2e2da4fdce43"
+          }
+        ],
+        "title": "Different Religion",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "The Mother We Share",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01fp5ny",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "The Mother We Share",
+        "track_number": null,
+        "publisher": "UNIVERSAL MUSIC PUBLISHING LIMITED",
+        "record_label": "Virgin Records",
+        "release_title": null,
+        "record_id": "nzn2gn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "The Mother We Share",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Ten Over Ten",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fvc1",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Ten Over Ten",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": "Ten Over Ten",
+        "record_id": "n9b4bp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Ten Over Ten",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "Wallflower",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7ds62",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "Wallflower",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bwpv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "Wallflower",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Sunshine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50w41",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Sunshine",
+        "track_number": null,
+        "publisher": "WE BLOW S UP MUSIC,PICCADILLY MUSIC CORPORATION,KASSNER ASSOCIATED PUBLISHERS LIMITED",
+        "record_label": "Caiola Records",
+        "release_title": "Sunshine",
+        "record_id": "n9b5jp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Sunshine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jungle",
+      "title": "Sunshine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5zw67",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p01j8nm8",
+          "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+          "name": "Jungle"
+        },
+        "artist": "Jungle",
+        "track_title": "Sunshine",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sunshine",
+        "release_title": null,
+        "record_id": "n9b5jp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01j8nm8",
+            "name": "Jungle",
+            "role": "Performer",
+            "musicbrainz_gid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4"
+          }
+        ],
+        "title": "Sunshine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiny Habits",
+      "title": "Love Ruins Everything",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7mgzp",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0h81y2f",
+          "musicbrainz_gid": "6f38418e-4695-4e20-a792-431929e95ee5",
+          "name": "Tiny Habits"
+        },
+        "artist": "Tiny Habits",
+        "track_title": "Love Ruins Everything",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop",
+        "release_title": null,
+        "record_id": "n9bwqb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0h81y2f",
+            "name": "Tiny Habits",
+            "role": "Performer",
+            "musicbrainz_gid": "6f38418e-4695-4e20-a792-431929e95ee5"
+          }
+        ],
+        "title": "Love Ruins Everything",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Clearest Blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p03j58ld",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Clearest Blue",
+        "track_number": null,
+        "publisher": "Universal Publishing",
+        "record_label": "Virgin",
+        "release_title": "Every Open Eye",
+        "record_id": "n3d3g6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Clearest Blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pby453",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9c8hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "The Sun Will Never Settle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nndvxv",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "The Sun Will Never Settle",
+        "track_number": null,
+        "publisher": "Atlantic",
+        "record_label": "B-Unique Recordings",
+        "release_title": null,
+        "record_id": "n98qd2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "The Sun Will Never Settle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Celebration",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbslj3",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Celebration",
+        "track_number": null,
+        "publisher": "Peer Music",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9c8p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Celebration",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Alewya",
+      "title": "Cairo FM",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx1cfk",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p08hxgvs",
+          "musicbrainz_gid": "49b5386b-a606-41b1-90e8-d9e7983b6f1b",
+          "name": "Alewya"
+        },
+        "artist": "Alewya",
+        "track_title": "Cairo FM",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LDN Records",
+        "release_title": null,
+        "record_id": "n99j84",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08hxgvs",
+            "name": "Alewya",
+            "role": "Performer",
+            "musicbrainz_gid": "49b5386b-a606-41b1-90e8-d9e7983b6f1b"
+          }
+        ],
+        "title": "Cairo FM",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Une seule vie",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5709",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Une seule vie",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9bwq8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          }
+        ],
+        "title": "Une seule vie",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Marianne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p52p2k",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Marianne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b8rg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Marianne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Bobby",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p51gdk",
+        "duration": 235,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "Bobby",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dead Oceans",
+        "release_title": null,
+        "record_id": "n9b5hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "Bobby",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "South Arcade",
+      "title": "F.A.M.O.U.S",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbtbr5",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0dbxqn0",
+          "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3",
+          "name": "South Arcade"
+        },
+        "artist": "South Arcade",
+        "track_title": "F.A.M.O.U.S",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n9c2fn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbxqn0",
+            "name": "South Arcade",
+            "role": "Performer",
+            "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3"
+          }
+        ],
+        "title": "F.A.M.O.U.S",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Interplanetary Criminal",
+      "title": "HOLD DA PHONE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7bdbl",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p076pjk8",
+          "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e",
+          "name": "Interplanetary Criminal"
+        },
+        "artist": "Interplanetary Criminal",
+        "track_title": "HOLD DA PHONE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n9bw3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p076pjk8",
+            "name": "Interplanetary Criminal",
+            "role": "Performer",
+            "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e"
+          },
+          {
+            "pid": "p0gfs4g7",
+            "name": "Silva Bumpa",
+            "role": "Performer",
+            "musicbrainz_gid": "980604d4-fc2b-4778-8fc5-a7d28e52ab85"
+          }
+        ],
+        "title": "HOLD DA PHONE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Denzel Curry",
+      "title": "DIFFERENCE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44frc",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p01kpc89",
+          "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+          "name": "Denzel Curry"
+        },
+        "artist": "Denzel Curry",
+        "track_title": "DIFFERENCE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LOMA VISTA",
+        "release_title": null,
+        "record_id": "n9b4br",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Performer",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          },
+          {
+            "pid": "p078c29h",
+            "name": "Kenny Beats",
+            "role": "Performer",
+            "musicbrainz_gid": "22ba00db-f132-4f3c-ab06-4ddaa4cc066b"
+          },
+          {
+            "pid": "p05lh5n3",
+            "name": "Yebba",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0aeea1ef-8d96-4556-8c4a-84b88ae271bb"
+          }
+        ],
+        "title": "DIFFERENCE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cannelle",
+      "title": "BB Blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxnt1v",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0nx7076",
+          "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e",
+          "name": "Cannelle"
+        },
+        "artist": "Cannelle",
+        "track_title": "BB Blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Cannelle",
+        "release_title": null,
+        "record_id": "n9r34g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nx7076",
+            "name": "Cannelle",
+            "role": "Performer",
+            "musicbrainz_gid": "aa2d7a70-de24-4d7c-a4ed-afac746adf1e"
+          }
+        ],
+        "title": "BB Blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacey",
+      "title": "oh yeah?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rxrx",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p04wwtr2",
+          "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f",
+          "name": "Steve Lacey"
+        },
+        "artist": "Steve Lacey",
+        "track_title": "oh yeah?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9b3r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04wwtr2",
+            "name": "Steve Lacey",
+            "role": "Performer",
+            "musicbrainz_gid": "eddb1dda-2c8f-487a-b402-3f9261182f5f"
+          }
+        ],
+        "title": "oh yeah?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hemlocke springs",
+      "title": "be the girl! (Radio 1 Session, 22nd September 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbyc50",
+        "duration": 351,
+        "primary_contributor": {
+          "pid": "p0dp7vhc",
+          "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819",
+          "name": "hemlocke springs"
+        },
+        "artist": "hemlocke springs",
+        "track_title": "be the girl! (Radio 1 Session, 22nd September 2026)",
+        "track_number": null,
+        "publisher": "OTM",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c8wb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dp7vhc",
+            "name": "hemlocke springs",
+            "role": "Performer",
+            "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819"
+          }
+        ],
+        "title": "be the girl! (Radio 1 Session, 22nd September 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hemlocke springs",
+      "title": "Moses (Radio 1 Session, 22nd September 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbyf9q",
+        "duration": 227,
+        "primary_contributor": {
+          "pid": "p0dp7vhc",
+          "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819",
+          "name": "hemlocke springs"
+        },
+        "artist": "hemlocke springs",
+        "track_title": "Moses (Radio 1 Session, 22nd September 2026)",
+        "track_number": null,
+        "publisher": "OTM",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c8wf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dp7vhc",
+            "name": "hemlocke springs",
+            "role": "Performer",
+            "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819"
+          }
+        ],
+        "title": "Moses (Radio 1 Session, 22nd September 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hemlocke springs",
+      "title": "Illegal (Radio 1 Session, 22nd September 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbyg0n",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0dp7vhc",
+          "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819",
+          "name": "hemlocke springs"
+        },
+        "artist": "hemlocke springs",
+        "track_title": "Illegal (Radio 1 Session, 22nd September 2026)",
+        "track_number": null,
+        "publisher": "Warner Records",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c8wb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dp7vhc",
+            "name": "hemlocke springs",
+            "role": "Performer",
+            "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819"
+          }
+        ],
+        "title": "Illegal (Radio 1 Session, 22nd September 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Painkiller",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rrlj",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Painkiller",
+        "track_number": null,
+        "publisher": "BMG RIghts Management",
+        "record_label": "Speakerbox",
+        "release_title": null,
+        "record_id": "n9c49x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          },
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          }
+        ],
+        "title": "Painkiller",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wretch 32",
+      "title": "Fire In The Booth",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p94fdf",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p012dc6x",
+          "musicbrainz_gid": "9a3b2d4a-2da4-49c6-9ab3-c680434dbabf",
+          "name": "Wretch 32"
+        },
+        "artist": "Wretch 32",
+        "track_title": "Fire In The Booth",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n4fmcw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dc6x",
+            "name": "Wretch 32",
+            "role": "Performer",
+            "musicbrainz_gid": "9a3b2d4a-2da4-49c6-9ab3-c680434dbabf"
+          }
+        ],
+        "title": "Fire In The Booth",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slow Pulp",
+      "title": "Spill",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9m8zm",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p073fj1d",
+          "musicbrainz_gid": "00505f51-68a8-45fc-b6d6-51be64751378",
+          "name": "Slow Pulp"
+        },
+        "artist": "Slow Pulp",
+        "track_title": "Spill",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Anti/Epitaph",
+        "release_title": null,
+        "record_id": "n9b4zc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p073fj1d",
+            "name": "Slow Pulp",
+            "role": "Performer",
+            "musicbrainz_gid": "00505f51-68a8-45fc-b6d6-51be64751378"
+          }
+        ],
+        "title": "Spill",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ROLE MODEL",
+      "title": "Harmony",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67ntm",
+        "duration": 260,
+        "primary_contributor": {
+          "pid": "p08h0sm0",
+          "musicbrainz_gid": "4c76d2ab-cc32-47b9-8bfe-d382bed617f6",
+          "name": "ROLE MODEL"
+        },
+        "artist": "ROLE MODEL",
+        "track_title": "Harmony",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "n9b35v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08h0sm0",
+            "name": "ROLE MODEL",
+            "role": "Performer",
+            "musicbrainz_gid": "4c76d2ab-cc32-47b9-8bfe-d382bed617f6"
+          }
+        ],
+        "title": "Harmony",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

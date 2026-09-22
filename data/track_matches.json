@@ -494,6 +494,16 @@
     "score": 1.0,
     "uri": "spotify:track:4HIyXZ63ucWnHXCfrlWWOq"
   },
+  "chvrches|||clearest blue": {
+    "matched": "CHVRCHES - Clearest Blue",
+    "score": 1.0,
+    "uri": "spotify:track:0ptjIq1XKNYBtfjzXQ3dXE"
+  },
+  "chvrches|||roses": {
+    "matched": "CHVRCHES - Roses",
+    "score": 1.0,
+    "uri": "spotify:track:3cV0ssCRS5OUR6iRUHf56C"
+  },
   "chvrches|||the mother we share": {
     "matched": "CHVRCHES - The Mother We Share",
     "score": 1.0,
@@ -859,10 +869,25 @@
     "score": 1.0,
     "uri": "spotify:track:1jHNzk2mWZ8VnGcVewl4Nn"
   },
+  "hemlocke springs|||be the girl! (radio 1 session, 22nd september 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "hemlocke springs|||gloria": {
     "matched": "hemlocke springs - gloria!",
     "score": 1.0,
     "uri": "spotify:track:0JvxCw2L2ChMeVpIfSwvqN"
+  },
+  "hemlocke springs|||illegal (radio 1 session, 22nd september 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "hemlocke springs|||moses (radio 1 session, 22nd september 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "high contrast|||around me": {
     "matched": "High Contrast - Around Me (feat. Dawn Joseph)",
@@ -903,6 +928,11 @@
     "matched": "INJI - I WANNA FEEL IT ALL",
     "score": 1.0,
     "uri": "spotify:track:0QxKOd4IHUHG0UvPraaicT"
+  },
+  "interplanetary criminal|||hold da phone": {
+    "matched": "Interplanetary Criminal - HOLD DA PHONE",
+    "score": 1.0,
+    "uri": "spotify:track:2IKns7PcTCTa8WcrfF7tsY"
   },
   "interplanetary criminal|||hold the phone": {
     "matched": null,
@@ -1904,6 +1934,11 @@
     "score": 1.0,
     "uri": "spotify:track:4XCuMPrNAoO1Rw4AcNFSlV"
   },
+  "south arcade|||f.a.m.o.u.s": {
+    "matched": "South Arcade - F.A.M.O.U.S",
+    "score": 1.0,
+    "uri": "spotify:track:4cLzHSqYaxcw8qVFV2xlGY"
+  },
   "spacey jane|||east village": {
     "matched": "Spacey Jane - East Village",
     "score": 1.0,
@@ -2173,6 +2208,11 @@
     "matched": "Wolf Alice - Hammond Song",
     "score": 1.0,
     "uri": "spotify:track:2aR3Hs6ioznnfBaI1rArDi"
+  },
+  "wretch 32|||fire in the booth": {
+    "matched": "Wretch 32 - Fire In The Booth",
+    "score": 1.0,
+    "uri": "spotify:track:1yIuPXnyODACJxaX9DjCuY"
   },
   "yard act|||new beginnings": {
     "matched": "Yard Act - New Beginnings",
