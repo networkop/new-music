@@ -1,0 +1,944 @@
+{
+  "pid": "m0031hxs",
+  "broadcast_start": "2026-09-23T18:00:00+01:00",
+  "schedule_date": "2026-09-23",
+  "title": "Kingfishr Hottest Record",
+  "tracks": [
+    {
+      "artist": "Skepta",
+      "title": "Innocent Smile",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb7vkh",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Innocent Smile",
+        "track_number": null,
+        "publisher": "Sony Music Publishing (MCPS/BIEM) / Universal Music Publishing",
+        "record_label": "Sony",
+        "release_title": null,
+        "record_id": "n9c5cn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          },
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          }
+        ],
+        "title": "Innocent Smile",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Additional Driver",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67qm5",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Additional Driver",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Distiller Records LLP",
+        "release_title": null,
+        "record_id": "n9bddb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          },
+          {
+            "pid": "p038r1tj",
+            "name": "Declan McKenna",
+            "role": "Performer",
+            "musicbrainz_gid": "8b98035f-fbd2-4fb3-9c2f-263c7506680d"
+          }
+        ],
+        "title": "Additional Driver",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "The Sun Will Never Settle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nndvxv",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "The Sun Will Never Settle",
+        "track_number": null,
+        "publisher": "Atlantic",
+        "record_label": "B-Unique Recordings",
+        "release_title": null,
+        "record_id": "n98qd2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "The Sun Will Never Settle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ashe",
+      "title": "Stop The Wedding!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5c79t",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p06xlksz",
+          "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409",
+          "name": "Ashe"
+        },
+        "artist": "Ashe",
+        "track_title": "Stop The Wedding!",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Stop The Wedding!",
+        "record_id": "n9b6qr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06xlksz",
+            "name": "Ashe",
+            "role": "Performer",
+            "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409"
+          }
+        ],
+        "title": "Stop The Wedding!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "3310",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fxkk",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "3310",
+        "track_number": null,
+        "publisher": "Universal",
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9b8wg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "3310",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Bottle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6g8v3",
+        "duration": 257,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Bottle",
+        "track_number": null,
+        "publisher": "Universal Music Publishing UK",
+        "record_label": "Island Records UK",
+        "release_title": "Mud",
+        "record_id": "n9b9qv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Bottle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbwllb",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0dckhd7",
+          "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be",
+          "name": "Freya Skye"
+        },
+        "artist": "Freya Skye",
+        "track_title": "bad taste",
+        "track_number": null,
+        "publisher": "Seven Peaks Music/Socaloca Music / Sony/ATV Tunes LLC/Sony Music Publishing (UK) Ltd./Sony/ATV Tunes LLC/Songhouse Limited / Seven Summits Music/Monarch Songs Publishing / Anna Schindel Publishing/The",
+        "record_label": "Hollywood",
+        "release_title": null,
+        "record_id": "n9c4r6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dckhd7",
+            "name": "Freya Skye",
+            "role": "Performer",
+            "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be"
+          }
+        ],
+        "title": "bad taste",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "Hold Me Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0mk7fdx",
+        "duration": 152,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "Hold Me Down",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n93dbx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "Hold Me Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "How Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc40bx",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "How Lonely",
+        "track_number": null,
+        "publisher": "B-Unique Music",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c96f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "How Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Fur Elise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50m5v",
+        "duration": 255,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Fur Elise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9b8nh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Fur Elise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pby453",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9c8hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Spiritbox",
+      "title": "Mourning",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9n09w",
+        "duration": 256,
+        "primary_contributor": {
+          "pid": "p08n6f88",
+          "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061",
+          "name": "Spiritbox"
+        },
+        "artist": "Spiritbox",
+        "track_title": "Mourning",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c458",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08n6f88",
+            "name": "Spiritbox",
+            "role": "Performer",
+            "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061"
+          }
+        ],
+        "title": "Mourning",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Qendresa",
+      "title": "Besitos",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7m0f4",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p08zzdph",
+          "musicbrainz_gid": "56a210e8-5482-4b52-a8c4-eaf785cbcb59",
+          "name": "Qendresa"
+        },
+        "artist": "Qendresa",
+        "track_title": "Besitos",
+        "track_number": null,
+        "publisher": "Warp Publishing",
+        "record_label": "dream city discs",
+        "release_title": null,
+        "record_id": "n9b55q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08zzdph",
+            "name": "Qendresa",
+            "role": "Performer",
+            "musicbrainz_gid": "56a210e8-5482-4b52-a8c4-eaf785cbcb59"
+          }
+        ],
+        "title": "Besitos",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Painkiller",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rrlj",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Painkiller",
+        "track_number": null,
+        "publisher": "BMG RIghts Management",
+        "record_label": "Speakerbox",
+        "release_title": null,
+        "record_id": "n9c49x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          },
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          }
+        ],
+        "title": "Painkiller",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiana Major9",
+      "title": "alright!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8stgl",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p060jgwb",
+          "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950",
+          "name": "Tiana Major9"
+        },
+        "artist": "Tiana Major9",
+        "track_title": "alright!",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "+1 Records",
+        "release_title": null,
+        "record_id": "n9bxqd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p060jgwb",
+            "name": "Tiana Major9",
+            "role": "Performer",
+            "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950"
+          }
+        ],
+        "title": "alright!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "The light in the painting",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2vvyj",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p097dwv7",
+          "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+          "name": "Lizzy McAlpine"
+        },
+        "artist": "Lizzy McAlpine",
+        "track_title": "The light in the painting",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9rx5f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097dwv7",
+            "name": "Lizzy McAlpine",
+            "role": "Performer",
+            "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+          }
+        ],
+        "title": "The light in the painting",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "Ugly things",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vvjv",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p097dwv7",
+          "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+          "name": "Lizzy McAlpine"
+        },
+        "artist": "Lizzy McAlpine",
+        "track_title": "Ugly things",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Indigo Blue/RCA Records",
+        "release_title": "Ugly things",
+        "record_id": "n9bj5m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097dwv7",
+            "name": "Lizzy McAlpine",
+            "role": "Performer",
+            "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+          },
+          {
+            "pid": "p0p7vvk3",
+            "name": "Mason Stoops",
+            "role": "Performer",
+            "musicbrainz_gid": "b6462379-e0fd-416e-93ac-9d1211cff0c7"
+          },
+          {
+            "pid": "p0fdw1lw",
+            "name": "Taylor Mackall",
+            "role": "Performer",
+            "musicbrainz_gid": "9ea57c31-ca04-4f98-a5c0-d291ae92c8cc"
+          },
+          {
+            "pid": "p0p7vvk9",
+            "name": "Kiara Ana",
+            "role": "Performer",
+            "musicbrainz_gid": "673c9f69-5782-4d5c-b36b-dd3557c4e311"
+          }
+        ],
+        "title": "Ugly things",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "Over Country",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc4758",
+        "duration": 300,
+        "primary_contributor": {
+          "pid": "p097dwv7",
+          "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+          "name": "Lizzy McAlpine"
+        },
+        "artist": "Lizzy McAlpine",
+        "track_title": "Over Country",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia Records",
+        "release_title": null,
+        "record_id": "n9c8xm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097dwv7",
+            "name": "Lizzy McAlpine",
+            "role": "Performer",
+            "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+          }
+        ],
+        "title": "Over Country",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "Masons Song",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc48zb",
+        "duration": 317,
+        "primary_contributor": {
+          "pid": "p097dwv7",
+          "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+          "name": "Lizzy McAlpine"
+        },
+        "artist": "Lizzy McAlpine",
+        "track_title": "Masons Song",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia Records",
+        "release_title": null,
+        "record_id": "n9c9pn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097dwv7",
+            "name": "Lizzy McAlpine",
+            "role": "Performer",
+            "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+          }
+        ],
+        "title": "Masons Song",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "After Dark",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8m6vg",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "After Dark",
+        "track_number": null,
+        "publisher": "Three Six Zero Pub Designee",
+        "record_label": "NINJA Tune",
+        "release_title": null,
+        "record_id": "n9bmh3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          }
+        ],
+        "title": "After Dark",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lambrini Girls",
+      "title": "Bang Bang Bang",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9mw6j",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p0dgpgh2",
+          "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef",
+          "name": "Lambrini Girls"
+        },
+        "artist": "Lambrini Girls",
+        "track_title": "Bang Bang Bang",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c3m9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dgpgh2",
+            "name": "Lambrini Girls",
+            "role": "Performer",
+            "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef"
+          }
+        ],
+        "title": "Bang Bang Bang",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wishy",
+      "title": "Mona Lisa",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9mhhk",
+        "duration": 271,
+        "primary_contributor": {
+          "pid": "p0gpp6ss",
+          "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42",
+          "name": "Wishy"
+        },
+        "artist": "Wishy",
+        "track_title": "Mona Lisa",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Winspear",
+        "release_title": null,
+        "record_id": "n9c4n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gpp6ss",
+            "name": "Wishy",
+            "role": "Performer",
+            "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42"
+          }
+        ],
+        "title": "Mona Lisa",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nieve Ella",
+      "title": "Romance Is A Desert",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7dzql",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p0dbjfyz",
+          "musicbrainz_gid": "0d351b4b-7986-4fd2-ac7f-40fdf2a34c71",
+          "name": "Nieve Ella"
+        },
+        "artist": "Nieve Ella",
+        "track_title": "Romance Is A Desert",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Artist Theory",
+        "release_title": null,
+        "record_id": "n9bh92",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbjfyz",
+            "name": "Nieve Ella",
+            "role": "Performer",
+            "musicbrainz_gid": "0d351b4b-7986-4fd2-ac7f-40fdf2a34c71"
+          }
+        ],
+        "title": "Romance Is A Desert",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Headie One",
+      "title": "One Thousand Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7m1j6",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p05t1djw",
+          "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64",
+          "name": "Headie One"
+        },
+        "artist": "Headie One",
+        "track_title": "One Thousand Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "One Records",
+        "release_title": null,
+        "record_id": "n9bx3r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05t1djw",
+            "name": "Headie One",
+            "role": "Performer",
+            "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64"
+          }
+        ],
+        "title": "One Thousand Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Amie Blu",
+      "title": "trees for the woods",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nzxb62",
+        "duration": 245,
+        "primary_contributor": {
+          "pid": "p0g1vpy7",
+          "musicbrainz_gid": "e90eb914-89e7-4ca2-b5c6-8903cd936ae0",
+          "name": "Amie Blu"
+        },
+        "artist": "Amie Blu",
+        "track_title": "trees for the woods",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "0207 Records",
+        "release_title": null,
+        "record_id": "n9rcwx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g1vpy7",
+            "name": "Amie Blu",
+            "role": "Performer",
+            "musicbrainz_gid": "e90eb914-89e7-4ca2-b5c6-8903cd936ae0"
+          }
+        ],
+        "title": "trees for the woods",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

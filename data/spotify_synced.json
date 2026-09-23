@@ -1,20 +1,5 @@
 {
   "keep": {
-    "spotify:track:0mVE7ho0GazVMHVyt6cFz5": {
-      "artist": "TOMORA",
-      "broadcast": "2026-09-22",
-      "title": "Celebration"
-    },
-    "spotify:track:0ptjIq1XKNYBtfjzXQ3dXE": {
-      "artist": "CHVRCHES",
-      "broadcast": "2026-09-22",
-      "title": "Clearest Blue"
-    },
-    "spotify:track:0zbf6dj8GkCdYRRRph7ELk": {
-      "artist": "Troye Sivan",
-      "broadcast": "2026-09-21",
-      "title": "Party"
-    },
     "spotify:track:1W7NwoNXkeQHtPNykbXwaP": {
       "artist": "Travy",
       "broadcast": "2026-09-10",
@@ -25,11 +10,6 @@
       "broadcast": "2026-09-22",
       "title": "Fire In The Booth"
     },
-    "spotify:track:2IKns7PcTCTa8WcrfF7tsY": {
-      "artist": "Interplanetary Criminal",
-      "broadcast": "2026-09-22",
-      "title": "HOLD DA PHONE"
-    },
     "spotify:track:3QEglzrnBHZg2yVGlo3G5j": {
       "artist": "Slipknot",
       "broadcast": "2026-09-10",
@@ -37,18 +17,28 @@
     },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
-      "broadcast": "2026-09-22",
+      "broadcast": "2026-09-23",
       "title": "Roses"
-    },
-    "spotify:track:3i3Qa9DLMVeexn7ighFoVS": {
-      "artist": "TOMORA",
-      "broadcast": "2026-09-21",
-      "title": "RING THE ALARM"
     },
     "spotify:track:4cLzHSqYaxcw8qVFV2xlGY": {
       "artist": "South Arcade",
       "broadcast": "2026-09-22",
       "title": "F.A.M.O.U.S"
+    },
+    "spotify:track:5zwngdtBYzTqYJT9gXxAdF": {
+      "artist": "Spiritbox",
+      "broadcast": "2026-09-23",
+      "title": "Mourning"
+    },
+    "spotify:track:61Dr6HoENF4HUFugwv24q0": {
+      "artist": "Wishy",
+      "broadcast": "2026-09-23",
+      "title": "Mona Lisa"
+    },
+    "spotify:track:6fhNTP2BZzR3wri0qh1iKx": {
+      "artist": "Lambrini Girls",
+      "broadcast": "2026-09-23",
+      "title": "Bang Bang Bang"
     },
     "spotify:track:7yug9Rrhhz76Nl2dAijt9X": {
       "artist": "Basht.",

@@ -3381,6 +3381,52 @@
       ]
     ]
   },
+  "4eeea7eb-7554-48cb-9e50-c26d434ed9ef": {
+    "name": "Lambrini Girls",
+    "source": "lastfm",
+    "tags": [
+      [
+        "riot grrrl",
+        100
+      ],
+      [
+        "garage punk",
+        71
+      ],
+      [
+        "punk",
+        39
+      ],
+      [
+        "post-punk",
+        31
+      ],
+      [
+        "crank wave",
+        16
+      ],
+      [
+        "queercore",
+        12
+      ],
+      [
+        "punk rock",
+        7
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "doom punk",
+        1
+      ],
+      [
+        "british",
+        1
+      ]
+    ]
+  },
   "5028bb70-8872-4806-8b4a-b693ae0da7fc": {
     "name": "Waterparks",
     "source": "lastfm",
@@ -7310,6 +7356,52 @@
       ],
       [
         "female guitarists",
+        1
+      ]
+    ]
+  },
+  "9c935736-7530-41e4-b776-1dbcf534c061": {
+    "name": "Spiritbox",
+    "source": "lastfm",
+    "tags": [
+      [
+        "metalcore",
+        100
+      ],
+      [
+        "djent",
+        56
+      ],
+      [
+        "progressive metalcore",
+        36
+      ],
+      [
+        "progressive metal",
+        30
+      ],
+      [
+        "alternative metal",
+        13
+      ],
+      [
+        "canadian",
+        9
+      ],
+      [
+        "metal",
+        7
+      ],
+      [
+        "female vocalists",
+        1
+      ],
+      [
+        "female fronted metal",
+        1
+      ],
+      [
+        "canada",
         1
       ]
     ]

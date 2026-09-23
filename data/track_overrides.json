@@ -510,6 +510,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "U Know Me"
   },
+  "chvrches|||clearest blue": {
+    "artist": "CHVRCHES",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Clearest Blue"
+  },
   "chvrches|||the mother we share": {
     "artist": "CHVRCHES",
     "category": "manual",
@@ -943,6 +950,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "I WANNA FEEL IT ALL"
+  },
+  "interplanetary criminal|||hold da phone": {
+    "artist": "Interplanetary Criminal",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "HOLD DA PHONE"
   },
   "ivri|||the golden record": {
     "artist": "ivri",
@@ -2092,6 +2106,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Love Ruins Everything"
   },
+  "tomora|||celebration": {
+    "artist": "TOMORA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Celebration"
+  },
+  "tomora|||ring the alarm": {
+    "artist": "TOMORA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "RING THE ALARM"
+  },
   "tomora|||somewhere else": {
     "artist": "TOMORA",
     "category": "manual",
@@ -2105,6 +2133,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "DNH"
+  },
+  "troye sivan|||party": {
+    "artist": "Troye Sivan",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Party"
   },
   "tsha|||girls": {
     "artist": "TSHA",
