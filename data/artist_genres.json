@@ -781,6 +781,52 @@
     "source": "lastfm",
     "tags": []
   },
+  "10e8f0df-90f9-4957-aedd-c4e0d187e3a8": {
+    "name": "Bicep",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "disco",
+        96
+      ],
+      [
+        "techno",
+        58
+      ],
+      [
+        "electronic",
+        8
+      ],
+      [
+        "deep house",
+        3
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "future garage",
+        1
+      ],
+      [
+        "detroit",
+        1
+      ],
+      [
+        "breakbeat",
+        1
+      ],
+      [
+        "nu disco",
+        1
+      ]
+    ]
+  },
   "115dc8c9-cb04-4dd6-859e-39739eb57215": {
     "name": "That Mexican OT",
     "source": "lastfm",
@@ -7448,6 +7494,52 @@
       ],
       [
         "english",
+        1
+      ]
+    ]
+  },
+  "9ffad8aa-b671-4a9a-a527-a95bdaaa0ec4": {
+    "name": "Darude",
+    "source": "lastfm",
+    "tags": [
+      [
+        "trance",
+        100
+      ],
+      [
+        "electronic",
+        67
+      ],
+      [
+        "dance",
+        33
+      ],
+      [
+        "techno",
+        33
+      ],
+      [
+        "electronica",
+        10
+      ],
+      [
+        "finnish",
+        8
+      ],
+      [
+        "house",
+        3
+      ],
+      [
+        "progressive trance",
+        1
+      ],
+      [
+        "finland",
+        1
+      ],
+      [
+        "hard trance",
         1
       ]
     ]

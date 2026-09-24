@@ -1,5 +1,10 @@
 {
   "keep": {
+    "spotify:track:0GuYLoC2G9eXMGwwXH8xt1": {
+      "artist": "Blondshell",
+      "broadcast": "2026-09-24",
+      "title": "Stone Fruit"
+    },
     "spotify:track:1W7NwoNXkeQHtPNykbXwaP": {
       "artist": "Travy",
       "broadcast": "2026-09-10",
@@ -9,6 +14,11 @@
       "artist": "Wretch 32",
       "broadcast": "2026-09-22",
       "title": "Fire In The Booth"
+    },
+    "spotify:track:2aJDlirz6v2a4HREki98cP": {
+      "artist": "Bicep",
+      "broadcast": "2026-09-24",
+      "title": "Glue"
     },
     "spotify:track:3QEglzrnBHZg2yVGlo3G5j": {
       "artist": "Slipknot",
@@ -25,20 +35,15 @@
       "broadcast": "2026-09-22",
       "title": "F.A.M.O.U.S"
     },
-    "spotify:track:5zwngdtBYzTqYJT9gXxAdF": {
-      "artist": "Spiritbox",
-      "broadcast": "2026-09-23",
-      "title": "Mourning"
+    "spotify:track:5A8YVeEtelHwCxWodW6KrP": {
+      "artist": "Rose Gray",
+      "broadcast": "2026-09-24",
+      "title": "Blink Twice"
     },
-    "spotify:track:61Dr6HoENF4HUFugwv24q0": {
-      "artist": "Wishy",
-      "broadcast": "2026-09-23",
-      "title": "Mona Lisa"
-    },
-    "spotify:track:6fhNTP2BZzR3wri0qh1iKx": {
-      "artist": "Lambrini Girls",
-      "broadcast": "2026-09-23",
-      "title": "Bang Bang Bang"
+    "spotify:track:6Sy9BUbgFse0n0LPA5lwy5": {
+      "artist": "Darude",
+      "broadcast": "2026-09-24",
+      "title": "Sandstorm"
     },
     "spotify:track:7yug9Rrhhz76Nl2dAijt9X": {
       "artist": "Basht.",

@@ -1,0 +1,806 @@
+{
+  "pid": "m0031j05",
+  "broadcast_start": "2026-09-24T18:00:00+01:00",
+  "schedule_date": "2026-09-24",
+  "title": "Blondshell Hottest Record",
+  "tracks": [
+    {
+      "artist": "Barry Can't Swim",
+      "title": "I Could Be Madonna",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8ctl1",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0byqyrc",
+          "musicbrainz_gid": "7dcf3b98-701a-4309-a90c-eb4179b96ea9",
+          "name": "Barry Can't Swim"
+        },
+        "artist": "Barry Can't Swim",
+        "track_title": "I Could Be Madonna",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n9bmzp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0byqyrc",
+            "name": "Barry Can't Swim",
+            "role": "Performer",
+            "musicbrainz_gid": "7dcf3b98-701a-4309-a90c-eb4179b96ea9"
+          },
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "I Could Be Madonna",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Gone Too Far",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fn93",
+        "duration": 244,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Gone Too Far",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9bx2h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p0cj9189",
+            "name": "Debbie",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0f9eaed6-a05c-48ec-be0a-37accee9b9ef"
+          }
+        ],
+        "title": "Gone Too Far",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Olympus",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50hh0",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Olympus",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "nprvm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Olympus",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "Party",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc2055",
+        "duration": 153,
+        "primary_contributor": {
+          "pid": "p023qjwv",
+          "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "name": "Troye Sivan"
+        },
+        "artist": "Troye Sivan",
+        "track_title": "Party",
+        "track_number": null,
+        "publisher": "Songs Of Universal, Inc. (BMI), EMI April Music Inc., Bob Ochoa’s Homemade Salsa, Sony/ATV Songs LLC (BMI), Sony/ATV Tunes LLC (ASCAP), UMPG / APRA (BMI), MXM Music (adm. by Warner Chappell Music SCAN",
+        "record_label": "Tokky’s Music; Interscope",
+        "release_title": null,
+        "record_id": "n9c84q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p023qjwv",
+            "name": "Troye Sivan",
+            "role": "Performer",
+            "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+          }
+        ],
+        "title": "Party",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ADÉLA",
+      "title": "Nicole Kidman",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fhrl",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Nicole Kidman",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bqxq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          }
+        ],
+        "title": "Nicole Kidman",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Bird On The Wire",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fss8",
+        "duration": 239,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Bird On The Wire",
+        "track_number": null,
+        "publisher": "Universal Music Publishing",
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9bm34",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Bird On The Wire",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Fur Elise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p50m5v",
+        "duration": 255,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Fur Elise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Partisan Records",
+        "release_title": null,
+        "record_id": "n9b8nh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Fur Elise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Stone Fruit",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcc4mg",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Stone Fruit",
+        "track_number": null,
+        "publisher": "Kobalt",
+        "record_label": "BAUM music",
+        "release_title": null,
+        "record_id": "n9c9vd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Stone Fruit",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Glue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p09lb2wf",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "Glue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n4xw6x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          }
+        ],
+        "title": "Glue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "How Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc40bx",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "How Lonely",
+        "track_number": null,
+        "publisher": "B-Unique Music",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c96f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "How Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Painkiller",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rrlj",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Painkiller",
+        "track_number": null,
+        "publisher": "BMG RIghts Management",
+        "record_label": "Speakerbox",
+        "release_title": null,
+        "record_id": "n9c49x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          },
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          }
+        ],
+        "title": "Painkiller",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Gangsta",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55jqp",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Gangsta",
+        "track_number": "11",
+        "publisher": "Art For Their Good, Administered by Songs of Kobalt Music Publishing(BMI)/Jesse SJ Music (BMI), Administered by Songs of Kobalt Music Publishing(BMI)/David Charles Marshall Biral Publishing Designee/S",
+        "record_label": "Alta Music Group",
+        "release_title": "Enigma POV",
+        "record_id": "n9b8jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Gangsta",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Mirage",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4m0py",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Mirage",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "DISORDER CAPITOL",
+        "release_title": null,
+        "record_id": "n9b624",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          }
+        ],
+        "title": "Mirage",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcc91c",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p01jhp9f",
+          "musicbrainz_gid": "9ffad8aa-b671-4a9a-a527-a95bdaaa0ec4",
+          "name": "Darude"
+        },
+        "artist": "Darude",
+        "track_title": "Sandstorm",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c9vv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01jhp9f",
+            "name": "Darude",
+            "role": "Performer",
+            "musicbrainz_gid": "9ffad8aa-b671-4a9a-a527-a95bdaaa0ec4"
+          },
+          {
+            "pid": "p014rdgk",
+            "name": "Dimension",
+            "role": "Remix Artist",
+            "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3"
+          }
+        ],
+        "title": "Sandstorm",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Friction",
+      "title": "Lead Dem",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kw5p",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p012dvpp",
+          "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
+          "name": "Friction"
+        },
+        "artist": "Friction",
+        "track_title": "Lead Dem",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9vw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dvpp",
+            "name": "Friction",
+            "role": "Performer",
+            "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRAH",
+            "role": "Performer",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Lead Dem",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Friction",
+      "title": "Lead Dem",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67sg4",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p012dvpp",
+          "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
+          "name": "Friction"
+        },
+        "artist": "Friction",
+        "track_title": "Lead Dem",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9vw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dvpp",
+            "name": "Friction",
+            "role": "Performer",
+            "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRAH",
+            "role": "Performer",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Lead Dem",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rose Gray",
+      "title": "Blink Twice",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcccpk",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p07f9hjs",
+          "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40",
+          "name": "Rose Gray"
+        },
+        "artist": "Rose Gray",
+        "track_title": "Blink Twice",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9c9vq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07f9hjs",
+            "name": "Rose Gray",
+            "role": "Performer",
+            "musicbrainz_gid": "32a49e9e-2434-49ab-9194-3985d757de40"
+          }
+        ],
+        "title": "Blink Twice",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "OVA SO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g5gg",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "OVA SO",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bm4c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "OVA SO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hemlocke springs",
+      "title": "gloria",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5934",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0dp7vhc",
+          "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819",
+          "name": "hemlocke springs"
+        },
+        "artist": "hemlocke springs",
+        "track_title": "gloria",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c5cr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dp7vhc",
+            "name": "hemlocke springs",
+            "role": "Performer",
+            "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819"
+          }
+        ],
+        "title": "gloria",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JENNIE",
+      "title": "Fallen Angel",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5589",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p06zwxc9",
+          "musicbrainz_gid": "779351de-0da5-4943-928b-495a3c40e8c0",
+          "name": "JENNIE"
+        },
+        "artist": "JENNIE",
+        "track_title": "Fallen Angel",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bqfx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwxc9",
+            "name": "JENNIE",
+            "role": "Performer",
+            "musicbrainz_gid": "779351de-0da5-4943-928b-495a3c40e8c0"
+          }
+        ],
+        "title": "Fallen Angel",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Overmono",
+      "title": "After The Rain",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p3rvxc",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p04mzzzy",
+          "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+          "name": "Overmono"
+        },
+        "artist": "Overmono",
+        "track_title": "After The Rain",
+        "track_number": null,
+        "publisher": "BMG Music Publishing Ltd.",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9bnfv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04mzzzy",
+            "name": "Overmono",
+            "role": "Performer",
+            "musicbrainz_gid": "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa"
+          }
+        ],
+        "title": "After The Rain",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
