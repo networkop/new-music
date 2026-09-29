@@ -1021,6 +1021,52 @@
       ]
     ]
   },
+  "20244d07-534f-4eff-b4d4-930878889970": {
+    "name": "Taylor Swift",
+    "source": "lastfm",
+    "tags": [
+      [
+        "country",
+        100
+      ],
+      [
+        "pop",
+        86
+      ],
+      [
+        "female vocalists",
+        42
+      ],
+      [
+        "singer-songwriter",
+        30
+      ],
+      [
+        "acoustic",
+        11
+      ],
+      [
+        "country pop",
+        4
+      ],
+      [
+        "taylor swift",
+        4
+      ],
+      [
+        "american",
+        1
+      ],
+      [
+        "snake",
+        1
+      ],
+      [
+        "alternative",
+        1
+      ]
+    ]
+  },
   "2095b935-2007-4ae0-a48a-ef4d6fc3aac0": {
     "name": "Photek",
     "source": "lastfm",
@@ -12705,6 +12751,52 @@
       ],
       [
         "alternative dance",
+        1
+      ]
+    ]
+  },
+  "name:voltage": {
+    "name": "Voltage",
+    "source": "lastfm",
+    "tags": [
+      [
+        "grime",
+        100
+      ],
+      [
+        "electronic",
+        51
+      ],
+      [
+        "drum and bass",
+        34
+      ],
+      [
+        "blues rock",
+        22
+      ],
+      [
+        "hard rock",
+        6
+      ],
+      [
+        "rock",
+        6
+      ],
+      [
+        "dark ambient",
+        6
+      ],
+      [
+        "grime uk urban",
+        1
+      ],
+      [
+        "speed metal",
+        1
+      ],
+      [
+        "japan",
         1
       ]
     ]

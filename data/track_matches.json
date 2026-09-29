@@ -34,6 +34,11 @@
     "score": 1.0,
     "uri": "spotify:track:7B7V5Ul8kKGkSZ5lk7YwwZ"
   },
+  "after|||snowburn": {
+    "matched": "After - Snowburn",
+    "score": 1.0,
+    "uri": "spotify:track:5AGe4sWEAZdZRxgTZRlaND"
+  },
   "ahadadream|||make space": {
     "matched": "Ahadadream - Make Space",
     "score": 1.0,
@@ -1269,6 +1274,11 @@
     "score": 1.0,
     "uri": "spotify:track:3a49TEtsbeAgzZAQH9WiDZ"
   },
+  "madonna|||danceteria afterhours": {
+    "matched": "Madonna - Danceteria Afterhours",
+    "score": 1.0,
+    "uri": "spotify:track:3j7BhP71ROCpc9R3w9P9UE"
+  },
   "man/woman/chainsaw|||nosedive": {
     "matched": "Man/Woman/Chainsaw - Nosedive",
     "score": 1.0,
@@ -1663,6 +1673,11 @@
     "matched": "Remi Wolf - Bottle",
     "score": 1.0,
     "uri": "spotify:track:6RE9jLqeJftjRXERFYOK9E"
+  },
+  "remi wolf|||i won't cry": {
+    "matched": "Remi Wolf - I Won’t Cry",
+    "score": 1.0,
+    "uri": "spotify:track:1FP6gZVvRnvFkaFhgfGYBT"
   },
   "remi wolf|||twiggy": {
     "matched": "Remi Wolf - Twiggy",
@@ -2163,6 +2178,11 @@
     "matched": "Violet Grohl - Bug In The Cake",
     "score": 1.0,
     "uri": "spotify:track:0eqW8uWYZD19N46werkSTF"
+  },
+  "voltage|||free": {
+    "matched": "Voltage - Free",
+    "score": 1.0,
+    "uri": "spotify:track:1XVKd6ab2dAGJyCQ04zUEK"
   },
   "voltage|||music is the answer": {
     "matched": "Voltage - Music Is The Answer",

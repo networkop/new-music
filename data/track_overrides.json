@@ -181,6 +181,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "I Could Be Madonna"
   },
+  "basht.|||terror tv": {
+    "artist": "Basht.",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Terror TV"
+  },
   "beabadoobee|||glue song": {
     "artist": "beabadoobee",
     "category": "manual",
@@ -230,6 +237,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "MORNING DEW (DONK)"
   },
+  "bicep|||glue": {
+    "artist": "Bicep",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Glue"
+  },
   "bleech 9:3|||figure 8": {
     "artist": "Bleech 9:3",
     "category": "manual",
@@ -250,6 +264,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Olympus"
+  },
+  "blondshell|||stone fruit": {
+    "artist": "Blondshell",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Stone Fruit"
   },
   "blondshell|||violins": {
     "artist": "Blondshell",
@@ -558,6 +579,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "U & I"
+  },
+  "darude|||sandstorm": {
+    "artist": "Darude",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sandstorm"
   },
   "davido|||gimme dat ting": {
     "artist": "Davido",
@@ -1749,6 +1777,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Joy"
   },
+  "rose gray|||blink twice": {
+    "artist": "Rose Gray",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Blink Twice"
+  },
   "rose gray|||just be bodies": {
     "artist": "Rose Gray",
     "category": "manual",
@@ -1944,6 +1979,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "crank 2"
+  },
+  "slipknot|||arsenal": {
+    "artist": "Slipknot",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Arsenal"
   },
   "slipknot|||custer": {
     "artist": "Slipknot",

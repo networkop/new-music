@@ -1,0 +1,944 @@
+{
+  "pid": "m0031wdl",
+  "broadcast_start": "2026-09-28T18:00:00+01:00",
+  "schedule_date": "2026-09-28",
+  "title": "Taylor Swift, Slipknot and Westside Cowboy!",
+  "tracks": [
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kfls",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Memories",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5khd4",
+        "duration": 169,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Memories",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit/Interscope Records",
+        "release_title": null,
+        "record_id": "n9b9v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Memories",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Gone Too Far",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6r181",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Gone Too Far",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner",
+        "release_title": null,
+        "record_id": "n9bx2h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p0cj9189",
+            "name": "Debbie",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0f9eaed6-a05c-48ec-be0a-37accee9b9ef"
+          }
+        ],
+        "title": "Gone Too Far",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Madonna",
+      "title": "Danceteria Afterhours",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcxj2v",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p09pg5m9",
+          "musicbrainz_gid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+          "name": "Madonna"
+        },
+        "artist": "Madonna",
+        "track_title": "Danceteria Afterhours",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cd5r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09pg5m9",
+            "name": "Madonna",
+            "role": "Performer",
+            "musicbrainz_gid": "79239441-bfd5-4981-a70c-55c3f15c1287"
+          },
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Danceteria Afterhours",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Painkiller",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rrlj",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Painkiller",
+        "track_number": null,
+        "publisher": "BMG RIghts Management",
+        "record_label": "Speakerbox",
+        "release_title": null,
+        "record_id": "n9c49x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          },
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          }
+        ],
+        "title": "Painkiller",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "The Hardest Thing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p632nz",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "The Hardest Thing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bd2q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "The Hardest Thing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Anderson .Paak",
+      "title": "A Good Day",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y5zl",
+        "duration": 149,
+        "primary_contributor": {
+          "pid": "p0246xtn",
+          "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+          "name": "Anderson .Paak"
+        },
+        "artist": "Anderson .Paak",
+        "track_title": "A Good Day",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EMPIRE",
+        "release_title": null,
+        "record_id": "n9c5n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          },
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          }
+        ],
+        "title": "A Good Day",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nemzzz",
+      "title": "GASS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fx55",
+        "duration": 114,
+        "primary_contributor": {
+          "pid": "p0bljhs9",
+          "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+          "name": "Nemzzz"
+        },
+        "artist": "Nemzzz",
+        "track_title": "GASS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": null,
+        "record_id": "n9bm3b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bljhs9",
+            "name": "Nemzzz",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+          },
+          {
+            "pid": "p01k2lfc",
+            "name": "Travis Scott",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+          }
+        ],
+        "title": "GASS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sienna Spiro",
+      "title": "The Visitor",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n7fvc9",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p0j9wp1j",
+          "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+          "name": "Sienna Spiro"
+        },
+        "artist": "Sienna Spiro",
+        "track_title": "The Visitor",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Capitol Records",
+        "release_title": "The Visitor",
+        "record_id": "n96xh3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j9wp1j",
+            "name": "Sienna Spiro",
+            "role": "Performer",
+            "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5"
+          }
+        ],
+        "title": "The Visitor",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Patient Zero",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcgmhd",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p0113ldr",
+          "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970",
+          "name": "Taylor Swift"
+        },
+        "artist": "Taylor Swift",
+        "track_title": "Patient Zero",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9crw2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0113ldr",
+            "name": "Taylor Swift",
+            "role": "Performer",
+            "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970"
+          }
+        ],
+        "title": "Patient Zero",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Cleveland!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcrns5",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p0113ldr",
+          "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970",
+          "name": "Taylor Swift"
+        },
+        "artist": "Taylor Swift",
+        "track_title": "Cleveland!",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9ccrv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0113ldr",
+            "name": "Taylor Swift",
+            "role": "Performer",
+            "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970"
+          }
+        ],
+        "title": "Cleveland!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Pink Clouding",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcrngm",
+        "duration": 187,
+        "primary_contributor": {
+          "pid": "p0113ldr",
+          "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970",
+          "name": "Taylor Swift"
+        },
+        "artist": "Taylor Swift",
+        "track_title": "Pink Clouding",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9ccrj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0113ldr",
+            "name": "Taylor Swift",
+            "role": "Performer",
+            "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970"
+          }
+        ],
+        "title": "Pink Clouding",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Babylon",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcxpc8",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p0113ldr",
+          "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970",
+          "name": "Taylor Swift"
+        },
+        "artist": "Taylor Swift",
+        "track_title": "Babylon",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cd5v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0113ldr",
+            "name": "Taylor Swift",
+            "role": "Performer",
+            "musicbrainz_gid": "20244d07-534f-4eff-b4d4-930878889970"
+          }
+        ],
+        "title": "Babylon",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Celebration",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbslj3",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Celebration",
+        "track_number": null,
+        "publisher": "Peer Music",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9c8p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Celebration",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "underscores",
+      "title": "Unlimited Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y9ww",
+        "duration": 162,
+        "primary_contributor": {
+          "pid": "p062j9j4",
+          "musicbrainz_gid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+          "name": "underscores"
+        },
+        "artist": "underscores",
+        "track_title": "Unlimited Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop Music",
+        "release_title": null,
+        "record_id": "n9bfdw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p062j9j4",
+            "name": "underscores",
+            "role": "Performer",
+            "musicbrainz_gid": "ab1a3f85-e0ea-470a-af5c-175447ae774c"
+          }
+        ],
+        "title": "Unlimited Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MOLIY",
+      "title": "911",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p71487",
+        "duration": 140,
+        "primary_contributor": {
+          "pid": "p09b79zb",
+          "musicbrainz_gid": "3472754c-1a8f-4466-aad8-b42626bbe8b0",
+          "name": "MOLIY"
+        },
+        "artist": "MOLIY",
+        "track_title": "911",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Gamma",
+        "release_title": null,
+        "record_id": "n9bggg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09b79zb",
+            "name": "MOLIY",
+            "role": "Performer",
+            "musicbrainz_gid": "3472754c-1a8f-4466-aad8-b42626bbe8b0"
+          }
+        ],
+        "title": "911",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Well Done Kid, You Did It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g8sc",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Well Done Kid, You Did It",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9bw9j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Well Done Kid, You Did It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Pin Up Boys",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p2fnvd",
+        "duration": 163,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Pin Up Boys",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Universal-Island Records Ltd.",
+        "release_title": "Pin Up Boys",
+        "record_id": "n99mpq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Pin Up Boys",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Voltage",
+      "title": "Free",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5rj0y",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p0p5rj12",
+          "musicbrainz_gid": null,
+          "name": "Voltage"
+        },
+        "artist": "Voltage",
+        "track_title": "Free",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Souped Up Records",
+        "release_title": null,
+        "record_id": "n9bb3d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p5rj12",
+            "name": "Voltage",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0pcxwml",
+            "name": "Äyanna",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Free",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Spiritbox",
+      "title": "Mourning",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9n09w",
+        "duration": 256,
+        "primary_contributor": {
+          "pid": "p08n6f88",
+          "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061",
+          "name": "Spiritbox"
+        },
+        "artist": "Spiritbox",
+        "track_title": "Mourning",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c458",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08n6f88",
+            "name": "Spiritbox",
+            "role": "Performer",
+            "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061"
+          }
+        ],
+        "title": "Mourning",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slipknot",
+      "title": "Arsenal",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8sp8s",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p012d8mf",
+          "musicbrainz_gid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+          "name": "Slipknot"
+        },
+        "artist": "Slipknot",
+        "track_title": "Arsenal",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Roadrunner Records",
+        "release_title": null,
+        "record_id": "n9czp8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8mf",
+            "name": "Slipknot",
+            "role": "Performer",
+            "musicbrainz_gid": "a466c2a2-6517-42fb-a160-1087c3bafd9f"
+          }
+        ],
+        "title": "Arsenal",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lambrini Girls",
+      "title": "Bang Bang Bang",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9mw6j",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p0dgpgh2",
+          "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef",
+          "name": "Lambrini Girls"
+        },
+        "artist": "Lambrini Girls",
+        "track_title": "Bang Bang Bang",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c3m9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dgpgh2",
+            "name": "Lambrini Girls",
+            "role": "Performer",
+            "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef"
+          }
+        ],
+        "title": "Bang Bang Bang",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Cross My Heart",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvgcgk",
+        "duration": 159,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Cross My Heart",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "So Young Records",
+        "release_title": null,
+        "record_id": "n9pb5v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Cross My Heart",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "I Won't Cry",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcxzyp",
+        "duration": 260,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "I Won't Cry",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Remi WOlf",
+        "release_title": null,
+        "record_id": "n9cd2f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "I Won't Cry",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "After",
+      "title": "Snowburn",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcy05l",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p0mkx1df",
+          "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31",
+          "name": "After"
+        },
+        "artist": "After",
+        "track_title": "Snowburn",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom + Pop",
+        "release_title": null,
+        "record_id": "n9cd6b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mkx1df",
+            "name": "After",
+            "role": "Performer",
+            "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31"
+          }
+        ],
+        "title": "Snowburn",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
