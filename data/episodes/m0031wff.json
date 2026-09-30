@@ -1,0 +1,1166 @@
+{
+  "pid": "m0031wff",
+  "broadcast_start": "2026-09-29T18:00:00+01:00",
+  "schedule_date": "2026-09-29",
+  "title": "Angèle, Caroline Polachek and Fat Dog!",
+  "tracks": [
+    {
+      "artist": "ADÉLA",
+      "title": "Nicole Kidman",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fhrl",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Nicole Kidman",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bqxq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          }
+        ],
+        "title": "Nicole Kidman",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Different Religion",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9m1cy",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p01nbs1f",
+          "musicbrainz_gid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+          "name": "Miley Cyrus"
+        },
+        "artist": "Miley Cyrus",
+        "track_title": "Different Religion",
+        "track_number": null,
+        "publisher": "MCEO Publishing (BMI)",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c3mj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01nbs1f",
+            "name": "Miley Cyrus",
+            "role": "Performer",
+            "musicbrainz_gid": "7e9bd05a-117f-4cce-87bc-e011527a8b18"
+          }
+        ],
+        "title": "Different Religion",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nqtwr7",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "What You Want",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Angèle VL Records",
+        "release_title": "What You Want",
+        "record_id": "n9665d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          },
+          {
+            "pid": "p012d8f5",
+            "name": "Justice",
+            "role": "Performer",
+            "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+          }
+        ],
+        "title": "What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbwllb",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0dckhd7",
+          "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be",
+          "name": "Freya Skye"
+        },
+        "artist": "Freya Skye",
+        "track_title": "bad taste",
+        "track_number": null,
+        "publisher": "Seven Peaks Music/Socaloca Music / Sony/ATV Tunes LLC/Sony Music Publishing (UK) Ltd./Sony/ATV Tunes LLC/Songhouse Limited / Seven Summits Music/Monarch Songs Publishing / Anna Schindel Publishing/The",
+        "record_label": "Hollywood",
+        "release_title": null,
+        "record_id": "n9c4r6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dckhd7",
+            "name": "Freya Skye",
+            "role": "Performer",
+            "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be"
+          }
+        ],
+        "title": "bad taste",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "Wallflower",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7ds62",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "Wallflower",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bwpv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "Wallflower",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Bobby",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p51gdk",
+        "duration": 235,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "Bobby",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dead Oceans",
+        "release_title": null,
+        "record_id": "n9b5hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "Bobby",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "How Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc40bx",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "How Lonely",
+        "track_number": null,
+        "publisher": "B-Unique Music",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c96f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "How Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "Party",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc2055",
+        "duration": 153,
+        "primary_contributor": {
+          "pid": "p023qjwv",
+          "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "name": "Troye Sivan"
+        },
+        "artist": "Troye Sivan",
+        "track_title": "Party",
+        "track_number": null,
+        "publisher": "Songs Of Universal, Inc. (BMI), EMI April Music Inc., Bob Ochoa’s Homemade Salsa, Sony/ATV Songs LLC (BMI), Sony/ATV Tunes LLC (ASCAP), UMPG / APRA (BMI), MXM Music (adm. by Warner Chappell Music SCAN",
+        "record_label": "Tokky’s Music; Interscope",
+        "release_title": null,
+        "record_id": "n9c84q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p023qjwv",
+            "name": "Troye Sivan",
+            "role": "Performer",
+            "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+          }
+        ],
+        "title": "Party",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Dis-le",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nw7f76",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Dis-le",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n99m82",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          }
+        ],
+        "title": "Dis-le",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Love Triangle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd2f9t",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Love Triangle",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "GGL Records",
+        "release_title": null,
+        "record_id": "n9cdhf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          },
+          {
+            "pid": "p04ztc0m",
+            "name": "Caroline Polachek",
+            "role": "Performer",
+            "musicbrainz_gid": "d8f43dc5-4613-48ac-8c23-a62b82f8c67a"
+          },
+          {
+            "pid": "p00zm6cf",
+            "name": "SebastiAn",
+            "role": "Performer",
+            "musicbrainz_gid": "4072139a-699c-4011-9bcc-baae6f959390"
+          }
+        ],
+        "title": "Love Triangle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "To Love Somebody",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0mxpgtr",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "To Love Somebody",
+        "track_number": "1",
+        "publisher": "Sony Music Publishing / Promised Land Music Ltd., administered by Sony Music Publishing / Reservoir Media Management (UK) Ltd.",
+        "record_label": "Polydor Records",
+        "release_title": "To Love Somebody",
+        "record_id": "n955nc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "To Love Somebody",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Stone Fruit",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcc4mg",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Stone Fruit",
+        "track_number": null,
+        "publisher": "Kobalt",
+        "record_label": "BAUM music",
+        "release_title": null,
+        "record_id": "n9c9vd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Stone Fruit",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Swallow The Bomb",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbtbm7",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Swallow The Bomb",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9c6fb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Swallow The Bomb",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Lucky [Hymn]",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p90jl6",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Lucky [Hymn]",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9czvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Lucky [Hymn]",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "After Dark",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8m6vg",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "After Dark",
+        "track_number": null,
+        "publisher": "Three Six Zero Pub Designee",
+        "record_label": "NINJA Tune",
+        "release_title": null,
+        "record_id": "n9bmh3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          }
+        ],
+        "title": "After Dark",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Friction",
+      "title": "Lead Dem",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5kw5p",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p012dvpp",
+          "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
+          "name": "Friction"
+        },
+        "artist": "Friction",
+        "track_title": "Lead Dem",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9vw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dvpp",
+            "name": "Friction",
+            "role": "Performer",
+            "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRAH",
+            "role": "Performer",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Lead Dem",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Friction",
+      "title": "Lead Dem",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67sg4",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p012dvpp",
+          "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f",
+          "name": "Friction"
+        },
+        "artist": "Friction",
+        "track_title": "Lead Dem",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b9vw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dvpp",
+            "name": "Friction",
+            "role": "Performer",
+            "musicbrainz_gid": "6bab48a1-c3e0-4160-b574-f99fc7dfad9f"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRAH",
+            "role": "Performer",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Lead Dem",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Alewya",
+      "title": "Cairo FM",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx1cfk",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p08hxgvs",
+          "musicbrainz_gid": "49b5386b-a606-41b1-90e8-d9e7983b6f1b",
+          "name": "Alewya"
+        },
+        "artist": "Alewya",
+        "track_title": "Cairo FM",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LDN Records",
+        "release_title": null,
+        "record_id": "n99j84",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08hxgvs",
+            "name": "Alewya",
+            "role": "Performer",
+            "musicbrainz_gid": "49b5386b-a606-41b1-90e8-d9e7983b6f1b"
+          }
+        ],
+        "title": "Cairo FM",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hemlocke springs",
+      "title": "gloria",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5934",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0dp7vhc",
+          "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819",
+          "name": "hemlocke springs"
+        },
+        "artist": "hemlocke springs",
+        "track_title": "gloria",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c5cr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dp7vhc",
+            "name": "hemlocke springs",
+            "role": "Performer",
+            "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819"
+          }
+        ],
+        "title": "gloria",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Beyoncé",
+      "title": "CAN I WATCH YOU",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fxk3",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p019h602",
+          "musicbrainz_gid": "859d0860-d480-4efd-970c-c05d5f1776b8",
+          "name": "Beyoncé"
+        },
+        "artist": "Beyoncé",
+        "track_title": "CAN I WATCH YOU",
+        "track_number": "17",
+        "publisher": null,
+        "record_label": "Parkwood Entertainment/Columbia",
+        "release_title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
+        "record_id": "n9bm3d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p019h602",
+            "name": "Beyoncé",
+            "role": "Performer",
+            "musicbrainz_gid": "859d0860-d480-4efd-970c-c05d5f1776b8"
+          },
+          {
+            "pid": "p01yvcy0",
+            "name": "Pharrell Williams",
+            "role": "Performer",
+            "musicbrainz_gid": "149f91ef-1287-46da-9a8e-87fee02f1471"
+          }
+        ],
+        "title": "CAN I WATCH YOU",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Cancel Me, I'm Tired",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p0t09h",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p0p0t09m",
+          "musicbrainz_gid": null,
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Cancel Me, I'm Tired",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Domino Records",
+        "release_title": "Cancel Me (I’m Tired)",
+        "record_id": "n99qvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p0t09m",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Cancel Me, I'm Tired",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jme",
+      "title": "Frames",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd2ltj",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p015zdb8",
+          "musicbrainz_gid": "57879ca6-44aa-4b75-9a97-b801f57a1331",
+          "name": "Jme"
+        },
+        "artist": "Jme",
+        "track_title": "Frames",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rng5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p015zdb8",
+            "name": "Jme",
+            "role": "Performer",
+            "musicbrainz_gid": "57879ca6-44aa-4b75-9a97-b801f57a1331"
+          }
+        ],
+        "title": "Frames",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ATRIP",
+      "title": "Langur",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5rcbn",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p06pfrw1",
+          "musicbrainz_gid": "c98c02c5-eb3e-4ae3-b6c1-c851187830d1",
+          "name": "ATRIP"
+        },
+        "artist": "ATRIP",
+        "track_title": "Langur",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "TANZPARTEI",
+        "release_title": "PLASTERBOY",
+        "record_id": "n9bb2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06pfrw1",
+            "name": "ATRIP",
+            "role": "Performer",
+            "musicbrainz_gid": "c98c02c5-eb3e-4ae3-b6c1-c851187830d1"
+          }
+        ],
+        "title": "Langur",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Yung Miami",
+      "title": "Spend Dat",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nsxp50",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p09ztqw5",
+          "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c",
+          "name": "Yung Miami"
+        },
+        "artist": "Yung Miami",
+        "track_title": "Spend Dat",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Yung Miami LLC",
+        "release_title": null,
+        "record_id": "n99cvw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09ztqw5",
+            "name": "Yung Miami",
+            "role": "Performer",
+            "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c"
+          }
+        ],
+        "title": "Spend Dat",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Flo Milli",
+      "title": "Too Bo$$y",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6g0fs",
+        "duration": 152,
+        "primary_contributor": {
+          "pid": "p087pvgb",
+          "musicbrainz_gid": "21dab5d7-3bda-4f72-a054-6379729dcb62",
+          "name": "Flo Milli"
+        },
+        "artist": "Flo Milli",
+        "track_title": "Too Bo$$y",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Jive Records UK",
+        "release_title": "FLO STATE",
+        "record_id": "n9bx35",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p087pvgb",
+            "name": "Flo Milli",
+            "role": "Performer",
+            "musicbrainz_gid": "21dab5d7-3bda-4f72-a054-6379729dcb62"
+          }
+        ],
+        "title": "Too Bo$$y",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Man/Woman/Chainsaw",
+      "title": "Nosedive",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nfsblr",
+        "duration": 228,
+        "primary_contributor": {
+          "pid": "p0gkx9fw",
+          "musicbrainz_gid": "e72f0b0e-fe8e-405a-942e-633edd84c998",
+          "name": "Man/Woman/Chainsaw"
+        },
+        "artist": "Man/Woman/Chainsaw",
+        "track_title": "Nosedive",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fiction Records",
+        "release_title": null,
+        "record_id": "n9pjmj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gkx9fw",
+            "name": "Man/Woman/Chainsaw",
+            "role": "Performer",
+            "musicbrainz_gid": "e72f0b0e-fe8e-405a-942e-633edd84c998"
+          }
+        ],
+        "title": "Nosedive",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Getdown Services",
+      "title": "Lentils",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5bt3x",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p0g5kz8x",
+          "musicbrainz_gid": "ca57dd61-590f-4605-85ec-72e947a6148b",
+          "name": "Getdown Services"
+        },
+        "artist": "Getdown Services",
+        "track_title": "Lentils",
+        "track_number": "12",
+        "publisher": null,
+        "record_label": "Breakfast Records",
+        "release_title": "Massive Champion",
+        "record_id": "n9b5wp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g5kz8x",
+            "name": "Getdown Services",
+            "role": "Performer",
+            "musicbrainz_gid": "ca57dd61-590f-4605-85ec-72e947a6148b"
+          }
+        ],
+        "title": "Lentils",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "I Won't Cry",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcxzyp",
+        "duration": 260,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "I Won't Cry",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Remi WOlf",
+        "release_title": null,
+        "record_id": "n9cd2f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "I Won't Cry",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "The Hardest Thing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p632nz",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "The Hardest Thing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bd2q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "The Hardest Thing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Talk To Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vzc3",
+        "duration": 159,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Talk To Me",
+        "track_number": null,
+        "publisher": "Bonobo Music Inc",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bfcv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          },
+          {
+            "pid": "p050tptm",
+            "name": "Nicole Miglis",
+            "role": "Performer",
+            "musicbrainz_gid": "f8564ebc-95e5-423e-b20e-2ed034d56e67"
+          }
+        ],
+        "title": "Talk To Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

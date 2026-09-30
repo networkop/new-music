@@ -4035,6 +4035,52 @@
       ]
     ]
   },
+  "57879ca6-44aa-4b75-9a97-b801f57a1331": {
+    "name": "Jme",
+    "source": "lastfm",
+    "tags": [
+      [
+        "grime",
+        100
+      ],
+      [
+        "hip-hop",
+        38
+      ],
+      [
+        "dubstep",
+        21
+      ],
+      [
+        "rap",
+        18
+      ],
+      [
+        "uk hip hop",
+        8
+      ],
+      [
+        "british",
+        5
+      ],
+      [
+        "uk",
+        4
+      ],
+      [
+        "london",
+        1
+      ],
+      [
+        "uk garage",
+        1
+      ],
+      [
+        "roll deep",
+        1
+      ]
+    ]
+  },
   "57b9ef48-3d62-4739-a0cd-10cab99b1e79": {
     "name": "John Young",
     "source": "lastfm",
@@ -12383,6 +12429,52 @@
       ],
       [
         "electronic",
+        1
+      ]
+    ]
+  },
+  "name:fat dog": {
+    "name": "Fat Dog",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rap",
+        100
+      ],
+      [
+        "post-punk",
+        100
+      ],
+      [
+        "hip hop",
+        60
+      ],
+      [
+        "hip-hop",
+        60
+      ],
+      [
+        "new rave",
+        18
+      ],
+      [
+        "dance-punk",
+        13
+      ],
+      [
+        "ebm",
+        10
+      ],
+      [
+        "crank wave",
+        3
+      ],
+      [
+        "club rap",
+        2
+      ],
+      [
+        "dance punk",
         1
       ]
     ]

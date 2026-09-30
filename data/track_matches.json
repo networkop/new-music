@@ -99,10 +99,20 @@
     "score": 1.0,
     "uri": "spotify:track:58H3IsZi2NemGRCttisETY"
   },
+  "angèle|||love triangle": {
+    "matched": "Angèle - Love Triangle",
+    "score": 1.0,
+    "uri": "spotify:track:5AdL0XU6R5bN6RweaQsCHr"
+  },
   "angèle|||une seule vie": {
     "matched": "Angèle - Une seule vie",
     "score": 1.0,
     "uri": "spotify:track:5Y3p9cIQH4TxX3sI4ZQIAL"
+  },
+  "angèle|||what you want": {
+    "matched": "Angèle - What You Want",
+    "score": 1.0,
+    "uri": "spotify:track:7J4dPn4Xg9Op0e8N2tjqkX"
   },
   "anotr|||relax my eyes (nic fanciulli remix)": {
     "matched": null,
@@ -689,6 +699,11 @@
     "score": 1.0,
     "uri": "spotify:track:5cYKa4Cowu3Xl6qD2Mh2e6"
   },
+  "fat dog|||cancel me, i'm tired": {
+    "matched": "Fat Dog - Cancel Me (I’m Tired)",
+    "score": 0.773,
+    "uri": "spotify:track:5cYKa4Cowu3Xl6qD2Mh2e6"
+  },
   "fat dog|||love": {
     "matched": "Fat Dog - Shit Love",
     "score": 0.828,
@@ -919,6 +934,11 @@
     "score": 1.0,
     "uri": "spotify:track:0HEO70JZIbctSuGFtf9SM6"
   },
+  "holly humberstone|||to love somebody": {
+    "matched": "Holly Humberstone - To Love Somebody",
+    "score": 1.0,
+    "uri": "spotify:track:17LuVd2gBc7UvcgZbm1cFV"
+  },
   "holly humberstone|||white noise": {
     "matched": "Holly Humberstone - White Noise",
     "score": 1.0,
@@ -1018,6 +1038,11 @@
     "matched": "JJerome87 - Green Velvet",
     "score": 1.0,
     "uri": "spotify:track:4KvWKifwknfwBs9oEJQZ9r"
+  },
+  "jme|||frames": {
+    "matched": "Jme - Frames",
+    "score": 1.0,
+    "uri": "spotify:track:2uIaxZowyOp47HatJYtTRX"
   },
   "jodie harsh|||i feel it": {
     "matched": "Jodie Harsh - I Feel It",
@@ -1303,6 +1328,11 @@
     "matched": "METTE - SMALL WORLD",
     "score": 1.0,
     "uri": "spotify:track:0bhHPERhSMKnog5ZbOgOJT"
+  },
+  "miley cyrus|||different religion": {
+    "matched": "Miley Cyrus - Different Religion (feat. Model/Actriz)",
+    "score": 1.0,
+    "uri": "spotify:track:63QxVCDUG65xSAX9xqD0dV"
   },
   "miley cyrus|||flowers": {
     "matched": "Miley Cyrus - Flowers",
@@ -1743,6 +1773,11 @@
     "matched": "Royal Blood - Come on Over",
     "score": 1.0,
     "uri": "spotify:track:7qRmdDl9dnHkFT4MMboG7Y"
+  },
+  "royal blood|||swallow the bomb": {
+    "matched": "Royal Blood - Swallow The Bomb",
+    "score": 1.0,
+    "uri": "spotify:track:6fi18o5Jp6dAIcXPlgzhWF"
   },
   "royal blood|||ten over ten": {
     "matched": "Royal Blood - Ten Over Ten",
