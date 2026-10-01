@@ -1,0 +1,224 @@
+{
+  "pid": "m0031wjs",
+  "broadcast_start": "2026-09-30T21:30:00+01:00",
+  "schedule_date": "2026-09-30",
+  "title": "New Music Live: Cardiff, Theatre (2026)",
+  "tracks": [
+    {
+      "artist": "Theatre",
+      "title": "Future (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8zvr",
+        "duration": 255,
+        "primary_contributor": {
+          "pid": "p0ndxj8b",
+          "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6",
+          "name": "Theatre"
+        },
+        "artist": "Theatre",
+        "track_title": "Future (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx9x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ndxj8b",
+            "name": "Theatre",
+            "role": "Performer",
+            "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6"
+          }
+        ],
+        "title": "Future (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Theatre",
+      "title": "The Fall (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd90h1",
+        "duration": 267,
+        "primary_contributor": {
+          "pid": "p0ndxj8b",
+          "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6",
+          "name": "Theatre"
+        },
+        "artist": "Theatre",
+        "track_title": "The Fall (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx9x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ndxj8b",
+            "name": "Theatre",
+            "role": "Performer",
+            "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6"
+          }
+        ],
+        "title": "The Fall (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Theatre",
+      "title": "Clouds (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd90xz",
+        "duration": 309,
+        "primary_contributor": {
+          "pid": "p0ndxj8b",
+          "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6",
+          "name": "Theatre"
+        },
+        "artist": "Theatre",
+        "track_title": "Clouds (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx9x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ndxj8b",
+            "name": "Theatre",
+            "role": "Performer",
+            "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6"
+          }
+        ],
+        "title": "Clouds (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Theatre",
+      "title": "Messiah (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd915d",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p0ndxj8b",
+          "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6",
+          "name": "Theatre"
+        },
+        "artist": "Theatre",
+        "track_title": "Messiah (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx9x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ndxj8b",
+            "name": "Theatre",
+            "role": "Performer",
+            "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6"
+          }
+        ],
+        "title": "Messiah (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Theatre",
+      "title": "Black Swan (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd91kx",
+        "duration": 231,
+        "primary_contributor": {
+          "pid": "p0ndxj8b",
+          "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6",
+          "name": "Theatre"
+        },
+        "artist": "Theatre",
+        "track_title": "Black Swan (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx9x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ndxj8b",
+            "name": "Theatre",
+            "role": "Performer",
+            "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6"
+          }
+        ],
+        "title": "Black Swan (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Theatre",
+      "title": "Your Are (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd91wv",
+        "duration": 325,
+        "primary_contributor": {
+          "pid": "p0ndxj8b",
+          "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6",
+          "name": "Theatre"
+        },
+        "artist": "Theatre",
+        "track_title": "Your Are (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cxrn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ndxj8b",
+            "name": "Theatre",
+            "role": "Performer",
+            "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6"
+          }
+        ],
+        "title": "Your Are (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "pid": "m0031wjq",
+  "broadcast_start": "2026-09-30T20:45:00+01:00",
+  "schedule_date": "2026-09-30",
+  "title": "New Music Live: Cardiff, Lime Garden (2026)",
+  "tracks": [
+    {
+      "artist": "Lime Garden",
+      "title": "Body (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8vg3",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Body (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx8f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Body (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Popstar (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8vp6",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Popstar (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx8f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Popstar (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Moving Target (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8vtd",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Moving Target (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx8f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Moving Target (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Downtown Lover (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8w28",
+        "duration": 159,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Downtown Lover (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx8v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Downtown Lover (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Clockwork (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8wch",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Clockwork (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx8m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Clockwork (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Maybe Not Tonight (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8wq2",
+        "duration": 166,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Maybe Not Tonight (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx9z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Maybe Not Tonight (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "All Bad Parts (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8x98",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "All Bad Parts (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx92",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "All Bad Parts (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Love Song (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8xmq",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Love Song (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx8m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Love Song (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Cross My Heart (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8xt4",
+        "duration": 219,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Cross My Heart (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Cross My Heart (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "23 (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8xz3",
+        "duration": 292,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "23 (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx96",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "23 (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Medium Build",
+      "title": "It's Not Easy (Falling In Love)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8mhp4",
+        "duration": 144,
+        "primary_contributor": {
+          "pid": "p0fmg2tp",
+          "musicbrainz_gid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+          "name": "Medium Build"
+        },
+        "artist": "Medium Build",
+        "track_title": "It's Not Easy (Falling In Love)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bm4x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fmg2tp",
+            "name": "Medium Build",
+            "role": "Performer",
+            "musicbrainz_gid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7"
+          }
+        ],
+        "title": "It's Not Easy (Falling In Love)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Alewya",
+      "title": "Cairo FM",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nx1cfk",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p08hxgvs",
+          "musicbrainz_gid": "49b5386b-a606-41b1-90e8-d9e7983b6f1b",
+          "name": "Alewya"
+        },
+        "artist": "Alewya",
+        "track_title": "Cairo FM",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LDN Records",
+        "release_title": null,
+        "record_id": "n99j84",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08hxgvs",
+            "name": "Alewya",
+            "role": "Performer",
+            "musicbrainz_gid": "49b5386b-a606-41b1-90e8-d9e7983b6f1b"
+          }
+        ],
+        "title": "Cairo FM",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Saint Ludo",
+      "title": "808",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w91t",
+        "duration": 119,
+        "primary_contributor": {
+          "pid": "p0l94t5k",
+          "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705",
+          "name": "Saint Ludo"
+        },
+        "artist": "Saint Ludo",
+        "track_title": "808",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records Label",
+        "release_title": null,
+        "record_id": "n9bwjf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l94t5k",
+            "name": "Saint Ludo",
+            "role": "Performer",
+            "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705"
+          },
+          {
+            "pid": "p0h6q7ls",
+            "name": "Cap1talA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6c24bc0f-8ce8-4baa-9ded-d977e03ebe8f"
+          }
+        ],
+        "title": "808",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Theatre",
+      "title": "Gaudete (New Music Live in Cardiff, 29 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd8yf5",
+        "duration": 274,
+        "primary_contributor": {
+          "pid": "p0ndxj8b",
+          "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6",
+          "name": "Theatre"
+        },
+        "artist": "Theatre",
+        "track_title": "Gaudete (New Music Live in Cardiff, 29 Sept 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx9x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ndxj8b",
+            "name": "Theatre",
+            "role": "Performer",
+            "musicbrainz_gid": "0fb7ccfc-9dd7-40d8-b0d7-f84a1bfcffb6"
+          }
+        ],
+        "title": "Gaudete (New Music Live in Cardiff, 29 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

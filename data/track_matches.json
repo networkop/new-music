@@ -244,6 +244,11 @@
     "score": 1.0,
     "uri": "spotify:track:4ZYlzwjjAJrflwWg4DJTlT"
   },
+  "bicep|||air": {
+    "matched": "BICEP - Air",
+    "score": 1.0,
+    "uri": "spotify:track:2infXICqVSUM3bbGSOgFOY"
+  },
   "bicep|||glue": {
     "matched": "BICEP - Glue",
     "score": 1.0,
@@ -263,6 +268,11 @@
     "matched": "Bleech 9:3 - No Surprise",
     "score": 1.0,
     "uri": "spotify:track:5vZw0zHPkxMYr8cHleEf9k"
+  },
+  "bleech 9:3|||underrated": {
+    "matched": "Bleech 9:3 - Underrated",
+    "score": 1.0,
+    "uri": "spotify:track:6d1Zurp6nbAdUztdtu3XEF"
   },
   "blondshell|||fur elise": {
     "matched": null,
@@ -689,25 +699,65 @@
     "score": 1.0,
     "uri": "spotify:track:6bYQZWdJMKimn0VTXhMwd6"
   },
+  "fat dog|||bad dog (new music live in cardiff, 29th sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "fat dog|||call it what you want": {
     "matched": "Fat Dog - Call It What You Want",
     "score": 1.0,
     "uri": "spotify:track:46museEHuxvmYT16wjAEkD"
+  },
+  "fat dog|||call it what you want (new music live in cardiff, 29th sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "fat dog|||cancel me (i'm tired)": {
     "matched": "Fat Dog - Cancel Me (I’m Tired)",
     "score": 1.0,
     "uri": "spotify:track:5cYKa4Cowu3Xl6qD2Mh2e6"
   },
+  "fat dog|||cancel me (i'm tired) (new music live in cardiff, 29th sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "fat dog|||cancel me, i'm tired": {
     "matched": "Fat Dog - Cancel Me (I’m Tired)",
     "score": 0.773,
     "uri": "spotify:track:5cYKa4Cowu3Xl6qD2Mh2e6"
   },
+  "fat dog|||go love yourself (new music live in cardiff, 29th sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "fat dog|||love": {
     "matched": "Fat Dog - Shit Love",
     "score": 0.828,
     "uri": "spotify:track:0gDl9Clr6bkgLum6Dhdh88"
+  },
+  "fat dog|||love (new music live in cardiff, 29th sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "fat dog|||peace song (new music live in cardiff, 29th sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "fat dog|||run (new music live in cardiff, 29th sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "fat dog|||wither (new music live in cardiff, 29th sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "feeble little horse|||rewind": {
     "matched": "feeble little horse - Rewind",
@@ -788,6 +838,11 @@
     "matched": "Fontaines D.C. - Marianne",
     "score": 1.0,
     "uri": "spotify:track:69rHKcrQpYGfToPThOV1UB"
+  },
+  "fontaines d.c.|||tongue": {
+    "matched": "Fontaines D.C. - Tongue",
+    "score": 1.0,
+    "uri": "spotify:track:1XzQ57ONjIpRYB878VuGnF"
   },
   "four tet|||human voice": {
     "matched": "Four Tet - Human Voice",
@@ -934,10 +989,20 @@
     "score": 1.0,
     "uri": "spotify:track:0HEO70JZIbctSuGFtf9SM6"
   },
+  "holly humberstone|||scarlett": {
+    "matched": "Holly Humberstone - Scarlett",
+    "score": 1.0,
+    "uri": "spotify:track:5UqTWnG7YZAbj1SYMvnGsU"
+  },
   "holly humberstone|||to love somebody": {
     "matched": "Holly Humberstone - To Love Somebody",
     "score": 1.0,
     "uri": "spotify:track:17LuVd2gBc7UvcgZbm1cFV"
+  },
+  "holly humberstone|||too cute to be lonely": {
+    "matched": "Holly Humberstone - Too Cute To Be Lonely",
+    "score": 1.0,
+    "uri": "spotify:track:5iZbOxJZ2Rmo2ECMXRHU9a"
   },
   "holly humberstone|||white noise": {
     "matched": "Holly Humberstone - White Noise",
@@ -1179,6 +1244,11 @@
     "score": 1.0,
     "uri": "spotify:track:34h77avpCK81oQ6o6uT61x"
   },
+  "keo|||be happy": {
+    "matched": "Keo - Be Happy",
+    "score": 1.0,
+    "uri": "spotify:track:3FrfrXkEwhVWI3v0GIH4DK"
+  },
   "keo|||bird on the wire": {
     "matched": "Keo - Bird On The Wire",
     "score": 1.0,
@@ -1274,10 +1344,60 @@
     "score": 1.0,
     "uri": "spotify:track:5ZAMlvo6ZUjVRZOGu2bJib"
   },
+  "lime garden|||23 (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "lime garden|||all bad parts (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "lime garden|||body (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "lime garden|||clockwork (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "lime garden|||cross my heart": {
     "matched": "Lime Garden - Cross My Heart",
     "score": 1.0,
     "uri": "spotify:track:2uEWM5lSQsl0ubzbxFd6U7"
+  },
+  "lime garden|||cross my heart (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "lime garden|||downtown lover (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "lime garden|||love song (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "lime garden|||maybe not tonight (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "lime garden|||moving target (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "lime garden|||popstar (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "loathe|||fortress down": {
     "matched": "Loathe - Fortress Down",
@@ -1323,6 +1443,11 @@
     "matched": "Medium Build - Home Depot",
     "score": 1.0,
     "uri": "spotify:track:5JlXIBpxaXFG5NWTpv33Xr"
+  },
+  "medium build|||it's not easy (falling in love)": {
+    "matched": "Medium Build - It's Not Easy (Falling In Love)",
+    "score": 1.0,
+    "uri": "spotify:track:0C9GRYGgChsl5aHBxSEJoX"
   },
   "mette|||small world": {
     "matched": "METTE - SMALL WORLD",
@@ -2114,10 +2239,45 @@
     "score": 1.0,
     "uri": "spotify:track:5gBMUQu2FVV1OYu92hbJjv"
   },
+  "theatre|||black swan (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "theatre|||clouds (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "theatre|||future (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "theatre|||gaudete": {
     "matched": "THEATRE - Gaudete",
     "score": 1.0,
     "uri": "spotify:track:60B4gDxTwNn1DVfRLVQMTD"
+  },
+  "theatre|||gaudete (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "theatre|||messiah (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "theatre|||the fall (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "theatre|||your are (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "tierra whack|||siren": {
     "matched": "Tierra Whack - SIREN",
@@ -2254,20 +2414,65 @@
     "score": 1.0,
     "uri": "spotify:track:7AkoEenAhW8P6ucYlQSE7E"
   },
+  "westside cowboy|||coyote (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "westside cowboy|||dobro": {
     "matched": "Westside Cowboy - Dobro",
     "score": 1.0,
     "uri": "spotify:track:35RDVhm4ENV44tT6hL2a2B"
+  },
+  "westside cowboy|||dobro (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "westside cowboy|||don't throw rocks (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "westside cowboy|||i've never met anyone i thought i could really love (until i met you) (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "westside cowboy|||kick stones (the boys) (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "westside cowboy|||paperchains (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "westside cowboy|||pin up boys": {
     "matched": "Westside Cowboy - Pin Up Boys",
     "score": 1.0,
     "uri": "spotify:track:7yOJ44Mql1jwHRUjziYZYo"
   },
+  "westside cowboy|||pin up boys (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "westside cowboy|||strange taxidermy (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "westside cowboy|||well done kid, you did it": {
     "matched": "Westside Cowboy - Well Done Kid, You Did It",
     "score": 1.0,
     "uri": "spotify:track:0QF3qDMCjP59ycqXSofJA4"
+  },
+  "westside cowboy|||worried age (new music live in cardiff, 29 sept 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "whatmore|||on site": {
     "matched": "WHATMORE - On Site",
