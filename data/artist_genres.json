@@ -275,6 +275,52 @@
       ]
     ]
   },
+  "05dffdbe-dc6e-4c8d-a075-50a09c4cb45c": {
+    "name": "Architects",
+    "source": "lastfm",
+    "tags": [
+      [
+        "metalcore",
+        100
+      ],
+      [
+        "mathcore",
+        67
+      ],
+      [
+        "hardcore",
+        28
+      ],
+      [
+        "metal",
+        12
+      ],
+      [
+        "tech metal",
+        5
+      ],
+      [
+        "post-hardcore",
+        5
+      ],
+      [
+        "progressive metalcore",
+        4
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "technical metalcore",
+        1
+      ],
+      [
+        "progressive metal",
+        1
+      ]
+    ]
+  },
   "06059ff3-720e-4b33-8e34-b98933817fe8": {
     "name": "Juls",
     "source": "lastfm",
@@ -7498,6 +7544,52 @@
       ]
     ]
   },
+  "9b8548a9-5991-42a9-ba96-fe83bd238b7a": {
+    "name": "Dom Dolla",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "electronic",
+        14
+      ],
+      [
+        "australian",
+        9
+      ],
+      [
+        "australia",
+        4
+      ],
+      [
+        "deep house",
+        2
+      ],
+      [
+        "aussie",
+        1
+      ],
+      [
+        "future house",
+        1
+      ],
+      [
+        "tech house",
+        1
+      ],
+      [
+        "eiffel tower",
+        1
+      ],
+      [
+        "edm",
+        1
+      ]
+    ]
+  },
   "9c935736-7530-41e4-b776-1dbcf534c061": {
     "name": "Spiritbox",
     "source": "lastfm",
@@ -9389,6 +9481,52 @@
       ]
     ]
   },
+  "c2b7f5ad-0db8-4e6d-b228-5598d6b17717": {
+    "name": "Sasha Keable",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "pop",
+        73
+      ],
+      [
+        "rnb",
+        48
+      ],
+      [
+        "british",
+        12
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "electronic",
+        1
+      ],
+      [
+        "electronica",
+        1
+      ],
+      [
+        "colombia",
+        1
+      ],
+      [
+        "neo-soul",
+        1
+      ],
+      [
+        "all",
+        1
+      ]
+    ]
+  },
   "c3684c43-f507-46e4-a4a4-c2570314f104": {
     "name": "Potter Payper",
     "source": "lastfm",
@@ -9882,6 +10020,52 @@
       [
         "polinacore",
         33
+      ]
+    ]
+  },
+  "ce106ca8-401d-4860-ace3-dbc3a204bb86": {
+    "name": "CA7RIEL & Paco Amoroso",
+    "source": "lastfm",
+    "tags": [
+      [
+        "trap",
+        100
+      ],
+      [
+        "argentina",
+        73
+      ],
+      [
+        "electronic",
+        22
+      ],
+      [
+        "glitch hop",
+        12
+      ],
+      [
+        "funky house",
+        6
+      ],
+      [
+        "tech house",
+        6
+      ],
+      [
+        "ghettotech",
+        6
+      ],
+      [
+        "hip house",
+        2
+      ],
+      [
+        "g-house",
+        2
+      ],
+      [
+        "footwork",
+        2
       ]
     ]
   },
@@ -11764,6 +11948,52 @@
       ],
       [
         "post-punk",
+        1
+      ]
+    ]
+  },
+  "f491ebd7-5e18-4961-aaaf-e6210f387f1f": {
+    "name": "Chris Lorenzo",
+    "source": "lastfm",
+    "tags": [
+      [
+        "uk garage",
+        100
+      ],
+      [
+        "electronic",
+        100
+      ],
+      [
+        "british",
+        29
+      ],
+      [
+        "house",
+        29
+      ],
+      [
+        "bass house",
+        15
+      ],
+      [
+        "bassline",
+        15
+      ],
+      [
+        "dance",
+        4
+      ],
+      [
+        "dj",
+        1
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "english",
         1
       ]
     ]

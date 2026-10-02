@@ -9,6 +9,11 @@
     "score": 1.0,
     "uri": "spotify:track:3mDdkv8881MzLmSB7z8Ogy"
   },
+  "2hollis|||warhorse": {
+    "matched": "2hollis - Warhorse",
+    "score": 1.0,
+    "uri": "spotify:track:6QtdNJhSCP7XgTDJL2BlJ7"
+  },
   "absolutely|||i just don't know you yet": {
     "matched": "Absolutely - I Just Don't Know You Yet",
     "score": 1.0,
@@ -139,6 +144,11 @@
     "score": 1.0,
     "uri": "spotify:track:4pmcdJ8a2eMRi2MxxBnjGJ"
   },
+  "architects|||machine": {
+    "matched": "Architects - Machine",
+    "score": 1.0,
+    "uri": "spotify:track:4OZsL523QNwRZMgJGwC2Lq"
+  },
   "arthur russell|||this is how we walk on the moon": {
     "matched": "Arthur Russell - This Is How We Walk On The Moon",
     "score": 1.0,
@@ -259,6 +269,11 @@
     "score": 1.0,
     "uri": "spotify:track:5xqxq73BSIr3303mn1Dnqz"
   },
+  "bleech 9:3|||canonball": {
+    "matched": "Bleech 9:3 - Cannonball",
+    "score": 0.976,
+    "uri": "spotify:track:7GqH8twcRE7WSW8Wqyinem"
+  },
   "bleech 9:3|||figure 8": {
     "matched": "Bleech 9:3 - Figure 8",
     "score": 1.0,
@@ -268,6 +283,11 @@
     "matched": "Bleech 9:3 - No Surprise",
     "score": 1.0,
     "uri": "spotify:track:5vZw0zHPkxMYr8cHleEf9k"
+  },
+  "bleech 9:3|||tourniquet": {
+    "matched": "Bleech 9:3 - Tourniquet",
+    "score": 1.0,
+    "uri": "spotify:track:3PDSQK3LBgjjbatSh1YSPt"
   },
   "bleech 9:3|||underrated": {
     "matched": "Bleech 9:3 - Underrated",
@@ -373,6 +393,11 @@
     "matched": "Bonobo - Youth’s Fountain",
     "score": 0.978,
     "uri": "spotify:track:57rqH0ceGjerSdSBrDqhCX"
+  },
+  "ca7riel & paco amoroso|||sexy magic": {
+    "matched": "CA7RIEL & Paco Amoroso - Sexy Magic (from GTAVI: The Album)",
+    "score": 1.0,
+    "uri": "spotify:track:62hqNk13CuFLOpCw1cPMAF"
   },
   "ca7riel|||vida loca": {
     "matched": "CA7RIEL & Paco Amoroso - Vida Loca",
@@ -524,6 +549,11 @@
     "score": 1.0,
     "uri": "spotify:track:4fErrQvOX1LPDIPFDFI4eM"
   },
+  "chris lorenzo|||fancy footwork *first play 011026*": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "chris stassy|||u know me": {
     "matched": "CHRIS STASSY - U know me",
     "score": 1.0,
@@ -643,6 +673,11 @@
     "matched": "DJ HEARTSTRING - Another Year Alone (i love you)",
     "score": 1.0,
     "uri": "spotify:track:12yBP15N9VsPj1oMEWOD7f"
+  },
+  "dom dolla|||saving up": {
+    "matched": "Dom Dolla - Saving Up",
+    "score": 1.0,
+    "uri": "spotify:track:787Y2idwCU2Rk60Prv4wpr"
   },
   "dominic fike|||wallflower": {
     "matched": "Dominic Fike - Wallflower",

@@ -1,0 +1,992 @@
+{
+  "pid": "m0031vvp",
+  "broadcast_start": "2026-10-01T18:00:00+01:00",
+  "schedule_date": "2026-10-01",
+  "title": "Bleech 9:3 Hottest Record",
+  "tracks": [
+    {
+      "artist": "Barry Can't Swim",
+      "title": "I Could Be Madonna",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8ctl1",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0byqyrc",
+          "musicbrainz_gid": "7dcf3b98-701a-4309-a90c-eb4179b96ea9",
+          "name": "Barry Can't Swim"
+        },
+        "artist": "Barry Can't Swim",
+        "track_title": "I Could Be Madonna",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n9bmzp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0byqyrc",
+            "name": "Barry Can't Swim",
+            "role": "Performer",
+            "musicbrainz_gid": "7dcf3b98-701a-4309-a90c-eb4179b96ea9"
+          },
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "I Could Be Madonna",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Underrated",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nfkptl",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "Underrated",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9pvn6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "Underrated",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Ten Over Ten",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p44cds",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Ten Over Ten",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9b4bp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Ten Over Ten",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Dancing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9472f",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "Dancing",
+        "track_number": "8",
+        "publisher": "Sony Music Publishing/Warner Chappel/BMI/Concord Music Publishing/Rhea Vasquez Robles (Copyright Control)",
+        "record_label": "FAMM",
+        "release_title": "What Are The Odds",
+        "record_id": "n9bd33",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          }
+        ],
+        "title": "Dancing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Spiritbox",
+      "title": "Mourning",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9n09w",
+        "duration": 256,
+        "primary_contributor": {
+          "pid": "p08n6f88",
+          "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061",
+          "name": "Spiritbox"
+        },
+        "artist": "Spiritbox",
+        "track_title": "Mourning",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c458",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08n6f88",
+            "name": "Spiritbox",
+            "role": "Performer",
+            "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061"
+          }
+        ],
+        "title": "Mourning",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Canonball",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n0hw3m",
+        "duration": 227,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "Canonball",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ra-Ra Rok Records",
+        "release_title": null,
+        "record_id": "n95gvj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "Canonball",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Tourniquet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj51m",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "Tourniquet",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cxgr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "Tourniquet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dom Dolla",
+      "title": "Saving Up",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0gmvr35",
+        "duration": 201,
+        "primary_contributor": {
+          "pid": "p03wkcfn",
+          "musicbrainz_gid": "9b8548a9-5991-42a9-ba96-fe83bd238b7a",
+          "name": "Dom Dolla"
+        },
+        "artist": "Dom Dolla",
+        "track_title": "Saving Up",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Three Six Zero Recordings",
+        "release_title": null,
+        "record_id": "n82fbw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03wkcfn",
+            "name": "Dom Dolla",
+            "role": "Performer",
+            "musicbrainz_gid": "9b8548a9-5991-42a9-ba96-fe83bd238b7a"
+          }
+        ],
+        "title": "Saving Up",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Too Cute To Be Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd854b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "Too Cute To Be Lonely",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cx66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "Too Cute To Be Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "2hollis",
+      "title": "Warhorse",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj79y",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0krvzn6",
+          "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+          "name": "2hollis"
+        },
+        "artist": "2hollis",
+        "track_title": "Warhorse",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cxgc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0krvzn6",
+            "name": "2hollis",
+            "role": "Performer",
+            "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5"
+          }
+        ],
+        "title": "Warhorse",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Silva Bumpa",
+      "title": "Fantasy (Baby If u know me)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p4hy6y",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0gfs4g7",
+          "musicbrainz_gid": "980604d4-fc2b-4778-8fc5-a7d28e52ab85",
+          "name": "Silva Bumpa"
+        },
+        "artist": "Silva Bumpa",
+        "track_title": "Fantasy (Baby If u know me)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9b5mn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gfs4g7",
+            "name": "Silva Bumpa",
+            "role": "Performer",
+            "musicbrainz_gid": "980604d4-fc2b-4778-8fc5-a7d28e52ab85"
+          },
+          {
+            "pid": "p0m6mqwh",
+            "name": "Kosmo Kint",
+            "role": "Performer",
+            "musicbrainz_gid": "0d2ef20f-e22b-4845-9a3f-532cfee1978e"
+          }
+        ],
+        "title": "Fantasy (Baby If u know me)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chris Lorenzo",
+      "title": "Fancy Footwork *first play 011026*",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj8bt",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p01kd4t0",
+          "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f",
+          "name": "Chris Lorenzo"
+        },
+        "artist": "Chris Lorenzo",
+        "track_title": "Fancy Footwork *first play 011026*",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "TURBO BLANCO",
+        "release_title": null,
+        "record_id": "n9cxgd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kd4t0",
+            "name": "Chris Lorenzo",
+            "role": "Performer",
+            "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f"
+          },
+          {
+            "pid": "p012d87c",
+            "name": "Chromeo",
+            "role": "Performer",
+            "musicbrainz_gid": "647221d0-f6b1-4e03-924c-c59b8059536f"
+          }
+        ],
+        "title": "Fancy Footwork *first play 011026*",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Lucky [Hymn]",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p90jl6",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Lucky [Hymn]",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9czvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Lucky [Hymn]",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiana Major9",
+      "title": "alright!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8stgl",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p060jgwb",
+          "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950",
+          "name": "Tiana Major9"
+        },
+        "artist": "Tiana Major9",
+        "track_title": "alright!",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "+1 Records",
+        "release_title": null,
+        "record_id": "n9bxqd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p060jgwb",
+            "name": "Tiana Major9",
+            "role": "Performer",
+            "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950"
+          }
+        ],
+        "title": "alright!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "slayr",
+      "title": "Try and Fail",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w7gg",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0nthnwm",
+          "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93",
+          "name": "slayr"
+        },
+        "artist": "slayr",
+        "track_title": "Try and Fail",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "slayr",
+        "release_title": "Try and Fail",
+        "record_id": "n9bj6d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Performer",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          },
+          {
+            "pid": "p09hn4vj",
+            "name": "SoFaygo",
+            "role": "Performer",
+            "musicbrainz_gid": "654d48fb-4fe4-472d-81e6-039e54f2f27b"
+          }
+        ],
+        "title": "Try and Fail",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Nobody Wanna Dance Anymore",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdjcxj",
+        "duration": 139,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Nobody Wanna Dance Anymore",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9cxgv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Nobody Wanna Dance Anymore",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CA7RIEL & Paco Amoroso",
+      "title": "Sexy Magic",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd1qvz",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p0pccq67",
+          "musicbrainz_gid": "ce106ca8-401d-4860-ace3-dbc3a204bb86",
+          "name": "CA7RIEL & Paco Amoroso"
+        },
+        "artist": "CA7RIEL & Paco Amoroso",
+        "track_title": "Sexy Magic",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cdg6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pccq67",
+            "name": "CA7RIEL & Paco Amoroso",
+            "role": "Performer",
+            "musicbrainz_gid": "ce106ca8-401d-4860-ace3-dbc3a204bb86"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Performer",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          },
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p01k3ljm",
+            "name": "Étienne de Crécy",
+            "role": "Performer",
+            "musicbrainz_gid": "f174152d-da33-46bd-8cb4-c8d24b834bf7"
+          }
+        ],
+        "title": "Sexy Magic",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Victoria Monét",
+      "title": "Juicy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdjfh5",
+        "duration": 184,
+        "primary_contributor": {
+          "pid": "p054xmtv",
+          "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd",
+          "name": "Victoria Monét"
+        },
+        "artist": "Victoria Monét",
+        "track_title": "Juicy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9c4zm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p054xmtv",
+            "name": "Victoria Monét",
+            "role": "Performer",
+            "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd"
+          }
+        ],
+        "title": "Juicy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sasha Keable",
+      "title": "Options",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdjg4p",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p01b0q34",
+          "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+          "name": "Sasha Keable"
+        },
+        "artist": "Sasha Keable",
+        "track_title": "Options",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cxh2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01b0q34",
+            "name": "Sasha Keable",
+            "role": "Performer",
+            "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717"
+          }
+        ],
+        "title": "Options",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Waylon Wyatt",
+      "title": "I'm Sorry But I Love You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9s3h0",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0jnbw3z",
+          "musicbrainz_gid": "92d62a2e-0e1d-4b6b-9327-6d4e2360eb08",
+          "name": "Waylon Wyatt"
+        },
+        "artist": "Waylon Wyatt",
+        "track_title": "I'm Sorry But I Love You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Darkroom Records",
+        "release_title": null,
+        "record_id": "n9c4bz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jnbw3z",
+            "name": "Waylon Wyatt",
+            "role": "Performer",
+            "musicbrainz_gid": "92d62a2e-0e1d-4b6b-9327-6d4e2360eb08"
+          },
+          {
+            "pid": "p0cjf81w",
+            "name": "Carter Faith",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "60c143b1-f1c1-404b-a674-ce51a05f022c"
+          }
+        ],
+        "title": "I'm Sorry But I Love You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Getdown Services",
+      "title": "Lentils",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5bt3x",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p0g5kz8x",
+          "musicbrainz_gid": "ca57dd61-590f-4605-85ec-72e947a6148b",
+          "name": "Getdown Services"
+        },
+        "artist": "Getdown Services",
+        "track_title": "Lentils",
+        "track_number": "12",
+        "publisher": null,
+        "record_label": "Breakfast Records",
+        "release_title": "Massive Champion",
+        "record_id": "n9b5wp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g5kz8x",
+            "name": "Getdown Services",
+            "role": "Performer",
+            "musicbrainz_gid": "ca57dd61-590f-4605-85ec-72e947a6148b"
+          }
+        ],
+        "title": "Lentils",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Well Done Kid, You Did It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g8sc",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Well Done Kid, You Did It",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9bw9j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Well Done Kid, You Did It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Architects",
+      "title": "Machine",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdjhnb",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p012dwc9",
+          "musicbrainz_gid": "05dffdbe-dc6e-4c8d-a075-50a09c4cb45c",
+          "name": "Architects"
+        },
+        "artist": "Architects",
+        "track_title": "Machine",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Epitaph",
+        "release_title": null,
+        "record_id": "n9c8b3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dwc9",
+            "name": "Architects",
+            "role": "Performer",
+            "musicbrainz_gid": "05dffdbe-dc6e-4c8d-a075-50a09c4cb45c"
+          }
+        ],
+        "title": "Machine",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "Over Country",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc4758",
+        "duration": 300,
+        "primary_contributor": {
+          "pid": "p097dwv7",
+          "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+          "name": "Lizzy McAlpine"
+        },
+        "artist": "Lizzy McAlpine",
+        "track_title": "Over Country",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia Records",
+        "release_title": null,
+        "record_id": "n9c8xm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097dwv7",
+            "name": "Lizzy McAlpine",
+            "role": "Performer",
+            "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+          }
+        ],
+        "title": "Over Country",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chloé Caillet",
+      "title": "After Dark",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8m6vg",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p0d8rb4y",
+          "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51",
+          "name": "Chloé Caillet"
+        },
+        "artist": "Chloé Caillet",
+        "track_title": "After Dark",
+        "track_number": null,
+        "publisher": "Three Six Zero Pub Designee",
+        "record_label": "NINJA Tune",
+        "release_title": null,
+        "record_id": "n9bmh3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d8rb4y",
+            "name": "Chloé Caillet",
+            "role": "Performer",
+            "musicbrainz_gid": "e9139284-f58d-4440-927b-8a3bf41eee51"
+          }
+        ],
+        "title": "After Dark",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

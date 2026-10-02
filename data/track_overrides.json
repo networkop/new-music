@@ -34,6 +34,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Blind"
   },
+  "after|||snowburn": {
+    "artist": "After",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Snowburn"
+  },
   "aj tracey|||baja blast": {
     "artist": "AJ Tracey",
     "category": "manual",
@@ -97,12 +104,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dis-le"
   },
+  "angèle|||love triangle": {
+    "artist": "Angèle",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Love Triangle"
+  },
   "angèle|||une seule vie": {
     "artist": "Angèle",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Une seule vie"
+  },
+  "angèle|||what you want": {
+    "artist": "Angèle",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "What You Want"
   },
   "anotr|||silver lines": {
     "artist": "ANOTR",
@@ -951,6 +972,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "LUCID LOVE"
   },
+  "holly humberstone|||to love somebody": {
+    "artist": "Holly Humberstone",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "To Love Somebody"
+  },
   "honey dijon|||i like it hot": {
     "artist": "Honey Dijon",
     "category": "manual",
@@ -1294,6 +1322,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Danceteria"
   },
+  "madonna|||danceteria afterhours": {
+    "artist": "Madonna",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Danceteria Afterhours"
+  },
   "man/woman/chainsaw|||nosedive": {
     "artist": "Man/Woman/Chainsaw",
     "category": "manual",
@@ -1328,6 +1363,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "SMALL WORLD"
+  },
+  "miley cyrus|||different religion": {
+    "artist": "Miley Cyrus",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Different Religion"
   },
   "miley cyrus|||flowers": {
     "artist": "Miley Cyrus",
@@ -2231,6 +2273,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Cotton"
+  },
+  "voltage|||free": {
+    "artist": "Voltage",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Free"
   },
   "voltage|||music is the answer": {
     "artist": "Voltage",
