@@ -919,6 +919,52 @@
       ]
     ]
   },
+  "11f570ff-44d9-4e9c-8812-e6d56103c5c1": {
+    "name": "Michael Kiwanuka",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "blues",
+        51
+      ],
+      [
+        "singer-songwriter",
+        29
+      ],
+      [
+        "jazz",
+        25
+      ],
+      [
+        "folk",
+        11
+      ],
+      [
+        "british",
+        5
+      ],
+      [
+        "rnb",
+        5
+      ],
+      [
+        "acoustic",
+        1
+      ],
+      [
+        "male vocalists",
+        1
+      ],
+      [
+        "contemporary folk",
+        1
+      ]
+    ]
+  },
   "13637ef6-e659-4c2e-9e78-ba0acceaa10e": {
     "name": "Travy",
     "source": "lastfm",
@@ -8274,6 +8320,52 @@
       ]
     ]
   },
+  "ae002c5d-aac6-490b-a39a-30aa9e2edf2b": {
+    "name": "Skrillex",
+    "source": "lastfm",
+    "tags": [
+      [
+        "dubstep",
+        100
+      ],
+      [
+        "electronic",
+        65
+      ],
+      [
+        "breakcore",
+        20
+      ],
+      [
+        "electro",
+        17
+      ],
+      [
+        "electronica",
+        7
+      ],
+      [
+        "brostep",
+        5
+      ],
+      [
+        "electro house",
+        3
+      ],
+      [
+        "house",
+        1
+      ],
+      [
+        "dance",
+        1
+      ],
+      [
+        "american",
+        1
+      ]
+    ]
+  },
   "ae952d46-0f36-414c-90d4-f202ea2d4a71": {
     "name": "Tierra Whack",
     "source": "lastfm",
@@ -8741,6 +8833,52 @@
       [
         "electro house",
         4
+      ]
+    ]
+  },
+  "b716c12c-72e5-417e-b97b-7ade2bdb5030": {
+    "name": "Hamdi",
+    "source": "lastfm",
+    "tags": [
+      [
+        "dubstep",
+        100
+      ],
+      [
+        "grime",
+        51
+      ],
+      [
+        "electronic",
+        12
+      ],
+      [
+        "uk",
+        5
+      ],
+      [
+        "uk garage",
+        3
+      ],
+      [
+        "juke",
+        3
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "bass",
+        1
+      ],
+      [
+        "united kingdom",
+        1
+      ],
+      [
+        "bassline",
+        1
       ]
     ]
   },
@@ -10965,6 +11103,20 @@
       ]
     ]
   },
+  "e115f2cd-e4d3-465d-bcca-5d4f568e654f": {
+    "name": "Girl In The Year Above",
+    "source": "lastfm",
+    "tags": [
+      [
+        "cornish",
+        100
+      ],
+      [
+        "female vocalists",
+        100
+      ]
+    ]
+  },
   "e23abc5f-478a-4594-ad18-b3805b3c5316": {
     "name": "Sammy Virji",
     "source": "lastfm",
@@ -12873,6 +13025,52 @@
       ],
       [
         "alternative",
+        1
+      ]
+    ]
+  },
+  "name:hamdi": {
+    "name": "Hamdi",
+    "source": "lastfm",
+    "tags": [
+      [
+        "dubstep",
+        100
+      ],
+      [
+        "grime",
+        51
+      ],
+      [
+        "electronic",
+        12
+      ],
+      [
+        "uk",
+        5
+      ],
+      [
+        "uk garage",
+        3
+      ],
+      [
+        "juke",
+        3
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "bass",
+        1
+      ],
+      [
+        "united kingdom",
+        1
+      ],
+      [
+        "bassline",
         1
       ]
     ]

@@ -279,6 +279,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "No Surprise"
   },
+  "bleech 9:3|||underrated": {
+    "artist": "Bleech 9:3",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Underrated"
+  },
   "blondshell|||olympus": {
     "artist": "Blondshell",
     "category": "manual",
@@ -755,6 +762,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Cancel Me (I'm Tired)"
   },
+  "fat dog|||cancel me, i'm tired": {
+    "artist": "Fat Dog",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Cancel Me, I'm Tired"
+  },
   "fat dog|||love": {
     "artist": "Fat Dog",
     "category": "manual",
@@ -972,12 +986,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "LUCID LOVE"
   },
+  "holly humberstone|||scarlett": {
+    "artist": "Holly Humberstone",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Scarlett"
+  },
   "holly humberstone|||to love somebody": {
     "artist": "Holly Humberstone",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "To Love Somebody"
+  },
+  "holly humberstone|||too cute to be lonely": {
+    "artist": "Holly Humberstone",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Too Cute To Be Lonely"
   },
   "honey dijon|||i like it hot": {
     "artist": "Honey Dijon",
@@ -1076,6 +1104,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "can't be nothing but what I am"
+  },
+  "jme|||frames": {
+    "artist": "Jme",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Frames"
   },
   "joe james|||same emotions": {
     "artist": "Joe James",
@@ -1202,6 +1237,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "the bridge"
+  },
+  "keo|||be happy": {
+    "artist": "Keo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Be Happy"
   },
   "keo|||bird on the wire": {
     "artist": "Keo",
@@ -1356,6 +1398,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Home Depot"
+  },
+  "medium build|||it's not easy (falling in love)": {
+    "artist": "Medium Build",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "It's Not Easy (Falling In Love)"
   },
   "mette|||small world": {
     "artist": "METTE",
@@ -1853,6 +1902,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Come On Over"
+  },
+  "royal blood|||swallow the bomb": {
+    "artist": "Royal Blood",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Swallow The Bomb"
   },
   "royal blood|||ten over ten": {
     "artist": "Royal Blood",

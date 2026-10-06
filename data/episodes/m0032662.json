@@ -1,0 +1,908 @@
+{
+  "pid": "m0032662",
+  "broadcast_start": "2026-10-05T18:00:00+01:00",
+  "schedule_date": "2026-10-05",
+  "title": "DJ Hamdi and D Double E Hottest Record",
+  "tracks": [
+    {
+      "artist": "Blossoms",
+      "title": "Additional Driver",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p67qm5",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Additional Driver",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Distiller Records LLP",
+        "release_title": null,
+        "record_id": "n9bddb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          },
+          {
+            "pid": "p038r1tj",
+            "name": "Declan McKenna",
+            "role": "Performer",
+            "musicbrainz_gid": "8b98035f-fbd2-4fb3-9c2f-263c7506680d"
+          }
+        ],
+        "title": "Additional Driver",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Anderson .Paak",
+      "title": "A Good Day",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y5zl",
+        "duration": 149,
+        "primary_contributor": {
+          "pid": "p0246xtn",
+          "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+          "name": "Anderson .Paak"
+        },
+        "artist": "Anderson .Paak",
+        "track_title": "A Good Day",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EMPIRE",
+        "release_title": null,
+        "record_id": "n9c5n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          },
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          }
+        ],
+        "title": "A Good Day",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Push",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0j2y56s",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p012dsj7",
+          "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
+          "name": "Skrillex"
+        },
+        "artist": "Skrillex",
+        "track_title": "Push",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n89wpf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          },
+          {
+            "pid": "p0f5fy80",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": "b716c12c-72e5-417e-b97b-7ade2bdb5030"
+          },
+          {
+            "pid": "p0j0tdp8",
+            "name": "TAICHU",
+            "role": "Performer",
+            "musicbrainz_gid": "4cbb96e9-0418-49e3-a37e-4d2f08fcf90c"
+          }
+        ],
+        "title": "Push",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Innocent Smile",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb7vkh",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Innocent Smile",
+        "track_number": null,
+        "publisher": "Sony Music Publishing (MCPS/BIEM) / Universal Music Publishing",
+        "record_label": "Sony",
+        "release_title": null,
+        "record_id": "n9c5cn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          },
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          }
+        ],
+        "title": "Innocent Smile",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nemzzz",
+      "title": "GASS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8fx55",
+        "duration": 114,
+        "primary_contributor": {
+          "pid": "p0bljhs9",
+          "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+          "name": "Nemzzz"
+        },
+        "artist": "Nemzzz",
+        "track_title": "GASS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": null,
+        "record_id": "n9bm3b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bljhs9",
+            "name": "Nemzzz",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+          },
+          {
+            "pid": "p01k2lfc",
+            "name": "Travis Scott",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+          }
+        ],
+        "title": "GASS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Different Religion",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9m1cy",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p01nbs1f",
+          "musicbrainz_gid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+          "name": "Miley Cyrus"
+        },
+        "artist": "Miley Cyrus",
+        "track_title": "Different Religion",
+        "track_number": null,
+        "publisher": "MCEO Publishing (BMI)",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c3mj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01nbs1f",
+            "name": "Miley Cyrus",
+            "role": "Performer",
+            "musicbrainz_gid": "7e9bd05a-117f-4cce-87bc-e011527a8b18"
+          }
+        ],
+        "title": "Different Religion",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ADÉLA",
+      "title": "Nicole Kidman",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8tn4j",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Nicole Kidman",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Capitol Records",
+        "release_title": null,
+        "record_id": "n9bqxq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          }
+        ],
+        "title": "Nicole Kidman",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Barry Can't Swim",
+      "title": "I Could Be Madonna",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8ctl1",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0byqyrc",
+          "musicbrainz_gid": "7dcf3b98-701a-4309-a90c-eb4179b96ea9",
+          "name": "Barry Can't Swim"
+        },
+        "artist": "Barry Can't Swim",
+        "track_title": "I Could Be Madonna",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n9bmzp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0byqyrc",
+            "name": "Barry Can't Swim",
+            "role": "Performer",
+            "musicbrainz_gid": "7dcf3b98-701a-4309-a90c-eb4179b96ea9"
+          },
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "I Could Be Madonna",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Counting",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf436y",
+        "duration": 137,
+        "primary_contributor": {
+          "pid": "p0f5fy80",
+          "musicbrainz_gid": "b716c12c-72e5-417e-b97b-7ade2bdb5030",
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Counting",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Deadbeats",
+        "release_title": "Counting",
+        "record_id": "npjhv3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f5fy80",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": "b716c12c-72e5-417e-b97b-7ade2bdb5030"
+          },
+          {
+            "pid": "p012dhvd",
+            "name": "Princess Superstar",
+            "role": "Performer",
+            "musicbrainz_gid": "1524122d-ad9d-48e8-9d02-f7eaef15bef9"
+          }
+        ],
+        "title": "Counting",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Heart & Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf43k2",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0pf43k6",
+          "musicbrainz_gid": null,
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Heart & Soul",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9chmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf43k6",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Heart & Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Ten Over Ten",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fvc1",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Ten Over Ten",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": "Ten Over Ten",
+        "record_id": "n9b4bp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Ten Over Ten",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dom Dolla",
+      "title": "DANGER DANGER",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdqghd",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p03wkcfn",
+          "musicbrainz_gid": "9b8548a9-5991-42a9-ba96-fe83bd238b7a",
+          "name": "Dom Dolla"
+        },
+        "artist": "Dom Dolla",
+        "track_title": "DANGER DANGER",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ministry Of Sound",
+        "release_title": null,
+        "record_id": "n9cfqp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03wkcfn",
+            "name": "Dom Dolla",
+            "role": "Performer",
+            "musicbrainz_gid": "9b8548a9-5991-42a9-ba96-fe83bd238b7a"
+          },
+          {
+            "pid": "p01kk9lg",
+            "name": "Solomun",
+            "role": "Performer",
+            "musicbrainz_gid": "dff718ca-db66-4ce5-98b3-9585935b3dd1"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "DANGER DANGER",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "South Arcade",
+      "title": "F.A.M.O.U.S",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbtbr5",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0dbxqn0",
+          "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3",
+          "name": "South Arcade"
+        },
+        "artist": "South Arcade",
+        "track_title": "F.A.M.O.U.S",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n9c2fn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbxqn0",
+            "name": "South Arcade",
+            "role": "Performer",
+            "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3"
+          }
+        ],
+        "title": "F.A.M.O.U.S",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Celebration",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbslj3",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Celebration",
+        "track_number": null,
+        "publisher": "Peer Music",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9c8p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Celebration",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "title": "Summer Clothes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4djn",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p012ddn4",
+          "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1",
+          "name": "Michael Kiwanuka"
+        },
+        "artist": "Michael Kiwanuka",
+        "track_title": "Summer Clothes",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cfdb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012ddn4",
+            "name": "Michael Kiwanuka",
+            "role": "Performer",
+            "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+          }
+        ],
+        "title": "Summer Clothes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JJerome87",
+      "title": "Mr. Alligator",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4f5v",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p0myjprs",
+          "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9",
+          "name": "JJerome87"
+        },
+        "artist": "JJerome87",
+        "track_title": "Mr. Alligator",
+        "track_number": null,
+        "publisher": "Warner Chappell Music Ltd",
+        "record_label": "Universal Music Group",
+        "release_title": "The Canyon",
+        "record_id": "n9chmq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0myjprs",
+            "name": "JJerome87",
+            "role": "Performer",
+            "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9"
+          },
+          {
+            "pid": "p012ddn2",
+            "name": "alt‐J",
+            "role": "Performer",
+            "musicbrainz_gid": "fc7bbf00-fbaa-4736-986b-b3ac0266ca9b"
+          }
+        ],
+        "title": "Mr. Alligator",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Girl In The Year Above",
+      "title": "Wet Paint",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcs7vc",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p0n76hnd",
+          "musicbrainz_gid": "e115f2cd-e4d3-465d-bcca-5d4f568e654f",
+          "name": "Girl In The Year Above"
+        },
+        "artist": "Girl In The Year Above",
+        "track_title": "Wet Paint",
+        "track_number": null,
+        "publisher": "BMG Rights Management",
+        "record_label": "Transgressive",
+        "release_title": null,
+        "record_id": "n99jgf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n76hnd",
+            "name": "Girl In The Year Above",
+            "role": "Performer",
+            "musicbrainz_gid": "e115f2cd-e4d3-465d-bcca-5d4f568e654f"
+          }
+        ],
+        "title": "Wet Paint",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "OVA SO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g5gg",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "OVA SO",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bm4c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "OVA SO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiana Major9",
+      "title": "alright!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8stgl",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p060jgwb",
+          "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950",
+          "name": "Tiana Major9"
+        },
+        "artist": "Tiana Major9",
+        "track_title": "alright!",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "+1 Records",
+        "release_title": null,
+        "record_id": "n9bxqd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p060jgwb",
+            "name": "Tiana Major9",
+            "role": "Performer",
+            "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950"
+          }
+        ],
+        "title": "alright!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mulaa Joans",
+      "title": "That Ain't You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p804x5",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0n70qhj",
+          "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9",
+          "name": "Mulaa Joans"
+        },
+        "artist": "Mulaa Joans",
+        "track_title": "That Ain't You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9b53c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n70qhj",
+            "name": "Mulaa Joans",
+            "role": "Performer",
+            "musicbrainz_gid": "bcad27fd-36c0-4391-8ce4-b9522fe6e8b9"
+          }
+        ],
+        "title": "That Ain't You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Where The Goth Girls At",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4gzl",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Where The Goth Girls At",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Matador Records",
+        "release_title": null,
+        "record_id": "n9c9n9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Where The Goth Girls At",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Matilda Mann",
+      "title": "Chain Reaction",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vwx1",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p082r72d",
+          "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525",
+          "name": "Matilda Mann"
+        },
+        "artist": "Matilda Mann",
+        "track_title": "Chain Reaction",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Matilda Mann",
+        "release_title": null,
+        "record_id": "n9bj62",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082r72d",
+            "name": "Matilda Mann",
+            "role": "Performer",
+            "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525"
+          }
+        ],
+        "title": "Chain Reaction",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "Broken Chair",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4h6t",
+        "duration": 219,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "Broken Chair",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Music",
+        "release_title": null,
+        "record_id": "n9cgg3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "Broken Chair",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
