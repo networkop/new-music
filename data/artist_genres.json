@@ -585,6 +585,52 @@
       ]
     ]
   },
+  "0b30341b-b59d-4979-8130-b66c0e475321": {
+    "name": "Lil Nas X",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hip-hop",
+        100
+      ],
+      [
+        "rap",
+        69
+      ],
+      [
+        "country rap",
+        38
+      ],
+      [
+        "pop",
+        38
+      ],
+      [
+        "trap",
+        18
+      ],
+      [
+        "country",
+        14
+      ],
+      [
+        "hip hop",
+        13
+      ],
+      [
+        "american",
+        4
+      ],
+      [
+        "pop rap",
+        3
+      ],
+      [
+        "queer",
+        1
+      ]
+    ]
+  },
   "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9": {
     "name": "earthsignchels",
     "source": "lastfm",
@@ -5136,6 +5182,52 @@
       ],
       [
         "british",
+        1
+      ]
+    ]
+  },
+  "6aed0a74-92a7-47e6-97d1-7b6a72afec4b": {
+    "name": "Faouzia",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "moroccan",
+        25
+      ],
+      [
+        "female vocalists",
+        6
+      ],
+      [
+        "canadian",
+        6
+      ],
+      [
+        "morocco",
+        3
+      ],
+      [
+        "female vocalist",
+        1
+      ],
+      [
+        "soul",
+        1
+      ],
+      [
+        "indie",
+        1
+      ],
+      [
+        "piano",
+        1
+      ],
+      [
+        "dream pop",
         1
       ]
     ]
@@ -13212,6 +13304,11 @@
         1
       ]
     ]
+  },
+  "name:pip millet": {
+    "name": "Pip Millet",
+    "source": "lastfm",
+    "tags": []
   },
   "name:slipknot": {
     "name": "Slipknot",

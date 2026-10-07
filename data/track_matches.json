@@ -739,6 +739,11 @@
     "score": 1.0,
     "uri": "spotify:track:6bYQZWdJMKimn0VTXhMwd6"
   },
+  "faouzia|||unethical": {
+    "matched": "Faouzia - UNETHICAL",
+    "score": 1.0,
+    "uri": "spotify:track:6QKpHmO41jkd9pTp0FfmHs"
+  },
   "fat dog|||bad dog (new music live in cardiff, 29th sept 2026)": {
     "matched": null,
     "score": 0.0,
@@ -983,6 +988,11 @@
     "matched": "Gurriers - Nothing Happens Twice",
     "score": 1.0,
     "uri": "spotify:track:3901kpU0PbGc2DnjjCnqPj"
+  },
+  "gurriers|||waiting for fisher": {
+    "matched": "Gurriers - Waiting For Fisher",
+    "score": 1.0,
+    "uri": "spotify:track:1i6RUTWpIoXKTdhcU1upVf"
   },
   "haiden henderson|||i wanna be your girl": {
     "matched": "Haiden Henderson - i wanna be your girl",
@@ -1399,6 +1409,11 @@
     "score": 1.0,
     "uri": "spotify:track:5ZAMlvo6ZUjVRZOGu2bJib"
   },
+  "lil nas x|||world's greatest": {
+    "matched": "Lil Nas X - World's Greatest!",
+    "score": 1.0,
+    "uri": "spotify:track:5U1ekX3gtDjqIsJ9Ves4cT"
+  },
   "lime garden|||23 (new music live in cardiff, 29 sept 2026)": {
     "matched": null,
     "score": 0.0,
@@ -1578,6 +1593,11 @@
     "matched": "MPH - Raw",
     "score": 1.0,
     "uri": "spotify:track:2U9RtZORzcu54vkWI19PIL"
+  },
+  "mph|||warlord": {
+    "matched": "MPH - Warlord",
+    "score": 1.0,
+    "uri": "spotify:track:4WOvLGtZgRTQX3aCx9btnJ"
   },
   "mulaa joans|||don't look back in anger (radio 1 session, 21 jul 2026)": {
     "matched": null,
@@ -1824,6 +1844,11 @@
     "score": 1.0,
     "uri": "spotify:track:52LVOolmOdXFYVvJMblay1"
   },
+  "pip millet|||mad": {
+    "matched": "Pip Millett - Mad",
+    "score": 0.966,
+    "uri": "spotify:track:4KH6aPuYg0SqbBnEjt2wgg"
+  },
   "pixy|||legacy": {
     "matched": "PIXY - LEGACY",
     "score": 1.0,
@@ -1963,6 +1988,11 @@
     "matched": "Royal Blood - Come on Over",
     "score": 1.0,
     "uri": "spotify:track:7qRmdDl9dnHkFT4MMboG7Y"
+  },
+  "royal blood|||dead company": {
+    "matched": "Royal Blood - Dead Company",
+    "score": 1.0,
+    "uri": "spotify:track:01oyX4Sq1w6ZpgeOUHdqsJ"
   },
   "royal blood|||swallow the bomb": {
     "matched": "Royal Blood - Swallow The Bomb",
@@ -2403,6 +2433,11 @@
     "matched": "Tove Lo - DNH",
     "score": 1.0,
     "uri": "spotify:track:1PGde5PALlkGdlPizKNDLo"
+  },
+  "travy|||gta 6": {
+    "matched": "Travy - GTA 6",
+    "score": 1.0,
+    "uri": "spotify:track:0CdBlT9EtP6u89NCTmkFqH"
   },
   "travy|||keep up": {
     "matched": "Travy - Keep Up",

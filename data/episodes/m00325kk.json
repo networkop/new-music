@@ -1,0 +1,1040 @@
+{
+  "pid": "m00325kk",
+  "broadcast_start": "2026-10-06T18:00:00+01:00",
+  "schedule_date": "2026-10-06",
+  "title": "Royal Blood Hottest Record",
+  "tracks": [
+    {
+      "artist": "Fat Dog",
+      "title": "Call It What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7lsww",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Call It What You Want",
+        "track_number": null,
+        "publisher": "Domino Publishing Company Ltd., and BMG (Music) Rights Limited",
+        "record_label": "Domino",
+        "release_title": null,
+        "record_id": "n9bwj8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Call It What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "Wallflower",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7ds62",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "Wallflower",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bwpv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "Wallflower",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Ten Over Ten",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p6fvc1",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Ten Over Ten",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": "Ten Over Ten",
+        "record_id": "n9b4bp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Ten Over Ten",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Be Happy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd88qr",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Be Happy",
+        "track_number": null,
+        "publisher": "Universal Music Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9c85h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Be Happy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Too Cute To Be Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd854b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "Too Cute To Be Lonely",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cx66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "Too Cute To Be Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rxzc",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p0dckhd7",
+          "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be",
+          "name": "Freya Skye"
+        },
+        "artist": "Freya Skye",
+        "track_title": "bad taste",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c4r6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dckhd7",
+            "name": "Freya Skye",
+            "role": "Performer",
+            "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be"
+          }
+        ],
+        "title": "bad taste",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "Party",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc2055",
+        "duration": 153,
+        "primary_contributor": {
+          "pid": "p023qjwv",
+          "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "name": "Troye Sivan"
+        },
+        "artist": "Troye Sivan",
+        "track_title": "Party",
+        "track_number": null,
+        "publisher": "Songs Of Universal, Inc. (BMI), EMI April Music Inc., Bob Ochoa’s Homemade Salsa, Sony/ATV Songs LLC (BMI), Sony/ATV Tunes LLC (ASCAP), UMPG / APRA (BMI), MXM Music (adm. by Warner Chappell Music SCAN",
+        "record_label": "Tokky’s Music; Interscope",
+        "release_title": null,
+        "record_id": "n9c84q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p023qjwv",
+            "name": "Troye Sivan",
+            "role": "Performer",
+            "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+          }
+        ],
+        "title": "Party",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Typhoons",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p094rcv3",
+        "duration": 234,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Typhoons",
+        "track_number": null,
+        "publisher": "Warner/Chappell Music",
+        "record_label": "Warner",
+        "release_title": null,
+        "record_id": "n6xw35",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Typhoons",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Dead Company",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9fqb",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Dead Company",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cw94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Dead Company",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "Sticks 'N' Stones",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0037qp1",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "Sticks 'N' Stones",
+        "track_number": null,
+        "publisher": "Imagem",
+        "record_label": "Virgin",
+        "release_title": null,
+        "record_id": "nz64m2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "Sticks 'N' Stones",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Heart & Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf43k2",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0pf43k6",
+          "musicbrainz_gid": null,
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Heart & Soul",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9chmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf43k6",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Heart & Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pby453",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9c8hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "World's Greatest",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9jcn",
+        "duration": 228,
+        "primary_contributor": {
+          "pid": "p074wnjw",
+          "musicbrainz_gid": "0b30341b-b59d-4979-8130-b66c0e475321",
+          "name": "Lil Nas X"
+        },
+        "artist": "Lil Nas X",
+        "track_title": "World's Greatest",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cw9b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074wnjw",
+            "name": "Lil Nas X",
+            "role": "Performer",
+            "musicbrainz_gid": "0b30341b-b59d-4979-8130-b66c0e475321"
+          }
+        ],
+        "title": "World's Greatest",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Warlord",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9kmp",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Warlord",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Disorder",
+        "release_title": null,
+        "record_id": "n94mb6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          }
+        ],
+        "title": "Warlord",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Madonna",
+      "title": "Danceteria Afterhours",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcxj2v",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p09pg5m9",
+          "musicbrainz_gid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+          "name": "Madonna"
+        },
+        "artist": "Madonna",
+        "track_title": "Danceteria Afterhours",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cd5r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09pg5m9",
+            "name": "Madonna",
+            "role": "Performer",
+            "musicbrainz_gid": "79239441-bfd5-4981-a70c-55c3f15c1287"
+          },
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Danceteria Afterhours",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Travy",
+      "title": "GTA 6",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcy1nd",
+        "duration": 138,
+        "primary_contributor": {
+          "pid": "p0k74clc",
+          "musicbrainz_gid": "13637ef6-e659-4c2e-9e78-ba0acceaa10e",
+          "name": "Travy"
+        },
+        "artist": "Travy",
+        "track_title": "GTA 6",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c9qg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k74clc",
+            "name": "Travy",
+            "role": "Performer",
+            "musicbrainz_gid": "13637ef6-e659-4c2e-9e78-ba0acceaa10e"
+          }
+        ],
+        "title": "GTA 6",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Air",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd873m",
+        "duration": 237,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "Air",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9c9hg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "Air",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gurriers",
+      "title": "Waiting For Fisher",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9ps4",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p0f0fgjx",
+          "musicbrainz_gid": "b3e28883-d118-4180-b458-568a18bc239d",
+          "name": "Gurriers"
+        },
+        "artist": "Gurriers",
+        "track_title": "Waiting For Fisher",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Play It Again Sam",
+        "release_title": null,
+        "record_id": "n9crh3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f0fgjx",
+            "name": "Gurriers",
+            "role": "Performer",
+            "musicbrainz_gid": "b3e28883-d118-4180-b458-568a18bc239d"
+          }
+        ],
+        "title": "Waiting For Fisher",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "title": "Summer Clothes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4djn",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p012ddn4",
+          "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1",
+          "name": "Michael Kiwanuka"
+        },
+        "artist": "Michael Kiwanuka",
+        "track_title": "Summer Clothes",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cfdb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012ddn4",
+            "name": "Michael Kiwanuka",
+            "role": "Performer",
+            "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+          }
+        ],
+        "title": "Summer Clothes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "If I Had The Hand Of God",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9qjh",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "If I Had The Hand Of God",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "4AD",
+        "release_title": null,
+        "record_id": "n9c8w5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "If I Had The Hand Of God",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dimension",
+      "title": "Ghost Town",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5wk7c",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p014rdgk",
+          "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3",
+          "name": "Dimension"
+        },
+        "artist": "Dimension",
+        "track_title": "Ghost Town",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Dimension",
+        "release_title": "Ghost Town",
+        "record_id": "n9bc5h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p014rdgk",
+            "name": "Dimension",
+            "role": "Performer",
+            "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3"
+          },
+          {
+            "pid": "p0d74mcr",
+            "name": "Subsonic",
+            "role": "Performer",
+            "musicbrainz_gid": "3208557c-c04d-4e69-b652-c7266e139876"
+          }
+        ],
+        "title": "Ghost Town",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "I Won't Cry",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcxzyp",
+        "duration": 260,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "I Won't Cry",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Remi WOlf",
+        "release_title": null,
+        "record_id": "n9cd2f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "I Won't Cry",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Pip Millet",
+      "title": "Mad",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9sxm",
+        "duration": 162,
+        "primary_contributor": {
+          "pid": "p0pf9sxr",
+          "musicbrainz_gid": null,
+          "name": "Pip Millet"
+        },
+        "artist": "Pip Millet",
+        "track_title": "Mad",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cxhn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf9sxr",
+            "name": "Pip Millet",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Mad",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Faouzia",
+      "title": "UNETHICAL",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9t6q",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p0g6ds2z",
+          "musicbrainz_gid": "6aed0a74-92a7-47e6-97d1-7b6a72afec4b",
+          "name": "Faouzia"
+        },
+        "artist": "Faouzia",
+        "track_title": "UNETHICAL",
+        "track_number": null,
+        "publisher": "VAMP",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cwr2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g6ds2z",
+            "name": "Faouzia",
+            "role": "Performer",
+            "musicbrainz_gid": "6aed0a74-92a7-47e6-97d1-7b6a72afec4b"
+          }
+        ],
+        "title": "UNETHICAL",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wretch 32",
+      "title": "Fire In The Booth",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p94fdf",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p012dc6x",
+          "musicbrainz_gid": "9a3b2d4a-2da4-49c6-9ab3-c680434dbabf",
+          "name": "Wretch 32"
+        },
+        "artist": "Wretch 32",
+        "track_title": "Fire In The Booth",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n4fmcw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dc6x",
+            "name": "Wretch 32",
+            "role": "Performer",
+            "musicbrainz_gid": "9a3b2d4a-2da4-49c6-9ab3-c680434dbabf"
+          }
+        ],
+        "title": "Fire In The Booth",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Yung Miami",
+      "title": "Spend Dat",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p63chn",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p09ztqw5",
+          "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c",
+          "name": "Yung Miami"
+        },
+        "artist": "Yung Miami",
+        "track_title": "Spend Dat",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Yung Miami LLC",
+        "release_title": null,
+        "record_id": "n99cvw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09ztqw5",
+            "name": "Yung Miami",
+            "role": "Performer",
+            "musicbrainz_gid": "7e987fc0-7606-4637-8eb1-8c9c3e57a65c"
+          }
+        ],
+        "title": "Spend Dat",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fridayy",
+      "title": "Can You Stay",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbylk7",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p0cwlbmc",
+          "musicbrainz_gid": "cb9c2a2b-96c2-44d7-bd31-04ef87572b57",
+          "name": "Fridayy"
+        },
+        "artist": "Fridayy",
+        "track_title": "Can You Stay",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Lost In Melody, LLC / Def Jam Recordings",
+        "release_title": null,
+        "record_id": "n9b833",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cwlbmc",
+            "name": "Fridayy",
+            "role": "Performer",
+            "musicbrainz_gid": "cb9c2a2b-96c2-44d7-bd31-04ef87572b57"
+          }
+        ],
+        "title": "Can You Stay",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "2hollis",
+      "title": "Warhorse",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj79y",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0krvzn6",
+          "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+          "name": "2hollis"
+        },
+        "artist": "2hollis",
+        "track_title": "Warhorse",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cxgc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0krvzn6",
+            "name": "2hollis",
+            "role": "Performer",
+            "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5"
+          }
+        ],
+        "title": "Warhorse",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

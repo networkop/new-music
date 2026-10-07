@@ -405,6 +405,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Youths Fountain"
   },
+  "ca7riel & paco amoroso|||sexy magic": {
+    "artist": "CA7RIEL & Paco Amoroso",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sexy Magic"
+  },
   "ca7riel|||vida loca": {
     "artist": "CA7RIEL",
     "category": "manual",
@@ -699,6 +706,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Another Year Alone"
   },
+  "dom dolla|||saving up": {
+    "artist": "Dom Dolla",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Saving Up"
+  },
   "dominic fike|||wallflower": {
     "artist": "Dominic Fike",
     "category": "manual",
@@ -950,6 +964,20 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "i wanna be your girl"
+  },
+  "hamdi|||counting": {
+    "artist": "Hamdi",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Counting"
+  },
+  "hamdi|||heart & soul": {
+    "artist": "Hamdi",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Heart & Soul"
   },
   "headie one|||turnt to a target": {
     "artist": "Headie One",
@@ -1798,6 +1826,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Insignificant Other"
   },
+  "queens of the stone age|||where the goth girls at": {
+    "artist": "Queens of the Stone Age",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Where The Goth Girls At"
+  },
   "rachel chinouriri|||all i ever asked": {
     "artist": "Rachel Chinouriri",
     "category": "manual",
@@ -1811,6 +1846,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "All I Ever Asked (with sombr)"
+  },
+  "rachel chinouriri|||broken chair": {
+    "artist": "Rachel Chinouriri",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Broken Chair"
   },
   "rachel chinouriri|||never need me": {
     "artist": "Rachel Chinouriri",
@@ -2049,6 +2091,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "That's Not Me"
+  },
+  "skrillex|||push": {
+    "artist": "Skrillex",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Push"
   },
   "slayr|||keep me going (birdbrain)": {
     "artist": "slayr",

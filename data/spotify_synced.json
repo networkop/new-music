@@ -1,9 +1,14 @@
 {
   "keep": {
-    "spotify:track:0jozSNmRCcQvIzuae6xQ78": {
-      "artist": "Hamdi",
-      "broadcast": "2026-10-05",
-      "title": "Counting"
+    "spotify:track:01oyX4Sq1w6ZpgeOUHdqsJ": {
+      "artist": "Royal Blood",
+      "broadcast": "2026-10-06",
+      "title": "Dead Company"
+    },
+    "spotify:track:0CdBlT9EtP6u89NCTmkFqH": {
+      "artist": "Travy",
+      "broadcast": "2026-10-06",
+      "title": "GTA 6"
     },
     "spotify:track:1W7NwoNXkeQHtPNykbXwaP": {
       "artist": "Travy",
@@ -15,19 +20,19 @@
       "broadcast": "2026-09-30",
       "title": "Tongue"
     },
+    "spotify:track:1i6RUTWpIoXKTdhcU1upVf": {
+      "artist": "Gurriers",
+      "broadcast": "2026-10-06",
+      "title": "Waiting For Fisher"
+    },
     "spotify:track:1yIuPXnyODACJxaX9DjCuY": {
       "artist": "Wretch 32",
-      "broadcast": "2026-09-22",
+      "broadcast": "2026-10-06",
       "title": "Fire In The Booth"
-    },
-    "spotify:track:29OFLlrrfKIEVwbVMTjBYe": {
-      "artist": "Skrillex",
-      "broadcast": "2026-10-05",
-      "title": "Push"
     },
     "spotify:track:2infXICqVSUM3bbGSOgFOY": {
       "artist": "Bicep",
-      "broadcast": "2026-09-30",
+      "broadcast": "2026-10-06",
       "title": "Air"
     },
     "spotify:track:2zQlb1LG6RITfwi2xb73cS": {
@@ -42,7 +47,7 @@
     },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
-      "broadcast": "2026-09-30",
+      "broadcast": "2026-10-06",
       "title": "Roses"
     },
     "spotify:track:49fqtR2gcZXvJRQNbwrGkU": {
@@ -50,56 +55,51 @@
       "broadcast": "2026-10-05",
       "title": "DANGER DANGER"
     },
+    "spotify:track:4KH6aPuYg0SqbBnEjt2wgg": {
+      "artist": "Pip Millet",
+      "broadcast": "2026-10-06",
+      "title": "Mad"
+    },
     "spotify:track:4OZsL523QNwRZMgJGwC2Lq": {
       "artist": "Architects",
       "broadcast": "2026-10-01",
       "title": "Machine"
+    },
+    "spotify:track:4WOvLGtZgRTQX3aCx9btnJ": {
+      "artist": "MPH",
+      "broadcast": "2026-10-06",
+      "title": "Warlord"
     },
     "spotify:track:4cLzHSqYaxcw8qVFV2xlGY": {
       "artist": "South Arcade",
       "broadcast": "2026-10-05",
       "title": "F.A.M.O.U.S"
     },
-    "spotify:track:5kPfThD8sI2AvIhTkf0nbs": {
-      "artist": "Queens of the Stone Age",
-      "broadcast": "2026-10-05",
-      "title": "Where The Goth Girls At"
+    "spotify:track:5U1ekX3gtDjqIsJ9Ves4cT": {
+      "artist": "Lil Nas X",
+      "broadcast": "2026-10-06",
+      "title": "World's Greatest"
     },
-    "spotify:track:62hqNk13CuFLOpCw1cPMAF": {
-      "artist": "CA7RIEL & Paco Amoroso",
-      "broadcast": "2026-10-01",
-      "title": "Sexy Magic"
-    },
-    "spotify:track:6B92qqLTgnAZBo46AuDkM8": {
-      "artist": "Hamdi",
-      "broadcast": "2026-10-05",
-      "title": "Heart & Soul"
+    "spotify:track:6QKpHmO41jkd9pTp0FfmHs": {
+      "artist": "Faouzia",
+      "broadcast": "2026-10-06",
+      "title": "UNETHICAL"
     },
     "spotify:track:6QtdNJhSCP7XgTDJL2BlJ7": {
       "artist": "2hollis",
-      "broadcast": "2026-10-01",
+      "broadcast": "2026-10-06",
       "title": "Warhorse"
-    },
-    "spotify:track:787Y2idwCU2Rk60Prv4wpr": {
-      "artist": "Dom Dolla",
-      "broadcast": "2026-10-01",
-      "title": "Saving Up"
     },
     "spotify:track:7GqH8twcRE7WSW8Wqyinem": {
       "artist": "Bleech 9:3",
       "broadcast": "2026-10-01",
       "title": "Canonball"
-    },
-    "spotify:track:7tkVtE5Tf2vM2W4oZD0hqd": {
-      "artist": "Rachel Chinouriri",
-      "broadcast": "2026-10-05",
-      "title": "Broken Chair"
     }
   },
   "review": {
     "spotify:track:1FP6gZVvRnvFkaFhgfGYBT": {
       "artist": "Remi Wolf",
-      "broadcast": "2026-09-30",
+      "broadcast": "2026-10-06",
       "title": "I Won't Cry"
     }
   }
