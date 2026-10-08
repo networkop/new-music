@@ -229,6 +229,52 @@
       ]
     ]
   },
+  "044fd265-79dd-43eb-afc4-8b20becf7e17": {
+    "name": "Thundercat",
+    "source": "lastfm",
+    "tags": [
+      [
+        "funk",
+        100
+      ],
+      [
+        "electronic",
+        87
+      ],
+      [
+        "soul",
+        47
+      ],
+      [
+        "jazz",
+        47
+      ],
+      [
+        "psychedelic",
+        13
+      ],
+      [
+        "jazz fusion",
+        8
+      ],
+      [
+        "neo-soul",
+        7
+      ],
+      [
+        "bass",
+        1
+      ],
+      [
+        "experimental",
+        1
+      ],
+      [
+        "nu jazz",
+        1
+      ]
+    ]
+  },
   "045494aa-e913-4e62-bf4e-dcc276e0075a": {
     "name": "Kelela",
     "source": "lastfm",
@@ -2129,6 +2175,36 @@
       ],
       [
         "mexico",
+        8
+      ]
+    ]
+  },
+  "332e27d6-7ff0-4d15-adb9-26a5d03a82b8": {
+    "name": "SUNSHINE BENZI",
+    "source": "lastfm",
+    "tags": [
+      [
+        "usa",
+        100
+      ],
+      [
+        "rap",
+        25
+      ],
+      [
+        "rnb",
+        17
+      ],
+      [
+        "hip-hop",
+        17
+      ],
+      [
+        "freestyle",
+        8
+      ],
+      [
+        "midwest hip-hop",
         8
       ]
     ]
@@ -4556,6 +4632,20 @@
       [
         "dance-pop",
         1
+      ]
+    ]
+  },
+  "5aaada38-ad8d-4808-8e2f-d6c535cc36e3": {
+    "name": "Chy Cartier",
+    "source": "lastfm",
+    "tags": [
+      [
+        "uk hip-hop",
+        100
+      ],
+      [
+        "steezemusik",
+        100
       ]
     ]
   },
@@ -6995,6 +7085,52 @@
       [
         "drag queens",
         4
+      ]
+    ]
+  },
+  "8c9f8c4b-ab6b-42e4-aed0-e7a366c8eade": {
+    "name": "Conducta",
+    "source": "lastfm",
+    "tags": [
+      [
+        "uk garage",
+        100
+      ],
+      [
+        "garage",
+        33
+      ],
+      [
+        "grime",
+        22
+      ],
+      [
+        "electronic",
+        12
+      ],
+      [
+        "bristol",
+        3
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "bass",
+        1
+      ],
+      [
+        "breakbeat",
+        1
+      ],
+      [
+        "2step",
+        1
       ]
     ]
   },
