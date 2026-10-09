@@ -6,6 +6,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "hurt"
   },
+  "2hollis|||warhorse": {
+    "artist": "2hollis",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Warhorse"
+  },
   "absolutely|||i just don't know you yet": {
     "artist": "Absolutely",
     "category": "manual",
@@ -279,6 +286,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "No Surprise"
   },
+  "bleech 9:3|||tourniquet": {
+    "artist": "Bleech 9:3",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Tourniquet"
+  },
   "bleech 9:3|||underrated": {
     "artist": "Bleech 9:3",
     "category": "manual",
@@ -531,6 +545,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Gone Too Far"
   },
+  "chase & status|||no problem": {
+    "artist": "Chase & Status",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "No Problem"
+  },
   "chloé caillet|||after dark": {
     "artist": "Chloé Caillet",
     "category": "manual",
@@ -580,6 +601,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "The Mother We Share"
   },
+  "chy cartier|||yo - roess remix": {
+    "artist": "Chy Cartier",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "YO - RoESS Remix"
+  },
   "cloonee|||good girl": {
     "artist": "Cloonee",
     "category": "manual",
@@ -593,6 +621,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Body So Tea"
+  },
+  "conducta|||cash": {
+    "artist": "Conducta",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "CASH"
   },
   "cordae|||two tens": {
     "artist": "Cordae",
@@ -706,6 +741,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Another Year Alone"
   },
+  "dom dolla|||danger danger": {
+    "artist": "Dom Dolla",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "DANGER DANGER"
+  },
   "dom dolla|||saving up": {
     "artist": "Dom Dolla",
     "category": "manual",
@@ -761,6 +803,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Well Organised"
+  },
+  "faouzia|||unethical": {
+    "artist": "Faouzia",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "UNETHICAL"
   },
   "fat dog|||call it what you want": {
     "artist": "Fat Dog",
@@ -923,6 +972,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Lentils"
   },
+  "girl in the year above|||wet paint": {
+    "artist": "Girl In The Year Above",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Wet Paint"
+  },
   "goldie|||jungle daze": {
     "artist": "Goldie",
     "category": "manual",
@@ -957,6 +1013,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Nothing Happens Twice"
+  },
+  "gurriers|||waiting for fisher": {
+    "artist": "Gurriers",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Waiting For Fisher"
   },
   "haiden henderson|||i wanna be your girl": {
     "artist": "Haiden Henderson",
@@ -1006,6 +1069,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Around Me"
+  },
+  "holding absence|||heaven": {
+    "artist": "Holding Absence",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Heaven"
   },
   "holding absence|||lucid love": {
     "artist": "Holding Absence",
@@ -1104,6 +1174,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Sticks 'N' Stones"
+  },
+  "jamie t|||waist 36 leg 32": {
+    "artist": "Jamie T",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Waist 36 Leg 32"
   },
   "jay-z|||99 problems": {
     "artist": "JAY-Z",
@@ -1357,6 +1434,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Dead Fresh"
   },
+  "lil nas x|||world's greatest": {
+    "artist": "Lil Nas X",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "World's Greatest"
+  },
   "lime garden|||cross my heart": {
     "artist": "Lime Garden",
     "category": "manual",
@@ -1524,6 +1608,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Raw"
+  },
+  "mph|||warlord": {
+    "artist": "MPH",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Warlord"
   },
   "mulaa joans|||that ain't you": {
     "artist": "Mulaa Joans",
@@ -1798,6 +1889,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Solaris"
   },
+  "pip millet|||mad": {
+    "artist": "Pip Millet",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Mad"
+  },
   "pixy|||legacy": {
     "artist": "PIXY",
     "category": "manual",
@@ -1944,6 +2042,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Come On Over"
+  },
+  "royal blood|||dead company": {
+    "artist": "Royal Blood",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dead Company"
   },
   "royal blood|||swallow the bomb": {
     "artist": "Royal Blood",
@@ -2239,6 +2344,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "When I Get Drunk (I Want You Boy)"
   },
+  "sunshine benzi|||barracuda": {
+    "artist": "SUNSHINE BENZI",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Barracuda"
+  },
   "that mexican ot|||water": {
     "artist": "That Mexican OT",
     "category": "manual",
@@ -2336,6 +2448,20 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "DNH"
+  },
+  "tove lo|||source of life": {
+    "artist": "Tove Lo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Source Of Life"
+  },
+  "travy|||gta 6": {
+    "artist": "Travy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "GTA 6"
   },
   "troye sivan|||party": {
     "artist": "Troye Sivan",
@@ -2469,6 +2595,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "She's My Religion"
+  },
+  "wishy|||covergirl": {
+    "artist": "Wishy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Covergirl"
   },
   "wishy|||mona lisa": {
     "artist": "Wishy",

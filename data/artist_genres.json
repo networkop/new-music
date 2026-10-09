@@ -3553,6 +3553,52 @@
       ]
     ]
   },
+  "4c3cffca-37b7-4ecd-9320-e6dcc2cb837a": {
+    "name": "Prospa",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "electronic",
+        64
+      ],
+      [
+        "rave",
+        42
+      ],
+      [
+        "dance",
+        24
+      ],
+      [
+        "breakbeat",
+        12
+      ],
+      [
+        "british",
+        5
+      ],
+      [
+        "uk",
+        5
+      ],
+      [
+        "electro",
+        1
+      ],
+      [
+        "english",
+        1
+      ],
+      [
+        "breaks",
+        1
+      ]
+    ]
+  },
   "4c41d78d-9dd5-430d-81ea-286052158293": {
     "name": "Peggy Gou",
     "source": "lastfm",
@@ -5138,6 +5184,52 @@
       ]
     ]
   },
+  "6967d805-e5bb-477f-a6dd-2f41b5c0e644": {
+    "name": "Len",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "canadian",
+        83
+      ],
+      [
+        "90s",
+        41
+      ],
+      [
+        "alternative",
+        38
+      ],
+      [
+        "rock",
+        12
+      ],
+      [
+        "alternative rock",
+        9
+      ],
+      [
+        "canada",
+        5
+      ],
+      [
+        "hip hop",
+        1
+      ],
+      [
+        "pop rock",
+        1
+      ],
+      [
+        "uk",
+        1
+      ]
+    ]
+  },
   "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc": {
     "name": "Keo",
     "source": "lastfm",
@@ -5774,6 +5866,52 @@
       ]
     ]
   },
+  "7449cc7e-5fe0-4fd4-9901-7e715391ee50": {
+    "name": "PRESIDENT",
+    "source": "lastfm",
+    "tags": [
+      [
+        "metalcore",
+        100
+      ],
+      [
+        "alternative metal",
+        65
+      ],
+      [
+        "hardcore",
+        19
+      ],
+      [
+        "thrash metal",
+        10
+      ],
+      [
+        "post-hardcore",
+        5
+      ],
+      [
+        "british",
+        3
+      ],
+      [
+        "metal",
+        2
+      ],
+      [
+        "djent",
+        1
+      ],
+      [
+        "english",
+        1
+      ],
+      [
+        "alt-pop",
+        1
+      ]
+    ]
+  },
   "75b9caea-c639-4120-9391-05dbf15f30be": {
     "name": "Freya Skye",
     "source": "lastfm",
@@ -6165,6 +6303,52 @@
       [
         "funk_add_to_lidarr_batch_20",
         8
+      ]
+    ]
+  },
+  "7d1b9874-4f8c-4481-81db-6fefe7f58627": {
+    "name": "Skream & Benga",
+    "source": "lastfm",
+    "tags": [
+      [
+        "dubstep",
+        100
+      ],
+      [
+        "uk garage",
+        64
+      ],
+      [
+        "grime",
+        11
+      ],
+      [
+        "2-step",
+        11
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "bass",
+        1
+      ],
+      [
+        "electronic",
+        1
+      ],
+      [
+        "ukg",
+        1
+      ],
+      [
+        "dark garage",
+        1
+      ],
+      [
+        "deep dubstep",
+        1
       ]
     ]
   },
@@ -9981,6 +10165,52 @@
       ],
       [
         "electronic",
+        1
+      ]
+    ]
+  },
+  "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27": {
+    "name": "HAAi",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "techno",
+        60
+      ],
+      [
+        "house",
+        29
+      ],
+      [
+        "experimental",
+        20
+      ],
+      [
+        "breakbeat",
+        7
+      ],
+      [
+        "australia",
+        2
+      ],
+      [
+        "australian",
+        2
+      ],
+      [
+        "female vocalists",
+        1
+      ],
+      [
+        "electronica",
+        1
+      ],
+      [
+        "uk",
         1
       ]
     ]
