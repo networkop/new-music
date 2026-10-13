@@ -510,6 +510,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Wink Wink"
   },
+  "chase & status|||all goes wrong": {
+    "artist": "Chase & Status",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "All Goes Wrong"
+  },
   "chase & status|||backbone": {
     "artist": "Chase & Status",
     "category": "manual",
@@ -530,6 +537,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Blind Faith"
+  },
+  "chase & status|||carnage": {
+    "artist": "Chase & Status",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Carnage"
   },
   "chase & status|||disgruntled": {
     "artist": "Chase & Status",
@@ -726,6 +740,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "The Fountain"
+  },
+  "diiv|||trillions": {
+    "artist": "DIIV",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Trillions"
   },
   "dimension|||ghost town": {
     "artist": "Dimension",
@@ -1020,6 +1041,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Waiting For Fisher"
+  },
+  "haai|||i wanna feel like someone": {
+    "artist": "HAAi",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I Wanna Feel Like Someone"
   },
   "haiden henderson|||i wanna be your girl": {
     "artist": "Haiden Henderson",
@@ -1426,6 +1454,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "pick up the phone"
+  },
+  "len|||whine am well": {
+    "artist": "Len",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Whine Am Well"
   },
   "lil baby|||dead fresh": {
     "artist": "Lil Baby",
@@ -1910,6 +1945,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "FWM"
   },
+  "president|||sleepwalker": {
+    "artist": "PRESIDENT",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sleepwalker"
+  },
+  "prospa|||free your mind": {
+    "artist": "Prospa",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Free Your Mind"
+  },
   "queens of the stone age|||easy street": {
     "artist": "Queens of the Stone Age",
     "category": "manual",
@@ -1972,6 +2021,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Bottle"
+  },
+  "remi wolf|||i won't cry": {
+    "artist": "Remi Wolf",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I Won't Cry"
   },
   "remi wolf|||twiggy": {
     "artist": "Remi Wolf",
@@ -2197,6 +2253,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "That's Not Me"
   },
+  "skream & benga|||gameshow": {
+    "artist": "Skream & Benga",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Gameshow"
+  },
   "skrillex|||push": {
     "artist": "Skrillex",
     "category": "manual",
@@ -2351,6 +2414,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Barracuda"
   },
+  "that mexican ot|||i can't": {
+    "artist": "That Mexican OT",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "I Can't"
+  },
   "that mexican ot|||water": {
     "artist": "That Mexican OT",
     "category": "manual",
@@ -2385,6 +2455,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Gaudete"
+  },
+  "thundercat|||moving at light speed": {
+    "artist": "Thundercat",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Moving At Light Speed"
   },
   "tierra whack|||siren": {
     "artist": "Tierra Whack",
@@ -2497,6 +2574,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "aimee lou wood freestyle"
+  },
+  "untitled (halo)|||easy rider": {
+    "artist": "untitled (halo)",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "easy rider"
   },
   "vince staples|||cotton": {
     "artist": "Vince Staples",

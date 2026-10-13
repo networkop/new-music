@@ -1487,6 +1487,52 @@
       ]
     ]
   },
+  "25f3abd9-63b5-471a-bd25-feb9672dfa11": {
+    "name": "ROSALÍA",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "spanish",
+        76
+      ],
+      [
+        "flamenco",
+        49
+      ],
+      [
+        "art pop",
+        35
+      ],
+      [
+        "flamenco nuevo",
+        17
+      ],
+      [
+        "spain",
+        16
+      ],
+      [
+        "female vocalists",
+        13
+      ],
+      [
+        "neoperreo",
+        4
+      ],
+      [
+        "flamenco pop",
+        3
+      ],
+      [
+        "reggaeton",
+        3
+      ]
+    ]
+  },
   "260b6184-8828-48eb-945c-bc4cb6fc34ca": {
     "name": "Charli xcx",
     "source": "lastfm",
@@ -1794,6 +1840,52 @@
       [
         "pop",
         1
+      ]
+    ]
+  },
+  "30aeb57f-bb16-47fa-86ca-79fc57b4d12c": {
+    "name": "LISA",
+    "source": "lastfm",
+    "tags": [
+      [
+        "j-pop",
+        100
+      ],
+      [
+        "japanese",
+        80
+      ],
+      [
+        "female vocalists",
+        38
+      ],
+      [
+        "pop",
+        30
+      ],
+      [
+        "hip-hop",
+        14
+      ],
+      [
+        "k-pop",
+        13
+      ],
+      [
+        "j-rock",
+        11
+      ],
+      [
+        "blackpink",
+        3
+      ],
+      [
+        "kpop",
+        3
+      ],
+      [
+        "anime",
+        3
       ]
     ]
   },
