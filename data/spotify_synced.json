@@ -1,5 +1,10 @@
 {
   "keep": {
+    "spotify:track:0BK6ACxpzK8nkWa3YKuunX": {
+      "artist": "Chris Lorenzo",
+      "broadcast": "2026-10-14",
+      "title": "Fancy Footwork"
+    },
     "spotify:track:1VWiDyYTrqQhhmnWANWkFa": {
       "artist": "LISA",
       "broadcast": "2026-10-12",
@@ -20,10 +25,10 @@
       "broadcast": "2026-10-06",
       "title": "Fire In The Booth"
     },
-    "spotify:track:1yYyQax7DEmA6ZSfsvOxj5": {
-      "artist": "Basht.",
-      "broadcast": "2026-10-12",
-      "title": "Kids vs. Guns"
+    "spotify:track:2KMVizTVC3iUOcG6il4lBr": {
+      "artist": "untitled (halo)",
+      "broadcast": "2026-10-14",
+      "title": "sex"
     },
     "spotify:track:2dDDh0yUOWgdgzZsYxAbDj": {
       "artist": "overpass",
@@ -34,16 +39,6 @@
       "artist": "Bicep",
       "broadcast": "2026-10-12",
       "title": "Air"
-    },
-    "spotify:track:3Vv6jWPmzKXlaoKsVwNM0O": {
-      "artist": "Grimes",
-      "broadcast": "2026-10-13",
-      "title": "ACCELERANDO"
-    },
-    "spotify:track:3aIGNjFJPjrGpe24OFMSUH": {
-      "artist": "ROSALÍA",
-      "broadcast": "2026-10-12",
-      "title": "Focu 'Ranni"
     },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
@@ -65,16 +60,6 @@
       "broadcast": "2026-10-12",
       "title": "F.A.M.O.U.S"
     },
-    "spotify:track:4dcIixtgEW2bs2RapmQlQ3": {
-      "artist": "Quavo",
-      "broadcast": "2026-10-13",
-      "title": "BA"
-    },
-    "spotify:track:4mJtdc1xi7VN8Tn7c2aKvI": {
-      "artist": "Tiffany Day",
-      "broadcast": "2026-10-13",
-      "title": "American Girl"
-    },
     "spotify:track:5KJwFcJc0m1u4F8mVkwT5Y": {
       "artist": "Slayyyter",
       "broadcast": "2026-10-12",
@@ -87,18 +72,13 @@
     },
     "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i": {
       "artist": "Fontaines D.C.",
-      "broadcast": "2026-10-13",
+      "broadcast": "2026-10-14",
       "title": "Where Is Gone?"
     },
     "spotify:track:7GqH8twcRE7WSW8Wqyinem": {
       "artist": "Bleech 9:3",
       "broadcast": "2026-10-01",
       "title": "Canonball"
-    },
-    "spotify:track:7zJxlGeNQU0ABxIifFTStj": {
-      "artist": "Tiffany Day",
-      "broadcast": "2026-10-13",
-      "title": "MEANT TO BE"
     }
   },
   "review": {

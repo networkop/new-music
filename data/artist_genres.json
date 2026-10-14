@@ -5736,6 +5736,52 @@
       ]
     ]
   },
+  "6df684dc-704e-4bd3-8abb-e2f89260fe8e": {
+    "name": "Say Now",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "pop",
+        56
+      ],
+      [
+        "british",
+        17
+      ],
+      [
+        "dance",
+        17
+      ],
+      [
+        "girl groups",
+        8
+      ],
+      [
+        "electropop",
+        2
+      ],
+      [
+        "electronic",
+        2
+      ],
+      [
+        "dance pop",
+        1
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "girl group",
+        1
+      ]
+    ]
+  },
   "6e5c1366-5891-4e01-bb13-6c8b2c8cdd35": {
     "name": "MJ Cole",
     "source": "lastfm",

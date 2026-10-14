@@ -1,0 +1,992 @@
+{
+  "pid": "m0032hll",
+  "broadcast_start": "2026-10-14T18:00:00+01:00",
+  "schedule_date": "2026-10-14",
+  "title": "Rex Orange County Hottest Record",
+  "tracks": [
+    {
+      "artist": "Kingfishr",
+      "title": "How Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc40bx",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "How Lonely",
+        "track_number": null,
+        "publisher": "B-Unique Music",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c96f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "How Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "title": "Summer Clothes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4djn",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p012ddn4",
+          "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1",
+          "name": "Michael Kiwanuka"
+        },
+        "artist": "Michael Kiwanuka",
+        "track_title": "Summer Clothes",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cfdb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012ddn4",
+            "name": "Michael Kiwanuka",
+            "role": "Performer",
+            "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+          }
+        ],
+        "title": "Summer Clothes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "10/10",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p07nc5b2",
+        "duration": 144,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "10/10",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n5vnwz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "10/10",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Too Cute To Be Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd854b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "Too Cute To Be Lonely",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cx66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "Too Cute To Be Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Stone Fruit",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcc4mg",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Stone Fruit",
+        "track_number": null,
+        "publisher": "Kobalt",
+        "record_label": "BAUM music",
+        "release_title": null,
+        "record_id": "n9c9vd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Stone Fruit",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Victoria Monét",
+      "title": "See You In My Dreams",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4h2t",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p054xmtv",
+          "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd",
+          "name": "Victoria Monét"
+        },
+        "artist": "Victoria Monét",
+        "track_title": "See You In My Dreams",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cwz4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p054xmtv",
+            "name": "Victoria Monét",
+            "role": "Performer",
+            "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "See You In My Dreams",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Well Done Kid, You Did It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g8sc",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Well Done Kid, You Did It",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9bw9j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Well Done Kid, You Did It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Loving Is Easy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p05kmsz8",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Loving Is Easy",
+        "track_number": null,
+        "publisher": "Universal Publishing Worldwide",
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n4hp8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "Loving Is Easy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Hannah Montana",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgp55d",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Hannah Montana",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9dzxc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "Hannah Montana",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "One Song Away From Crying",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p36ds0",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "One Song Away From Crying",
+        "track_number": null,
+        "publisher": "Beachbreak publishing",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9rwn2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "One Song Away From Crying",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "MEANT TO BE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghml9",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "MEANT TO BE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n9dz4r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p09jlr02",
+            "name": "glaive",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "fd36f43e-5bd1-488e-b844-0e059250ef78"
+          }
+        ],
+        "title": "MEANT TO BE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Dead Company",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9fqb",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Dead Company",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cw94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Dead Company",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Heart & Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf43k2",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0pf43k6",
+          "musicbrainz_gid": null,
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Heart & Soul",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9chmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf43k6",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Heart & Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chris Lorenzo",
+      "title": "Fancy Footwork",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj8bt",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p01kd4t0",
+          "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f",
+          "name": "Chris Lorenzo"
+        },
+        "artist": "Chris Lorenzo",
+        "track_title": "Fancy Footwork",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "TURBO BLANCO",
+        "release_title": null,
+        "record_id": "n9cxgd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kd4t0",
+            "name": "Chris Lorenzo",
+            "role": "Performer",
+            "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f"
+          },
+          {
+            "pid": "p012d87c",
+            "name": "Chromeo",
+            "role": "Performer",
+            "musicbrainz_gid": "647221d0-f6b1-4e03-924c-c59b8059536f"
+          }
+        ],
+        "title": "Fancy Footwork",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Melatonin",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55hht",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Melatonin",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Nice Life/Atlantic",
+        "release_title": "Melatonin",
+        "record_id": "n9b8jh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Melatonin",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Conducta",
+      "title": "CASH",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbd13c",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p01qzv76",
+          "musicbrainz_gid": "8c9f8c4b-ab6b-42e4-aed0-e7a366c8eade",
+          "name": "Conducta"
+        },
+        "artist": "Conducta",
+        "track_title": "CASH",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Conducta",
+        "release_title": null,
+        "record_id": "n9c6r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01qzv76",
+            "name": "Conducta",
+            "role": "Performer",
+            "musicbrainz_gid": "8c9f8c4b-ab6b-42e4-aed0-e7a366c8eade"
+          },
+          {
+            "pid": "p0pgphg7",
+            "name": "Jordeaux",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "CASH",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JENNIE",
+      "title": "Fallen Angel",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5589",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p06zwxc9",
+          "musicbrainz_gid": "779351de-0da5-4943-928b-495a3c40e8c0",
+          "name": "JENNIE"
+        },
+        "artist": "JENNIE",
+        "track_title": "Fallen Angel",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bqfx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwxc9",
+            "name": "JENNIE",
+            "role": "Performer",
+            "musicbrainz_gid": "779351de-0da5-4943-928b-495a3c40e8c0"
+          }
+        ],
+        "title": "Fallen Angel",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "After",
+      "title": "Snowburn",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcy05l",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p0mkx1df",
+          "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31",
+          "name": "After"
+        },
+        "artist": "After",
+        "track_title": "Snowburn",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom + Pop",
+        "release_title": null,
+        "record_id": "n9cd6b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mkx1df",
+            "name": "After",
+            "role": "Performer",
+            "musicbrainz_gid": "fdfad2ff-6b6d-4f94-8a33-295944b2bd31"
+          }
+        ],
+        "title": "Snowburn",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Girl in the Year Above",
+      "title": "Wet Paint",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcs7vc",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p0n76hnd",
+          "musicbrainz_gid": "e115f2cd-e4d3-465d-bcca-5d4f568e654f",
+          "name": "Girl in the Year Above"
+        },
+        "artist": "Girl in the Year Above",
+        "track_title": "Wet Paint",
+        "track_number": null,
+        "publisher": "BMG Rights Management",
+        "record_label": "Transgressive",
+        "release_title": null,
+        "record_id": "n99jgf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n76hnd",
+            "name": "Girl in the Year Above",
+            "role": "Performer",
+            "musicbrainz_gid": "e115f2cd-e4d3-465d-bcca-5d4f568e654f"
+          }
+        ],
+        "title": "Wet Paint",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Warlord",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9kmp",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Warlord",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Disorder",
+        "release_title": null,
+        "record_id": "n94mb6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          }
+        ],
+        "title": "Warlord",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "untitled (halo)",
+      "title": "sex",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgpl02",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p0ghbj36",
+          "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789",
+          "name": "untitled (halo)"
+        },
+        "artist": "untitled (halo)",
+        "track_title": "sex",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n9cwmp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ghbj36",
+            "name": "untitled (halo)",
+            "role": "Performer",
+            "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789"
+          }
+        ],
+        "title": "sex",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "Over Country",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc4758",
+        "duration": 300,
+        "primary_contributor": {
+          "pid": "p097dwv7",
+          "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+          "name": "Lizzy McAlpine"
+        },
+        "artist": "Lizzy McAlpine",
+        "track_title": "Over Country",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia Records",
+        "release_title": null,
+        "record_id": "n9c8xm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097dwv7",
+            "name": "Lizzy McAlpine",
+            "role": "Performer",
+            "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+          }
+        ],
+        "title": "Over Country",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcc91c",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p01jhp9f",
+          "musicbrainz_gid": "9ffad8aa-b671-4a9a-a527-a95bdaaa0ec4",
+          "name": "Darude"
+        },
+        "artist": "Darude",
+        "track_title": "Sandstorm",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c9vv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01jhp9f",
+            "name": "Darude",
+            "role": "Performer",
+            "musicbrainz_gid": "9ffad8aa-b671-4a9a-a527-a95bdaaa0ec4"
+          },
+          {
+            "pid": "p014rdgk",
+            "name": "Dimension",
+            "role": "Remix Artist",
+            "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3"
+          }
+        ],
+        "title": "Sandstorm",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Say Now",
+      "title": "Met My Match",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc4jl0",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0gjrqc4",
+          "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e",
+          "name": "Say Now"
+        },
+        "artist": "Say Now",
+        "track_title": "Met My Match",
+        "track_number": null,
+        "publisher": "Amlor Music",
+        "record_label": "Warner Music UK Limited",
+        "release_title": null,
+        "record_id": "n9c9p8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gjrqc4",
+            "name": "Say Now",
+            "role": "Performer",
+            "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e"
+          }
+        ],
+        "title": "Met My Match",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "NEVER ENOUGH (Radio 1s Live Lounge, 14th Oct 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgln4y",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "NEVER ENOUGH (Radio 1s Live Lounge, 14th Oct 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dzcj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p0pgpnqv",
+            "name": "Debbie",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "NEVER ENOUGH (Radio 1s Live Lounge, 14th Oct 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Where Is Gone?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbmzb",
+        "duration": 313,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Where Is Gone?",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9cmgv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          },
+          {
+            "pid": "p062kbbl",
+            "name": "ROSALÍA",
+            "role": "Performer",
+            "musicbrainz_gid": "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+          }
+        ],
+        "title": "Where Is Gone?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

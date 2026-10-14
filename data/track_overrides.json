@@ -209,6 +209,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "I Could Be Madonna"
   },
+  "basht.|||kids vs. guns": {
+    "artist": "Basht.",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Kids vs. Guns"
+  },
   "basht.|||terror tv": {
     "artist": "Basht.",
     "category": "manual",
@@ -1034,6 +1041,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "What If It's Right?"
+  },
+  "grimes|||accelerando": {
+    "artist": "Grimes",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "ACCELERANDO"
   },
   "gurriers|||nothing happens twice": {
     "artist": "Gurriers",
@@ -1966,6 +1980,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Free Your Mind"
   },
+  "quavo|||ba": {
+    "artist": "Quavo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "BA"
+  },
   "queens of the stone age|||easy street": {
     "artist": "Queens of the Stone Age",
     "category": "manual",
@@ -2070,6 +2091,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Joy"
+  },
+  "rosalía|||focu 'ranni": {
+    "artist": "ROSALÍA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Focu 'Ranni"
   },
   "rose gray|||blink twice": {
     "artist": "Rose Gray",
@@ -2477,12 +2505,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "SIREN"
   },
+  "tiffany day|||american girl": {
+    "artist": "Tiffany Day",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "American Girl"
+  },
   "tiffany day|||constantly": {
     "artist": "Tiffany Day",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "CONSTANTLY"
+  },
+  "tiffany day|||meant to be": {
+    "artist": "Tiffany Day",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "MEANT TO BE"
   },
   "tinashe|||crash out": {
     "artist": "Tinashe",
