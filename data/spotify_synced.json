@@ -25,10 +25,20 @@
       "broadcast": "2026-10-12",
       "title": "Kids vs. Guns"
     },
+    "spotify:track:2dDDh0yUOWgdgzZsYxAbDj": {
+      "artist": "overpass",
+      "broadcast": "2026-10-13",
+      "title": "Fall In Love"
+    },
     "spotify:track:2infXICqVSUM3bbGSOgFOY": {
       "artist": "Bicep",
       "broadcast": "2026-10-12",
       "title": "Air"
+    },
+    "spotify:track:3Vv6jWPmzKXlaoKsVwNM0O": {
+      "artist": "Grimes",
+      "broadcast": "2026-10-13",
+      "title": "ACCELERANDO"
     },
     "spotify:track:3aIGNjFJPjrGpe24OFMSUH": {
       "artist": "ROSALÍA",
@@ -37,7 +47,7 @@
     },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
-      "broadcast": "2026-10-06",
+      "broadcast": "2026-10-13",
       "title": "Roses"
     },
     "spotify:track:4J4pysp2EFNhYibI8tIg0D": {
@@ -50,15 +60,20 @@
       "broadcast": "2026-10-01",
       "title": "Machine"
     },
-    "spotify:track:4TCzyYDyqYbLlNC1Z8Ewiu": {
-      "artist": "Cloonee",
-      "broadcast": "2026-10-12",
-      "title": "Paradise"
-    },
     "spotify:track:4cLzHSqYaxcw8qVFV2xlGY": {
       "artist": "South Arcade",
       "broadcast": "2026-10-12",
       "title": "F.A.M.O.U.S"
+    },
+    "spotify:track:4dcIixtgEW2bs2RapmQlQ3": {
+      "artist": "Quavo",
+      "broadcast": "2026-10-13",
+      "title": "BA"
+    },
+    "spotify:track:4mJtdc1xi7VN8Tn7c2aKvI": {
+      "artist": "Tiffany Day",
+      "broadcast": "2026-10-13",
+      "title": "American Girl"
     },
     "spotify:track:5KJwFcJc0m1u4F8mVkwT5Y": {
       "artist": "Slayyyter",
@@ -72,14 +87,25 @@
     },
     "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i": {
       "artist": "Fontaines D.C.",
-      "broadcast": "2026-10-12",
+      "broadcast": "2026-10-13",
       "title": "Where Is Gone?"
     },
     "spotify:track:7GqH8twcRE7WSW8Wqyinem": {
       "artist": "Bleech 9:3",
       "broadcast": "2026-10-01",
       "title": "Canonball"
+    },
+    "spotify:track:7zJxlGeNQU0ABxIifFTStj": {
+      "artist": "Tiffany Day",
+      "broadcast": "2026-10-13",
+      "title": "MEANT TO BE"
     }
   },
-  "review": {}
+  "review": {
+    "spotify:track:0Rxs96nQeboThWCNzP4H0c": {
+      "artist": "Remi Wolf",
+      "broadcast": "2026-10-13",
+      "title": "Champagne"
+    }
+  }
 }

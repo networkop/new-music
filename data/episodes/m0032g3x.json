@@ -1,0 +1,1082 @@
+{
+  "pid": "m0032g3x",
+  "broadcast_start": "2026-10-13T18:00:00+01:00",
+  "schedule_date": "2026-10-13",
+  "title": "Tiffany Day and Blondshell",
+  "tracks": [
+    {
+      "artist": "Anderson .Paak",
+      "title": "A Good Day",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb11j3",
+        "duration": 150,
+        "primary_contributor": {
+          "pid": "p0246xtn",
+          "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+          "name": "Anderson .Paak"
+        },
+        "artist": "Anderson .Paak",
+        "track_title": "A Good Day",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Empire / Mass Appeal",
+        "release_title": null,
+        "record_id": "n9c5n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          },
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          }
+        ],
+        "title": "A Good Day",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "Waist 36 Leg 32",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfhy7c",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "Waist 36 Leg 32",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cwmn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "Waist 36 Leg 32",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "CONSTANTLY",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ntpzhw",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "CONSTANTLY",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n99gmw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p0nthnwm",
+            "name": "slayr",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "cfa0e221-4717-4281-bff3-46c88d45bf93"
+          }
+        ],
+        "title": "CONSTANTLY",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Lucky [Hymn]",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p90jl6",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Lucky [Hymn]",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9czvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Lucky [Hymn]",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "Party",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc2055",
+        "duration": 153,
+        "primary_contributor": {
+          "pid": "p023qjwv",
+          "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "name": "Troye Sivan"
+        },
+        "artist": "Troye Sivan",
+        "track_title": "Party",
+        "track_number": null,
+        "publisher": "Songs Of Universal, Inc. (BMI), EMI April Music Inc., Bob Ochoa’s Homemade Salsa, Sony/ATV Songs LLC (BMI), Sony/ATV Tunes LLC (ASCAP), UMPG / APRA (BMI), MXM Music (adm. by Warner Chappell Music SCAN",
+        "record_label": "Tokky’s Music; Interscope",
+        "release_title": null,
+        "record_id": "n9c84q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p023qjwv",
+            "name": "Troye Sivan",
+            "role": "Performer",
+            "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+          }
+        ],
+        "title": "Party",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Celebration",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbslj3",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Celebration",
+        "track_number": null,
+        "publisher": "Peer Music",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9c8p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Celebration",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "On Video",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghlgq",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "On Video",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "A24 Music",
+        "release_title": null,
+        "record_id": "n9cdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "On Video",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "American Girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghm1d",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "American Girl",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n9dz49",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          }
+        ],
+        "title": "American Girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "MEANT TO BE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghml9",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "MEANT TO BE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n9dz4r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p09jlr02",
+            "name": "glaive",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "fd36f43e-5bd1-488e-b844-0e059250ef78"
+          }
+        ],
+        "title": "MEANT TO BE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "10/10",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p07nc5b2",
+        "duration": 144,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "10/10",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n5vnwz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "10/10",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Where Is Gone?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbmzb",
+        "duration": 313,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Where Is Gone?",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9cmgv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          },
+          {
+            "pid": "p062kbbl",
+            "name": "ROSALÍA",
+            "role": "Performer",
+            "musicbrainz_gid": "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+          }
+        ],
+        "title": "Where Is Gone?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pby453",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9c8hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Quavo",
+      "title": "BA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghq3k",
+        "duration": 149,
+        "primary_contributor": {
+          "pid": "p02r5j7w",
+          "musicbrainz_gid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+          "name": "Quavo"
+        },
+        "artist": "Quavo",
+        "track_title": "BA",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Quality Control Music/Motown Records",
+        "release_title": null,
+        "record_id": "n9cjz5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02r5j7w",
+            "name": "Quavo",
+            "role": "Performer",
+            "musicbrainz_gid": "6143403a-df6c-429e-8ee6-ef869896b0da"
+          },
+          {
+            "pid": "p018lzcv",
+            "name": "Future",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "48262e82-db9f-4a92-b650-dfef979b73ec"
+          }
+        ],
+        "title": "BA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Innocent Smile",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb7vkh",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Innocent Smile",
+        "track_number": null,
+        "publisher": "Sony Music Publishing (MCPS/BIEM) / Universal Music Publishing",
+        "record_label": "Sony",
+        "release_title": null,
+        "record_id": "n9c5cn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          },
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          }
+        ],
+        "title": "Innocent Smile",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Grimes",
+      "title": "ACCELERANDO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghrdk",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p012dskw",
+          "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+          "name": "Grimes"
+        },
+        "artist": "Grimes",
+        "track_title": "ACCELERANDO",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Eternal Recurrence",
+        "release_title": "ACCELERANDO",
+        "record_id": "n9cmhv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dskw",
+            "name": "Grimes",
+            "role": "Performer",
+            "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222"
+          },
+          {
+            "pid": "p0pgc1tg",
+            "name": "VADAKIN",
+            "role": "Performer",
+            "musicbrainz_gid": "9ff09fe5-22e5-4c4f-b6e2-bc7899f8ac54"
+          }
+        ],
+        "title": "ACCELERANDO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CA7RIEL & Paco Amoroso",
+      "title": "Sexy Magic",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd1qvz",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p0pccq67",
+          "musicbrainz_gid": "ce106ca8-401d-4860-ace3-dbc3a204bb86",
+          "name": "CA7RIEL & Paco Amoroso"
+        },
+        "artist": "CA7RIEL & Paco Amoroso",
+        "track_title": "Sexy Magic",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cdg6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pccq67",
+            "name": "CA7RIEL & Paco Amoroso",
+            "role": "Performer",
+            "musicbrainz_gid": "ce106ca8-401d-4860-ace3-dbc3a204bb86"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Performer",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          },
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p01k3ljm",
+            "name": "Étienne de Crécy",
+            "role": "Performer",
+            "musicbrainz_gid": "f174152d-da33-46bd-8cb4-c8d24b834bf7"
+          }
+        ],
+        "title": "Sexy Magic",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Champagne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghtqk",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Champagne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cmh6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Champagne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sasha Keable",
+      "title": "Options",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdjg4p",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p01b0q34",
+          "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+          "name": "Sasha Keable"
+        },
+        "artist": "Sasha Keable",
+        "track_title": "Options",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cxh2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01b0q34",
+            "name": "Sasha Keable",
+            "role": "Performer",
+            "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717"
+          }
+        ],
+        "title": "Options",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Heart Has To Work So Hard (Radio 1 Session, 10 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghvl8",
+        "duration": 201,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Heart Has To Work So Hard (Radio 1 Session, 10 Sept 2026)",
+        "track_number": null,
+        "publisher": "Baum Music LLC (BMI), Administered by Kobalt Songs Music Publishing",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dz4m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Heart Has To Work So Hard (Radio 1 Session, 10 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Violins (Radio 1 Session, 10 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghvy5",
+        "duration": 256,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Violins (Radio 1 Session, 10 Sept 2026)",
+        "track_number": null,
+        "publisher": "Baum Music LLC (BMI), Administered by Kobalt Songs Music Publishing",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dz5z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Violins (Radio 1 Session, 10 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Damaged Goods (Radio 1 Session, 10 Sept 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghwrq",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p0cnv44c",
+          "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+          "name": "Blondshell"
+        },
+        "artist": "Blondshell",
+        "track_title": "Damaged Goods (Radio 1 Session, 10 Sept 2026)",
+        "track_number": null,
+        "publisher": "BMG Firefly, Warner Chappell",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dz55",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cnv44c",
+            "name": "Blondshell",
+            "role": "Performer",
+            "musicbrainz_gid": "f6621a8d-5644-460a-b0a8-9171cb2c595d"
+          }
+        ],
+        "title": "Damaged Goods (Radio 1 Session, 10 Sept 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Tourniquet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj51m",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "Tourniquet",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cxgr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "Tourniquet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Thundercat",
+      "title": "Moving At Light Speed",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfj93l",
+        "duration": 105,
+        "primary_contributor": {
+          "pid": "p012dsks",
+          "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+          "name": "Thundercat"
+        },
+        "artist": "Thundercat",
+        "track_title": "Moving At Light Speed",
+        "track_number": null,
+        "publisher": "Universal Music Group / VGM JAZZ / ASCAP",
+        "record_label": "Universal Music Group",
+        "release_title": null,
+        "record_id": "n9cwm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dsks",
+            "name": "Thundercat",
+            "role": "Performer",
+            "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17"
+          }
+        ],
+        "title": "Moving At Light Speed",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "SUNSHINE BENZI",
+      "title": "Barracuda",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9x1d",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p0mxhzht",
+          "musicbrainz_gid": "332e27d6-7ff0-4d15-adb9-26a5d03a82b8",
+          "name": "SUNSHINE BENZI"
+        },
+        "artist": "SUNSHINE BENZI",
+        "track_title": "Barracuda",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cwrb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mxhzht",
+            "name": "SUNSHINE BENZI",
+            "role": "Performer",
+            "musicbrainz_gid": "332e27d6-7ff0-4d15-adb9-26a5d03a82b8"
+          }
+        ],
+        "title": "Barracuda",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wishy",
+      "title": "Mona Lisa",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9mhhk",
+        "duration": 271,
+        "primary_contributor": {
+          "pid": "p0gpp6ss",
+          "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42",
+          "name": "Wishy"
+        },
+        "artist": "Wishy",
+        "track_title": "Mona Lisa",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Winspear",
+        "release_title": null,
+        "record_id": "n9c4n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gpp6ss",
+            "name": "Wishy",
+            "role": "Performer",
+            "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42"
+          }
+        ],
+        "title": "Mona Lisa",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "overpass",
+      "title": "Fall In Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcs7dt",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0hpf33m",
+          "musicbrainz_gid": "cd7eb80d-62d2-4a1d-873d-75def34ea583",
+          "name": "overpass"
+        },
+        "artist": "overpass",
+        "track_title": "Fall In Love",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c9z4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0hpf33m",
+            "name": "overpass",
+            "role": "Performer",
+            "musicbrainz_gid": "cd7eb80d-62d2-4a1d-873d-75def34ea583"
+          },
+          {
+            "pid": "p0dbjfyz",
+            "name": "Nieve Ella",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0d351b4b-7986-4fd2-ac7f-40fdf2a34c71"
+          }
+        ],
+        "title": "Fall In Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Paris Paloma",
+      "title": "Silhouette on the Hill",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7vrjw",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p0fcrk59",
+          "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2",
+          "name": "Paris Paloma"
+        },
+        "artist": "Paris Paloma",
+        "track_title": "Silhouette on the Hill",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Nettwerk Music Group",
+        "release_title": null,
+        "record_id": "n9bj5x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fcrk59",
+            "name": "Paris Paloma",
+            "role": "Performer",
+            "musicbrainz_gid": "2ba1af4b-9d6b-4a0a-af47-f00769700da2"
+          }
+        ],
+        "title": "Silhouette on the Hill",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skream & Benga",
+      "title": "Gameshow",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfs24q",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0nhx9hm",
+          "musicbrainz_gid": "7d1b9874-4f8c-4481-81db-6fefe7f58627",
+          "name": "Skream & Benga"
+        },
+        "artist": "Skream & Benga",
+        "track_title": "Gameshow",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cwn6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nhx9hm",
+            "name": "Skream & Benga",
+            "role": "Performer",
+            "musicbrainz_gid": "7d1b9874-4f8c-4481-81db-6fefe7f58627"
+          }
+        ],
+        "title": "Gameshow",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

@@ -629,6 +629,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Good Girl"
   },
+  "cloonee|||paradise": {
+    "artist": "Cloonee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Paradise"
+  },
   "coco jones|||body so tea": {
     "artist": "Coco Jones",
     "category": "manual",
