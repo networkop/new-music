@@ -601,6 +601,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "The One"
   },
+  "chris lorenzo|||fancy footwork": {
+    "artist": "Chris Lorenzo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Fancy Footwork"
+  },
   "chris stassy|||u know me": {
     "artist": "CHRIS STASSY",
     "category": "manual",
@@ -957,6 +964,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "In My Victoria's Secret"
+  },
+  "fontaines d.c.|||here's the thing": {
+    "artist": "Fontaines D.C.",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Here's The Thing"
   },
   "fontaines d.c.|||marianne": {
     "artist": "Fontaines D.C.",

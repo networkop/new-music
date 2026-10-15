@@ -1,0 +1,1094 @@
+{
+  "pid": "m0032hsc",
+  "broadcast_start": "2026-10-15T18:00:00+01:00",
+  "schedule_date": "2026-10-15",
+  "title": "Rachel Chinouriri Hottest Record",
+  "tracks": [
+    {
+      "artist": "Dominic Fike",
+      "title": "Wallflower",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7ds62",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "Wallflower",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "COLUMBIA",
+        "release_title": null,
+        "record_id": "n9bwpv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "Wallflower",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "i think he's got a girl",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pftzmx",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "i think he's got a girl",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Records/Columbia Records",
+        "release_title": null,
+        "record_id": "n9cvp5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "i think he's got a girl",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Justice",
+      "title": "Flower In A Hurricane",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgvtnn",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p012d8f5",
+          "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+          "name": "Justice"
+        },
+        "artist": "Justice",
+        "track_title": "Flower In A Hurricane",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dn95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8f5",
+            "name": "Justice",
+            "role": "Performer",
+            "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          },
+          {
+            "pid": "p03vwrdf",
+            "name": "Tame Impala",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+          },
+          {
+            "pid": "p01prxjs",
+            "name": "King Gizzard & the Lizard Wizard",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+          }
+        ],
+        "title": "Flower In A Hurricane",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "All I Ever Asked",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0kwpvbk",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "All I Ever Asked",
+        "track_number": "1",
+        "publisher": "FARAINASHE B LIMITED,RMM 416 PUBLISHING,RESERVOIR MEDIA MANAGEMENT (UK) LIMITED,VERDIGRIS PUBLISHING,KOBALT MUSIC SERVICES LTD,KOBALT MUSIC PUBLISHING LTD,TIM & DANNY MUSIC LLC,DOWNTOWN DLJ SONGS,DOWN",
+        "record_label": "Parlophone UK",
+        "release_title": "All I Ever Asked",
+        "record_id": "np65m8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "All I Ever Asked",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "I Can't Be High Around You Anymore",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxt7r",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "I Can't Be High Around You Anymore",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9bq3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "I Can't Be High Around You Anymore",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Odeal",
+      "title": "After The Club",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxv4r",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "After The Club",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LVRN Records",
+        "release_title": null,
+        "record_id": "n9bn3m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          }
+        ],
+        "title": "After The Club",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Be Happy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd88qr",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Be Happy",
+        "track_number": null,
+        "publisher": "Universal Music Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9c85h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Be Happy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "One Song Away From Crying",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p36ds0",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "One Song Away From Crying",
+        "track_number": null,
+        "publisher": "Beachbreak publishing",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9rwn2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "One Song Away From Crying",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "Pretty Girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxwz2",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "Pretty Girls",
+        "track_number": null,
+        "publisher": "Reservoir, APOB (ASCAP)",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9dncr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "Pretty Girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ANOTR",
+      "title": "Talk To You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n4y78q",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p03s23z8",
+          "musicbrainz_gid": "5f3be62e-d166-453e-a3ea-07b9227fafae",
+          "name": "ANOTR"
+        },
+        "artist": "ANOTR",
+        "track_title": "Talk To You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "No Art",
+        "release_title": null,
+        "record_id": "n96r85",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03s23z8",
+            "name": "ANOTR",
+            "role": "Performer",
+            "musicbrainz_gid": "5f3be62e-d166-453e-a3ea-07b9227fafae"
+          },
+          {
+            "pid": "p0l33v8s",
+            "name": "54 Ultra",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6f4926ae-865e-483b-86f9-9ae3b9584507"
+          }
+        ],
+        "title": "Talk To You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Josh Baker",
+      "title": "Back It Up",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0l1221d",
+        "duration": 138,
+        "primary_contributor": {
+          "pid": "p0jjtkgs",
+          "musicbrainz_gid": "ec4f15e9-0a88-41d4-b73a-9dd972ba8843",
+          "name": "Josh Baker"
+        },
+        "artist": "Josh Baker",
+        "track_title": "Back It Up",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Three Six Zero",
+        "release_title": null,
+        "record_id": "n8wv2n",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jjtkgs",
+            "name": "Josh Baker",
+            "role": "Performer",
+            "musicbrainz_gid": "ec4f15e9-0a88-41d4-b73a-9dd972ba8843"
+          },
+          {
+            "pid": "p0l33cpd",
+            "name": "Omar+",
+            "role": "Performer",
+            "musicbrainz_gid": "91d7f956-3721-4c53-9035-f3aad3ae415a"
+          }
+        ],
+        "title": "Back It Up",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Hannah Montana",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgp55d",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Hannah Montana",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9dzxc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "Hannah Montana",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Spiritbox",
+      "title": "Mourning",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9n09w",
+        "duration": 256,
+        "primary_contributor": {
+          "pid": "p08n6f88",
+          "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061",
+          "name": "Spiritbox"
+        },
+        "artist": "Spiritbox",
+        "track_title": "Mourning",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c458",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08n6f88",
+            "name": "Spiritbox",
+            "role": "Performer",
+            "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061"
+          }
+        ],
+        "title": "Mourning",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Swallow The Bomb",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbtbm7",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Swallow The Bomb",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9c6fb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Swallow The Bomb",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "Party",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbrhp4",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p023qjwv",
+          "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "name": "Troye Sivan"
+        },
+        "artist": "Troye Sivan",
+        "track_title": "Party",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Interscope",
+        "release_title": null,
+        "record_id": "n9c84q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p023qjwv",
+            "name": "Troye Sivan",
+            "role": "Performer",
+            "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+          }
+        ],
+        "title": "Party",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "Source Of Life",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfqvc9",
+        "duration": 130,
+        "primary_contributor": {
+          "pid": "p01k5jzx",
+          "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225",
+          "name": "Tove Lo"
+        },
+        "artist": "Tove Lo",
+        "track_title": "Source Of Life",
+        "track_number": null,
+        "publisher": "Wolf Cousins",
+        "record_label": "Tove Lo",
+        "release_title": null,
+        "record_id": "n9c9p5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01k5jzx",
+            "name": "Tove Lo",
+            "role": "Performer",
+            "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225"
+          }
+        ],
+        "title": "Source Of Life",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Youths Fountain",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9mdfv",
+        "duration": 236,
+        "primary_contributor": {
+          "pid": "p0p9mdfz",
+          "musicbrainz_gid": null,
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Youths Fountain",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9cnf9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0p9mdfz",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p02pgnv9",
+            "name": "Nilüfer Yanya",
+            "role": "Performer",
+            "musicbrainz_gid": "4173ee0d-e003-496a-98eb-a2eaa90cb3f7"
+          }
+        ],
+        "title": "Youths Fountain",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiana Major9",
+      "title": "alright!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8stgl",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p060jgwb",
+          "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950",
+          "name": "Tiana Major9"
+        },
+        "artist": "Tiana Major9",
+        "track_title": "alright!",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "+1 Records",
+        "release_title": null,
+        "record_id": "n9bxqd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p060jgwb",
+            "name": "Tiana Major9",
+            "role": "Performer",
+            "musicbrainz_gid": "08306f5a-c1de-42a2-8004-a9467fc30950"
+          }
+        ],
+        "title": "alright!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Saint Ludo",
+      "title": "808",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7w91t",
+        "duration": 119,
+        "primary_contributor": {
+          "pid": "p0l94t5k",
+          "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705",
+          "name": "Saint Ludo"
+        },
+        "artist": "Saint Ludo",
+        "track_title": "808",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records Label",
+        "release_title": null,
+        "record_id": "n9bwjf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l94t5k",
+            "name": "Saint Ludo",
+            "role": "Performer",
+            "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705"
+          },
+          {
+            "pid": "p0h6q7ls",
+            "name": "Cap1talA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6c24bc0f-8ce8-4baa-9ded-d977e03ebe8f"
+          }
+        ],
+        "title": "808",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "HAAi",
+      "title": "Talking Walls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy4lv",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p06hxkxm",
+          "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27",
+          "name": "HAAi"
+        },
+        "artist": "HAAi",
+        "track_title": "Talking Walls",
+        "track_number": null,
+        "publisher": "BMG Publishing",
+        "record_label": "Mute Artists",
+        "release_title": null,
+        "record_id": "n9cv8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06hxkxm",
+            "name": "HAAi",
+            "role": "Performer",
+            "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27"
+          },
+          {
+            "pid": "p090wdkl",
+            "name": "Skybreak",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3f2dd37c-0e6d-4624-9524-931b759caa0e"
+          },
+          {
+            "pid": "p0pfw13r",
+            "name": "Cantoalegre",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34a2ee72-fe59-4c10-b492-be2c82c6eb71"
+          }
+        ],
+        "title": "Talking Walls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Poison",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy7xw",
+        "duration": 99,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Poison",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9dncw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Poison",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Where Is Gone?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbmzb",
+        "duration": 313,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Where Is Gone?",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9cmgv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          },
+          {
+            "pid": "p062kbbl",
+            "name": "ROSALÍA",
+            "role": "Performer",
+            "musicbrainz_gid": "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+          }
+        ],
+        "title": "Where Is Gone?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Gangsta",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55jqp",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Gangsta",
+        "track_number": "11",
+        "publisher": "Art For Their Good, Administered by Songs of Kobalt Music Publishing(BMI)/Jesse SJ Music (BMI), Administered by Songs of Kobalt Music Publishing(BMI)/David Charles Marshall Biral Publishing Designee/S",
+        "record_label": "Alta Music Group",
+        "release_title": "Enigma POV",
+        "record_id": "n9b8jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Gangsta",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kanine",
+      "title": "Surrender",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7dl0b",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p059dp00",
+          "musicbrainz_gid": "cfe0e278-18ac-492f-956a-d8c419f53af1",
+          "name": "Kanine"
+        },
+        "artist": "Kanine",
+        "track_title": "Surrender",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "UKF",
+        "release_title": null,
+        "record_id": "n9bwpc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p059dp00",
+            "name": "Kanine",
+            "role": "Performer",
+            "musicbrainz_gid": "cfe0e278-18ac-492f-956a-d8c419f53af1"
+          },
+          {
+            "pid": "p01kmxgl",
+            "name": "Jem Cooke",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "c461d82f-3e88-40d4-80d9-a523f1b34a57"
+          }
+        ],
+        "title": "Surrender",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Heart & Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf43k2",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0pf43k6",
+          "musicbrainz_gid": null,
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Heart & Soul",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9chmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf43k6",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Heart & Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wretch 32",
+      "title": "Fire In The Booth",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p94fdf",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p012dc6x",
+          "musicbrainz_gid": "9a3b2d4a-2da4-49c6-9ab3-c680434dbabf",
+          "name": "Wretch 32"
+        },
+        "artist": "Wretch 32",
+        "track_title": "Fire In The Booth",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n4fmcw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dc6x",
+            "name": "Wretch 32",
+            "role": "Performer",
+            "musicbrainz_gid": "9a3b2d4a-2da4-49c6-9ab3-c680434dbabf"
+          }
+        ],
+        "title": "Fire In The Booth",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "girl in red",
+      "title": "blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgjmq0",
+        "duration": 246,
+        "primary_contributor": {
+          "pid": "p06stnxy",
+          "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+          "name": "girl in red"
+        },
+        "artist": "girl in red",
+        "track_title": "blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cv5w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06stnxy",
+            "name": "girl in red",
+            "role": "Performer",
+            "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0"
+          }
+        ],
+        "title": "blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "KETTAMA",
+      "title": "LOOK OUT FOR ME (KETTAMA VERSION)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p7dt5d",
+        "duration": 280,
+        "primary_contributor": {
+          "pid": "p074zzc3",
+          "musicbrainz_gid": "e457531c-4add-45f0-9998-f65ec53a305c",
+          "name": "KETTAMA"
+        },
+        "artist": "KETTAMA",
+        "track_title": "LOOK OUT FOR ME (KETTAMA VERSION)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Roadrunner Records",
+        "release_title": null,
+        "record_id": "n9bw83",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074zzc3",
+            "name": "KETTAMA",
+            "role": "Performer",
+            "musicbrainz_gid": "e457531c-4add-45f0-9998-f65ec53a305c"
+          },
+          {
+            "pid": "p02m29c8",
+            "name": "Turnstile",
+            "role": "Performer",
+            "musicbrainz_gid": "7b748dac-f5ce-45a7-9b95-c1d8b5b013ed"
+          }
+        ],
+        "title": "LOOK OUT FOR ME (KETTAMA VERSION)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
