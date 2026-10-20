@@ -2153,6 +2153,52 @@
       ]
     ]
   },
+  "329f95db-f02e-40bf-a5f7-0dea11529ce3": {
+    "name": "Enter Shikari",
+    "source": "lastfm",
+    "tags": [
+      [
+        "post-hardcore",
+        100
+      ],
+      [
+        "trancecore",
+        75
+      ],
+      [
+        "nintendocore",
+        26
+      ],
+      [
+        "hardcore",
+        24
+      ],
+      [
+        "screamo",
+        11
+      ],
+      [
+        "electronic",
+        5
+      ],
+      [
+        "british",
+        3
+      ],
+      [
+        "experimental",
+        1
+      ],
+      [
+        "metalcore",
+        1
+      ],
+      [
+        "rock",
+        1
+      ]
+    ]
+  },
   "32a49e9e-2434-49ab-9194-3985d757de40": {
     "name": "Rose Gray",
     "source": "lastfm",
@@ -3294,6 +3340,28 @@
       [
         "usa",
         1
+      ]
+    ]
+  },
+  "464ffa17-1a40-4330-9a27-7a73ffa178de": {
+    "name": "Nippa",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "british",
+        25
+      ],
+      [
+        "uk rnb",
+        16
+      ],
+      [
+        "nme 100",
+        16
       ]
     ]
   },
@@ -13294,6 +13362,52 @@
       ],
       [
         "gangsta rap",
+        1
+      ]
+    ]
+  },
+  "f9133869-f87c-459c-9aa7-2f176cda7e06": {
+    "name": "Tate McRae",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "my top songs",
+        57
+      ],
+      [
+        "canadian",
+        32
+      ],
+      [
+        "electropop",
+        14
+      ],
+      [
+        "canada",
+        4
+      ],
+      [
+        "female vocalists",
+        2
+      ],
+      [
+        "singer-songwriter",
+        1
+      ],
+      [
+        "dancer",
+        1
+      ],
+      [
+        "rutracker",
+        1
+      ],
+      [
+        "electronic",
         1
       ]
     ]

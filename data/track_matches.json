@@ -264,6 +264,16 @@
     "score": 1.0,
     "uri": "spotify:track:2infXICqVSUM3bbGSOgFOY"
   },
+  "bicep|||apricots": {
+    "matched": "BICEP - Apricots",
+    "score": 1.0,
+    "uri": "spotify:track:0WfOuXw05LJq4ik1lVvTzi"
+  },
+  "bicep|||gas": {
+    "matched": "BICEP - Gas",
+    "score": 1.0,
+    "uri": "spotify:track:2XlS3xEvc3YOQi4SSBVU1K"
+  },
   "bicep|||glue": {
     "matched": "BICEP - Glue",
     "score": 1.0,
@@ -388,6 +398,11 @@
     "matched": "BNXN - Frank Sinatra",
     "score": 1.0,
     "uri": "spotify:track:0d7KdxC7iAxRKDjNdx2seP"
+  },
+  "bnxn|||online": {
+    "matched": "BNXN - Online",
+    "score": 1.0,
+    "uri": "spotify:track:5ljTDsyyDKI2xbJOqwOdVU"
   },
   "bonobo|||always on your side": {
     "matched": "Bonobo - Always on Your Side",
@@ -773,6 +788,11 @@
     "matched": "Ecca Vandal - VERTICAL WORLDS",
     "score": 1.0,
     "uri": "spotify:track:0vpUOgjK7BmMv6YE2bnpQA"
+  },
+  "enter shikari|||higher ground": {
+    "matched": "Enter Shikari - Higher Ground",
+    "score": 1.0,
+    "uri": "spotify:track:3EkrGFmgwHesY3alpHzbDf"
   },
   "erick the architect|||no doubt (i'm in love)": {
     "matched": "Erick the Architect - No Doubt (I'm In Love)",
@@ -1314,6 +1334,11 @@
     "score": 1.0,
     "uri": "spotify:track:1Va3leaBTjd9HUGNbuI97i"
   },
+  "john glacier|||lights [instrumental]": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "john summit|||don't believe it": {
     "matched": "John Summit - DON'T BELIEVE IT",
     "score": 1.0,
@@ -1333,6 +1358,11 @@
     "matched": "Josh Baker - My Place",
     "score": 1.0,
     "uri": "spotify:track:06PtUjF9NsdCYLaYag104S"
+  },
+  "josh baker|||souvenir": {
+    "matched": "Josh Baker - Souvenir",
+    "score": 1.0,
+    "uri": "spotify:track:7mFoGLIUn1M7ORFx53eEVa"
   },
   "juls|||cutlass": {
     "matched": null,
@@ -2483,6 +2513,11 @@
     "matched": "SUNSHINE BENZI - Barracuda",
     "score": 1.0,
     "uri": "spotify:track:3636FfXbUZGgGq67xIE73Q"
+  },
+  "tate mcrae|||housewife": {
+    "matched": "Tate McRae - Housewife",
+    "score": 1.0,
+    "uri": "spotify:track:2sFepQNyl1WjpROruP8bJ0"
   },
   "temper city|||reverse psychlogy": {
     "matched": null,

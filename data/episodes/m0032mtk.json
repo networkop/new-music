@@ -1,0 +1,1148 @@
+{
+  "pid": "m0032mtk",
+  "broadcast_start": "2026-10-20T18:00:00+01:00",
+  "schedule_date": "2026-10-20",
+  "title": "Bicep Hottest Record",
+  "tracks": [
+    {
+      "artist": "Tate McRae",
+      "title": "Housewife",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgzqcq",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p07n6t02",
+          "musicbrainz_gid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+          "name": "Tate McRae"
+        },
+        "artist": "Tate McRae",
+        "track_title": "Housewife",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9d26x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07n6t02",
+            "name": "Tate McRae",
+            "role": "Performer",
+            "musicbrainz_gid": "f9133869-f87c-459c-9aa7-2f176cda7e06"
+          }
+        ],
+        "title": "Housewife",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Melatonin",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55hht",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Melatonin",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Nice Life/Atlantic",
+        "release_title": "Melatonin",
+        "record_id": "n9b8jh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Melatonin",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Glue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p09lb2wf",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "Glue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n4xw6x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          }
+        ],
+        "title": "Glue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Heart & Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf43k2",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0pf43k6",
+          "musicbrainz_gid": null,
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Heart & Soul",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9chmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf43k6",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Heart & Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Celebration",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbslj3",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Celebration",
+        "track_number": null,
+        "publisher": "Peer Music",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9c8p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Celebration",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "Party",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc2055",
+        "duration": 153,
+        "primary_contributor": {
+          "pid": "p023qjwv",
+          "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "name": "Troye Sivan"
+        },
+        "artist": "Troye Sivan",
+        "track_title": "Party",
+        "track_number": null,
+        "publisher": "Songs Of Universal, Inc. (BMI), EMI April Music Inc., Bob Ochoa’s Homemade Salsa, Sony/ATV Songs LLC (BMI), Sony/ATV Tunes LLC (ASCAP), UMPG / APRA (BMI), MXM Music (adm. by Warner Chappell Music SCAN",
+        "record_label": "Tokky’s Music; Interscope",
+        "release_title": null,
+        "record_id": "n9c84q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p023qjwv",
+            "name": "Troye Sivan",
+            "role": "Performer",
+            "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+          }
+        ],
+        "title": "Party",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "Pretty Girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxwz2",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "Pretty Girls",
+        "track_number": null,
+        "publisher": "Reservoir, APOB (ASCAP)",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9dncr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "Pretty Girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Apricots",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p08twdy7",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "Apricots",
+        "track_number": null,
+        "publisher": "BMG Rights Management (UK) Ltd, Beating Heart Project, Cellier Editions",
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n6rm4x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          }
+        ],
+        "title": "Apricots",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "GAS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpctk",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "GAS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9d55f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p09ylr6k",
+            "name": "Lauren Duffus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "115e08e4-4679-4678-8675-41ccabb2e5b3"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "GAS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Justice",
+      "title": "Flower In A Hurricane",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxy59",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p012d8f5",
+          "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+          "name": "Justice"
+        },
+        "artist": "Justice",
+        "track_title": "Flower In A Hurricane",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9dn95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8f5",
+            "name": "Justice",
+            "role": "Performer",
+            "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+          },
+          {
+            "pid": "p03vwrdf",
+            "name": "Tame Impala",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+          },
+          {
+            "pid": "p01prxjs",
+            "name": "King Gizzard & the Lizard Wizard",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "Flower In A Hurricane",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Dead Company",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9fqb",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Dead Company",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cw94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Dead Company",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Grimes",
+      "title": "ACCELERANDO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghrdk",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p012dskw",
+          "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+          "name": "Grimes"
+        },
+        "artist": "Grimes",
+        "track_title": "ACCELERANDO",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Eternal Recurrence",
+        "release_title": "ACCELERANDO",
+        "record_id": "n9cmhv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dskw",
+            "name": "Grimes",
+            "role": "Performer",
+            "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222"
+          },
+          {
+            "pid": "p0pgc1tg",
+            "name": "VADAKIN",
+            "role": "Performer",
+            "musicbrainz_gid": "9ff09fe5-22e5-4c4f-b6e2-bc7899f8ac54"
+          }
+        ],
+        "title": "ACCELERANDO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "crank 2",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9y8bk",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "crank 2",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9c5np",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "crank 2",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "Source Of Life",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfqvc9",
+        "duration": 130,
+        "primary_contributor": {
+          "pid": "p01k5jzx",
+          "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225",
+          "name": "Tove Lo"
+        },
+        "artist": "Tove Lo",
+        "track_title": "Source Of Life",
+        "track_number": null,
+        "publisher": "Wolf Cousins",
+        "record_label": "Tove Lo",
+        "release_title": null,
+        "record_id": "n9c9p5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01k5jzx",
+            "name": "Tove Lo",
+            "role": "Performer",
+            "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225"
+          }
+        ],
+        "title": "Source Of Life",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "BNXN",
+      "title": "Online",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phphs0",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p0cy9ykp",
+          "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9",
+          "name": "BNXN"
+        },
+        "artist": "BNXN",
+        "track_title": "Online",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EMPIRE RECORDS",
+        "release_title": null,
+        "record_id": "n9c5dn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cy9ykp",
+            "name": "BNXN",
+            "role": "Performer",
+            "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9"
+          }
+        ],
+        "title": "Online",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "John Glacier",
+      "title": "Lights",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbsny",
+        "duration": 133,
+        "primary_contributor": {
+          "pid": "p07m32f2",
+          "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d",
+          "name": "John Glacier"
+        },
+        "artist": "John Glacier",
+        "track_title": "Lights",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Young Records",
+        "release_title": null,
+        "record_id": "n9cw9w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Performer",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Lights",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "John Glacier",
+      "title": "Lights [instrumental]",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgj665",
+        "duration": 137,
+        "primary_contributor": {
+          "pid": "p07m32f2",
+          "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d",
+          "name": "John Glacier"
+        },
+        "artist": "John Glacier",
+        "track_title": "Lights [instrumental]",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dzpj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07m32f2",
+            "name": "John Glacier",
+            "role": "Performer",
+            "musicbrainz_gid": "34ebe14b-113c-4004-9625-77cb6b13b27d"
+          }
+        ],
+        "title": "Lights [instrumental]",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Thundercat",
+      "title": "Moving At Light Speed",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfj93l",
+        "duration": 105,
+        "primary_contributor": {
+          "pid": "p012dsks",
+          "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+          "name": "Thundercat"
+        },
+        "artist": "Thundercat",
+        "track_title": "Moving At Light Speed",
+        "track_number": null,
+        "publisher": "Universal Music Group / VGM JAZZ / ASCAP",
+        "record_label": "Universal Music Group",
+        "release_title": null,
+        "record_id": "n9cwm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dsks",
+            "name": "Thundercat",
+            "role": "Performer",
+            "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17"
+          }
+        ],
+        "title": "Moving At Light Speed",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Tongue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd7tb7",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Tongue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL RECORDINGS",
+        "release_title": null,
+        "record_id": "n9cx5g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Tongue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Champagne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghtqk",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Champagne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cmh6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Champagne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Victoria Monét",
+      "title": "See You In My Dreams",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4h2t",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p054xmtv",
+          "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd",
+          "name": "Victoria Monét"
+        },
+        "artist": "Victoria Monét",
+        "track_title": "See You In My Dreams",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cwz4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p054xmtv",
+            "name": "Victoria Monét",
+            "role": "Performer",
+            "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "See You In My Dreams",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Enter Shikari",
+      "title": "Higher Ground",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpltd",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p012d7f1",
+          "musicbrainz_gid": "329f95db-f02e-40bf-a5f7-0dea11529ce3",
+          "name": "Enter Shikari"
+        },
+        "artist": "Enter Shikari",
+        "track_title": "Higher Ground",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "So Recordings",
+        "release_title": null,
+        "record_id": "n9cmqq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7f1",
+            "name": "Enter Shikari",
+            "role": "Performer",
+            "musicbrainz_gid": "329f95db-f02e-40bf-a5f7-0dea11529ce3"
+          }
+        ],
+        "title": "Higher Ground",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "untitled (halo)",
+      "title": "sex",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgpl02",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p0ghbj36",
+          "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789",
+          "name": "untitled (halo)"
+        },
+        "artist": "untitled (halo)",
+        "track_title": "sex",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n9cwmp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ghbj36",
+            "name": "untitled (halo)",
+            "role": "Performer",
+            "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789"
+          }
+        ],
+        "title": "sex",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Josh Baker",
+      "title": "Souvenir",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdqtrh",
+        "duration": 161,
+        "primary_contributor": {
+          "pid": "p0jjtkgs",
+          "musicbrainz_gid": "ec4f15e9-0a88-41d4-b73a-9dd972ba8843",
+          "name": "Josh Baker"
+        },
+        "artist": "Josh Baker",
+        "track_title": "Souvenir",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Bakers Dozen / Three Six Zero",
+        "release_title": null,
+        "record_id": "n9cfqj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jjtkgs",
+            "name": "Josh Baker",
+            "role": "Performer",
+            "musicbrainz_gid": "ec4f15e9-0a88-41d4-b73a-9dd972ba8843"
+          },
+          {
+            "pid": "p0jx825f",
+            "name": "rhys from the sticks",
+            "role": "Performer",
+            "musicbrainz_gid": "6b8ed902-5031-4d21-bc09-4f38821a8dbf"
+          }
+        ],
+        "title": "Souvenir",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "That Mexican OT",
+      "title": "I Can't",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfrrwt",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0gcpk8k",
+          "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215",
+          "name": "That Mexican OT"
+        },
+        "artist": "That Mexican OT",
+        "track_title": "I Can't",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cj98",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gcpk8k",
+            "name": "That Mexican OT",
+            "role": "Performer",
+            "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215"
+          },
+          {
+            "pid": "p0pfrrx4",
+            "name": "OC Chris",
+            "role": "Performer",
+            "musicbrainz_gid": "5a3b2af4-9be2-4f3b-94a7-cbd3e17fa0d1"
+          }
+        ],
+        "title": "I Can't",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Poison",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy7xw",
+        "duration": 99,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Poison",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9dncw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Poison",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "waiting for me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpns1",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p06t96fd",
+          "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+          "name": "Arlo Parks"
+        },
+        "artist": "Arlo Parks",
+        "track_title": "waiting for me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Transgressive Records",
+        "release_title": null,
+        "record_id": "n9dzg5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06t96fd",
+            "name": "Arlo Parks",
+            "role": "Performer",
+            "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930"
+          }
+        ],
+        "title": "waiting for me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nippa",
+      "title": "Bittersweet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcm485",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p090cwzd",
+          "musicbrainz_gid": "464ffa17-1a40-4330-9a27-7a73ffa178de",
+          "name": "Nippa"
+        },
+        "artist": "Nippa",
+        "track_title": "Bittersweet",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cbcm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p090cwzd",
+            "name": "Nippa",
+            "role": "Performer",
+            "musicbrainz_gid": "464ffa17-1a40-4330-9a27-7a73ffa178de"
+          }
+        ],
+        "title": "Bittersweet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "How Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc40bx",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "How Lonely",
+        "track_number": null,
+        "publisher": "B-Unique Music",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c96f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "How Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Lucky [Hymn]",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p90jl6",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Lucky [Hymn]",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9czvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Lucky [Hymn]",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

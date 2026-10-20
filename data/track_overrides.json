@@ -160,6 +160,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Taconeando"
   },
+  "architects|||machine": {
+    "artist": "Architects",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Machine"
+  },
   "arthur russell|||this is how we walk on the moon": {
     "artist": "Arthur Russell",
     "category": "manual",
@@ -285,6 +292,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Glue"
+  },
+  "bleech 9:3|||canonball": {
+    "artist": "Bleech 9:3",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Canonball"
   },
   "bleech 9:3|||figure 8": {
     "artist": "Bleech 9:3",
@@ -1560,6 +1574,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Cross My Heart"
   },
+  "lisa|||sawadika": {
+    "artist": "LISA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "SaWaDiKa"
+  },
   "loathe|||fortress down": {
     "artist": "Loathe",
     "category": "manual",
@@ -2392,6 +2413,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "crank 2"
+  },
+  "slayyyter|||i think he's got a girl": {
+    "artist": "Slayyyter",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "i think he's got a girl"
   },
   "slipknot|||arsenal": {
     "artist": "Slipknot",
