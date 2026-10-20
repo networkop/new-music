@@ -139,6 +139,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Silver Lines"
   },
+  "anotr|||talk to you": {
+    "artist": "ANOTR",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Talk To You"
+  },
   "antony szmierek|||flight simulator": {
     "artist": "Antony Szmierek",
     "category": "manual",
@@ -881,6 +888,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Love"
   },
+  "feeble little horse|||poison": {
+    "artist": "feeble little horse",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Poison"
+  },
   "feeble little horse|||upside down": {
     "artist": "feeble little horse",
     "category": "manual",
@@ -1021,6 +1035,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Lentils"
   },
+  "girl in red|||blue": {
+    "artist": "girl in red",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "blue"
+  },
   "girl in the year above|||wet paint": {
     "artist": "Girl In The Year Above",
     "category": "manual",
@@ -1083,6 +1104,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "I Wanna Feel Like Someone"
+  },
+  "haai|||talking walls": {
+    "artist": "HAAi",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Talking Walls"
   },
   "haiden henderson|||i wanna be your girl": {
     "artist": "Haiden Henderson",
@@ -1315,6 +1343,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Elumelu"
   },
+  "josh baker|||back it up": {
+    "artist": "Josh Baker",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Back It Up"
+  },
   "juls|||rarri": {
     "artist": "Juls",
     "category": "manual",
@@ -1363,6 +1398,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "The Wave"
+  },
+  "justice|||flower in a hurricane": {
+    "artist": "Justice",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Flower In A Hurricane"
   },
   "k trap|||can't say no": {
     "artist": "K Trap",
@@ -2056,6 +2098,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "One Song Away From Crying"
+  },
+  "rachel chinouriri|||pretty girls": {
+    "artist": "Rachel Chinouriri",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Pretty Girls"
   },
   "remi wolf|||bottle": {
     "artist": "Remi Wolf",

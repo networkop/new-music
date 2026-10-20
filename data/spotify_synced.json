@@ -1,15 +1,5 @@
 {
   "keep": {
-    "spotify:track:0RJB6ldc79QC6jW5OR2Pv1": {
-      "artist": "girl in red",
-      "broadcast": "2026-10-15",
-      "title": "blue"
-    },
-    "spotify:track:0kl6Ozan3fuUdCl6TlB15v": {
-      "artist": "ANOTR",
-      "broadcast": "2026-10-15",
-      "title": "Talk To You"
-    },
     "spotify:track:1VWiDyYTrqQhhmnWANWkFa": {
       "artist": "LISA",
       "broadcast": "2026-10-12",
@@ -45,20 +35,10 @@
       "broadcast": "2026-10-12",
       "title": "Air"
     },
-    "spotify:track:3ZCceTIHGCu9iYW9BJCtHZ": {
-      "artist": "feeble little horse",
-      "broadcast": "2026-10-15",
-      "title": "Poison"
-    },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
       "broadcast": "2026-10-13",
       "title": "Roses"
-    },
-    "spotify:track:4HCOHRCSQelz2GPX8iTamO": {
-      "artist": "Justice",
-      "broadcast": "2026-10-15",
-      "title": "Flower In A Hurricane"
     },
     "spotify:track:4OZsL523QNwRZMgJGwC2Lq": {
       "artist": "Architects",
@@ -80,16 +60,6 @@
       "broadcast": "2026-10-12",
       "title": "Wish Upon You"
     },
-    "spotify:track:5bdKaYnig6IqBsQQqBUjHm": {
-      "artist": "Josh Baker",
-      "broadcast": "2026-10-15",
-      "title": "Back It Up"
-    },
-    "spotify:track:5xVePcr42tN6jtKmYwHHX2": {
-      "artist": "HAAi",
-      "broadcast": "2026-10-15",
-      "title": "Talking Walls"
-    },
     "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i": {
       "artist": "Fontaines D.C.",
       "broadcast": "2026-10-15",
@@ -99,11 +69,6 @@
       "artist": "Bleech 9:3",
       "broadcast": "2026-10-01",
       "title": "Canonball"
-    },
-    "spotify:track:7c0oKEgUPN6nQ5dwhzzs3m": {
-      "artist": "Rachel Chinouriri",
-      "broadcast": "2026-10-15",
-      "title": "Pretty Girls"
     }
   },
   "review": {
