@@ -1,0 +1,800 @@
+{
+  "pid": "m0032mvz",
+  "broadcast_start": "2026-10-22T18:00:00+01:00",
+  "schedule_date": "2026-10-22",
+  "title": "Tom Grennan Hottest Record",
+  "tracks": [
+    {
+      "artist": "Justice",
+      "title": "Flower In A Hurricane",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxy59",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p012d8f5",
+          "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+          "name": "Justice"
+        },
+        "artist": "Justice",
+        "track_title": "Flower In A Hurricane",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9dn95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8f5",
+            "name": "Justice",
+            "role": "Performer",
+            "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+          },
+          {
+            "pid": "p03vwrdf",
+            "name": "Tame Impala",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+          },
+          {
+            "pid": "p01prxjs",
+            "name": "King Gizzard & the Lizard Wizard",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "Flower In A Hurricane",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Be Happy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd88qr",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Be Happy",
+        "track_number": null,
+        "publisher": "Universal Music Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9c85h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Be Happy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Grennan",
+      "title": "Little Bit Of Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p093f3zf",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p046283t",
+          "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "name": "Tom Grennan"
+        },
+        "artist": "Tom Grennan",
+        "track_title": "Little Bit Of Love",
+        "track_number": null,
+        "publisher": "Sony ATV Music Publishing Ltd; Catherine Songs Limited/Sony ATV; Catherine Songs Limited/Sony ATV",
+        "record_label": "Insanity",
+        "release_title": null,
+        "record_id": "n6x6x4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p046283t",
+            "name": "Tom Grennan",
+            "role": "Performer",
+            "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa"
+          }
+        ],
+        "title": "Little Bit Of Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Japan",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph0g57",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Japan",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d24q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Japan",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Too Cute To Be Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd854b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "Too Cute To Be Lonely",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cx66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "Too Cute To Be Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "I Can't Be High Around You Anymore",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxt7r",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "I Can't Be High Around You Anymore",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9bq3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "I Can't Be High Around You Anymore",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Victony",
+      "title": "Slick",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nxmztx",
+        "duration": 107,
+        "primary_contributor": {
+          "pid": "p0ckv0cw",
+          "musicbrainz_gid": "7013c772-2236-42f3-8590-2e2292d2ca5e",
+          "name": "Victony"
+        },
+        "artist": "Victony",
+        "track_title": "Slick",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Encore Recordings / OUTLAWVILLE",
+        "release_title": null,
+        "record_id": "n9r4p5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ckv0cw",
+            "name": "Victony",
+            "role": "Performer",
+            "musicbrainz_gid": "7013c772-2236-42f3-8590-2e2292d2ca5e"
+          }
+        ],
+        "title": "Slick",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Grennan",
+      "title": "Found What I've Been Looking For",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p05cnrp2",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p046283t",
+          "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "name": "Tom Grennan"
+        },
+        "artist": "Tom Grennan",
+        "track_title": "Found What I've Been Looking For",
+        "track_number": null,
+        "publisher": "Sony/ATV Music Publishing",
+        "record_label": "Insanity",
+        "release_title": null,
+        "record_id": "n4dq8v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p046283t",
+            "name": "Tom Grennan",
+            "role": "Performer",
+            "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa"
+          }
+        ],
+        "title": "Found What I've Been Looking For",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Grennan",
+      "title": "Wrapped In Gold",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3hcl",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p046283t",
+          "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "name": "Tom Grennan"
+        },
+        "artist": "Tom Grennan",
+        "track_title": "Wrapped In Gold",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9d63m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p046283t",
+            "name": "Tom Grennan",
+            "role": "Performer",
+            "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa"
+          }
+        ],
+        "title": "Wrapped In Gold",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jazzy",
+      "title": "No Bad Vibes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0jys0wj",
+        "duration": 162,
+        "primary_contributor": {
+          "pid": "p0bg4qll",
+          "musicbrainz_gid": "8d96e5fb-42b4-4653-b8f3-2a31e5834dc7",
+          "name": "Jazzy"
+        },
+        "artist": "Jazzy",
+        "track_title": "No Bad Vibes",
+        "track_number": null,
+        "publisher": "Sony Music Publishing Ltd. / Concord Music Publishing / Universal Music Publishing Ltd / Sony ATV",
+        "record_label": "CHAOS / Polydor",
+        "release_title": null,
+        "record_id": "n8dmr9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bg4qll",
+            "name": "Jazzy",
+            "role": "Performer",
+            "musicbrainz_gid": "8d96e5fb-42b4-4653-b8f3-2a31e5834dc7"
+          },
+          {
+            "pid": "p0gjzln0",
+            "name": "KILIMANJARO",
+            "role": "Performer",
+            "musicbrainz_gid": "0f05dbe3-3fb4-4e66-8f31-ad8445885cdd"
+          }
+        ],
+        "title": "No Bad Vibes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Repeaty",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phw397",
+        "duration": 237,
+        "primary_contributor": {
+          "pid": "p0813fy5",
+          "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316",
+          "name": "Sammy Virji"
+        },
+        "artist": "Sammy Virji",
+        "track_title": "Repeaty",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SAMMY VIRJI",
+        "release_title": null,
+        "record_id": "n9d5g5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "Repeaty",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Gangsta",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55jqp",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Gangsta",
+        "track_number": "11",
+        "publisher": "Art For Their Good, Administered by Songs of Kobalt Music Publishing(BMI)/Jesse SJ Music (BMI), Administered by Songs of Kobalt Music Publishing(BMI)/David Charles Marshall Biral Publishing Designee/S",
+        "record_label": "Alta Music Group",
+        "release_title": "Enigma POV",
+        "record_id": "n9b8jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Gangsta",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Diggy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3mf6",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p0813fy5",
+          "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316",
+          "name": "Sammy Virji"
+        },
+        "artist": "Sammy Virji",
+        "track_title": "Diggy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sammy Virji",
+        "release_title": null,
+        "record_id": "n9d642",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "Diggy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Madonna",
+      "title": "Danceteria Afterhours",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcxj2v",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p09pg5m9",
+          "musicbrainz_gid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+          "name": "Madonna"
+        },
+        "artist": "Madonna",
+        "track_title": "Danceteria Afterhours",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cd5r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09pg5m9",
+            "name": "Madonna",
+            "role": "Performer",
+            "musicbrainz_gid": "79239441-bfd5-4981-a70c-55c3f15c1287"
+          },
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Danceteria Afterhours",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erick the Architect",
+      "title": "YERR",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3pt2",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p02g7gk6",
+          "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c",
+          "name": "Erick the Architect"
+        },
+        "artist": "Erick the Architect",
+        "track_title": "YERR",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Erick The Architect",
+        "release_title": null,
+        "record_id": "n9d645",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02g7gk6",
+            "name": "Erick the Architect",
+            "role": "Performer",
+            "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c"
+          },
+          {
+            "pid": "p0pj3pt8",
+            "name": "Fergie Baby",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ef8af4d8-3866-403a-a048-89f0304326e0"
+          },
+          {
+            "pid": "p012dj7w",
+            "name": "Ghostface Killah",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb"
+          }
+        ],
+        "title": "YERR",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "fakemink",
+      "title": "Chiltern Firehouse.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwqmz",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0kyb04q",
+          "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99",
+          "name": "fakemink"
+        },
+        "artist": "fakemink",
+        "track_title": "Chiltern Firehouse.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EtnaVeraVela",
+        "release_title": null,
+        "record_id": "n9d5gf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyb04q",
+            "name": "fakemink",
+            "role": "Performer",
+            "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Chiltern Firehouse.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Capo Lee",
+      "title": "What's Wrong",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3qjs",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p03ffl7f",
+          "musicbrainz_gid": "15f2cd9b-4e6b-469e-b8bb-8246adba33c9",
+          "name": "Capo Lee"
+        },
+        "artist": "Capo Lee",
+        "track_title": "What's Wrong",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d648",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03ffl7f",
+            "name": "Capo Lee",
+            "role": "Performer",
+            "musicbrainz_gid": "15f2cd9b-4e6b-469e-b8bb-8246adba33c9"
+          },
+          {
+            "pid": "p07jxw7l",
+            "name": "Pa Salieu",
+            "role": "Performer",
+            "musicbrainz_gid": "03100b87-7d27-4d56-b049-2007599656cc"
+          }
+        ],
+        "title": "What's Wrong",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Danny L Harle",
+      "title": "Starlight (Skrillex and ring Noord Remix)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3qwm",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p02fgqwr",
+          "musicbrainz_gid": "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f",
+          "name": "Danny L Harle"
+        },
+        "artist": "Danny L Harle",
+        "track_title": "Starlight (Skrillex and ring Noord Remix)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9d649",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02fgqwr",
+            "name": "Danny L Harle",
+            "role": "Performer",
+            "musicbrainz_gid": "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Performer",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          },
+          {
+            "pid": "p0m43cdt",
+            "name": "ring noord",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "aecef1d3-0f26-48b8-abc3-c1efa5011733"
+          }
+        ],
+        "title": "Starlight (Skrillex and ring Noord Remix)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Warlord",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9kmp",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Warlord",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Disorder",
+        "release_title": null,
+        "record_id": "n94mb6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          }
+        ],
+        "title": "Warlord",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hemlocke springs",
+      "title": "gloria",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb5934",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0dp7vhc",
+          "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819",
+          "name": "hemlocke springs"
+        },
+        "artist": "hemlocke springs",
+        "track_title": "gloria",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c5cr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dp7vhc",
+            "name": "hemlocke springs",
+            "role": "Performer",
+            "musicbrainz_gid": "45859d30-a45b-4cc6-b9ba-85607dcc2819"
+          }
+        ],
+        "title": "gloria",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

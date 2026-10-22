@@ -1113,6 +1113,52 @@
       ]
     ]
   },
+  "15f2cd9b-4e6b-469e-b8bb-8246adba33c9": {
+    "name": "Capo Lee",
+    "source": "lastfm",
+    "tags": [
+      [
+        "grime",
+        100
+      ],
+      [
+        "hip hop",
+        25
+      ],
+      [
+        "rap",
+        4
+      ],
+      [
+        "electronic",
+        4
+      ],
+      [
+        "uk hip-hop",
+        2
+      ],
+      [
+        "british",
+        2
+      ],
+      [
+        "hip-hop",
+        2
+      ],
+      [
+        "5 stars",
+        1
+      ],
+      [
+        "british hip hop",
+        1
+      ],
+      [
+        "english hip hop",
+        1
+      ]
+    ]
+  },
   "1d543e07-d0d2-4834-a8db-d65c50c2a856": {
     "name": "Dolly Parton",
     "source": "lastfm",
@@ -1202,6 +1248,52 @@
       [
         "wonky",
         2
+      ]
+    ]
+  },
+  "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f": {
+    "name": "Danny L Harle",
+    "source": "lastfm",
+    "tags": [
+      [
+        "bubblegum bass",
+        100
+      ],
+      [
+        "electronic",
+        78
+      ],
+      [
+        "pc music",
+        40
+      ],
+      [
+        "hyperpop",
+        23
+      ],
+      [
+        "england",
+        7
+      ],
+      [
+        "happy hardcore",
+        7
+      ],
+      [
+        "pop",
+        5
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "electropop",
+        1
+      ],
+      [
+        "classical",
+        1
       ]
     ]
   },
@@ -1575,6 +1667,52 @@
       ],
       [
         "pc music",
+        1
+      ]
+    ]
+  },
+  "287cb25a-9b05-474c-9ad1-38046a46c37f": {
+    "name": "Strawberry Guy",
+    "source": "lastfm",
+    "tags": [
+      [
+        "dream pop",
+        100
+      ],
+      [
+        "indie pop",
+        74
+      ],
+      [
+        "bedroom pop",
+        38
+      ],
+      [
+        "british",
+        22
+      ],
+      [
+        "shoegaze",
+        3
+      ],
+      [
+        "indie",
+        3
+      ],
+      [
+        "psychedelic pop",
+        1
+      ],
+      [
+        "my top songs",
+        1
+      ],
+      [
+        "sophisti-pop",
+        1
+      ],
+      [
+        "hypnagogic pop",
         1
       ]
     ]
@@ -5436,6 +5574,52 @@
       ]
     ]
   },
+  "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0": {
+    "name": "Olivia Rodrigo",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "pop rock",
+        74
+      ],
+      [
+        "rock",
+        20
+      ],
+      [
+        "indie pop",
+        18
+      ],
+      [
+        "female vocalists",
+        9
+      ],
+      [
+        "teen pop",
+        7
+      ],
+      [
+        "singer-songwriter",
+        7
+      ],
+      [
+        "pop punk",
+        2
+      ],
+      [
+        "alt-pop",
+        2
+      ],
+      [
+        "american",
+        2
+      ]
+    ]
+  },
   "6967d805-e5bb-477f-a6dd-2f41b5c0e644": {
     "name": "Len",
     "source": "lastfm",
@@ -6068,6 +6252,52 @@
       ],
       [
         "my top songs",
+        1
+      ]
+    ]
+  },
+  "7013c772-2236-42f3-8590-2e2292d2ca5e": {
+    "name": "Victony",
+    "source": "lastfm",
+    "tags": [
+      [
+        "afrobeats",
+        100
+      ],
+      [
+        "rnb",
+        56
+      ],
+      [
+        "nigeria",
+        17
+      ],
+      [
+        "pop",
+        4
+      ],
+      [
+        "neo-soul",
+        2
+      ],
+      [
+        "nigerian pop",
+        2
+      ],
+      [
+        "afropop",
+        2
+      ],
+      [
+        "alternative rnb",
+        1
+      ],
+      [
+        "alte",
+        1
+      ],
+      [
+        "funk_add_to_lidarr_batch_28",
         1
       ]
     ]
@@ -8219,6 +8449,52 @@
       [
         "california",
         2
+      ]
+    ]
+  },
+  "968847c6-2150-419d-b14b-68c672dcde99": {
+    "name": "fakemink",
+    "source": "lastfm",
+    "tags": [
+      [
+        "cloud rap",
+        100
+      ],
+      [
+        "jerk",
+        58
+      ],
+      [
+        "pop rap",
+        15
+      ],
+      [
+        "hip-hop",
+        10
+      ],
+      [
+        "plugg",
+        5
+      ],
+      [
+        "british",
+        5
+      ],
+      [
+        "rap",
+        3
+      ],
+      [
+        "trap",
+        1
+      ],
+      [
+        "downtempo",
+        1
+      ],
+      [
+        "uk hip hop",
+        1
       ]
     ]
   },
@@ -10697,6 +10973,52 @@
       ]
     ]
   },
+  "c576a7b0-c768-4760-9306-466429d0884a": {
+    "name": "ASHE",
+    "source": "lastfm",
+    "tags": [
+      [
+        "future garage",
+        100
+      ],
+      [
+        "trip hop",
+        74
+      ],
+      [
+        "microhouse",
+        34
+      ],
+      [
+        "downtempo",
+        26
+      ],
+      [
+        "ambient house",
+        13
+      ],
+      [
+        "indie pop",
+        3
+      ],
+      [
+        "indie",
+        1
+      ],
+      [
+        "pop",
+        1
+      ],
+      [
+        "glitch hop",
+        1
+      ],
+      [
+        "usa",
+        1
+      ]
+    ]
+  },
   "c69af97b-4d3b-4f72-9746-829b6b9d5f88": {
     "name": "Yard Act",
     "source": "lastfm",
@@ -11767,6 +12089,52 @@
       ]
     ]
   },
+  "dcafccb5-3741-485f-85d4-6d249f443ffa": {
+    "name": "Tom Grennan",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "indie",
+        44
+      ],
+      [
+        "pop",
+        29
+      ],
+      [
+        "soul",
+        13
+      ],
+      [
+        "tom grennan",
+        4
+      ],
+      [
+        "british",
+        4
+      ],
+      [
+        "acoustic",
+        2
+      ],
+      [
+        "hairy chest",
+        1
+      ],
+      [
+        "alternative",
+        1
+      ],
+      [
+        "alternative rock",
+        1
+      ]
+    ]
+  },
   "dcd4701d-64ec-443d-bfbf-73fc87c44bd6": {
     "name": "Angèle",
     "source": "lastfm",
@@ -12053,6 +12421,16 @@
       ],
       [
         "female vocalists",
+        100
+      ]
+    ]
+  },
+  "e1b9adb3-e246-41af-9ec4-522c0553365d": {
+    "name": "Sebastian Schub",
+    "source": "lastfm",
+    "tags": [
+      [
+        "british",
         100
       ]
     ]

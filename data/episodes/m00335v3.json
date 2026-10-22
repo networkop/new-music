@@ -1,0 +1,188 @@
+{
+  "pid": "m00335v3",
+  "broadcast_start": "2026-10-22T19:30:00+01:00",
+  "schedule_date": "2026-10-22",
+  "title": "Fontaines D.C. Live at the BBC",
+  "tracks": [
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Mimesis (BBC Session, 22 October 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3s3c",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Mimesis (BBC Session, 22 October 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d64c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Mimesis (BBC Session, 22 October 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "You Miss Me (BBC Session, 22 October 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3szj",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "You Miss Me (BBC Session, 22 October 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d64f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "You Miss Me (BBC Session, 22 October 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "One Man (BBC Session, 22 October 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3thj",
+        "duration": 269,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "One Man (BBC Session, 22 October 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d64c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "One Man (BBC Session, 22 October 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Where Is Gone? (BBC Session, 22 October 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3v2z",
+        "duration": 322,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Where Is Gone? (BBC Session, 22 October 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d64w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Where Is Gone? (BBC Session, 22 October 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Tongue (BBC Session, 22 October 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3vxj",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Tongue (BBC Session, 22 October 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d64c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Tongue (BBC Session, 22 October 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

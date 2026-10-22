@@ -286,6 +286,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "MORNING DEW (DONK)"
   },
+  "bicep|||apricots": {
+    "artist": "Bicep",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Apricots"
+  },
   "bicep|||glue": {
     "artist": "Bicep",
     "category": "manual",
@@ -411,6 +418,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Frank Sinatra"
+  },
+  "bnxn|||online": {
+    "artist": "BNXN",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Online"
   },
   "bonobo|||always on your side": {
     "artist": "Bonobo",
@@ -2539,6 +2553,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Barracuda"
+  },
+  "tate mcrae|||housewife": {
+    "artist": "Tate McRae",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Housewife"
   },
   "that mexican ot|||i can't": {
     "artist": "That Mexican OT",

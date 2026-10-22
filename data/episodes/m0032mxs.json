@@ -1,0 +1,1070 @@
+{
+  "pid": "m0032mxs",
+  "broadcast_start": "2026-10-21T18:00:00+01:00",
+  "schedule_date": "2026-10-21",
+  "title": "Sammy Virji Hottest Record!",
+  "tracks": [
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "expectations",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph0jh7",
+        "duration": 222,
+        "primary_contributor": {
+          "pid": "p093l6j5",
+          "musicbrainz_gid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+          "name": "Olivia Rodrigo"
+        },
+        "artist": "Olivia Rodrigo",
+        "track_title": "expectations",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Olivia Rodrigo/Geffen",
+        "release_title": null,
+        "record_id": "n9d2p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p093l6j5",
+            "name": "Olivia Rodrigo",
+            "role": "Performer",
+            "musicbrainz_gid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
+          },
+          {
+            "pid": "p094wg3k",
+            "name": "Chappell Roan",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "56a55378-f155-48de-80a5-d80104221267"
+          }
+        ],
+        "title": "expectations",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LISA",
+      "title": "SaWaDiKa",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbq1l",
+        "duration": 184,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "SaWaDiKa",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9cx5v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "SaWaDiKa",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Interplanetary Criminal",
+      "title": "Damager",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0k532lh",
+        "duration": 143,
+        "primary_contributor": {
+          "pid": "p076pjk8",
+          "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e",
+          "name": "Interplanetary Criminal"
+        },
+        "artist": "Interplanetary Criminal",
+        "track_title": "Damager",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "CHAOS",
+        "release_title": null,
+        "record_id": "n8xqwz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p076pjk8",
+            "name": "Interplanetary Criminal",
+            "role": "Performer",
+            "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e"
+          },
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "Damager",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "MEANT TO BE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghml9",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "MEANT TO BE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n9dz4r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p09jlr02",
+            "name": "glaive",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "fd36f43e-5bd1-488e-b844-0e059250ef78"
+          }
+        ],
+        "title": "MEANT TO BE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "Waist 36 Leg 32",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph0zv6",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "Waist 36 Leg 32",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cwmn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "Waist 36 Leg 32",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "On Video",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghlgq",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "On Video",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "A24 Music",
+        "release_title": null,
+        "record_id": "n9cdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "On Video",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Carnage",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfrp6x",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Carnage",
+        "track_number": null,
+        "publisher": "Sony Music Publishing and Gyldmark Records",
+        "record_label": "WMG",
+        "release_title": null,
+        "record_id": "n9cj95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p012f0qm",
+            "name": "Little Simz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+          }
+        ],
+        "title": "Carnage",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Cops & Robbers",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0lf8f5m",
+        "duration": 143,
+        "primary_contributor": {
+          "pid": "p0813fy5",
+          "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316",
+          "name": "Sammy Virji"
+        },
+        "artist": "Sammy Virji",
+        "track_title": "Cops & Robbers",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Capitol Records",
+        "release_title": null,
+        "record_id": "n8qz2b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Cops & Robbers",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Repeaty",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phw397",
+        "duration": 237,
+        "primary_contributor": {
+          "pid": "p0813fy5",
+          "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316",
+          "name": "Sammy Virji"
+        },
+        "artist": "Sammy Virji",
+        "track_title": "Repeaty",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SAMMY VIRJI",
+        "release_title": null,
+        "record_id": "n9d5g5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "Repeaty",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Grennan",
+      "title": "Little Bit Of Love",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p093f3zf",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p046283t",
+          "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "name": "Tom Grennan"
+        },
+        "artist": "Tom Grennan",
+        "track_title": "Little Bit Of Love",
+        "track_number": null,
+        "publisher": "Sony ATV Music Publishing Ltd; Catherine Songs Limited/Sony ATV; Catherine Songs Limited/Sony ATV",
+        "record_label": "Insanity",
+        "release_title": null,
+        "record_id": "n6x6x4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p046283t",
+            "name": "Tom Grennan",
+            "role": "Performer",
+            "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa"
+          }
+        ],
+        "title": "Little Bit Of Love",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "GAS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpctk",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "GAS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9d55f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p09ylr6k",
+            "name": "Lauren Duffus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "115e08e4-4679-4678-8675-41ccabb2e5b3"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "GAS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ayra Starr",
+      "title": "Amazing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p997fr",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p097mf81",
+          "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4",
+          "name": "Ayra Starr"
+        },
+        "artist": "Ayra Starr",
+        "track_title": "Amazing",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Mavin/Republic",
+        "release_title": null,
+        "record_id": "n9b8v9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097mf81",
+            "name": "Ayra Starr",
+            "role": "Performer",
+            "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4"
+          },
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "Amazing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Florence Road",
+      "title": "Wish Upon You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbwn0",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0l11xc3",
+          "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e",
+          "name": "Florence Road"
+        },
+        "artist": "Florence Road",
+        "track_title": "Wish Upon You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cqpn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l11xc3",
+            "name": "Florence Road",
+            "role": "Performer",
+            "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
+          }
+        ],
+        "title": "Wish Upon You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "title": "Summer Clothes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4djn",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p012ddn4",
+          "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1",
+          "name": "Michael Kiwanuka"
+        },
+        "artist": "Michael Kiwanuka",
+        "track_title": "Summer Clothes",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cfdb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012ddn4",
+            "name": "Michael Kiwanuka",
+            "role": "Performer",
+            "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+          }
+        ],
+        "title": "Summer Clothes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "World's Greatest",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9jcn",
+        "duration": 228,
+        "primary_contributor": {
+          "pid": "p074wnjw",
+          "musicbrainz_gid": "0b30341b-b59d-4979-8130-b66c0e475321",
+          "name": "Lil Nas X"
+        },
+        "artist": "Lil Nas X",
+        "track_title": "World's Greatest",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cw9b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074wnjw",
+            "name": "Lil Nas X",
+            "role": "Performer",
+            "musicbrainz_gid": "0b30341b-b59d-4979-8130-b66c0e475321"
+          }
+        ],
+        "title": "World's Greatest",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "South Arcade",
+      "title": "F.A.M.O.U.S",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbtbr5",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0dbxqn0",
+          "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3",
+          "name": "South Arcade"
+        },
+        "artist": "South Arcade",
+        "track_title": "F.A.M.O.U.S",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n9c2fn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbxqn0",
+            "name": "South Arcade",
+            "role": "Performer",
+            "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3"
+          }
+        ],
+        "title": "F.A.M.O.U.S",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Swallow The Bomb",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbtbm7",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Swallow The Bomb",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9c6fb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Swallow The Bomb",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ASHE",
+      "title": "Lasso The Moon",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwcgj",
+        "duration": null,
+        "primary_contributor": {
+          "pid": "p0dn8w7g",
+          "musicbrainz_gid": "c576a7b0-c768-4760-9306-466429d0884a",
+          "name": "ASHE"
+        },
+        "artist": "ASHE",
+        "track_title": "Lasso The Moon",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d5gc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dn8w7g",
+            "name": "ASHE",
+            "role": "Performer",
+            "musicbrainz_gid": "c576a7b0-c768-4760-9306-466429d0884a"
+          }
+        ],
+        "title": "Lasso The Moon",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Odeal",
+      "title": "After The Club",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxv4r",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "After The Club",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LVRN Records",
+        "release_title": null,
+        "record_id": "n9bn3m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          }
+        ],
+        "title": "After The Club",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "If I Had The Hand Of God",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9qjh",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p03tvsgq",
+          "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629",
+          "name": "Julia Jacklin"
+        },
+        "artist": "Julia Jacklin",
+        "track_title": "If I Had The Hand Of God",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "4AD",
+        "release_title": null,
+        "record_id": "n9c8w5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03tvsgq",
+            "name": "Julia Jacklin",
+            "role": "Performer",
+            "musicbrainz_gid": "f95d0f4f-d344-4acd-bec8-cc512b40f629"
+          }
+        ],
+        "title": "If I Had The Hand Of God",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Girl in the Year Above",
+      "title": "Wet Paint",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcs7vc",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p0n76hnd",
+          "musicbrainz_gid": "e115f2cd-e4d3-465d-bcca-5d4f568e654f",
+          "name": "Girl in the Year Above"
+        },
+        "artist": "Girl in the Year Above",
+        "track_title": "Wet Paint",
+        "track_number": null,
+        "publisher": "BMG Rights Management",
+        "record_label": "Transgressive",
+        "release_title": null,
+        "record_id": "n99jgf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0n76hnd",
+            "name": "Girl in the Year Above",
+            "role": "Performer",
+            "musicbrainz_gid": "e115f2cd-e4d3-465d-bcca-5d4f568e654f"
+          }
+        ],
+        "title": "Wet Paint",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Strawberry Guy",
+      "title": "Only Gets Better",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwkvz",
+        "duration": 232,
+        "primary_contributor": {
+          "pid": "p07fcpx7",
+          "musicbrainz_gid": "287cb25a-9b05-474c-9ad1-38046a46c37f",
+          "name": "Strawberry Guy"
+        },
+        "artist": "Strawberry Guy",
+        "track_title": "Only Gets Better",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cx5m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07fcpx7",
+            "name": "Strawberry Guy",
+            "role": "Performer",
+            "musicbrainz_gid": "287cb25a-9b05-474c-9ad1-38046a46c37f"
+          }
+        ],
+        "title": "Only Gets Better",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wishy",
+      "title": "Mona Lisa",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9mhhk",
+        "duration": 271,
+        "primary_contributor": {
+          "pid": "p0gpp6ss",
+          "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42",
+          "name": "Wishy"
+        },
+        "artist": "Wishy",
+        "track_title": "Mona Lisa",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Winspear",
+        "release_title": null,
+        "record_id": "n9c4n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gpp6ss",
+            "name": "Wishy",
+            "role": "Performer",
+            "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42"
+          }
+        ],
+        "title": "Mona Lisa",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "OVA SO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g5gg",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "OVA SO",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bm4c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "OVA SO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "fakemink",
+      "title": "Chiltern Firehouse.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwqmz",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0kyb04q",
+          "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99",
+          "name": "fakemink"
+        },
+        "artist": "fakemink",
+        "track_title": "Chiltern Firehouse.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EtnaVeraVela",
+        "release_title": null,
+        "record_id": "n9d5gf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyb04q",
+            "name": "fakemink",
+            "role": "Performer",
+            "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Chiltern Firehouse.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Tourniquet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj51m",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "Tourniquet",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cxgr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "Tourniquet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Hannah Montana",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgp55d",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Hannah Montana",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9dzxc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "Hannah Montana",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sebastian Schub",
+      "title": "before you hit the water.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgc5mv",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p08yhpvb",
+          "musicbrainz_gid": "e1b9adb3-e246-41af-9ec4-522c0553365d",
+          "name": "Sebastian Schub"
+        },
+        "artist": "Sebastian Schub",
+        "track_title": "before you hit the water.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n9cmhj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08yhpvb",
+            "name": "Sebastian Schub",
+            "role": "Performer",
+            "musicbrainz_gid": "e1b9adb3-e246-41af-9ec4-522c0553365d"
+          }
+        ],
+        "title": "before you hit the water.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
