@@ -181,6 +181,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Funeral"
   },
+  "ashe|||lasso the moon": {
+    "artist": "ASHE",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Lasso The Moon"
+  },
   "ashe|||stop the wedding!": {
     "artist": "Ashe",
     "category": "manual",
@@ -481,6 +488,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "BB Blue"
+  },
+  "capo lee|||what's wrong": {
+    "artist": "Capo Lee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "What's Wrong"
   },
   "cara delevingne|||crazy, baby": {
     "artist": "Cara Delevingne",
@@ -853,6 +867,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "CRUISING TO SELF SOOTHE"
   },
+  "erick the architect|||yerr": {
+    "artist": "Erick the Architect",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "YERR"
+  },
   "erin lecount|||the cinema": {
     "artist": "Erin LeCount",
     "category": "manual",
@@ -880,6 +901,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Well Organised"
+  },
+  "fakemink|||chiltern firehouse.": {
+    "artist": "fakemink",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Chiltern Firehouse."
   },
   "faouzia|||unethical": {
     "artist": "Faouzia",
@@ -1013,6 +1041,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Here's The Thing"
+  },
+  "fontaines d.c.|||japan": {
+    "artist": "Fontaines D.C.",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Japan"
   },
   "fontaines d.c.|||marianne": {
     "artist": "Fontaines D.C.",
@@ -1377,6 +1412,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Back It Up"
+  },
+  "josh baker|||souvenir": {
+    "artist": "Josh Baker",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Souvenir"
   },
   "juls|||rarri": {
     "artist": "Juls",
@@ -1917,6 +1959,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Isale Eko"
   },
+  "olivia rodrigo|||expectations": {
+    "artist": "Olivia Rodrigo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "expectations"
+  },
   "original koffee|||summer fruits": {
     "artist": "Original Koffee",
     "category": "manual",
@@ -2288,12 +2337,40 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "LONGING"
   },
+  "sammy virji|||cops & robbers": {
+    "artist": "Sammy Virji",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Cops & Robbers"
+  },
+  "sammy virji|||diggy": {
+    "artist": "Sammy Virji",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Diggy"
+  },
   "sammy virji|||if u need it": {
     "artist": "Sammy Virji",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "If U Need It"
+  },
+  "sammy virji|||repeaty": {
+    "artist": "Sammy Virji",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Repeaty"
+  },
+  "sebastian schub|||before you hit the water.": {
+    "artist": "Sebastian Schub",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "before you hit the water."
   },
   "she’s green|||locket": {
     "artist": "she’s green",
@@ -2526,6 +2603,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "is it cool?"
   },
+  "strawberry guy|||only gets better": {
+    "artist": "Strawberry Guy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Only Gets Better"
+  },
   "suki waterhouse|||notting hill": {
     "artist": "Suki Waterhouse",
     "category": "manual",
@@ -2658,6 +2742,27 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Love Ruins Everything"
+  },
+  "tom grennan|||found what i've been looking for": {
+    "artist": "Tom Grennan",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Found What I've Been Looking For"
+  },
+  "tom grennan|||little bit of love": {
+    "artist": "Tom Grennan",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Little Bit Of Love"
+  },
+  "tom grennan|||wrapped in gold": {
+    "artist": "Tom Grennan",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Wrapped In Gold"
   },
   "tomora|||celebration": {
     "artist": "TOMORA",

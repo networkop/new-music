@@ -6302,6 +6302,52 @@
       ]
     ]
   },
+  "712e6821-c973-4a19-99cb-c82a8628974a": {
+    "name": "edapollo",
+    "source": "lastfm",
+    "tags": [
+      [
+        "ambient",
+        100
+      ],
+      [
+        "electronic",
+        56
+      ],
+      [
+        "chillwave",
+        37
+      ],
+      [
+        "chillout",
+        17
+      ],
+      [
+        "uk garage",
+        8
+      ],
+      [
+        "vaporwave",
+        8
+      ],
+      [
+        "instrumental",
+        8
+      ],
+      [
+        "future garage",
+        3
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "experimental",
+        1
+      ]
+    ]
+  },
   "736c8ea9-b5c3-4c5f-8782-28e633f0c084": {
     "name": "Holly Humberstone",
     "source": "lastfm",

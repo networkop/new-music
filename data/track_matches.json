@@ -804,6 +804,11 @@
     "score": 1.0,
     "uri": "spotify:track:0vpUOgjK7BmMv6YE2bnpQA"
   },
+  "edapollo|||carry me home": {
+    "matched": "edapollo - Carry Me Home",
+    "score": 1.0,
+    "uri": "spotify:track:0NZB0UAYUMi6G9AWr0wI7T"
+  },
   "enter shikari|||higher ground": {
     "matched": "Enter Shikari - Higher Ground",
     "score": 1.0,
@@ -1108,6 +1113,11 @@
     "matched": "girl in red - blue",
     "score": 1.0,
     "uri": "spotify:track:0RJB6ldc79QC6jW5OR2Pv1"
+  },
+  "girl in red|||missing person": {
+    "matched": "girl in red - missing person",
+    "score": 1.0,
+    "uri": "spotify:track:5kAoEEASRwkLd2EjxfBfJ9"
   },
   "girl in the year above|||wet paint": {
     "matched": "Girl In The Year Above - Wet Paint",
@@ -1694,10 +1704,20 @@
     "score": 0.0,
     "uri": null
   },
+  "lisa|||rockstar": {
+    "matched": "LISA - Rockstar",
+    "score": 1.0,
+    "uri": "spotify:track:6vvPecFTmWxDfEJ6cYT1wa"
+  },
   "lisa|||sawadika": {
     "matched": "LISA - SaWaDiKa",
     "score": 1.0,
     "uri": "spotify:track:1VWiDyYTrqQhhmnWANWkFa"
+  },
+  "lisa|||tarantino": {
+    "matched": "LISA - Tarantino",
+    "score": 1.0,
+    "uri": "spotify:track:3bgnrHHwyYRtz3ykzAVImy"
   },
   "loathe|||fortress down": {
     "matched": "Loathe - Fortress Down",
@@ -2838,6 +2858,11 @@
     "matched": "Vince Staples - Cotton",
     "score": 1.0,
     "uri": "spotify:track:2rBesRD5DkpI0dyjmXV7lf"
+  },
+  "vince staples|||tulsa, ok": {
+    "matched": "Vince Staples - Tulsa, OK",
+    "score": 1.0,
+    "uri": "spotify:track:4lyK8sT0dLpxSBv14wtVet"
   },
   "violet grohl|||bug in the cake": {
     "matched": "Violet Grohl - Bug In The Cake",

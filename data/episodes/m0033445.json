@@ -1,0 +1,1064 @@
+{
+  "pid": "m0033445",
+  "broadcast_start": "2026-10-26T18:00:00Z",
+  "schedule_date": "2026-10-26",
+  "title": "LISA Hottest Record",
+  "tracks": [
+    {
+      "artist": "Tate McRae",
+      "title": "Housewife",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgzqcq",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p07n6t02",
+          "musicbrainz_gid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+          "name": "Tate McRae"
+        },
+        "artist": "Tate McRae",
+        "track_title": "Housewife",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9d26x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07n6t02",
+            "name": "Tate McRae",
+            "role": "Performer",
+            "musicbrainz_gid": "f9133869-f87c-459c-9aa7-2f176cda7e06"
+          }
+        ],
+        "title": "Housewife",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Melatonin",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55hht",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Melatonin",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Nice Life/Atlantic",
+        "release_title": "Melatonin",
+        "record_id": "n9b8jh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Melatonin",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LISA",
+      "title": "SaWaDiKa",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbq1l",
+        "duration": 184,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "SaWaDiKa",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9cx5v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "SaWaDiKa",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rxzc",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p0dckhd7",
+          "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be",
+          "name": "Freya Skye"
+        },
+        "artist": "Freya Skye",
+        "track_title": "bad taste",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c4r6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dckhd7",
+            "name": "Freya Skye",
+            "role": "Performer",
+            "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be"
+          }
+        ],
+        "title": "bad taste",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Celebration",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbslj3",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Celebration",
+        "track_number": null,
+        "publisher": "Peer Music",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9c8p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Celebration",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "On Video",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghlgq",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "On Video",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "A24 Music",
+        "release_title": null,
+        "record_id": "n9cdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "On Video",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "GAS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpctk",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "GAS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9d55f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p09ylr6k",
+            "name": "Lauren Duffus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "115e08e4-4679-4678-8675-41ccabb2e5b3"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "GAS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LISA",
+      "title": "Rockstar",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0j7vcds",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "Rockstar",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n8rj85",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "Rockstar",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LISA",
+      "title": "Tarantino",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj81cm",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "Tarantino",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9d6m8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "Tarantino",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Trillions",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfbjg4",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Trillions",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fantasy Records",
+        "release_title": null,
+        "record_id": "n9cfdv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Trillions",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "The Mother We Share",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01fp5ny",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "The Mother We Share",
+        "track_number": null,
+        "publisher": "UNIVERSAL MUSIC PUBLISHING LIMITED",
+        "record_label": "Virgin Records",
+        "release_title": null,
+        "record_id": "nzn2gn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "The Mother We Share",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jazzy",
+      "title": "Peace & Patience",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjbdsh",
+        "duration": 209,
+        "primary_contributor": {
+          "pid": "p0bg4qll",
+          "musicbrainz_gid": "8d96e5fb-42b4-4653-b8f3-2a31e5834dc7",
+          "name": "Jazzy"
+        },
+        "artist": "Jazzy",
+        "track_title": "Peace & Patience",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Chaos",
+        "release_title": null,
+        "record_id": "n9dp4m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bg4qll",
+            "name": "Jazzy",
+            "role": "Performer",
+            "musicbrainz_gid": "8d96e5fb-42b4-4653-b8f3-2a31e5834dc7"
+          }
+        ],
+        "title": "Peace & Patience",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Japan",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqgvp",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Japan",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9d24q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Japan",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Poison",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy7xw",
+        "duration": 99,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Poison",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9dncw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Poison",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Thundercat",
+      "title": "Moving At Light Speed",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfj93l",
+        "duration": 105,
+        "primary_contributor": {
+          "pid": "p012dsks",
+          "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+          "name": "Thundercat"
+        },
+        "artist": "Thundercat",
+        "track_title": "Moving At Light Speed",
+        "track_number": null,
+        "publisher": "Universal Music Group / VGM JAZZ / ASCAP",
+        "record_label": "Universal Music Group",
+        "release_title": null,
+        "record_id": "n9cwm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dsks",
+            "name": "Thundercat",
+            "role": "Performer",
+            "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17"
+          }
+        ],
+        "title": "Moving At Light Speed",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chris Lorenzo",
+      "title": "Fancy Footwork",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj8bt",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p01kd4t0",
+          "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f",
+          "name": "Chris Lorenzo"
+        },
+        "artist": "Chris Lorenzo",
+        "track_title": "Fancy Footwork",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "TURBO BLANCO",
+        "release_title": null,
+        "record_id": "n9cf4m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kd4t0",
+            "name": "Chris Lorenzo",
+            "role": "Performer",
+            "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f"
+          },
+          {
+            "pid": "p012d87c",
+            "name": "Chromeo",
+            "role": "Performer",
+            "musicbrainz_gid": "647221d0-f6b1-4e03-924c-c59b8059536f"
+          }
+        ],
+        "title": "Fancy Footwork",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Grimes",
+      "title": "ACCELERANDO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghrdk",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p012dskw",
+          "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+          "name": "Grimes"
+        },
+        "artist": "Grimes",
+        "track_title": "ACCELERANDO",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Eternal Recurrence",
+        "release_title": "ACCELERANDO",
+        "record_id": "n9cmhv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dskw",
+            "name": "Grimes",
+            "role": "Performer",
+            "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222"
+          },
+          {
+            "pid": "p0pgc1tg",
+            "name": "VADAKIN",
+            "role": "Performer",
+            "musicbrainz_gid": "9ff09fe5-22e5-4c4f-b6e2-bc7899f8ac54"
+          }
+        ],
+        "title": "ACCELERANDO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Spiritbox",
+      "title": "Mourning",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9n09w",
+        "duration": 256,
+        "primary_contributor": {
+          "pid": "p08n6f88",
+          "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061",
+          "name": "Spiritbox"
+        },
+        "artist": "Spiritbox",
+        "track_title": "Mourning",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c458",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08n6f88",
+            "name": "Spiritbox",
+            "role": "Performer",
+            "musicbrainz_gid": "9c935736-7530-41e4-b776-1dbcf534c061"
+          }
+        ],
+        "title": "Mourning",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jme",
+      "title": "Frames",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd2ltj",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p015zdb8",
+          "musicbrainz_gid": "57879ca6-44aa-4b75-9a97-b801f57a1331",
+          "name": "Jme"
+        },
+        "artist": "Jme",
+        "track_title": "Frames",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rng5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p015zdb8",
+            "name": "Jme",
+            "role": "Performer",
+            "musicbrainz_gid": "57879ca6-44aa-4b75-9a97-b801f57a1331"
+          }
+        ],
+        "title": "Frames",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Conducta",
+      "title": "CASH",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbd13c",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p01qzv76",
+          "musicbrainz_gid": "8c9f8c4b-ab6b-42e4-aed0-e7a366c8eade",
+          "name": "Conducta"
+        },
+        "artist": "Conducta",
+        "track_title": "CASH",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Conducta",
+        "release_title": null,
+        "record_id": "n9c6r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01qzv76",
+            "name": "Conducta",
+            "role": "Performer",
+            "musicbrainz_gid": "8c9f8c4b-ab6b-42e4-aed0-e7a366c8eade"
+          },
+          {
+            "pid": "p0pjqmv8",
+            "name": "Jordeaux",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "CASH",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "That Mexican OT",
+      "title": "I Can't",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfrrwt",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0gcpk8k",
+          "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215",
+          "name": "That Mexican OT"
+        },
+        "artist": "That Mexican OT",
+        "track_title": "I Can't",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cj98",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gcpk8k",
+            "name": "That Mexican OT",
+            "role": "Performer",
+            "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215"
+          },
+          {
+            "pid": "p0pfrrx4",
+            "name": "OC Chris",
+            "role": "Performer",
+            "musicbrainz_gid": "5a3b2af4-9be2-4f3b-94a7-cbd3e17fa0d1"
+          }
+        ],
+        "title": "I Can't",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JJerome87",
+      "title": "Mr. Alligator",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4f5v",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p0myjprs",
+          "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9",
+          "name": "JJerome87"
+        },
+        "artist": "JJerome87",
+        "track_title": "Mr. Alligator",
+        "track_number": null,
+        "publisher": "Warner Chappell Music Ltd",
+        "record_label": "Universal Music Group",
+        "release_title": "The Canyon",
+        "record_id": "n9chmq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0myjprs",
+            "name": "JJerome87",
+            "role": "Performer",
+            "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9"
+          },
+          {
+            "pid": "p012ddn2",
+            "name": "alt‐J",
+            "role": "Performer",
+            "musicbrainz_gid": "fc7bbf00-fbaa-4736-986b-b3ac0266ca9b"
+          }
+        ],
+        "title": "Mr. Alligator",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "Over Country",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc4758",
+        "duration": 300,
+        "primary_contributor": {
+          "pid": "p097dwv7",
+          "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+          "name": "Lizzy McAlpine"
+        },
+        "artist": "Lizzy McAlpine",
+        "track_title": "Over Country",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia Records",
+        "release_title": null,
+        "record_id": "n9c8xm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097dwv7",
+            "name": "Lizzy McAlpine",
+            "role": "Performer",
+            "musicbrainz_gid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+          }
+        ],
+        "title": "Over Country",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "edapollo",
+      "title": "Carry Me Home",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phk41q",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p097kl6t",
+          "musicbrainz_gid": "712e6821-c973-4a19-99cb-c82a8628974a",
+          "name": "edapollo"
+        },
+        "artist": "edapollo",
+        "track_title": "Carry Me Home",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Omni Youth",
+        "release_title": null,
+        "record_id": "n9d4m3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097kl6t",
+            "name": "edapollo",
+            "role": "Performer",
+            "musicbrainz_gid": "712e6821-c973-4a19-99cb-c82a8628974a"
+          }
+        ],
+        "title": "Carry Me Home",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Channel Tres",
+      "title": "Gangsta",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p55jqp",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06487g3",
+          "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+          "name": "Channel Tres"
+        },
+        "artist": "Channel Tres",
+        "track_title": "Gangsta",
+        "track_number": "11",
+        "publisher": "Art For Their Good, Administered by Songs of Kobalt Music Publishing(BMI)/Jesse SJ Music (BMI), Administered by Songs of Kobalt Music Publishing(BMI)/David Charles Marshall Biral Publishing Designee/S",
+        "record_label": "Alta Music Group",
+        "release_title": "Enigma POV",
+        "record_id": "n9b8jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06487g3",
+            "name": "Channel Tres",
+            "role": "Performer",
+            "musicbrainz_gid": "a9d53ca9-6c28-4be9-ab10-6c936a11d70b"
+          }
+        ],
+        "title": "Gangsta",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Anderson .Paak",
+      "title": "A Good Day (Radio 1 Live Lounge, 26 Oct 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjnlwn",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p0246xtn",
+          "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+          "name": "Anderson .Paak"
+        },
+        "artist": "Anderson .Paak",
+        "track_title": "A Good Day (Radio 1 Live Lounge, 26 Oct 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d996",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          },
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          }
+        ],
+        "title": "A Good Day (Radio 1 Live Lounge, 26 Oct 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Tulsa, OK",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqqnk",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p01tcdsh",
+          "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+          "name": "Vince Staples"
+        },
+        "artist": "Vince Staples",
+        "track_title": "Tulsa, OK",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n9d9c8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01tcdsh",
+            "name": "Vince Staples",
+            "role": "Performer",
+            "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff"
+          }
+        ],
+        "title": "Tulsa, OK",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "girl in red",
+      "title": "missing person",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqqz7",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p06stnxy",
+          "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+          "name": "girl in red"
+        },
+        "artist": "girl in red",
+        "track_title": "missing person",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9d8vh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06stnxy",
+            "name": "girl in red",
+            "role": "Performer",
+            "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0"
+          }
+        ],
+        "title": "missing person",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
