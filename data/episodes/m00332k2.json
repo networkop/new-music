@@ -1,0 +1,1064 @@
+{
+  "pid": "m00332k2",
+  "broadcast_start": "2026-10-27T18:00:00Z",
+  "schedule_date": "2026-10-27",
+  "title": "CHVRCHES Hottest Record",
+  "tracks": [
+    {
+      "artist": "Justice",
+      "title": "Flower In A Hurricane",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxy59",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p012d8f5",
+          "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+          "name": "Justice"
+        },
+        "artist": "Justice",
+        "track_title": "Flower In A Hurricane",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9dn95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8f5",
+            "name": "Justice",
+            "role": "Performer",
+            "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+          },
+          {
+            "pid": "p03vwrdf",
+            "name": "Tame Impala",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+          },
+          {
+            "pid": "p01prxjs",
+            "name": "King Gizzard & the Lizard Wizard",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "Flower In A Hurricane",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MILEY",
+      "title": "Different Religion",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9m1cy",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p01nbs1f",
+          "musicbrainz_gid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+          "name": "MILEY"
+        },
+        "artist": "MILEY",
+        "track_title": "Different Religion",
+        "track_number": null,
+        "publisher": "MCEO Publishing (BMI)",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c3mj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01nbs1f",
+            "name": "MILEY",
+            "role": "Performer",
+            "musicbrainz_gid": "7e9bd05a-117f-4cce-87bc-e011527a8b18"
+          }
+        ],
+        "title": "Different Religion",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "The Mother We Share",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01fp5ny",
+        "duration": 118,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "The Mother We Share",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Virgin Records",
+        "release_title": null,
+        "record_id": "nzn2gn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "The Mother We Share",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Grennan",
+      "title": "Wrapped In Gold",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3hcl",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p046283t",
+          "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "name": "Tom Grennan"
+        },
+        "artist": "Tom Grennan",
+        "track_title": "Wrapped In Gold",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9d63m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p046283t",
+            "name": "Tom Grennan",
+            "role": "Performer",
+            "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa"
+          }
+        ],
+        "title": "Wrapped In Gold",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "Pretty Girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxwz2",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "Pretty Girls",
+        "track_number": null,
+        "publisher": "Reservoir, APOB (ASCAP)",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9dncr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "Pretty Girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "Well Done Kid, You Did It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g8sc",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p0k4mrcn",
+          "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56",
+          "name": "Westside Cowboy"
+        },
+        "artist": "Westside Cowboy",
+        "track_title": "Well Done Kid, You Did It",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9bw9j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k4mrcn",
+            "name": "Westside Cowboy",
+            "role": "Performer",
+            "musicbrainz_gid": "243e9a4d-f824-4ec2-8967-09907f954c56"
+          }
+        ],
+        "title": "Well Done Kid, You Did It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Clearest Blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p03j58ld",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Clearest Blue",
+        "track_number": null,
+        "publisher": "Universal Publishing",
+        "record_label": "Virgin",
+        "release_title": "Every Open Eye",
+        "record_id": "n3d3g6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Clearest Blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Overthinker",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxbyq",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Overthinker",
+        "track_number": null,
+        "publisher": "Universal Music Publishing Ltd",
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9d9m4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Overthinker",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Under the Sun",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxdg1",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Under the Sun",
+        "track_number": "2",
+        "publisher": null,
+        "record_label": "Captured Tracks",
+        "release_title": "Is the Is Are",
+        "record_id": "n3gdrn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Under the Sun",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LISA",
+      "title": "Tarantino",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj81cm",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "Tarantino",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9d6m8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "Tarantino",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erick the Architect",
+      "title": "YERR",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3pt2",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p02g7gk6",
+          "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c",
+          "name": "Erick the Architect"
+        },
+        "artist": "Erick the Architect",
+        "track_title": "YERR",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Erick The Architect",
+        "release_title": null,
+        "record_id": "n9d645",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02g7gk6",
+            "name": "Erick the Architect",
+            "role": "Performer",
+            "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c"
+          },
+          {
+            "pid": "p0pj3pt8",
+            "name": "Fergie Baby",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ef8af4d8-3866-403a-a048-89f0304326e0"
+          },
+          {
+            "pid": "p012dj7w",
+            "name": "Ghostface Killah",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb"
+          }
+        ],
+        "title": "YERR",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Heart & Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf43k2",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0pf43k6",
+          "musicbrainz_gid": null,
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Heart & Soul",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9chmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf43k6",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Heart & Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Danny L Harle",
+      "title": "Starlight (Skrillex and ring Noord Remix)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3qwm",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p02fgqwr",
+          "musicbrainz_gid": "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f",
+          "name": "Danny L Harle"
+        },
+        "artist": "Danny L Harle",
+        "track_title": "Starlight (Skrillex and ring Noord Remix)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9d649",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02fgqwr",
+            "name": "Danny L Harle",
+            "role": "Performer",
+            "musicbrainz_gid": "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Performer",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          },
+          {
+            "pid": "p0m43cdt",
+            "name": "ring noord",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "aecef1d3-0f26-48b8-abc3-c1efa5011733"
+          }
+        ],
+        "title": "Starlight (Skrillex and ring Noord Remix)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "fakemink",
+      "title": "Chiltern Firehouse.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwqmz",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0kyb04q",
+          "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99",
+          "name": "fakemink"
+        },
+        "artist": "fakemink",
+        "track_title": "Chiltern Firehouse.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EtnaVeraVela",
+        "release_title": null,
+        "record_id": "n9d5gf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyb04q",
+            "name": "fakemink",
+            "role": "Performer",
+            "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Chiltern Firehouse.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "I Can't Be High Around You Anymore",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxt7r",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "I Can't Be High Around You Anymore",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9bq3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "I Can't Be High Around You Anymore",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wishy",
+      "title": "Mona Lisa",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9mhhk",
+        "duration": 271,
+        "primary_contributor": {
+          "pid": "p0gpp6ss",
+          "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42",
+          "name": "Wishy"
+        },
+        "artist": "Wishy",
+        "track_title": "Mona Lisa",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Winspear",
+        "release_title": null,
+        "record_id": "n9c4n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gpp6ss",
+            "name": "Wishy",
+            "role": "Performer",
+            "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42"
+          }
+        ],
+        "title": "Mona Lisa",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Some Unholy War (Amy Winehouse: Back To Black At 20)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxl34",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p03k057b",
+          "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
+          "name": "Jorja Smith"
+        },
+        "artist": "Jorja Smith",
+        "track_title": "Some Unholy War (Amy Winehouse: Back To Black At 20)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d9dv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          },
+          {
+            "pid": "p0p3blw5",
+            "name": "The Amy Winehouse Band",
+            "role": "Performer",
+            "musicbrainz_gid": "5c4e7383-81a8-4ce7-9689-5d9255b95e07"
+          }
+        ],
+        "title": "Some Unholy War (Amy Winehouse: Back To Black At 20)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sasha Keable",
+      "title": "Just Friends (Amy Winehouse: Back To Black At 20)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxlcg",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p01b0q34",
+          "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+          "name": "Sasha Keable"
+        },
+        "artist": "Sasha Keable",
+        "track_title": "Just Friends (Amy Winehouse: Back To Black At 20)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d9cg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01b0q34",
+            "name": "Sasha Keable",
+            "role": "Performer",
+            "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717"
+          },
+          {
+            "pid": "p0p3blw5",
+            "name": "The Amy Winehouse Band",
+            "role": "Performer",
+            "musicbrainz_gid": "5c4e7383-81a8-4ce7-9689-5d9255b95e07"
+          }
+        ],
+        "title": "Just Friends (Amy Winehouse: Back To Black At 20)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sasha Keable",
+      "title": "Valerie (Amy Winehouse: Back To Black At 20)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxm60",
+        "duration": 228,
+        "primary_contributor": {
+          "pid": "p01b0q34",
+          "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+          "name": "Sasha Keable"
+        },
+        "artist": "Sasha Keable",
+        "track_title": "Valerie (Amy Winehouse: Back To Black At 20)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9drzq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01b0q34",
+            "name": "Sasha Keable",
+            "role": "Performer",
+            "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717"
+          },
+          {
+            "pid": "p0l29r1k",
+            "name": "Skye Newman",
+            "role": "Performer",
+            "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86"
+          },
+          {
+            "pid": "p0pjxm6j",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012ddnd",
+            "name": "Lianne La Havas",
+            "role": "Performer",
+            "musicbrainz_gid": "680466d6-f05b-44f6-858d-625d1b5087f6"
+          },
+          {
+            "pid": "p0k87k3z",
+            "name": "Nia Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca"
+          },
+          {
+            "pid": "p03k057b",
+            "name": "Jorja Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "d62614aa-ef2c-44cd-8a7b-91292755a1d0"
+          },
+          {
+            "pid": "p05lh5n3",
+            "name": "Yebba",
+            "role": "Performer",
+            "musicbrainz_gid": "0aeea1ef-8d96-4556-8c4a-84b88ae271bb"
+          },
+          {
+            "pid": "p048jxb4",
+            "name": "Jessie Reyez",
+            "role": "Performer",
+            "musicbrainz_gid": "18f56081-ccd7-4e07-981a-558c20951ccd"
+          },
+          {
+            "pid": "p012dhsf",
+            "name": "Terri Walker",
+            "role": "Performer",
+            "musicbrainz_gid": "0b285612-e40d-4f86-aa50-14cdee980e53"
+          },
+          {
+            "pid": "p0pjxm77",
+            "name": "Baby Rose",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p012d8x8",
+            "name": "Corinne Bailey Rae",
+            "role": "Performer",
+            "musicbrainz_gid": "bc85c6f6-6b06-44c1-8754-ef32c1e6b824"
+          },
+          {
+            "pid": "p0p3blw5",
+            "name": "The Amy Winehouse Band",
+            "role": "Performer",
+            "musicbrainz_gid": "5c4e7383-81a8-4ce7-9689-5d9255b95e07"
+          }
+        ],
+        "title": "Valerie (Amy Winehouse: Back To Black At 20)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Smith",
+      "title": "Mr Right",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgj1j2",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0k87k3z",
+          "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca",
+          "name": "Nia Smith"
+        },
+        "artist": "Nia Smith",
+        "track_title": "Mr Right",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cqx5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k87k3z",
+            "name": "Nia Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca"
+          }
+        ],
+        "title": "Mr Right",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "GAS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpctk",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "GAS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9d55f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p09ylr6k",
+            "name": "Lauren Duffus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "115e08e4-4679-4678-8675-41ccabb2e5b3"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "GAS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "MEANT TO BE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghml9",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "MEANT TO BE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n9dz4r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p09jlr02",
+            "name": "glaive",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "fd36f43e-5bd1-488e-b844-0e059250ef78"
+          }
+        ],
+        "title": "MEANT TO BE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Natanya",
+      "title": "SHOW ME RIGHT!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8mdqb",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0c5n2dl",
+          "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e",
+          "name": "Natanya"
+        },
+        "artist": "Natanya",
+        "track_title": "SHOW ME RIGHT!",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bmwg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c5n2dl",
+            "name": "Natanya",
+            "role": "Performer",
+            "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e"
+          }
+        ],
+        "title": "SHOW ME RIGHT!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lainey Wilson",
+      "title": "Kinda Love It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxx7d",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p071v3mt",
+          "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05",
+          "name": "Lainey Wilson"
+        },
+        "artist": "Lainey Wilson",
+        "track_title": "Kinda Love It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Broken Bow Records",
+        "release_title": null,
+        "record_id": "n9dz32",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p071v3mt",
+            "name": "Lainey Wilson",
+            "role": "Performer",
+            "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05"
+          }
+        ],
+        "title": "Kinda Love It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "girl in red",
+      "title": "blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgjmq0",
+        "duration": 246,
+        "primary_contributor": {
+          "pid": "p06stnxy",
+          "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+          "name": "girl in red"
+        },
+        "artist": "girl in red",
+        "track_title": "blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cv5w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06stnxy",
+            "name": "girl in red",
+            "role": "Performer",
+            "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0"
+          }
+        ],
+        "title": "blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
