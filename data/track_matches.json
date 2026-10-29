@@ -29,6 +29,11 @@
     "score": 1.0,
     "uri": "spotify:track:70cHKK8bHAfJrOGVnfRG9J"
   },
+  "adéla|||nicole kidman (radio 1's ghoul remix)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "adéla|||red bottoms": {
     "matched": "ADÉLA - Red Bottoms",
     "score": 1.0,
@@ -744,6 +749,11 @@
     "score": 1.0,
     "uri": "spotify:track:0Si5ByBdGENpWVZ9JafxFR"
   },
+  "diiv|||dare me": {
+    "matched": "DIIV - Dare Me",
+    "score": 1.0,
+    "uri": "spotify:track:25z8lSImljTzcHOJDfZaTp"
+  },
   "diiv|||kid": {
     "matched": "DIIV - Kid",
     "score": 1.0,
@@ -798,6 +808,11 @@
     "matched": "Dylan - to love and to lose",
     "score": 1.0,
     "uri": "spotify:track:25KmVoAJzApNxuj6CDDwR5"
+  },
+  "earthsignchels|||crazy?": {
+    "matched": "earthsignchels - CRAZY?",
+    "score": 1.0,
+    "uri": "spotify:track:52LIfXQUI69zfdPUSnZK0h"
   },
   "earthsignchels|||my daddy died": {
     "matched": null,
@@ -1173,6 +1188,11 @@
     "matched": "Grimes - ACCELERANDO",
     "score": 1.0,
     "uri": "spotify:track:3Vv6jWPmzKXlaoKsVwNM0O"
+  },
+  "gunna|||pop it": {
+    "matched": "Gunna - pop it",
+    "score": 1.0,
+    "uri": "spotify:track:3LVkyYg0PSo8XInTPKKhZM"
   },
   "gurriers|||nothing happens twice": {
     "matched": "Gurriers - Nothing Happens Twice",
@@ -1609,6 +1629,11 @@
     "score": 1.0,
     "uri": "spotify:track:6fhNTP2BZzR3wri0qh1iKx"
   },
+  "lambrini girls|||the basement": {
+    "matched": "Lambrini Girls - The Basement",
+    "score": 1.0,
+    "uri": "spotify:track:6b1M7lKBrXFUp2kimbTmRu"
+  },
   "lancey foux|||rockstar rider": {
     "matched": "Lancey Foux - ROCKSTAR RIDER",
     "score": 1.0,
@@ -1758,6 +1783,11 @@
     "matched": "Man/Woman/Chainsaw - Nosedive",
     "score": 1.0,
     "uri": "spotify:track:0TbUriU2INQ0wqNubRpFTX"
+  },
+  "manifest|||tralala": {
+    "matched": "manifest - TRALALA",
+    "score": 1.0,
+    "uri": "spotify:track:6hPPwiXH4Y4kmc121v9Fdg"
   },
   "mary in the junkyard|||blood": {
     "matched": "mary in the junkyard - Blood",
@@ -2169,6 +2199,11 @@
     "score": 1.0,
     "uri": "spotify:track:6y20BV5L33R8YXM0YuI38N"
   },
+  "queens of the stone age|||run away from the mob": {
+    "matched": "Queens of the Stone Age - Run Away From the Mob",
+    "score": 1.0,
+    "uri": "spotify:track:2xeGlyvvXDKWiPgenEMccp"
+  },
   "queens of the stone age|||where the goth girls at": {
     "matched": "Queens of the Stone Age - Where The Goth Girls At?",
     "score": 1.0,
@@ -2228,6 +2263,16 @@
     "matched": "Rex Orange County - Loving Is Easy",
     "score": 1.0,
     "uri": "spotify:track:7ASFZh1D0DPZro7UXUKGmd"
+  },
+  "robyn|||popstar/punkrocker (radio 1s live lounge, 28th oct 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "robyn|||sucker for love (radio 1s live lounge, 28th oct 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "robyn|||talk to me, zara": {
     "matched": "Robyn - Talk To Me, Zara",
@@ -2478,6 +2523,11 @@
     "matched": "Skrillex - Push",
     "score": 1.0,
     "uri": "spotify:track:29OFLlrrfKIEVwbVMTjBYe"
+  },
+  "skye newman|||family matters": {
+    "matched": "Skye Newman - Family Matters",
+    "score": 1.0,
+    "uri": "spotify:track:4o4uaxD9uSqnSzvig1qYTs"
   },
   "slayr|||keep me going (birdbrain)": {
     "matched": "slayr - keep me going (BIRDBRAIN)",

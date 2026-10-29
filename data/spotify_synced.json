@@ -1,10 +1,5 @@
 {
   "keep": {
-    "spotify:track:0NZB0UAYUMi6G9AWr0wI7T": {
-      "artist": "edapollo",
-      "broadcast": "2026-10-26",
-      "title": "Carry Me Home"
-    },
     "spotify:track:1Va3leaBTjd9HUGNbuI97i": {
       "artist": "John Glacier",
       "broadcast": "2026-10-20",
@@ -20,10 +15,10 @@
       "broadcast": "2026-10-15",
       "title": "Fire In The Booth"
     },
-    "spotify:track:23C1OkjQczcLoSBpa559KR": {
+    "spotify:track:25z8lSImljTzcHOJDfZaTp": {
       "artist": "DIIV",
-      "broadcast": "2026-10-27",
-      "title": "Under the Sun"
+      "broadcast": "2026-10-28",
+      "title": "Dare Me"
     },
     "spotify:track:2KMVizTVC3iUOcG6il4lBr": {
       "artist": "untitled (halo)",
@@ -32,12 +27,12 @@
     },
     "spotify:track:2XlS3xEvc3YOQi4SSBVU1K": {
       "artist": "Bicep",
-      "broadcast": "2026-10-27",
+      "broadcast": "2026-10-28",
       "title": "GAS"
     },
     "spotify:track:2b8BZIE6VefboEkZMrNhRX": {
       "artist": "CHVRCHES",
-      "broadcast": "2026-10-27",
+      "broadcast": "2026-10-28",
       "title": "Overthinker"
     },
     "spotify:track:2dDDh0yUOWgdgzZsYxAbDj": {
@@ -50,15 +45,20 @@
       "broadcast": "2026-10-12",
       "title": "Air"
     },
+    "spotify:track:2xeGlyvvXDKWiPgenEMccp": {
+      "artist": "Queens of the Stone Age",
+      "broadcast": "2026-10-28",
+      "title": "Run Away From The Mob"
+    },
     "spotify:track:3EkrGFmgwHesY3alpHzbDf": {
       "artist": "Enter Shikari",
       "broadcast": "2026-10-20",
       "title": "Higher Ground"
     },
-    "spotify:track:3bgnrHHwyYRtz3ykzAVImy": {
-      "artist": "LISA",
-      "broadcast": "2026-10-27",
-      "title": "Tarantino"
+    "spotify:track:3LVkyYg0PSo8XInTPKKhZM": {
+      "artist": "Gunna",
+      "broadcast": "2026-10-28",
+      "title": "pop it"
     },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
@@ -67,39 +67,44 @@
     },
     "spotify:track:4cLzHSqYaxcw8qVFV2xlGY": {
       "artist": "South Arcade",
-      "broadcast": "2026-10-21",
+      "broadcast": "2026-10-28",
       "title": "F.A.M.O.U.S"
     },
-    "spotify:track:4lyK8sT0dLpxSBv14wtVet": {
-      "artist": "Vince Staples",
-      "broadcast": "2026-10-26",
-      "title": "Tulsa, OK"
+    "spotify:track:4o4uaxD9uSqnSzvig1qYTs": {
+      "artist": "Skye Newman",
+      "broadcast": "2026-10-28",
+      "title": "Family Matters"
+    },
+    "spotify:track:52LIfXQUI69zfdPUSnZK0h": {
+      "artist": "earthsignchels",
+      "broadcast": "2026-10-28",
+      "title": "Crazy?"
     },
     "spotify:track:5S6Lu1hiwmipUZZV4g9n1Z": {
       "artist": "Florence Road",
       "broadcast": "2026-10-21",
       "title": "Wish Upon You"
     },
-    "spotify:track:5kAoEEASRwkLd2EjxfBfJ9": {
-      "artist": "girl in red",
-      "broadcast": "2026-10-26",
-      "title": "missing person"
-    },
     "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i": {
       "artist": "Fontaines D.C.",
       "broadcast": "2026-10-15",
       "title": "Where Is Gone?"
     },
-    "spotify:track:6vvPecFTmWxDfEJ6cYT1wa": {
-      "artist": "LISA",
-      "broadcast": "2026-10-26",
-      "title": "Rockstar"
+    "spotify:track:6b1M7lKBrXFUp2kimbTmRu": {
+      "artist": "Lambrini Girls",
+      "broadcast": "2026-10-28",
+      "title": "The Basement"
+    },
+    "spotify:track:6hPPwiXH4Y4kmc121v9Fdg": {
+      "artist": "manifest",
+      "broadcast": "2026-10-28",
+      "title": "TRALALA"
     }
   },
   "review": {
     "spotify:track:0Rxs96nQeboThWCNzP4H0c": {
       "artist": "Remi Wolf",
-      "broadcast": "2026-10-20",
+      "broadcast": "2026-10-28",
       "title": "Champagne"
     }
   }

@@ -1,0 +1,1106 @@
+{
+  "pid": "m00332px",
+  "broadcast_start": "2026-10-28T18:00:00Z",
+  "schedule_date": "2026-10-28",
+  "title": "Queens of the Stone Age Hottest Record",
+  "tracks": [
+    {
+      "artist": "Jamie T",
+      "title": "Waist 36 Leg 32",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfhy7c",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "Waist 36 Leg 32",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cwmn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "Waist 36 Leg 32",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Too Cute To Be Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd854b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "Too Cute To Be Lonely",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cx66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "Too Cute To Be Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Under the Sun",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxdg1",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Under the Sun",
+        "track_number": "2",
+        "publisher": null,
+        "record_label": "Captured Tracks",
+        "release_title": "Is the Is Are",
+        "record_id": "n3gdrn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Under the Sun",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Dead Company",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9fqb",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Dead Company",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cw94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Dead Company",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Tourniquet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj51m",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "Tourniquet",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cxgr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "Tourniquet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Champagne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgmnn0",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Champagne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9cmh6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Champagne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "South Arcade",
+      "title": "F.A.M.O.U.S",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjdqkl",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p0dbxqn0",
+          "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3",
+          "name": "South Arcade"
+        },
+        "artist": "South Arcade",
+        "track_title": "F.A.M.O.U.S",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "BKM Artists Ltd / Atlantic",
+        "release_title": "F.A.M.O.U.S",
+        "record_id": "n9c2fn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbxqn0",
+            "name": "South Arcade",
+            "role": "Performer",
+            "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3"
+          }
+        ],
+        "title": "F.A.M.O.U.S",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Dare Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk4twd",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Dare Me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fantasy Records",
+        "release_title": null,
+        "record_id": "n9drbf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Dare Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skye Newman",
+      "title": "Family Matters",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ld42kr",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p0l29r1k",
+          "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86",
+          "name": "Skye Newman"
+        },
+        "artist": "Skye Newman",
+        "track_title": "Family Matters",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n8vf8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l29r1k",
+            "name": "Skye Newman",
+            "role": "Performer",
+            "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86"
+          }
+        ],
+        "title": "Family Matters",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Overthinker",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxbyq",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Overthinker",
+        "track_number": null,
+        "publisher": "Universal Music Publishing Ltd",
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9d9m4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Overthinker",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "title": "Weekend In Texas",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk52n1",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p017tlxm",
+          "musicbrainz_gid": "d1393ecb-431b-4fde-a6ea-d769f2f040cb",
+          "name": "Kacey Musgraves"
+        },
+        "artist": "Kacey Musgraves",
+        "track_title": "Weekend In Texas",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9drng",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p017tlxm",
+            "name": "Kacey Musgraves",
+            "role": "Performer",
+            "musicbrainz_gid": "d1393ecb-431b-4fde-a6ea-d769f2f040cb"
+          }
+        ],
+        "title": "Weekend In Texas",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ayra Starr",
+      "title": "Amazing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p997fr",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p097mf81",
+          "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4",
+          "name": "Ayra Starr"
+        },
+        "artist": "Ayra Starr",
+        "track_title": "Amazing",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Mavin/Republic",
+        "release_title": null,
+        "record_id": "n9b8v9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097mf81",
+            "name": "Ayra Starr",
+            "role": "Performer",
+            "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4"
+          },
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "Amazing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gunna",
+      "title": "pop it",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph93yt",
+        "duration": 137,
+        "primary_contributor": {
+          "pid": "p053g0h6",
+          "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+          "name": "Gunna"
+        },
+        "artist": "Gunna",
+        "track_title": "pop it",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing",
+        "record_label": "Gunna",
+        "release_title": null,
+        "record_id": "n9cvp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p053g0h6",
+            "name": "Gunna",
+            "role": "Performer",
+            "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+          }
+        ],
+        "title": "pop it",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "GAS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpctk",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "GAS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9d55f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p09ylr6k",
+            "name": "Lauren Duffus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "115e08e4-4679-4678-8675-41ccabb2e5b3"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "GAS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Repeaty",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phw397",
+        "duration": 237,
+        "primary_contributor": {
+          "pid": "p0813fy5",
+          "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316",
+          "name": "Sammy Virji"
+        },
+        "artist": "Sammy Virji",
+        "track_title": "Repeaty",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SAMMY VIRJI",
+        "release_title": null,
+        "record_id": "n9d5g5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "Repeaty",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lambrini Girls",
+      "title": "The Basement",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk56qf",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p0dgpgh2",
+          "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef",
+          "name": "Lambrini Girls"
+        },
+        "artist": "Lambrini Girls",
+        "track_title": "The Basement",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "City Slang",
+        "release_title": null,
+        "record_id": "n9drbw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dgpgh2",
+            "name": "Lambrini Girls",
+            "role": "Performer",
+            "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef"
+          }
+        ],
+        "title": "The Basement",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Run Away From The Mob",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk572d",
+        "duration": 235,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Run Away From The Mob",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing",
+        "record_label": "Queens Of The Stone Age",
+        "release_title": null,
+        "record_id": "n9drbj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Run Away From The Mob",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "Painkiller",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9rrlj",
+        "duration": 238,
+        "primary_contributor": {
+          "pid": "p057pjgy",
+          "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507",
+          "name": "Joy Crookes"
+        },
+        "artist": "Joy Crookes",
+        "track_title": "Painkiller",
+        "track_number": null,
+        "publisher": "BMG RIghts Management",
+        "record_label": "Speakerbox",
+        "release_title": null,
+        "record_id": "n9c49x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p057pjgy",
+            "name": "Joy Crookes",
+            "role": "Performer",
+            "musicbrainz_gid": "548e9a34-7476-4510-b3cf-70d17106d507"
+          },
+          {
+            "pid": "p01kpc89",
+            "name": "Denzel Curry",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "5f95440d-7737-4a36-9bcf-c05337f7129b"
+          }
+        ],
+        "title": "Painkiller",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Love Triangle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd2f9t",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Love Triangle",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "GGL Records",
+        "release_title": null,
+        "record_id": "n9cdhf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          },
+          {
+            "pid": "p04ztc0m",
+            "name": "Caroline Polachek",
+            "role": "Performer",
+            "musicbrainz_gid": "d8f43dc5-4613-48ac-8c23-a62b82f8c67a"
+          },
+          {
+            "pid": "p00zm6cf",
+            "name": "SebastiAn",
+            "role": "Performer",
+            "musicbrainz_gid": "4072139a-699c-4011-9bcc-baae6f959390"
+          }
+        ],
+        "title": "Love Triangle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Robyn",
+      "title": "Sucker For Love (Radio 1s Live Lounge, 28th Oct 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk0x53",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p012d7sh",
+          "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94",
+          "name": "Robyn"
+        },
+        "artist": "Robyn",
+        "track_title": "Sucker For Love (Radio 1s Live Lounge, 28th Oct 2026)",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dr8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7sh",
+            "name": "Robyn",
+            "role": "Performer",
+            "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94"
+          }
+        ],
+        "title": "Sucker For Love (Radio 1s Live Lounge, 28th Oct 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Robyn",
+      "title": "Popstar/Punkrocker (Radio 1s Live Lounge, 28th Oct 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk1014",
+        "duration": 249,
+        "primary_contributor": {
+          "pid": "p012d7sh",
+          "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94",
+          "name": "Robyn"
+        },
+        "artist": "Robyn",
+        "track_title": "Popstar/Punkrocker (Radio 1s Live Lounge, 28th Oct 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dr8v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7sh",
+            "name": "Robyn",
+            "role": "Performer",
+            "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94"
+          }
+        ],
+        "title": "Popstar/Punkrocker (Radio 1s Live Lounge, 28th Oct 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Hannah Montana",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgp55d",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Hannah Montana",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9dzxc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "Hannah Montana",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "title": "Karma",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk5b2c",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p02gc6kf",
+          "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+          "name": "Snoh Aalegra"
+        },
+        "artist": "Snoh Aalegra",
+        "track_title": "Karma",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Feels Run Free",
+        "release_title": null,
+        "record_id": "n9d585",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02gc6kf",
+            "name": "Snoh Aalegra",
+            "role": "Performer",
+            "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3"
+          }
+        ],
+        "title": "Karma",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "earthsignchels",
+      "title": "Crazy?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgj5ll",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p0nwbb9v",
+          "musicbrainz_gid": "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9",
+          "name": "earthsignchels"
+        },
+        "artist": "earthsignchels",
+        "track_title": "Crazy?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dzpf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nwbb9v",
+            "name": "earthsignchels",
+            "role": "Performer",
+            "musicbrainz_gid": "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9"
+          }
+        ],
+        "title": "Crazy?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "ADÉLA",
+      "title": "Nicole Kidman (Radio 1's Ghoul Remix)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk3tzb",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p0kwbwpg",
+          "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+          "name": "ADÉLA"
+        },
+        "artist": "ADÉLA",
+        "track_title": "Nicole Kidman (Radio 1's Ghoul Remix)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Capitol Records",
+        "release_title": "PRIMA",
+        "record_id": "n9drbz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kwbwpg",
+            "name": "ADÉLA",
+            "role": "Performer",
+            "musicbrainz_gid": "f40856e6-079f-4a0a-916e-9e6a5e04f646"
+          },
+          {
+            "pid": "p0pk5bhg",
+            "name": "Rachel Chinouriri's creaky door & witch cackle",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0pk5bhx",
+            "name": "Ghoulish Greg James",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0pk5bj9",
+            "name": "Slay queens Vick & Katie",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0pk5bjr",
+            "name": "Charlie Hedges' zombie groan",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0pk5bk4",
+            "name": "Ghostly Jack Saunders",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0pk5bkq",
+            "name": "Emil Franchi's wolf howl",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0pk5bl9",
+            "name": "Vicky & Charley's gruesome gasps",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p0pk5blr",
+            "name": "The Radio 1 listeners' spooky sounds",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Nicole Kidman (Radio 1's Ghoul Remix)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Carnage",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfrp6x",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p011wcxf",
+          "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+          "name": "Chase & Status"
+        },
+        "artist": "Chase & Status",
+        "track_title": "Carnage",
+        "track_number": null,
+        "publisher": "Sony Music Publishing and Gyldmark Records",
+        "record_label": "WMG",
+        "release_title": null,
+        "record_id": "n9cj95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p011wcxf",
+            "name": "Chase & Status",
+            "role": "Performer",
+            "musicbrainz_gid": "82e454e2-38ee-4e69-89a6-cc65167753d1"
+          },
+          {
+            "pid": "p012f0qm",
+            "name": "Little Simz",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
+          }
+        ],
+        "title": "Carnage",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "manifest",
+      "title": "TRALALA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgprk4",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p0pgprkd",
+          "musicbrainz_gid": "2a0c2547-8c61-45e8-895e-5c2e4936b2a1",
+          "name": "manifest"
+        },
+        "artist": "manifest",
+        "track_title": "TRALALA",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hypers",
+        "release_title": null,
+        "record_id": "n9dzfc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pgprkd",
+            "name": "manifest",
+            "role": "Performer",
+            "musicbrainz_gid": "2a0c2547-8c61-45e8-895e-5c2e4936b2a1"
+          }
+        ],
+        "title": "TRALALA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "World's Greatest",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9jcn",
+        "duration": 228,
+        "primary_contributor": {
+          "pid": "p074wnjw",
+          "musicbrainz_gid": "0b30341b-b59d-4979-8130-b66c0e475321",
+          "name": "Lil Nas X"
+        },
+        "artist": "Lil Nas X",
+        "track_title": "World's Greatest",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cw9b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074wnjw",
+            "name": "Lil Nas X",
+            "role": "Performer",
+            "musicbrainz_gid": "0b30341b-b59d-4979-8130-b66c0e475321"
+          }
+        ],
+        "title": "World's Greatest",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

@@ -914,6 +914,52 @@
       ]
     ]
   },
+  "100b8734-f4f0-4536-9960-47f7c59d1b4c": {
+    "name": "Gunna",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rap",
+        100
+      ],
+      [
+        "trap",
+        87
+      ],
+      [
+        "hip-hop",
+        36
+      ],
+      [
+        "hip hop",
+        28
+      ],
+      [
+        "atlanta",
+        11
+      ],
+      [
+        "united states",
+        2
+      ],
+      [
+        "american",
+        2
+      ],
+      [
+        "ysl",
+        1
+      ],
+      [
+        "cloud rap",
+        1
+      ],
+      [
+        "snitch",
+        1
+      ]
+    ]
+  },
   "10b862f1-0863-4a71-a37f-f39b10f20705": {
     "name": "Saint Ludo",
     "source": "lastfm",
@@ -1760,6 +1806,52 @@
       [
         "hip hop",
         1
+      ]
+    ]
+  },
+  "2a0c2547-8c61-45e8-895e-5c2e4936b2a1": {
+    "name": "manifest",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "death metal",
+        81
+      ],
+      [
+        "turkish pop",
+        53
+      ],
+      [
+        "pop",
+        24
+      ],
+      [
+        "techstep",
+        12
+      ],
+      [
+        "thrash metal",
+        12
+      ],
+      [
+        "drum & bass",
+        12
+      ],
+      [
+        "turkish",
+        3
+      ],
+      [
+        "punk",
+        3
+      ],
+      [
+        "dnb",
+        3
       ]
     ]
   },
@@ -3248,6 +3340,36 @@
       [
         "male voice",
         4
+      ]
+    ]
+  },
+  "41641281-e1aa-4bbe-ba19-5fb436996e86": {
+    "name": "Skye Newman",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie",
+        100
+      ],
+      [
+        "hip-hop",
+        25
+      ],
+      [
+        "rnb",
+        16
+      ],
+      [
+        "neo soul",
+        16
+      ],
+      [
+        "seen live x2",
+        8
+      ],
+      [
+        "seen live x3",
+        8
       ]
     ]
   },
@@ -5372,6 +5494,52 @@
       ],
       [
         "experimental hip-hop",
+        1
+      ]
+    ]
+  },
+  "636e0fb6-f2ad-45fc-b385-4d994665e7e3": {
+    "name": "Snoh Aalegra",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "rnb",
+        71
+      ],
+      [
+        "swedish",
+        28
+      ],
+      [
+        "pop",
+        24
+      ],
+      [
+        "female vocalists",
+        4
+      ],
+      [
+        "singer-songwriter",
+        3
+      ],
+      [
+        "female vocalist",
+        2
+      ],
+      [
+        "sweden",
+        1
+      ],
+      [
+        "alternative rnb",
+        1
+      ],
+      [
+        "r&b",
         1
       ]
     ]
@@ -11650,6 +11818,52 @@
       [
         "rap",
         2
+      ]
+    ]
+  },
+  "d1393ecb-431b-4fde-a6ea-d769f2f040cb": {
+    "name": "Kacey Musgraves",
+    "source": "lastfm",
+    "tags": [
+      [
+        "country",
+        100
+      ],
+      [
+        "female vocalists",
+        22
+      ],
+      [
+        "singer-songwriter",
+        13
+      ],
+      [
+        "pop",
+        13
+      ],
+      [
+        "country pop",
+        6
+      ],
+      [
+        "contemporary country",
+        6
+      ],
+      [
+        "american",
+        3
+      ],
+      [
+        "americana",
+        1
+      ],
+      [
+        "texas country",
+        1
+      ],
+      [
+        "female country",
+        1
       ]
     ]
   },

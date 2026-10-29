@@ -818,6 +818,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Trillions"
   },
+  "diiv|||under the sun": {
+    "artist": "DIIV",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Under the Sun"
+  },
   "dimension|||ghost town": {
     "artist": "Dimension",
     "category": "manual",
@@ -866,6 +873,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "CRUISING TO SELF SOOTHE"
+  },
+  "edapollo|||carry me home": {
+    "artist": "edapollo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Carry Me Home"
   },
   "erick the architect|||yerr": {
     "artist": "Erick the Architect",
@@ -1104,6 +1118,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "blue"
+  },
+  "girl in red|||missing person": {
+    "artist": "girl in red",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "missing person"
   },
   "girl in the year above|||wet paint": {
     "artist": "Girl In The Year Above",
@@ -1630,12 +1651,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Cross My Heart"
   },
+  "lisa|||rockstar": {
+    "artist": "LISA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Rockstar"
+  },
   "lisa|||sawadika": {
     "artist": "LISA",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "SaWaDiKa"
+  },
+  "lisa|||tarantino": {
+    "artist": "LISA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Tarantino"
   },
   "loathe|||fortress down": {
     "artist": "Loathe",
@@ -2854,6 +2889,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Cotton"
+  },
+  "vince staples|||tulsa, ok": {
+    "artist": "Vince Staples",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Tulsa, OK"
   },
   "voltage|||free": {
     "artist": "Voltage",
