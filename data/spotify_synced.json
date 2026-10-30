@@ -7,8 +7,13 @@
     },
     "spotify:track:1XzQ57ONjIpRYB878VuGnF": {
       "artist": "Fontaines D.C.",
-      "broadcast": "2026-10-20",
+      "broadcast": "2026-10-29",
       "title": "Tongue"
+    },
+    "spotify:track:1xFr3sjrzFFgCp3XuPsWDx": {
+      "artist": "Skye Newman",
+      "broadcast": "2026-10-29",
+      "title": "Hairdresser"
     },
     "spotify:track:1yIuPXnyODACJxaX9DjCuY": {
       "artist": "Wretch 32",
@@ -17,7 +22,7 @@
     },
     "spotify:track:25z8lSImljTzcHOJDfZaTp": {
       "artist": "DIIV",
-      "broadcast": "2026-10-28",
+      "broadcast": "2026-10-29",
       "title": "Dare Me"
     },
     "spotify:track:2KMVizTVC3iUOcG6il4lBr": {
@@ -25,9 +30,14 @@
       "broadcast": "2026-10-20",
       "title": "sex"
     },
+    "spotify:track:2PEr5UBQqLCtEXH64zInV0": {
+      "artist": "Skye Newman",
+      "broadcast": "2026-10-29",
+      "title": "Survival"
+    },
     "spotify:track:2XlS3xEvc3YOQi4SSBVU1K": {
       "artist": "Bicep",
-      "broadcast": "2026-10-28",
+      "broadcast": "2026-10-29",
       "title": "GAS"
     },
     "spotify:track:2b8BZIE6VefboEkZMrNhRX": {
@@ -72,7 +82,7 @@
     },
     "spotify:track:4o4uaxD9uSqnSzvig1qYTs": {
       "artist": "Skye Newman",
-      "broadcast": "2026-10-28",
+      "broadcast": "2026-10-29",
       "title": "Family Matters"
     },
     "spotify:track:52LIfXQUI69zfdPUSnZK0h": {
@@ -80,10 +90,20 @@
       "broadcast": "2026-10-28",
       "title": "Crazy?"
     },
+    "spotify:track:58zFqJYFqk8fXrfRu2DadO": {
+      "artist": "O’Flynn",
+      "broadcast": "2026-10-29",
+      "title": "Smoke 3 Tokes"
+    },
     "spotify:track:5S6Lu1hiwmipUZZV4g9n1Z": {
       "artist": "Florence Road",
       "broadcast": "2026-10-21",
       "title": "Wish Upon You"
+    },
+    "spotify:track:6PTgSuFz9JqQ1o0jTYOuvX": {
+      "artist": "MK",
+      "broadcast": "2026-10-29",
+      "title": "Dior"
     },
     "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i": {
       "artist": "Fontaines D.C.",
@@ -99,12 +119,32 @@
       "artist": "manifest",
       "broadcast": "2026-10-28",
       "title": "TRALALA"
+    },
+    "spotify:track:6j6BUfZgqVTq7edXZuq4mG": {
+      "artist": "Tiwa Savage",
+      "broadcast": "2026-10-29",
+      "title": "African Baddie"
+    },
+    "spotify:track:6zpeQpV1meY5BVLKYlmgwX": {
+      "artist": "Skepta",
+      "broadcast": "2026-10-29",
+      "title": "Pandora's Box"
+    },
+    "spotify:track:7ne4VBA60CxGM75vw0EYad": {
+      "artist": "Gracie Abrams",
+      "broadcast": "2026-10-29",
+      "title": "That's So True"
     }
   },
   "review": {
+    "spotify:track:0RW1UL8w8rjQkaIaljaFc5": {
+      "artist": "Remi Wolf",
+      "broadcast": "2026-10-29",
+      "title": "Photo ID"
+    },
     "spotify:track:0Rxs96nQeboThWCNzP4H0c": {
       "artist": "Remi Wolf",
-      "broadcast": "2026-10-28",
+      "broadcast": "2026-10-29",
       "title": "Champagne"
     }
   }
