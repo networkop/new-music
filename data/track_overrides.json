@@ -797,6 +797,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "snake the drain"
   },
+  "diiv|||dare me": {
+    "artist": "DIIV",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dare Me"
+  },
   "diiv|||kid": {
     "artist": "DIIV",
     "category": "manual",
@@ -867,6 +874,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "to love and to lose"
   },
+  "earthsignchels|||crazy?": {
+    "artist": "earthsignchels",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Crazy?"
+  },
   "ecca vandal|||cruising to self soothe": {
     "artist": "Ecca Vandal",
     "category": "manual",
@@ -880,6 +894,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Carry Me Home"
+  },
+  "enter shikari|||higher ground": {
+    "artist": "Enter Shikari",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Higher Ground"
   },
   "erick the architect|||yerr": {
     "artist": "Erick the Architect",
@@ -1154,6 +1175,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Stupid"
   },
+  "gracie abrams|||that's so true": {
+    "artist": "Gracie Abrams",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "That's So True"
+  },
   "gracie abrams|||what if it's right?": {
     "artist": "Gracie Abrams",
     "category": "manual",
@@ -1167,6 +1195,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "ACCELERANDO"
+  },
+  "gunna|||pop it": {
+    "artist": "Gunna",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "pop it"
   },
   "gurriers|||nothing happens twice": {
     "artist": "Gurriers",
@@ -1588,6 +1623,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Bang Bang Bang"
   },
+  "lambrini girls|||the basement": {
+    "artist": "Lambrini Girls",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "The Basement"
+  },
   "lancey foux|||rockstar rider": {
     "artist": "Lancey Foux",
     "category": "manual",
@@ -1714,6 +1756,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Nosedive"
   },
+  "manifest|||tralala": {
+    "artist": "manifest",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "TRALALA"
+  },
   "mary in the junkyard|||blood": {
     "artist": "mary in the junkyard",
     "category": "manual",
@@ -1790,6 +1839,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "17"
+  },
+  "mk|||dior": {
+    "artist": "MK",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dior"
   },
   "mk|||leaving": {
     "artist": "MK",
@@ -2071,6 +2127,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Faith In You"
   },
+  "o’flynn|||smoke 3 tokes": {
+    "artist": "O’Flynn",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Smoke 3 Tokes"
+  },
   "panicbaby|||i hate berlin!!": {
     "artist": "panicbaby",
     "category": "manual",
@@ -2175,6 +2238,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Insignificant Other"
+  },
+  "queens of the stone age|||run away from the mob": {
+    "artist": "Queens of the Stone Age",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Run Away From The Mob"
   },
   "queens of the stone age|||where the goth girls at": {
     "artist": "Queens of the Stone Age",
@@ -2484,6 +2554,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Innocent Smile"
   },
+  "skepta|||pandora's box": {
+    "artist": "Skepta",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Pandora's Box"
+  },
   "skepta|||shutdown": {
     "artist": "Skepta",
     "category": "manual",
@@ -2511,6 +2588,27 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Push"
+  },
+  "skye newman|||family matters": {
+    "artist": "Skye Newman",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Family Matters"
+  },
+  "skye newman|||hairdresser": {
+    "artist": "Skye Newman",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Hairdresser"
+  },
+  "skye newman|||survival": {
+    "artist": "Skye Newman",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Survival"
   },
   "slayr|||keep me going (birdbrain)": {
     "artist": "slayr",

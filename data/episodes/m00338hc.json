@@ -1,0 +1,1148 @@
+{
+  "pid": "m00338hc",
+  "broadcast_start": "2026-11-02T18:00:00Z",
+  "schedule_date": "2026-11-02",
+  "title": "Gracie Abrams Hottest Record",
+  "tracks": [
+    {
+      "artist": "Tiffany Day",
+      "title": "MEANT TO BE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghml9",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "MEANT TO BE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n9dz4r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p09jlr02",
+            "name": "glaive",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "fd36f43e-5bd1-488e-b844-0e059250ef78"
+          }
+        ],
+        "title": "MEANT TO BE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LISA",
+      "title": "Tarantino",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj81cm",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "Tarantino",
+        "track_number": null,
+        "publisher": "Songs Of Universal (BMI) / Thomas Van Der Bruggen (BUMA) (ASCAP) ",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9d6m8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "Tarantino",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "That's So True",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0k1vpfj",
+        "duration": 163,
+        "primary_contributor": {
+          "pid": "p0874dy1",
+          "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+          "name": "Gracie Abrams"
+        },
+        "artist": "Gracie Abrams",
+        "track_title": "That's So True",
+        "track_number": null,
+        "publisher": "Gracie Abrams administered by Universal Music Corp. (ASCAP) / Ashashash Music administered by Sony/ATV Tunes LLC (ASCAP)",
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "n8x23b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0874dy1",
+            "name": "Gracie Abrams",
+            "role": "Performer",
+            "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d"
+          }
+        ],
+        "title": "That's So True",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Too Cute To Be Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd854b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "Too Cute To Be Lonely",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cx66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "Too Cute To Be Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Hannah Montana",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgp55d",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Hannah Montana",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9dzxc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "Hannah Montana",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "Pretty Girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxwz2",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "Pretty Girls",
+        "track_number": null,
+        "publisher": "Reservoir, APOB (ASCAP)",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9dncr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "Pretty Girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Overthinker",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjxbyq",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Overthinker",
+        "track_number": null,
+        "publisher": "Universal Music Publishing Ltd",
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9d9m4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Overthinker",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "Hit the Wall",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nnxzvj",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p0874dy1",
+          "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+          "name": "Gracie Abrams"
+        },
+        "artist": "Gracie Abrams",
+        "track_title": "Hit the Wall",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Gracie Abrams, under exclusive license to Interscope Records",
+        "release_title": "Hit the Wall",
+        "record_id": "n98xp5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0874dy1",
+            "name": "Gracie Abrams",
+            "role": "Performer",
+            "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d"
+          }
+        ],
+        "title": "Hit the Wall",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "Here You Come, There You Go",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkf9g6",
+        "duration": 170,
+        "primary_contributor": {
+          "pid": "p0874dy1",
+          "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+          "name": "Gracie Abrams"
+        },
+        "artist": "Gracie Abrams",
+        "track_title": "Here You Come, There You Go",
+        "track_number": null,
+        "publisher": "Universal Music Group & Gracie Abrams; James Harmon Stack (ASCAP); Kenny + Betty Tunes, LLC ASCAP Pub Designee (ASCAP) All rights administered by WC Music Corp.; Gracie Abrams, administered by Univers",
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "n9dbg2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0874dy1",
+            "name": "Gracie Abrams",
+            "role": "Performer",
+            "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d"
+          }
+        ],
+        "title": "Here You Come, There You Go",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Lucky [Hymn]",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p90jl6",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Lucky [Hymn]",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9czvg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Lucky [Hymn]",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MK",
+      "title": "Choice",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkg0xb",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p01h64zx",
+          "musicbrainz_gid": "4545675e-4006-4271-8e82-703cae7e1748",
+          "name": "MK"
+        },
+        "artist": "MK",
+        "track_title": "Choice",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n9dbgd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01h64zx",
+            "name": "MK",
+            "role": "Performer",
+            "musicbrainz_gid": "4545675e-4006-4271-8e82-703cae7e1748"
+          },
+          {
+            "pid": "p08kfq12",
+            "name": "Kareen Lomax",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e19f9c0f-6010-4db6-a8aa-29c8c0b74906"
+          }
+        ],
+        "title": "Choice",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skye Newman",
+      "title": "Survival",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkc05b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0l29r1k",
+          "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86",
+          "name": "Skye Newman"
+        },
+        "artist": "Skye Newman",
+        "track_title": "Survival",
+        "track_number": null,
+        "publisher": "Sony Music",
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9drqh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l29r1k",
+            "name": "Skye Newman",
+            "role": "Performer",
+            "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86"
+          }
+        ],
+        "title": "Survival",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "fakemink",
+      "title": "Chiltern Firehouse.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwqmz",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0kyb04q",
+          "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99",
+          "name": "fakemink"
+        },
+        "artist": "fakemink",
+        "track_title": "Chiltern Firehouse.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EtnaVeraVela",
+        "release_title": null,
+        "record_id": "n9d5gf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyb04q",
+            "name": "fakemink",
+            "role": "Performer",
+            "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Chiltern Firehouse.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Love Triangle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd2f9t",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Love Triangle",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "GGL Records",
+        "release_title": null,
+        "record_id": "n9cdhf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          },
+          {
+            "pid": "p04ztc0m",
+            "name": "Caroline Polachek",
+            "role": "Performer",
+            "musicbrainz_gid": "d8f43dc5-4613-48ac-8c23-a62b82f8c67a"
+          },
+          {
+            "pid": "p00zm6cf",
+            "name": "SebastiAn",
+            "role": "Performer",
+            "musicbrainz_gid": "4072139a-699c-4011-9bcc-baae6f959390"
+          }
+        ],
+        "title": "Love Triangle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gunna",
+      "title": "pop it",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph93yt",
+        "duration": 137,
+        "primary_contributor": {
+          "pid": "p053g0h6",
+          "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+          "name": "Gunna"
+        },
+        "artist": "Gunna",
+        "track_title": "pop it",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing",
+        "record_label": "Gunna",
+        "release_title": null,
+        "record_id": "n9cvp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p053g0h6",
+            "name": "Gunna",
+            "role": "Performer",
+            "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+          }
+        ],
+        "title": "pop it",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erick the Architect",
+      "title": "Yerr",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3pt2",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p02g7gk6",
+          "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c",
+          "name": "Erick the Architect"
+        },
+        "artist": "Erick the Architect",
+        "track_title": "Yerr",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Erick The Architect",
+        "release_title": null,
+        "record_id": "n9d645",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02g7gk6",
+            "name": "Erick the Architect",
+            "role": "Performer",
+            "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c"
+          },
+          {
+            "pid": "p012dj7w",
+            "name": "Ghostface Killah",
+            "role": "Performer",
+            "musicbrainz_gid": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb"
+          },
+          {
+            "pid": "p0pj3pt8",
+            "name": "Fergie Baby",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ef8af4d8-3866-403a-a048-89f0304326e0"
+          }
+        ],
+        "title": "Yerr",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gurriers",
+      "title": "Waiting For Fisher",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9ps4",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p0f0fgjx",
+          "musicbrainz_gid": "b3e28883-d118-4180-b458-568a18bc239d",
+          "name": "Gurriers"
+        },
+        "artist": "Gurriers",
+        "track_title": "Waiting For Fisher",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Play It Again Sam",
+        "release_title": null,
+        "record_id": "n9crh3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f0fgjx",
+            "name": "Gurriers",
+            "role": "Performer",
+            "musicbrainz_gid": "b3e28883-d118-4180-b458-568a18bc239d"
+          }
+        ],
+        "title": "Waiting For Fisher",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Keo",
+      "title": "Be Happy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd88qr",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p0l88m1z",
+          "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+          "name": "Keo"
+        },
+        "artist": "Keo",
+        "track_title": "Be Happy",
+        "track_number": null,
+        "publisher": "Universal Music Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n9c85h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l88m1z",
+            "name": "Keo",
+            "role": "Performer",
+            "musicbrainz_gid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc"
+          }
+        ],
+        "title": "Be Happy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Champagne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghtqk",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Champagne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cmh6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Champagne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Natanya",
+      "title": "SHOW ME RIGHT!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8mdqb",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0c5n2dl",
+          "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e",
+          "name": "Natanya"
+        },
+        "artist": "Natanya",
+        "track_title": "SHOW ME RIGHT!",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bmwg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c5n2dl",
+            "name": "Natanya",
+            "role": "Performer",
+            "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e"
+          }
+        ],
+        "title": "SHOW ME RIGHT!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiwa Savage",
+      "title": "African Baddie",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkc6tg",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p01knr2k",
+          "musicbrainz_gid": "9d9f7ce8-e1cf-4413-b2c9-b90b69bc17f6",
+          "name": "Tiwa Savage"
+        },
+        "artist": "Tiwa Savage",
+        "track_title": "African Baddie",
+        "track_number": null,
+        "publisher": "Tiwa Savage",
+        "record_label": "Tiwa Savage",
+        "release_title": null,
+        "record_id": "n9drm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01knr2k",
+            "name": "Tiwa Savage",
+            "role": "Performer",
+            "musicbrainz_gid": "9d9f7ce8-e1cf-4413-b2c9-b90b69bc17f6"
+          }
+        ],
+        "title": "African Baddie",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Capo Lee",
+      "title": "What's Wrong",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3qjs",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p03ffl7f",
+          "musicbrainz_gid": "15f2cd9b-4e6b-469e-b8bb-8246adba33c9",
+          "name": "Capo Lee"
+        },
+        "artist": "Capo Lee",
+        "track_title": "What's Wrong",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d648",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03ffl7f",
+            "name": "Capo Lee",
+            "role": "Performer",
+            "musicbrainz_gid": "15f2cd9b-4e6b-469e-b8bb-8246adba33c9"
+          },
+          {
+            "pid": "p07jxw7l",
+            "name": "Pa Salieu",
+            "role": "Performer",
+            "musicbrainz_gid": "03100b87-7d27-4d56-b049-2007599656cc"
+          }
+        ],
+        "title": "What's Wrong",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "HAAi",
+      "title": "Talking Walls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy4lv",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p06hxkxm",
+          "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27",
+          "name": "HAAi"
+        },
+        "artist": "HAAi",
+        "track_title": "Talking Walls",
+        "track_number": null,
+        "publisher": "BMG Publishing",
+        "record_label": "Mute Artists",
+        "release_title": null,
+        "record_id": "n9cv8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06hxkxm",
+            "name": "HAAi",
+            "role": "Performer",
+            "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27"
+          },
+          {
+            "pid": "p090wdkl",
+            "name": "Skybreak",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3f2dd37c-0e6d-4624-9524-931b759caa0e"
+          },
+          {
+            "pid": "p0pfw13r",
+            "name": "Cantoalegre",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34a2ee72-fe59-4c10-b492-be2c82c6eb71"
+          }
+        ],
+        "title": "Talking Walls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "untitled (halo)",
+      "title": "sex",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgpl02",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p0ghbj36",
+          "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789",
+          "name": "untitled (halo)"
+        },
+        "artist": "untitled (halo)",
+        "track_title": "sex",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n9cwmp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ghbj36",
+            "name": "untitled (halo)",
+            "role": "Performer",
+            "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789"
+          }
+        ],
+        "title": "sex",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Pip Millet",
+      "title": "Mad",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9sxm",
+        "duration": 161,
+        "primary_contributor": {
+          "pid": "p0pf9sxr",
+          "musicbrainz_gid": null,
+          "name": "Pip Millet"
+        },
+        "artist": "Pip Millet",
+        "track_title": "Mad",
+        "track_number": null,
+        "publisher": "Metropolis Songs",
+        "record_label": "Mixpak Records",
+        "release_title": null,
+        "record_id": "n9cxhn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf9sxr",
+            "name": "Pip Millet",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Mad",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "On Video",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghlgq",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "On Video",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "A24 Music",
+        "release_title": null,
+        "record_id": "n9cdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "On Video",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Say Now",
+      "title": "Hot & talking",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqsdr",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p0gjrqc4",
+          "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e",
+          "name": "Say Now"
+        },
+        "artist": "Say Now",
+        "track_title": "Hot & talking",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records UK",
+        "release_title": null,
+        "record_id": "n9d9cj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gjrqc4",
+            "name": "Say Now",
+            "role": "Performer",
+            "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e"
+          }
+        ],
+        "title": "Hot & talking",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ashe",
+      "title": "Lasso The Moon",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pky3zd",
+        "duration": 222,
+        "primary_contributor": {
+          "pid": "p06xlksz",
+          "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409",
+          "name": "Ashe"
+        },
+        "artist": "Ashe",
+        "track_title": "Lasso The Moon",
+        "track_number": "2",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "The Girl Of Your Dreams",
+        "record_id": "n9d5gc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06xlksz",
+            "name": "Ashe",
+            "role": "Performer",
+            "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409"
+          }
+        ],
+        "title": "Lasso The Moon",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Tulsa, OK",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqqnk",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p01tcdsh",
+          "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+          "name": "Vince Staples"
+        },
+        "artist": "Vince Staples",
+        "track_title": "Tulsa, OK",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n9d9c8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01tcdsh",
+            "name": "Vince Staples",
+            "role": "Performer",
+            "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff"
+          }
+        ],
+        "title": "Tulsa, OK",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Smith",
+      "title": "Mr Right",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgj1j2",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0k87k3z",
+          "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca",
+          "name": "Nia Smith"
+        },
+        "artist": "Nia Smith",
+        "track_title": "Mr Right",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cqx5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k87k3z",
+            "name": "Nia Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca"
+          }
+        ],
+        "title": "Mr Right",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
