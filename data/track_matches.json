@@ -1824,6 +1824,11 @@
     "score": 1.0,
     "uri": "spotify:track:0C9GRYGgChsl5aHBxSEJoX"
   },
+  "megan thee stallion|||thin ice": {
+    "matched": "Megan Thee Stallion - Thin Ice",
+    "score": 1.0,
+    "uri": "spotify:track:30kdhH71QYFC1WBBz89chu"
+  },
   "mette|||small world": {
     "matched": "METTE - SMALL WORLD",
     "score": 1.0,
@@ -2473,6 +2478,11 @@
     "matched": "Shygirl - Cleo",
     "score": 1.0,
     "uri": "spotify:track:329bGHOHCK2HFuTkrVvJKQ"
+  },
+  "shygirl|||eternal": {
+    "matched": "Shygirl - Eternal",
+    "score": 1.0,
+    "uri": "spotify:track:7e26IslZ17O3l39AkNNJ8Z"
   },
   "shygirl|||lucky [hymn]": {
     "matched": "Shygirl - Lucky[Hymn]",

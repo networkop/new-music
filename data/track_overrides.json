@@ -1175,6 +1175,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Stupid"
   },
+  "gracie abrams|||here you come, there you go": {
+    "artist": "Gracie Abrams",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Here You Come, There You Go"
+  },
+  "gracie abrams|||hit the wall": {
+    "artist": "Gracie Abrams",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Hit the Wall"
+  },
   "gracie abrams|||that's so true": {
     "artist": "Gracie Abrams",
     "category": "manual",
@@ -2875,6 +2889,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Love Ruins Everything"
+  },
+  "tiwa savage|||african baddie": {
+    "artist": "Tiwa Savage",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "African Baddie"
   },
   "tom grennan|||found what i've been looking for": {
     "artist": "Tom Grennan",
