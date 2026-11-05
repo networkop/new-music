@@ -1,0 +1,1106 @@
+{
+  "pid": "m00338vs",
+  "broadcast_start": "2026-11-04T18:00:00Z",
+  "schedule_date": "2026-11-04",
+  "title": "Royal Blood Hottest Record",
+  "tracks": [
+    {
+      "artist": "South Arcade",
+      "title": "F.A.M.O.U.S",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjdqkl",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p0dbxqn0",
+          "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3",
+          "name": "South Arcade"
+        },
+        "artist": "South Arcade",
+        "track_title": "F.A.M.O.U.S",
+        "track_number": "1",
+        "publisher": "Kobalt Music Publishing Ltd",
+        "record_label": "BKM Artists Ltd / Atlantic",
+        "release_title": "F.A.M.O.U.S",
+        "record_id": "n9c2fn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbxqn0",
+            "name": "South Arcade",
+            "role": "Performer",
+            "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3"
+          }
+        ],
+        "title": "F.A.M.O.U.S",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Roses",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pby453",
+        "duration": 186,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Roses",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9c8hw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Roses",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Figure it Out",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p023bkv0",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Figure it Out",
+        "track_number": null,
+        "publisher": "Warner Chappell",
+        "record_label": "Warner Bros",
+        "release_title": null,
+        "record_id": "n2jgqv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Figure it Out",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Cloonee",
+      "title": "Back Of The Club",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcl5dr",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p06lx7yf",
+          "musicbrainz_gid": "b643c24d-4cd6-4531-88bc-62b39ce43ee1",
+          "name": "Cloonee"
+        },
+        "artist": "Cloonee",
+        "track_title": "Back Of The Club",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Good Music For Bad People via Ministry Of Sound",
+        "release_title": null,
+        "record_id": "n9cbbv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06lx7yf",
+            "name": "Cloonee",
+            "role": "Performer",
+            "musicbrainz_gid": "b643c24d-4cd6-4531-88bc-62b39ce43ee1"
+          }
+        ],
+        "title": "Back Of The Club",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gunna",
+      "title": "pop it",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph93yt",
+        "duration": 137,
+        "primary_contributor": {
+          "pid": "p053g0h6",
+          "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+          "name": "Gunna"
+        },
+        "artist": "Gunna",
+        "track_title": "pop it",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing",
+        "record_label": "Gunna",
+        "release_title": null,
+        "record_id": "n9cvp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p053g0h6",
+            "name": "Gunna",
+            "role": "Performer",
+            "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+          }
+        ],
+        "title": "pop it",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "Party",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbrhp4",
+        "duration": 200,
+        "primary_contributor": {
+          "pid": "p023qjwv",
+          "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "name": "Troye Sivan"
+        },
+        "artist": "Troye Sivan",
+        "track_title": "Party",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Interscope",
+        "release_title": null,
+        "record_id": "n9c84q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p023qjwv",
+            "name": "Troye Sivan",
+            "role": "Performer",
+            "musicbrainz_gid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+          }
+        ],
+        "title": "Party",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nieve Ella",
+      "title": "I'm Not Dead",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgj4mx",
+        "duration": 253,
+        "primary_contributor": {
+          "pid": "p0dbjfyz",
+          "musicbrainz_gid": "0d351b4b-7986-4fd2-ac7f-40fdf2a34c71",
+          "name": "Nieve Ella"
+        },
+        "artist": "Nieve Ella",
+        "track_title": "I'm Not Dead",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dzpr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbjfyz",
+            "name": "Nieve Ella",
+            "role": "Performer",
+            "musicbrainz_gid": "0d351b4b-7986-4fd2-ac7f-40fdf2a34c71"
+          }
+        ],
+        "title": "I'm Not Dead",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Dead Company",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj5r8m",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Dead Company",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cw94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Dead Company",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Mother Never Told You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbf88",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Mother Never Told You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": "Dead Company",
+        "record_id": "n9dxgm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Mother Never Told You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "WHATS POPPIN",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0kft6d3",
+        "duration": 139,
+        "primary_contributor": {
+          "pid": "p078wms5",
+          "musicbrainz_gid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+          "name": "Jack Harlow"
+        },
+        "artist": "Jack Harlow",
+        "track_title": "WHATS POPPIN",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic",
+        "release_title": null,
+        "record_id": "n62bgb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p078wms5",
+            "name": "Jack Harlow",
+            "role": "Performer",
+            "musicbrainz_gid": "134cb0bc-06fa-42f7-8078-b0c858349975"
+          }
+        ],
+        "title": "WHATS POPPIN",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Eternal",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pl509r",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Eternal",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": "SWALLOW",
+        "record_id": "n9dx5v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Eternal",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "title": "Where The Goth Girls At",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4gzl",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p012d8dd",
+          "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+          "name": "Queens of the Stone Age"
+        },
+        "artist": "Queens of the Stone Age",
+        "track_title": "Where The Goth Girls At",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Matador Records",
+        "release_title": null,
+        "record_id": "n9c9n9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8dd",
+            "name": "Queens of the Stone Age",
+            "role": "Performer",
+            "musicbrainz_gid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
+          }
+        ],
+        "title": "Where The Goth Girls At",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Fender",
+      "title": "You Can't Always Get What You Want",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbj54",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p051jf68",
+          "musicbrainz_gid": "3478a5d1-bd96-4584-aa54-4d6e0a329658",
+          "name": "Sam Fender"
+        },
+        "artist": "Sam Fender",
+        "track_title": "You Can't Always Get What You Want",
+        "track_number": null,
+        "publisher": "ABKCO Music Ltd. / ABKCO Music, Inc. / Onward Music Ltd. / Westminster Music Ltd",
+        "record_label": "Polydor",
+        "release_title": null,
+        "record_id": "n9ddmf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p051jf68",
+            "name": "Sam Fender",
+            "role": "Performer",
+            "musicbrainz_gid": "3478a5d1-bd96-4584-aa54-4d6e0a329658"
+          }
+        ],
+        "title": "You Can't Always Get What You Want",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Victoria Monét",
+      "title": "See You In My Dreams",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4h2t",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p054xmtv",
+          "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd",
+          "name": "Victoria Monét"
+        },
+        "artist": "Victoria Monét",
+        "track_title": "See You In My Dreams",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cwz4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p054xmtv",
+            "name": "Victoria Monét",
+            "role": "Performer",
+            "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "See You In My Dreams",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "That Mexican OT",
+      "title": "I Can't",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfrrwt",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0gcpk8k",
+          "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215",
+          "name": "That Mexican OT"
+        },
+        "artist": "That Mexican OT",
+        "track_title": "I Can't",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cj98",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gcpk8k",
+            "name": "That Mexican OT",
+            "role": "Performer",
+            "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215"
+          },
+          {
+            "pid": "p0pfrrx4",
+            "name": "OC Chris",
+            "role": "Performer",
+            "musicbrainz_gid": "5a3b2af4-9be2-4f3b-94a7-cbd3e17fa0d1"
+          }
+        ],
+        "title": "I Can't",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wishy",
+      "title": "Mona Lisa",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9mhhk",
+        "duration": 271,
+        "primary_contributor": {
+          "pid": "p0gpp6ss",
+          "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42",
+          "name": "Wishy"
+        },
+        "artist": "Wishy",
+        "track_title": "Mona Lisa",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Winspear",
+        "release_title": null,
+        "record_id": "n9c4n2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gpp6ss",
+            "name": "Wishy",
+            "role": "Performer",
+            "musicbrainz_gid": "30f10b3a-cd98-414d-b7e5-336931335f42"
+          }
+        ],
+        "title": "Mona Lisa",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Original Koffee",
+      "title": "OVA SO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8g5gg",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p06nvt6n",
+          "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725",
+          "name": "Original Koffee"
+        },
+        "artist": "Original Koffee",
+        "track_title": "OVA SO",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bm4c",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "OVA SO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "BNXN",
+      "title": "Online",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phphs0",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p0cy9ykp",
+          "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9",
+          "name": "BNXN"
+        },
+        "artist": "BNXN",
+        "track_title": "Online",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EMPIRE RECORDS",
+        "release_title": null,
+        "record_id": "n9c5dn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cy9ykp",
+            "name": "BNXN",
+            "role": "Performer",
+            "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9"
+          }
+        ],
+        "title": "Online",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "JJerome87",
+      "title": "Mr. Alligator",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4f5v",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p0myjprs",
+          "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9",
+          "name": "JJerome87"
+        },
+        "artist": "JJerome87",
+        "track_title": "Mr. Alligator",
+        "track_number": null,
+        "publisher": "Warner Chappell Music Ltd",
+        "record_label": "Universal Music Group",
+        "release_title": "The Canyon",
+        "record_id": "n9chmq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0myjprs",
+            "name": "JJerome87",
+            "role": "Performer",
+            "musicbrainz_gid": "b372c503-8488-41b2-aca0-224c4fe565c9"
+          },
+          {
+            "pid": "p012ddn2",
+            "name": "alt‐J",
+            "role": "Performer",
+            "musicbrainz_gid": "fc7bbf00-fbaa-4736-986b-b3ac0266ca9b"
+          }
+        ],
+        "title": "Mr. Alligator",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "12 to 12 (Radio 1 Live Lounge, 3rd November 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pl5bb2",
+        "duration": 263,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "12 to 12 (Radio 1 Live Lounge, 3rd November 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dx6r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "12 to 12 (Radio 1 Live Lounge, 3rd November 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Where Is Gone?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbmzb",
+        "duration": 313,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Where Is Gone?",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9cmgv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          },
+          {
+            "pid": "p062kbbl",
+            "name": "ROSALÍA",
+            "role": "Performer",
+            "musicbrainz_gid": "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+          }
+        ],
+        "title": "Where Is Gone?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skye Newman",
+      "title": "Survival",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkc05b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0l29r1k",
+          "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86",
+          "name": "Skye Newman"
+        },
+        "artist": "Skye Newman",
+        "track_title": "Survival",
+        "track_number": null,
+        "publisher": "Sony Music",
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9drqh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l29r1k",
+            "name": "Skye Newman",
+            "role": "Performer",
+            "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86"
+          }
+        ],
+        "title": "Survival",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Anonymous",
+      "title": "JOY (Play Power)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbpnq",
+        "duration": 283,
+        "primary_contributor": {
+          "pid": "p07n3hrv",
+          "musicbrainz_gid": "60b687bb-5e47-400b-9ebd-f1c1f0c3b948",
+          "name": "Joy Anonymous"
+        },
+        "artist": "Joy Anonymous",
+        "track_title": "JOY (Play Power)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Future Music Group",
+        "release_title": null,
+        "record_id": "n9dbvr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07n3hrv",
+            "name": "Joy Anonymous",
+            "role": "Performer",
+            "musicbrainz_gid": "60b687bb-5e47-400b-9ebd-f1c1f0c3b948"
+          }
+        ],
+        "title": "JOY (Play Power)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Eli Brown",
+      "title": "Frequency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbpzv",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p058qhlk",
+          "musicbrainz_gid": "61bb4f68-d1a3-4a04-aa36-536c36135408",
+          "name": "Eli Brown"
+        },
+        "artist": "Eli Brown",
+        "track_title": "Frequency",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "INSOMNIAC Records",
+        "release_title": null,
+        "record_id": "n9dxh9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p058qhlk",
+            "name": "Eli Brown",
+            "role": "Performer",
+            "musicbrainz_gid": "61bb4f68-d1a3-4a04-aa36-536c36135408"
+          },
+          {
+            "pid": "p014rdgk",
+            "name": "Dimension",
+            "role": "Performer",
+            "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3"
+          }
+        ],
+        "title": "Frequency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Grimes",
+      "title": "ACCELERANDO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghrdk",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p012dskw",
+          "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+          "name": "Grimes"
+        },
+        "artist": "Grimes",
+        "track_title": "ACCELERANDO",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Eternal Recurrence",
+        "release_title": "ACCELERANDO",
+        "record_id": "n9cmhv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dskw",
+            "name": "Grimes",
+            "role": "Performer",
+            "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222"
+          },
+          {
+            "pid": "p0pgc1tg",
+            "name": "VADAKIN",
+            "role": "Performer",
+            "musicbrainz_gid": "9ff09fe5-22e5-4c4f-b6e2-bc7899f8ac54"
+          }
+        ],
+        "title": "ACCELERANDO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CA7RIEL & Paco Amoroso",
+      "title": "Sexy Magic",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd1qvz",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p0pccq67",
+          "musicbrainz_gid": "ce106ca8-401d-4860-ace3-dbc3a204bb86",
+          "name": "CA7RIEL & Paco Amoroso"
+        },
+        "artist": "CA7RIEL & Paco Amoroso",
+        "track_title": "Sexy Magic",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cdg6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pccq67",
+            "name": "CA7RIEL & Paco Amoroso",
+            "role": "Performer",
+            "musicbrainz_gid": "ce106ca8-401d-4860-ace3-dbc3a204bb86"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Performer",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          },
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p01k3ljm",
+            "name": "Étienne de Crécy",
+            "role": "Performer",
+            "musicbrainz_gid": "f174152d-da33-46bd-8cb4-c8d24b834bf7"
+          }
+        ],
+        "title": "Sexy Magic",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "title": "Summer Clothes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4djn",
+        "duration": 203,
+        "primary_contributor": {
+          "pid": "p012ddn4",
+          "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1",
+          "name": "Michael Kiwanuka"
+        },
+        "artist": "Michael Kiwanuka",
+        "track_title": "Summer Clothes",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cfdb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012ddn4",
+            "name": "Michael Kiwanuka",
+            "role": "Performer",
+            "musicbrainz_gid": "11f570ff-44d9-4e9c-8812-e6d56103c5c1"
+          }
+        ],
+        "title": "Summer Clothes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Benjamin Steer",
+      "title": "Everything Is Right Where It Needs To Be",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9ylb",
+        "duration": 155,
+        "primary_contributor": {
+          "pid": "p0kyl2nq",
+          "musicbrainz_gid": "5d6f4f63-edd8-40b9-9940-b54d6a1e6316",
+          "name": "Benjamin Steer"
+        },
+        "artist": "Benjamin Steer",
+        "track_title": "Everything Is Right Where It Needs To Be",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Artist Theory",
+        "release_title": null,
+        "record_id": "n9cwrv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyl2nq",
+            "name": "Benjamin Steer",
+            "role": "Performer",
+            "musicbrainz_gid": "5d6f4f63-edd8-40b9-9940-b54d6a1e6316"
+          }
+        ],
+        "title": "Everything Is Right Where It Needs To Be",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Grennan",
+      "title": "Wrapped In Gold",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj6d3b",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p046283t",
+          "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "name": "Tom Grennan"
+        },
+        "artist": "Tom Grennan",
+        "track_title": "Wrapped In Gold",
+        "track_number": null,
+        "publisher": "Sony ATV Music Publishing Limited / Writers Music Publishing / Edition 4 Elisa / Budde Music Publishing",
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9d63m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p046283t",
+            "name": "Tom Grennan",
+            "role": "Performer",
+            "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa"
+          }
+        ],
+        "title": "Wrapped In Gold",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

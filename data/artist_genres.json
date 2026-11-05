@@ -1103,6 +1103,52 @@
       ]
     ]
   },
+  "134cb0bc-06fa-42f7-8078-b0c858349975": {
+    "name": "Jack Harlow",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rap",
+        100
+      ],
+      [
+        "hip-hop",
+        71
+      ],
+      [
+        "trap",
+        19
+      ],
+      [
+        "hip hop",
+        14
+      ],
+      [
+        "pop rap",
+        5
+      ],
+      [
+        "pop",
+        2
+      ],
+      [
+        "usa",
+        1
+      ],
+      [
+        "deep underground hip hop",
+        1
+      ],
+      [
+        "cracker",
+        1
+      ],
+      [
+        "american",
+        1
+      ]
+    ]
+  },
   "13637ef6-e659-4c2e-9e78-ba0acceaa10e": {
     "name": "Travy",
     "source": "lastfm",
@@ -2620,6 +2666,52 @@
       [
         "america",
         2
+      ]
+    ]
+  },
+  "3478a5d1-bd96-4584-aa54-4d6e0a329658": {
+    "name": "Sam Fender",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie rock",
+        100
+      ],
+      [
+        "indie",
+        52
+      ],
+      [
+        "my top songs",
+        29
+      ],
+      [
+        "rock",
+        29
+      ],
+      [
+        "british",
+        13
+      ],
+      [
+        "heartland rock",
+        10
+      ],
+      [
+        "singer-songwriter",
+        8
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "pop rock",
+        1
+      ],
+      [
+        "england",
+        1
       ]
     ]
   },
@@ -5360,6 +5452,40 @@
       ]
     ]
   },
+  "60b687bb-5e47-400b-9ebd-f1c1f0c3b948": {
+    "name": "Joy Anonymous",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "electronic",
+        100
+      ],
+      [
+        "uk garage",
+        66
+      ],
+      [
+        "techno",
+        7
+      ],
+      [
+        "british",
+        4
+      ],
+      [
+        "drum and bass",
+        4
+      ],
+      [
+        "edm",
+        4
+      ]
+    ]
+  },
   "6143403a-df6c-429e-8ee6-ef869896b0da": {
     "name": "Quavo",
     "source": "lastfm",
@@ -5448,6 +5574,52 @@
       ],
       [
         "beats",
+        1
+      ]
+    ]
+  },
+  "61bb4f68-d1a3-4a04-aa36-536c36135408": {
+    "name": "Eli Brown",
+    "source": "lastfm",
+    "tags": [
+      [
+        "techno",
+        100
+      ],
+      [
+        "house",
+        69
+      ],
+      [
+        "tech house",
+        46
+      ],
+      [
+        "electronic",
+        29
+      ],
+      [
+        "english",
+        1
+      ],
+      [
+        "uk",
+        1
+      ],
+      [
+        "usa",
+        1
+      ],
+      [
+        "not techno",
+        1
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "melodic house and techno",
         1
       ]
     ]

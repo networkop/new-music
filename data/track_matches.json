@@ -259,6 +259,11 @@
     "score": 1.0,
     "uri": "spotify:track:1aeU0ElUC1sbK0uNWp7Ks2"
   },
+  "benjamin steer|||everything is right where it needs to be": {
+    "matched": "Benjamin Steer - Everything Is Right Where It Needs To Be",
+    "score": 1.0,
+    "uri": "spotify:track:0SRNJlflcDvwuKk4NwMKvU"
+  },
   "benjamin steer|||flatline": {
     "matched": "Benjamin Steer - Flatline",
     "score": 1.0,
@@ -659,6 +664,11 @@
     "score": 1.0,
     "uri": "spotify:track:2Q2sfmBfIuzYVJt1fjuCH1"
   },
+  "cloonee|||back of the club": {
+    "matched": "Cloonee - Back Of The Club",
+    "score": 1.0,
+    "uri": "spotify:track:2Ie88Tx1XaF90bbBNoBffE"
+  },
   "cloonee|||good girl": {
     "matched": "Cloonee - Good Girl",
     "score": 1.0,
@@ -833,6 +843,11 @@
     "matched": "edapollo - Carry Me Home",
     "score": 1.0,
     "uri": "spotify:track:0NZB0UAYUMi6G9AWr0wI7T"
+  },
+  "eli brown|||frequency": {
+    "matched": "Eli Brown - Frequency",
+    "score": 1.0,
+    "uri": "spotify:track:2X9niMzzXId2fNe3wu6l2e"
   },
   "enter shikari|||higher ground": {
     "matched": "Enter Shikari - Higher Ground",
@@ -1364,6 +1379,11 @@
     "score": 1.0,
     "uri": "spotify:track:2fQpJcpE7EoVLVi7qoRcwQ"
   },
+  "jack harlow|||whats poppin": {
+    "matched": "Jack Harlow - WHATS POPPIN",
+    "score": 1.0,
+    "uri": "spotify:track:1jaTQ3nqY3oAAYyCTbIvnM"
+  },
   "jae5|||take nobody": {
     "matched": "JAE5 - TAKE NOBODY (featuring J Hus & Skillibeng)",
     "score": 1.0,
@@ -1478,6 +1498,11 @@
     "matched": "Josh Baker - Souvenir",
     "score": 1.0,
     "uri": "spotify:track:7mFoGLIUn1M7ORFx53eEVa"
+  },
+  "joy anonymous|||joy (play power)": {
+    "matched": "Joy Anonymous - JOY (Play Power)",
+    "score": 1.0,
+    "uri": "spotify:track:6LaPQWySsvuXfpFb2vt1CN"
   },
   "juls|||cutlass": {
     "matched": null,
@@ -2009,6 +2034,11 @@
     "score": 1.0,
     "uri": "spotify:track:6ybNNGb5PdHL31Fg0KNjrB"
   },
+  "nieve ella|||i'm not dead": {
+    "matched": "Nieve Ella - I’M NOT DEAD",
+    "score": 1.0,
+    "uri": "spotify:track:7bx8oQpOzKqKfLLLLOfNgM"
+  },
   "nieve ella|||romance is a desert": {
     "matched": "Nieve Ella - Romance Is A Desert",
     "score": 1.0,
@@ -2274,6 +2304,11 @@
     "score": 1.0,
     "uri": "spotify:track:7c0oKEgUPN6nQ5dwhzzs3m"
   },
+  "remi wolf|||12 to 12 (radio 1 live lounge, 3rd november 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
   "remi wolf|||bottle": {
     "matched": "Remi Wolf - Bottle",
     "score": 1.0,
@@ -2379,6 +2414,16 @@
     "score": 1.0,
     "uri": "spotify:track:01oyX4Sq1w6ZpgeOUHdqsJ"
   },
+  "royal blood|||figure it out": {
+    "matched": "Royal Blood - Figure It Out",
+    "score": 1.0,
+    "uri": "spotify:track:1zFmj3FngtB3QTdWwvdUNY"
+  },
+  "royal blood|||mother never told you": {
+    "matched": "Royal Blood - Mother Never Told You",
+    "score": 1.0,
+    "uri": "spotify:track:0dyMMaFJW1vHSPTqUvv7VY"
+  },
   "royal blood|||swallow the bomb": {
     "matched": "Royal Blood - Swallow The Bomb",
     "score": 1.0,
@@ -2408,6 +2453,11 @@
     "matched": "Saint Ludo - Subliminals",
     "score": 1.0,
     "uri": "spotify:track:7bKOSK0A7avlnrnoDLnete"
+  },
+  "sam fender|||you can't always get what you want": {
+    "matched": "Sam Fender - You Can't Always Get What You Want",
+    "score": 1.0,
+    "uri": "spotify:track:6zhR2wbiqSEZwjP28aHEDY"
   },
   "sam gellaitry|||longing": {
     "matched": "Sam Gellaitry - LONGING",

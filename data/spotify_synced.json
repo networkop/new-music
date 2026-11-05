@@ -1,5 +1,15 @@
 {
   "keep": {
+    "spotify:track:0SRNJlflcDvwuKk4NwMKvU": {
+      "artist": "Benjamin Steer",
+      "broadcast": "2026-11-04",
+      "title": "Everything Is Right Where It Needs To Be"
+    },
+    "spotify:track:0dyMMaFJW1vHSPTqUvv7VY": {
+      "artist": "Royal Blood",
+      "broadcast": "2026-11-04",
+      "title": "Mother Never Told You"
+    },
     "spotify:track:1Va3leaBTjd9HUGNbuI97i": {
       "artist": "John Glacier",
       "broadcast": "2026-10-20",
@@ -10,10 +20,25 @@
       "broadcast": "2026-10-29",
       "title": "Tongue"
     },
+    "spotify:track:1jaTQ3nqY3oAAYyCTbIvnM": {
+      "artist": "Jack Harlow",
+      "broadcast": "2026-11-04",
+      "title": "WHATS POPPIN"
+    },
     "spotify:track:1yIuPXnyODACJxaX9DjCuY": {
       "artist": "Wretch 32",
       "broadcast": "2026-10-15",
       "title": "Fire In The Booth"
+    },
+    "spotify:track:1zFmj3FngtB3QTdWwvdUNY": {
+      "artist": "Royal Blood",
+      "broadcast": "2026-11-04",
+      "title": "Figure it Out"
+    },
+    "spotify:track:2Ie88Tx1XaF90bbBNoBffE": {
+      "artist": "Cloonee",
+      "broadcast": "2026-11-04",
+      "title": "Back Of The Club"
     },
     "spotify:track:2KMVizTVC3iUOcG6il4lBr": {
       "artist": "untitled (halo)",
@@ -24,6 +49,11 @@
       "artist": "MK",
       "broadcast": "2026-11-02",
       "title": "Choice"
+    },
+    "spotify:track:2X9niMzzXId2fNe3wu6l2e": {
+      "artist": "Eli Brown",
+      "broadcast": "2026-11-04",
+      "title": "Frequency"
     },
     "spotify:track:2XlS3xEvc3YOQi4SSBVU1K": {
       "artist": "Bicep",
@@ -52,12 +82,12 @@
     },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
-      "broadcast": "2026-10-13",
+      "broadcast": "2026-11-04",
       "title": "Roses"
     },
     "spotify:track:4cLzHSqYaxcw8qVFV2xlGY": {
       "artist": "South Arcade",
-      "broadcast": "2026-11-03",
+      "broadcast": "2026-11-04",
       "title": "F.A.M.O.U.S"
     },
     "spotify:track:5S6Lu1hiwmipUZZV4g9n1Z": {
@@ -65,14 +95,29 @@
       "broadcast": "2026-10-21",
       "title": "Wish Upon You"
     },
+    "spotify:track:6LaPQWySsvuXfpFb2vt1CN": {
+      "artist": "Joy Anonymous",
+      "broadcast": "2026-11-04",
+      "title": "JOY (Play Power)"
+    },
     "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i": {
       "artist": "Fontaines D.C.",
-      "broadcast": "2026-10-15",
+      "broadcast": "2026-11-04",
       "title": "Where Is Gone?"
+    },
+    "spotify:track:6zhR2wbiqSEZwjP28aHEDY": {
+      "artist": "Sam Fender",
+      "broadcast": "2026-11-04",
+      "title": "You Can't Always Get What You Want"
+    },
+    "spotify:track:7bx8oQpOzKqKfLLLLOfNgM": {
+      "artist": "Nieve Ella",
+      "broadcast": "2026-11-04",
+      "title": "I'm Not Dead"
     },
     "spotify:track:7e26IslZ17O3l39AkNNJ8Z": {
       "artist": "Shygirl",
-      "broadcast": "2026-11-03",
+      "broadcast": "2026-11-04",
       "title": "Eternal"
     }
   },
