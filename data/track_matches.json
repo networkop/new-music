@@ -139,6 +139,11 @@
     "score": 1.0,
     "uri": "spotify:track:0kl6Ozan3fuUdCl6TlB15v"
   },
+  "antony szmierek|||bookie's favourite": {
+    "matched": "Antony Szmierek - Bookie's Favourite",
+    "score": 1.0,
+    "uri": "spotify:track:50DDE1bLC19tn0xt0qQquK"
+  },
   "antony szmierek|||flight simulator": {
     "matched": "Antony Szmierek - Flight Simulator",
     "score": 1.0,
@@ -809,6 +814,11 @@
     "score": 1.0,
     "uri": "spotify:track:787Y2idwCU2Rk60Prv4wpr"
   },
+  "dominic fike|||pangea": {
+    "matched": "Dominic Fike - PANGEA",
+    "score": 1.0,
+    "uri": "spotify:track:0BA0Gdyz3UK8PJC7c44lK7"
+  },
   "dominic fike|||wallflower": {
     "matched": "Dominic Fike - Wallflower",
     "score": 1.0,
@@ -853,6 +863,11 @@
     "matched": "Enter Shikari - Higher Ground",
     "score": 1.0,
     "uri": "spotify:track:3EkrGFmgwHesY3alpHzbDf"
+  },
+  "enter shikari|||lightyears": {
+    "matched": "Enter Shikari - Lightyears",
+    "score": 1.0,
+    "uri": "spotify:track:0on0fLiQ7dBSIshX11w9uU"
   },
   "erick the architect|||no doubt (i'm in love)": {
     "matched": "Erick the Architect - No Doubt (I'm In Love)",
@@ -1379,6 +1394,21 @@
     "score": 1.0,
     "uri": "spotify:track:2fQpJcpE7EoVLVi7qoRcwQ"
   },
+  "jack harlow|||first class": {
+    "matched": "Jack Harlow - First Class",
+    "score": 1.0,
+    "uri": "spotify:track:3os9JEuXCDI2u8uoKi0xPY"
+  },
+  "jack harlow|||lovin on me": {
+    "matched": "Jack Harlow - Lovin on Me",
+    "score": 1.0,
+    "uri": "spotify:track:02YYLr98mGpl6AWWX0otyJ"
+  },
+  "jack harlow|||too soon": {
+    "matched": "Jack Harlow - TOO SOON (feat. Babyface)",
+    "score": 1.0,
+    "uri": "spotify:track:55L3FIAs21pUNwCUMQ0wpJ"
+  },
   "jack harlow|||whats poppin": {
     "matched": "Jack Harlow - WHATS POPPIN",
     "score": 1.0,
@@ -1648,6 +1678,11 @@
     "matched": "Turnstile - LOOK OUT FOR ME: KETTAMA VERSION",
     "score": 0.825,
     "uri": "spotify:track:0eT45WSj6OD4HoSZWq6uMQ"
+  },
+  "kettama|||think of you": {
+    "matched": "KETTAMA - Think of You",
+    "score": 1.0,
+    "uri": "spotify:track:0sPP9TW0xSgke7EKBW6Gui"
   },
   "kim petras|||brutalist": {
     "matched": "Kim Petras - Brutalist",
@@ -2448,6 +2483,11 @@
     "matched": "Saint Ludo - 808",
     "score": 1.0,
     "uri": "spotify:track:0r8iGm1w5lPfQsYJ1xwEq6"
+  },
+  "saint ludo|||mayday": {
+    "matched": "Saint Ludo - Mayday",
+    "score": 1.0,
+    "uri": "spotify:track:3bhGt6n1v1htyY1pXDA4cz"
   },
   "saint ludo|||subliminals": {
     "matched": "Saint Ludo - Subliminals",

@@ -1,5 +1,15 @@
 {
   "keep": {
+    "spotify:track:02YYLr98mGpl6AWWX0otyJ": {
+      "artist": "Jack Harlow",
+      "broadcast": "2026-11-05",
+      "title": "Lovin On Me"
+    },
+    "spotify:track:0BA0Gdyz3UK8PJC7c44lK7": {
+      "artist": "Dominic Fike",
+      "broadcast": "2026-11-05",
+      "title": "Pangea"
+    },
     "spotify:track:0SRNJlflcDvwuKk4NwMKvU": {
       "artist": "Benjamin Steer",
       "broadcast": "2026-11-04",
@@ -7,8 +17,18 @@
     },
     "spotify:track:0dyMMaFJW1vHSPTqUvv7VY": {
       "artist": "Royal Blood",
-      "broadcast": "2026-11-04",
+      "broadcast": "2026-11-05",
       "title": "Mother Never Told You"
+    },
+    "spotify:track:0on0fLiQ7dBSIshX11w9uU": {
+      "artist": "Enter Shikari",
+      "broadcast": "2026-11-05",
+      "title": "Lightyears"
+    },
+    "spotify:track:0sPP9TW0xSgke7EKBW6Gui": {
+      "artist": "KETTAMA",
+      "broadcast": "2026-11-05",
+      "title": "Think of You"
     },
     "spotify:track:1Va3leaBTjd9HUGNbuI97i": {
       "artist": "John Glacier",
@@ -57,7 +77,7 @@
     },
     "spotify:track:2XlS3xEvc3YOQi4SSBVU1K": {
       "artist": "Bicep",
-      "broadcast": "2026-10-29",
+      "broadcast": "2026-11-05",
       "title": "GAS"
     },
     "spotify:track:2b8BZIE6VefboEkZMrNhRX": {
@@ -80,15 +100,35 @@
       "broadcast": "2026-11-03",
       "title": "Thin Ice"
     },
+    "spotify:track:3bhGt6n1v1htyY1pXDA4cz": {
+      "artist": "Saint Ludo",
+      "broadcast": "2026-11-05",
+      "title": "Mayday"
+    },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
       "broadcast": "2026-11-04",
       "title": "Roses"
     },
+    "spotify:track:3os9JEuXCDI2u8uoKi0xPY": {
+      "artist": "Jack Harlow",
+      "broadcast": "2026-11-05",
+      "title": "First Class"
+    },
     "spotify:track:4cLzHSqYaxcw8qVFV2xlGY": {
       "artist": "South Arcade",
       "broadcast": "2026-11-04",
       "title": "F.A.M.O.U.S"
+    },
+    "spotify:track:50DDE1bLC19tn0xt0qQquK": {
+      "artist": "Antony Szmierek",
+      "broadcast": "2026-11-05",
+      "title": "Bookie's Favourite"
+    },
+    "spotify:track:55L3FIAs21pUNwCUMQ0wpJ": {
+      "artist": "Jack Harlow",
+      "broadcast": "2026-11-05",
+      "title": "Too Soon"
     },
     "spotify:track:5S6Lu1hiwmipUZZV4g9n1Z": {
       "artist": "Florence Road",
