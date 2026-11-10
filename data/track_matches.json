@@ -909,6 +909,21 @@
     "score": 1.0,
     "uri": "spotify:track:4qS0HFIVCwj0AS3zR7hdyi"
   },
+  "fall out boy|||aces": {
+    "matched": "Fall Out Boy - ACES",
+    "score": 1.0,
+    "uri": "spotify:track:2sCwIkIPsvrZXbHNQWkvo8"
+  },
+  "fall out boy|||dance, dance": {
+    "matched": "Fall Out Boy - Dance, Dance",
+    "score": 1.0,
+    "uri": "spotify:track:1fFMtdpipgBC3sixLNZGkt"
+  },
+  "fall out boy|||sugar, we're goin' down": {
+    "matched": "Fall Out Boy - Sugar, We're Goin Down",
+    "score": 1.0,
+    "uri": "spotify:track:2TfSHkHiFO4gRztVIkggkE"
+  },
   "faouzia|||unethical": {
     "matched": "Faouzia - UNETHICAL",
     "score": 1.0,
@@ -2629,6 +2644,11 @@
     "score": 1.0,
     "uri": "spotify:track:2BoSbGSp2OaDBOx5NFHkrr"
   },
+  "skepta|||currency": {
+    "matched": "Skepta - Currency",
+    "score": 1.0,
+    "uri": "spotify:track:2nVP6HXSfFSD5ISwQmaQ8w"
+  },
   "skepta|||greaze mode": {
     "matched": "Skepta - Greaze Mode",
     "score": 1.0,
@@ -3003,6 +3023,11 @@
     "matched": "TOMORA - Celebration",
     "score": 1.0,
     "uri": "spotify:track:0mVE7ho0GazVMHVyt6cFz5"
+  },
+  "tomora|||hold on let go": {
+    "matched": "TOMORA - Hold On Let Go",
+    "score": 1.0,
+    "uri": "spotify:track:7uhNCw4om8CK6YJ0VIyil3"
   },
   "tomora|||ring the alarm": {
     "matched": "TOMORA - RING THE ALARM",

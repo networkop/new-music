@@ -7,7 +7,7 @@
     },
     "spotify:track:0BA0Gdyz3UK8PJC7c44lK7": {
       "artist": "Dominic Fike",
-      "broadcast": "2026-11-05",
+      "broadcast": "2026-11-09",
       "title": "Pangea"
     },
     "spotify:track:0SRNJlflcDvwuKk4NwMKvU": {
@@ -40,6 +40,11 @@
       "broadcast": "2026-10-29",
       "title": "Tongue"
     },
+    "spotify:track:1fFMtdpipgBC3sixLNZGkt": {
+      "artist": "Fall Out Boy",
+      "broadcast": "2026-11-09",
+      "title": "Dance, Dance"
+    },
     "spotify:track:1jaTQ3nqY3oAAYyCTbIvnM": {
       "artist": "Jack Harlow",
       "broadcast": "2026-11-04",
@@ -70,6 +75,11 @@
       "broadcast": "2026-11-02",
       "title": "Choice"
     },
+    "spotify:track:2TfSHkHiFO4gRztVIkggkE": {
+      "artist": "Fall Out Boy",
+      "broadcast": "2026-11-09",
+      "title": "Sugar, We're Goin' Down"
+    },
     "spotify:track:2X9niMzzXId2fNe3wu6l2e": {
       "artist": "Eli Brown",
       "broadcast": "2026-11-04",
@@ -77,8 +87,8 @@
     },
     "spotify:track:2XlS3xEvc3YOQi4SSBVU1K": {
       "artist": "Bicep",
-      "broadcast": "2026-11-05",
-      "title": "GAS"
+      "broadcast": "2026-11-09",
+      "title": "Gas"
     },
     "spotify:track:2b8BZIE6VefboEkZMrNhRX": {
       "artist": "CHVRCHES",
@@ -94,6 +104,16 @@
       "artist": "Bicep",
       "broadcast": "2026-10-12",
       "title": "Air"
+    },
+    "spotify:track:2nVP6HXSfFSD5ISwQmaQ8w": {
+      "artist": "Skepta",
+      "broadcast": "2026-11-09",
+      "title": "Currency"
+    },
+    "spotify:track:2sCwIkIPsvrZXbHNQWkvo8": {
+      "artist": "Fall Out Boy",
+      "broadcast": "2026-11-09",
+      "title": "Aces"
     },
     "spotify:track:30kdhH71QYFC1WBBz89chu": {
       "artist": "Megan Thee Stallion",
@@ -132,7 +152,7 @@
     },
     "spotify:track:5S6Lu1hiwmipUZZV4g9n1Z": {
       "artist": "Florence Road",
-      "broadcast": "2026-10-21",
+      "broadcast": "2026-11-09",
       "title": "Wish Upon You"
     },
     "spotify:track:6LaPQWySsvuXfpFb2vt1CN": {
@@ -159,6 +179,11 @@
       "artist": "Shygirl",
       "broadcast": "2026-11-04",
       "title": "Eternal"
+    },
+    "spotify:track:7uhNCw4om8CK6YJ0VIyil3": {
+      "artist": "TOMORA",
+      "broadcast": "2026-11-09",
+      "title": "Hold On Let Go"
     }
   },
   "review": {
@@ -169,7 +194,7 @@
     },
     "spotify:track:0Rxs96nQeboThWCNzP4H0c": {
       "artist": "Remi Wolf",
-      "broadcast": "2026-11-02",
+      "broadcast": "2026-11-09",
       "title": "Champagne"
     }
   }

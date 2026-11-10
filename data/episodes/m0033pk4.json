@@ -1,0 +1,1022 @@
+{
+  "pid": "m0033pk4",
+  "broadcast_start": "2026-11-09T18:00:00Z",
+  "schedule_date": "2026-11-09",
+  "title": "Fall Out Boy Hottest Record",
+  "tracks": [
+    {
+      "artist": "Gracie Abrams",
+      "title": "Here You Come, There You Go",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkf9g6",
+        "duration": 170,
+        "primary_contributor": {
+          "pid": "p0874dy1",
+          "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+          "name": "Gracie Abrams"
+        },
+        "artist": "Gracie Abrams",
+        "track_title": "Here You Come, There You Go",
+        "track_number": null,
+        "publisher": "Universal Music Group & Gracie Abrams; James Harmon Stack (ASCAP); Kenny + Betty Tunes, LLC ASCAP Pub Designee (ASCAP) All rights administered by WC Music Corp.; Gracie Abrams, administered by Univers",
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "n9dbg2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0874dy1",
+            "name": "Gracie Abrams",
+            "role": "Performer",
+            "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d"
+          }
+        ],
+        "title": "Here You Come, There You Go",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Florence Road",
+      "title": "Wish Upon You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbwn0",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0l11xc3",
+          "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e",
+          "name": "Florence Road"
+        },
+        "artist": "Florence Road",
+        "track_title": "Wish Upon You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cqpn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l11xc3",
+            "name": "Florence Road",
+            "role": "Performer",
+            "musicbrainz_gid": "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
+          }
+        ],
+        "title": "Wish Upon You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Sugar, We're Goin' Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p002gl4w",
+        "duration": 226,
+        "primary_contributor": {
+          "pid": "p012d9ly",
+          "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784",
+          "name": "Fall Out Boy"
+        },
+        "artist": "Fall Out Boy",
+        "track_title": "Sugar, We're Goin' Down",
+        "track_number": null,
+        "publisher": "Sony ATV",
+        "record_label": "Mercury",
+        "release_title": "Sugar We're Goin Down",
+        "record_id": "nz2f8z",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9ly",
+            "name": "Fall Out Boy",
+            "role": "Performer",
+            "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784"
+          }
+        ],
+        "title": "Sugar, We're Goin' Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Dead Company",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj5r8m",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Dead Company",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cw94",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Dead Company",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "Pretty girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgzlvw",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "Pretty girls",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Parlophone",
+        "release_title": null,
+        "record_id": "n9dncr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "Pretty girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Melatonin",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfr63j",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p01l4ywl",
+          "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476",
+          "name": "Tinashe"
+        },
+        "artist": "Tinashe",
+        "track_title": "Melatonin",
+        "track_number": "3",
+        "publisher": "Sony/Atv Music Publishing (Uk) Limited/Kobalt Music Publishing Ltd/Warner Chappell North America Limited",
+        "record_label": "Nice Life/Atlantic",
+        "release_title": "Popstar",
+        "record_id": "n9b8jh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01l4ywl",
+            "name": "Tinashe",
+            "role": "Performer",
+            "musicbrainz_gid": "396a9525-0994-4542-b480-c4587feeb476"
+          }
+        ],
+        "title": "Melatonin",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Gas",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pll4vf",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "Gas",
+        "track_number": null,
+        "publisher": "Universal Music Publishing, Copyright Control, Concord / Giant Man.",
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9d55f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p09ylr6k",
+            "name": "Lauren Duffus",
+            "role": "Performer",
+            "musicbrainz_gid": "115e08e4-4679-4678-8675-41ccabb2e5b3"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Performer",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "Gas",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Dance, Dance",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p002gnd9",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p012d9ly",
+          "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784",
+          "name": "Fall Out Boy"
+        },
+        "artist": "Fall Out Boy",
+        "track_title": "Dance, Dance",
+        "track_number": null,
+        "publisher": "Sony/ATV/Chicargo X Softcore/BMI/100.000",
+        "record_label": "Mercury",
+        "release_title": "Dance Dance",
+        "record_id": "nz2h4h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9ly",
+            "name": "Fall Out Boy",
+            "role": "Performer",
+            "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784"
+          }
+        ],
+        "title": "Dance, Dance",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Aces",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm518d",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p012d9ly",
+          "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784",
+          "name": "Fall Out Boy"
+        },
+        "artist": "Fall Out Boy",
+        "track_title": "Aces",
+        "track_number": null,
+        "publisher": "SonyATV Songs LLC (BMI)",
+        "record_label": "Chicago X Softcore",
+        "release_title": null,
+        "record_id": "n9dwp5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9ly",
+            "name": "Fall Out Boy",
+            "role": "Performer",
+            "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784"
+          }
+        ],
+        "title": "Aces",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "2hollis",
+      "title": "Warhorse",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj79y",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0krvzn6",
+          "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+          "name": "2hollis"
+        },
+        "artist": "2hollis",
+        "track_title": "Warhorse",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cxgc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0krvzn6",
+            "name": "2hollis",
+            "role": "Performer",
+            "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5"
+          }
+        ],
+        "title": "Warhorse",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "World's Greatest",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plzk04",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p074wnjw",
+          "musicbrainz_gid": "0b30341b-b59d-4979-8130-b66c0e475321",
+          "name": "Lil Nas X"
+        },
+        "artist": "Lil Nas X",
+        "track_title": "World's Greatest",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cw9b",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074wnjw",
+            "name": "Lil Nas X",
+            "role": "Performer",
+            "musicbrainz_gid": "0b30341b-b59d-4979-8130-b66c0e475321"
+          }
+        ],
+        "title": "World's Greatest",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mahalia",
+      "title": "the 5 stages of heartbreak",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjjnxt",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p0395xgr",
+          "musicbrainz_gid": "5751a689-8b70-4ba0-a9e6-f8a10f4f8531",
+          "name": "Mahalia"
+        },
+        "artist": "Mahalia",
+        "track_title": "the 5 stages of heartbreak",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d8dh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0395xgr",
+            "name": "Mahalia",
+            "role": "Performer",
+            "musicbrainz_gid": "5751a689-8b70-4ba0-a9e6-f8a10f4f8531"
+          }
+        ],
+        "title": "the 5 stages of heartbreak",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Champagne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghtqk",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Champagne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cmh6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Champagne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "girl in red",
+      "title": "missing person",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqqz7",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p06stnxy",
+          "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+          "name": "girl in red"
+        },
+        "artist": "girl in red",
+        "track_title": "missing person",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9d8vh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06stnxy",
+            "name": "girl in red",
+            "role": "Performer",
+            "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0"
+          }
+        ],
+        "title": "missing person",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Currency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm54vm",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Currency",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9dg2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Currency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gunna",
+      "title": "pop it",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph93yt",
+        "duration": 137,
+        "primary_contributor": {
+          "pid": "p053g0h6",
+          "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+          "name": "Gunna"
+        },
+        "artist": "Gunna",
+        "track_title": "pop it",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing",
+        "record_label": "Gunna",
+        "release_title": null,
+        "record_id": "n9cvp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p053g0h6",
+            "name": "Gunna",
+            "role": "Performer",
+            "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+          }
+        ],
+        "title": "pop it",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Tulsa, OK",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqqnk",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p01tcdsh",
+          "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+          "name": "Vince Staples"
+        },
+        "artist": "Vince Staples",
+        "track_title": "Tulsa, OK",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n9d9c8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01tcdsh",
+            "name": "Vince Staples",
+            "role": "Performer",
+            "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff"
+          }
+        ],
+        "title": "Tulsa, OK",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Elvis",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm56l5",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Elvis",
+        "track_number": null,
+        "publisher": "Universal Music Publishing/copyright control/Warner-Tamerlane Publishing Corp. on behalf of Daniel Caesar/BMI pub designee (Ashton Dumar Simmonds)/Brendan Yates Publishing BMI, PRS/(BMI) Sony/ATV Song",
+        "record_label": "Rex Orange County",
+        "release_title": "Dream Fatigue",
+        "record_id": "n9dwpr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          },
+          {
+            "pid": "p0dqtmvv",
+            "name": "Brendan Yates",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "bfa5b8e9-ece7-451c-a947-1bbe0c808b67"
+          }
+        ],
+        "title": "Elvis",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Dare Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk4twd",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Dare Me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fantasy Records",
+        "release_title": null,
+        "record_id": "n9drbf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Dare Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ashe",
+      "title": "Lasso The Moon",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pky3zd",
+        "duration": 222,
+        "primary_contributor": {
+          "pid": "p06xlksz",
+          "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409",
+          "name": "Ashe"
+        },
+        "artist": "Ashe",
+        "track_title": "Lasso The Moon",
+        "track_number": "2",
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "The Girl Of Your Dreams",
+        "record_id": "n9d5gc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06xlksz",
+            "name": "Ashe",
+            "role": "Performer",
+            "musicbrainz_gid": "36086094-c2a4-49b9-8572-0fbf12fc3409"
+          }
+        ],
+        "title": "Lasso The Moon",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "Pangea",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjyt98",
+        "duration": 144,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "Pangea",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9drp5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "Pangea",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiwa Savage",
+      "title": "African Baddie",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkc6tg",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p01knr2k",
+          "musicbrainz_gid": "9d9f7ce8-e1cf-4413-b2c9-b90b69bc17f6",
+          "name": "Tiwa Savage"
+        },
+        "artist": "Tiwa Savage",
+        "track_title": "African Baddie",
+        "track_number": null,
+        "publisher": "Tiwa Savage",
+        "record_label": "Tiwa Savage",
+        "release_title": null,
+        "record_id": "n9drm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01knr2k",
+            "name": "Tiwa Savage",
+            "role": "Performer",
+            "musicbrainz_gid": "9d9f7ce8-e1cf-4413-b2c9-b90b69bc17f6"
+          }
+        ],
+        "title": "African Baddie",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chris Lorenzo",
+      "title": "Fancy Footwork",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgynzv",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p01kd4t0",
+          "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f",
+          "name": "Chris Lorenzo"
+        },
+        "artist": "Chris Lorenzo",
+        "track_title": "Fancy Footwork",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Turbo Blanco",
+        "release_title": null,
+        "record_id": "n9cf4m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kd4t0",
+            "name": "Chris Lorenzo",
+            "role": "Performer",
+            "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f"
+          },
+          {
+            "pid": "p012d87c",
+            "name": "Chromeo",
+            "role": "Performer",
+            "musicbrainz_gid": "647221d0-f6b1-4e03-924c-c59b8059536f"
+          }
+        ],
+        "title": "Fancy Footwork",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Say Now",
+      "title": "Met My Match",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc4jl0",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0gjrqc4",
+          "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e",
+          "name": "Say Now"
+        },
+        "artist": "Say Now",
+        "track_title": "Met My Match",
+        "track_number": null,
+        "publisher": "Amlor Music",
+        "record_label": "Warner Music UK Limited",
+        "release_title": null,
+        "record_id": "n9c9p8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gjrqc4",
+            "name": "Say Now",
+            "role": "Performer",
+            "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e"
+          }
+        ],
+        "title": "Met My Match",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "HAAi",
+      "title": "Talking Walls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy4lv",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p06hxkxm",
+          "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27",
+          "name": "HAAi"
+        },
+        "artist": "HAAi",
+        "track_title": "Talking Walls",
+        "track_number": null,
+        "publisher": "BMG Publishing",
+        "record_label": "Mute Artists",
+        "release_title": null,
+        "record_id": "n9cv8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06hxkxm",
+            "name": "HAAi",
+            "role": "Performer",
+            "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27"
+          },
+          {
+            "pid": "p090wdkl",
+            "name": "Skybreak",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3f2dd37c-0e6d-4624-9524-931b759caa0e"
+          },
+          {
+            "pid": "p0pfw13r",
+            "name": "Cantoalegre",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34a2ee72-fe59-4c10-b492-be2c82c6eb71"
+          }
+        ],
+        "title": "Talking Walls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Conducta",
+      "title": "CASH",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbd13c",
+        "duration": 183,
+        "primary_contributor": {
+          "pid": "p01qzv76",
+          "musicbrainz_gid": "8c9f8c4b-ab6b-42e4-aed0-e7a366c8eade",
+          "name": "Conducta"
+        },
+        "artist": "Conducta",
+        "track_title": "CASH",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Conducta",
+        "release_title": null,
+        "record_id": "n9c6r2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01qzv76",
+            "name": "Conducta",
+            "role": "Performer",
+            "musicbrainz_gid": "8c9f8c4b-ab6b-42e4-aed0-e7a366c8eade"
+          },
+          {
+            "pid": "p0pm5qdm",
+            "name": "Jordeaux",
+            "role": "Featured Artist",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "CASH",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Hold On Let Go",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm5qm0",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Hold On Let Go",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dnn5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Hold On Let Go",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

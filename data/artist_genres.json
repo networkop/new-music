@@ -4475,6 +4475,52 @@
       ]
     ]
   },
+  "516cef4d-0718-4007-9939-f9b38af3f784": {
+    "name": "Fall Out Boy",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop punk",
+        100
+      ],
+      [
+        "rock",
+        73
+      ],
+      [
+        "alternative",
+        44
+      ],
+      [
+        "emo",
+        33
+      ],
+      [
+        "punk",
+        15
+      ],
+      [
+        "alternative rock",
+        6
+      ],
+      [
+        "punk rock",
+        4
+      ],
+      [
+        "pop rock",
+        1
+      ],
+      [
+        "american",
+        1
+      ],
+      [
+        "pop",
+        1
+      ]
+    ]
+  },
   "52d273ca-1f68-440c-9c37-751358cf0434": {
     "name": "Erin LeCount",
     "source": "lastfm",
@@ -4849,6 +4895,52 @@
       ],
       [
         "progressive metal",
+        1
+      ]
+    ]
+  },
+  "5751a689-8b70-4ba0-a9e6-f8a10f4f8531": {
+    "name": "Mahalia",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        69
+      ],
+      [
+        "pop",
+        15
+      ],
+      [
+        "indie",
+        15
+      ],
+      [
+        "british",
+        7
+      ],
+      [
+        "uk",
+        5
+      ],
+      [
+        "female vocalists",
+        5
+      ],
+      [
+        "singer-songwriter",
+        1
+      ],
+      [
+        "english",
+        1
+      ],
+      [
+        "alternative rnb",
         1
       ]
     ]
