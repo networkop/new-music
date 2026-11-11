@@ -5,6 +5,11 @@
       "broadcast": "2026-11-05",
       "title": "Lovin On Me"
     },
+    "spotify:track:02q72hZq4Ds2pWiBrK8HZo": {
+      "artist": "Slayyyter",
+      "broadcast": "2026-11-10",
+      "title": "hey boyyy"
+    },
     "spotify:track:0BA0Gdyz3UK8PJC7c44lK7": {
       "artist": "Dominic Fike",
       "broadcast": "2026-11-09",
@@ -102,22 +107,22 @@
     },
     "spotify:track:2infXICqVSUM3bbGSOgFOY": {
       "artist": "Bicep",
-      "broadcast": "2026-10-12",
+      "broadcast": "2026-11-10",
       "title": "Air"
     },
     "spotify:track:2nVP6HXSfFSD5ISwQmaQ8w": {
       "artist": "Skepta",
-      "broadcast": "2026-11-09",
+      "broadcast": "2026-11-10",
       "title": "Currency"
     },
     "spotify:track:2sCwIkIPsvrZXbHNQWkvo8": {
       "artist": "Fall Out Boy",
-      "broadcast": "2026-11-09",
+      "broadcast": "2026-11-10",
       "title": "Aces"
     },
     "spotify:track:30kdhH71QYFC1WBBz89chu": {
       "artist": "Megan Thee Stallion",
-      "broadcast": "2026-11-03",
+      "broadcast": "2026-11-10",
       "title": "Thin Ice"
     },
     "spotify:track:3bhGt6n1v1htyY1pXDA4cz": {
@@ -129,6 +134,11 @@
       "artist": "CHVRCHES",
       "broadcast": "2026-11-04",
       "title": "Roses"
+    },
+    "spotify:track:3jrY4AAWTvZfmwGs3E7QcN": {
+      "artist": "2hollis",
+      "broadcast": "2026-11-10",
+      "title": "Style"
     },
     "spotify:track:3os9JEuXCDI2u8uoKi0xPY": {
       "artist": "Jack Harlow",
@@ -150,10 +160,25 @@
       "broadcast": "2026-11-05",
       "title": "Too Soon"
     },
+    "spotify:track:5ABg64jiSnFeuzDkKmCZPX": {
+      "artist": "Suggz",
+      "broadcast": "2026-11-10",
+      "title": "Manny Made"
+    },
     "spotify:track:5S6Lu1hiwmipUZZV4g9n1Z": {
       "artist": "Florence Road",
       "broadcast": "2026-11-09",
       "title": "Wish Upon You"
+    },
+    "spotify:track:6ILaAVQ8DVwSiVnyUWelBU": {
+      "artist": "King Princess",
+      "broadcast": "2026-11-10",
+      "title": "Old Song"
+    },
+    "spotify:track:6LW3Z1GqbL78TIjfDyg4zp": {
+      "artist": "Wilkinson",
+      "broadcast": "2026-11-10",
+      "title": "Afterglow"
     },
     "spotify:track:6LaPQWySsvuXfpFb2vt1CN": {
       "artist": "Joy Anonymous",
@@ -177,7 +202,7 @@
     },
     "spotify:track:7e26IslZ17O3l39AkNNJ8Z": {
       "artist": "Shygirl",
-      "broadcast": "2026-11-04",
+      "broadcast": "2026-11-10",
       "title": "Eternal"
     },
     "spotify:track:7uhNCw4om8CK6YJ0VIyil3": {
@@ -196,6 +221,11 @@
       "artist": "Remi Wolf",
       "broadcast": "2026-11-09",
       "title": "Champagne"
+    },
+    "spotify:track:3lIHa4fUwNKOCSS5k3Za0i": {
+      "artist": "Steve Lacy",
+      "broadcast": "2026-11-10",
+      "title": "Nothing"
     }
   }
 }

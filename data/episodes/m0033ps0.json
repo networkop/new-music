@@ -1,0 +1,1250 @@
+{
+  "pid": "m0033ps0",
+  "broadcast_start": "2026-11-10T18:00:00Z",
+  "schedule_date": "2026-11-10",
+  "title": "2hollis Hottest Record",
+  "tracks": [
+    {
+      "artist": "Justice",
+      "title": "Flower In A Hurricane",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxy59",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p012d8f5",
+          "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+          "name": "Justice"
+        },
+        "artist": "Justice",
+        "track_title": "Flower In A Hurricane",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9dn95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8f5",
+            "name": "Justice",
+            "role": "Performer",
+            "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+          },
+          {
+            "pid": "p03vwrdf",
+            "name": "Tame Impala",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+          },
+          {
+            "pid": "p01prxjs",
+            "name": "King Gizzard & the Lizard Wizard",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "Flower In A Hurricane",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tate McRae",
+      "title": "Housewife",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgzqcq",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p07n6t02",
+          "musicbrainz_gid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+          "name": "Tate McRae"
+        },
+        "artist": "Tate McRae",
+        "track_title": "Housewife",
+        "track_number": null,
+        "publisher": "Sony/Atv Music Publishing (Uk) Limited/Universal/Mca Music Limited",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9d26x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07n6t02",
+            "name": "Tate McRae",
+            "role": "Performer",
+            "musicbrainz_gid": "f9133869-f87c-459c-9aa7-2f176cda7e06"
+          }
+        ],
+        "title": "Housewife",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "2hollis",
+      "title": "Style",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0mjk439",
+        "duration": 99,
+        "primary_contributor": {
+          "pid": "p0krvzn6",
+          "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+          "name": "2hollis"
+        },
+        "artist": "2hollis",
+        "track_title": "Style",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n8wcpx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0krvzn6",
+            "name": "2hollis",
+            "role": "Performer",
+            "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5"
+          }
+        ],
+        "title": "Style",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Eternal",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmbcz5",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Eternal",
+        "track_number": null,
+        "publisher": "Because Music",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dx5v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Eternal",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Victony",
+      "title": "Slick",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj5n5r",
+        "duration": 107,
+        "primary_contributor": {
+          "pid": "p0ckv0cw",
+          "musicbrainz_gid": "7013c772-2236-42f3-8590-2e2292d2ca5e",
+          "name": "Victony"
+        },
+        "artist": "Victony",
+        "track_title": "Slick",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Encore Recordings / OUTLAWVILLE",
+        "release_title": null,
+        "record_id": "n9r4p5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ckv0cw",
+            "name": "Victony",
+            "role": "Performer",
+            "musicbrainz_gid": "7013c772-2236-42f3-8590-2e2292d2ca5e"
+          }
+        ],
+        "title": "Slick",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sasha Keable",
+      "title": "Options",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdjg4p",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p01b0q34",
+          "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+          "name": "Sasha Keable"
+        },
+        "artist": "Sasha Keable",
+        "track_title": "Options",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA RECORDS",
+        "release_title": null,
+        "record_id": "n9cxh2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01b0q34",
+            "name": "Sasha Keable",
+            "role": "Performer",
+            "musicbrainz_gid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717"
+          }
+        ],
+        "title": "Options",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Too Cute To Be Lonely",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd854b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "Too Cute To Be Lonely",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cx66",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "Too Cute To Be Lonely",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "I can't be high around you anymore",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkx9by",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "I can't be high around you anymore",
+        "track_number": "6",
+        "publisher": "Sony Music Publishing / Pulse Music Publishing",
+        "record_label": "EMI",
+        "release_title": "THERAPY AT THE CLUB",
+        "record_id": "n9bq3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "I can't be high around you anymore",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "hey boyyy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmbhcz",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "hey boyyy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9dgmw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "hey boyyy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "2hollis",
+      "title": "Daisy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmbkjf",
+        "duration": 251,
+        "primary_contributor": {
+          "pid": "p0krvzn6",
+          "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+          "name": "2hollis"
+        },
+        "artist": "2hollis",
+        "track_title": "Daisy",
+        "track_number": null,
+        "publisher": "Universal Music Publishing",
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9dwh5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0krvzn6",
+            "name": "2hollis",
+            "role": "Performer",
+            "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5"
+          }
+        ],
+        "title": "Daisy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wilkinson",
+      "title": "Afterglow",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01gzggl",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p01786yq",
+          "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5",
+          "name": "Wilkinson"
+        },
+        "artist": "Wilkinson",
+        "track_title": "Afterglow",
+        "track_number": null,
+        "publisher": "SONY/ATV MUSIC PUBLISHING (UK) LIMITED, SONY/ATV MUSIC PUBLISHING ALLEGRO (UK)",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "nz2466",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01786yq",
+            "name": "Wilkinson",
+            "role": "Performer",
+            "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5"
+          },
+          {
+            "pid": "p01hpq9v",
+            "name": "Becky Hill",
+            "role": "Performer",
+            "musicbrainz_gid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
+          }
+        ],
+        "title": "Afterglow",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Thin Ice",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pl53vp",
+        "duration": 139,
+        "primary_contributor": {
+          "pid": "p06lmc04",
+          "musicbrainz_gid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+          "name": "Megan Thee Stallion"
+        },
+        "artist": "Megan Thee Stallion",
+        "track_title": "Thin Ice",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hot Girl Productions",
+        "release_title": "Tina Tuesday Freestyles",
+        "record_id": "n9ddxw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06lmc04",
+            "name": "Megan Thee Stallion",
+            "role": "Performer",
+            "musicbrainz_gid": "ee27b2d8-648c-4a9d-a68c-e55066959975"
+          }
+        ],
+        "title": "Thin Ice",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Victoria Monét",
+      "title": "See You In My Dreams",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfvzr5",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p054xmtv",
+          "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd",
+          "name": "Victoria Monét"
+        },
+        "artist": "Victoria Monét",
+        "track_title": "See You In My Dreams",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Lovett Music/RCA Records",
+        "release_title": null,
+        "record_id": "n9cwz4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p054xmtv",
+            "name": "Victoria Monét",
+            "role": "Performer",
+            "musicbrainz_gid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          }
+        ],
+        "title": "See You In My Dreams",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lambrini Girls",
+      "title": "The Basement",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk56qf",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p0dgpgh2",
+          "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef",
+          "name": "Lambrini Girls"
+        },
+        "artist": "Lambrini Girls",
+        "track_title": "The Basement",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "City Slang",
+        "release_title": null,
+        "record_id": "n9drbw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dgpgh2",
+            "name": "Lambrini Girls",
+            "role": "Performer",
+            "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef"
+          }
+        ],
+        "title": "The Basement",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erick the Architect",
+      "title": "Yerr",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3pt2",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p02g7gk6",
+          "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c",
+          "name": "Erick the Architect"
+        },
+        "artist": "Erick the Architect",
+        "track_title": "Yerr",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Erick The Architect",
+        "release_title": null,
+        "record_id": "n9d645",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02g7gk6",
+            "name": "Erick the Architect",
+            "role": "Performer",
+            "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c"
+          },
+          {
+            "pid": "p012dj7w",
+            "name": "Ghostface Killah",
+            "role": "Performer",
+            "musicbrainz_gid": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb"
+          },
+          {
+            "pid": "p0pj3pt8",
+            "name": "Fergie Baby",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ef8af4d8-3866-403a-a048-89f0304326e0"
+          }
+        ],
+        "title": "Yerr",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Aces",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm518d",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p012d9ly",
+          "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784",
+          "name": "Fall Out Boy"
+        },
+        "artist": "Fall Out Boy",
+        "track_title": "Aces",
+        "track_number": null,
+        "publisher": "SonyATV Songs LLC (BMI)",
+        "record_label": "Chicago X Softcore",
+        "release_title": null,
+        "record_id": "n9dwp5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9ly",
+            "name": "Fall Out Boy",
+            "role": "Performer",
+            "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784"
+          }
+        ],
+        "title": "Aces",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Thundercat",
+      "title": "Moving At Light Speed",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfj93l",
+        "duration": 105,
+        "primary_contributor": {
+          "pid": "p012dsks",
+          "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+          "name": "Thundercat"
+        },
+        "artist": "Thundercat",
+        "track_title": "Moving At Light Speed",
+        "track_number": null,
+        "publisher": "Universal Music Group / VGM JAZZ / ASCAP",
+        "record_label": "Universal Music Group",
+        "release_title": null,
+        "record_id": "n9cwm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dsks",
+            "name": "Thundercat",
+            "role": "Performer",
+            "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17"
+          }
+        ],
+        "title": "Moving At Light Speed",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Anderson .Paak",
+      "title": "Airbender",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plj2jt",
+        "duration": 89,
+        "primary_contributor": {
+          "pid": "p0246xtn",
+          "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+          "name": "Anderson .Paak"
+        },
+        "artist": "Anderson .Paak",
+        "track_title": "Airbender",
+        "track_number": null,
+        "publisher": "Songs Of Universal Recordings",
+        "record_label": "Empire Records",
+        "release_title": null,
+        "record_id": "n9df4h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          },
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          }
+        ],
+        "title": "Airbender",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "King Princess",
+      "title": "Old Song",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmbr03",
+        "duration": 187,
+        "primary_contributor": {
+          "pid": "p061t6v2",
+          "musicbrainz_gid": "158778fe-55c1-4dd5-8a3a-9d1b968a5e52",
+          "name": "King Princess"
+        },
+        "artist": "King Princess",
+        "track_title": "Old Song",
+        "track_number": null,
+        "publisher": "BIG CAT PUBLISHING,WARNER CHAPPELL OVERSEAS HOLDINGS LIMITED",
+        "record_label": "section1",
+        "release_title": null,
+        "record_id": "n9dwhc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p061t6v2",
+            "name": "King Princess",
+            "role": "Performer",
+            "musicbrainz_gid": "158778fe-55c1-4dd5-8a3a-9d1b968a5e52"
+          }
+        ],
+        "title": "Old Song",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jordan Rakei",
+      "title": "Paradise",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdyyf8",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p01kgfr0",
+          "musicbrainz_gid": "812c46e5-3d65-4e80-ada8-269450c5621b",
+          "name": "Jordan Rakei"
+        },
+        "artist": "Jordan Rakei",
+        "track_title": "Paradise",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fontana",
+        "release_title": null,
+        "record_id": "n9cxpp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kgfr0",
+            "name": "Jordan Rakei",
+            "role": "Performer",
+            "musicbrainz_gid": "812c46e5-3d65-4e80-ada8-269450c5621b"
+          }
+        ],
+        "title": "Paradise",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "title": "Karma",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk5b2c",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p02gc6kf",
+          "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+          "name": "Snoh Aalegra"
+        },
+        "artist": "Snoh Aalegra",
+        "track_title": "Karma",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Feels Run Free",
+        "release_title": null,
+        "record_id": "n9d585",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02gc6kf",
+            "name": "Snoh Aalegra",
+            "role": "Performer",
+            "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3"
+          }
+        ],
+        "title": "Karma",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Travy",
+      "title": "GTA 6",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phjz35",
+        "duration": 136,
+        "primary_contributor": {
+          "pid": "p0k74clc",
+          "musicbrainz_gid": "13637ef6-e659-4c2e-9e78-ba0acceaa10e",
+          "name": "Travy"
+        },
+        "artist": "Travy",
+        "track_title": "GTA 6",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sony UK (Tape Records)",
+        "release_title": null,
+        "record_id": "n9c9qg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k74clc",
+            "name": "Travy",
+            "role": "Performer",
+            "musicbrainz_gid": "13637ef6-e659-4c2e-9e78-ba0acceaa10e"
+          }
+        ],
+        "title": "GTA 6",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chy Cartier",
+      "title": "YO - RoESS Remix",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9bhcb",
+        "duration": 119,
+        "primary_contributor": {
+          "pid": "p0gyk3m0",
+          "musicbrainz_gid": "5aaada38-ad8d-4808-8e2f-d6c535cc36e3",
+          "name": "Chy Cartier"
+        },
+        "artist": "Chy Cartier",
+        "track_title": "YO - RoESS Remix",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Promised Land Recordings",
+        "release_title": null,
+        "record_id": "n9bmg9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gyk3m0",
+            "name": "Chy Cartier",
+            "role": "Performer",
+            "musicbrainz_gid": "5aaada38-ad8d-4808-8e2f-d6c535cc36e3"
+          },
+          {
+            "pid": "p0pf0zh3",
+            "name": "RoESS",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p05t1djw",
+            "name": "Headie One",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2e2c71a6-1ac8-4442-ba00-c4dea71abd64"
+          }
+        ],
+        "title": "YO - RoESS Remix",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Air",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd873m",
+        "duration": 237,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "Air",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9c9hg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "Air",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Natanya",
+      "title": "SHOW ME RIGHT!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8mdqb",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0c5n2dl",
+          "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e",
+          "name": "Natanya"
+        },
+        "artist": "Natanya",
+        "track_title": "SHOW ME RIGHT!",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bmwg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c5n2dl",
+            "name": "Natanya",
+            "role": "Performer",
+            "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e"
+          }
+        ],
+        "title": "SHOW ME RIGHT!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "waiting for me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpns1",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p06t96fd",
+          "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+          "name": "Arlo Parks"
+        },
+        "artist": "Arlo Parks",
+        "track_title": "waiting for me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Transgressive Records",
+        "release_title": null,
+        "record_id": "n9dzg5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06t96fd",
+            "name": "Arlo Parks",
+            "role": "Performer",
+            "musicbrainz_gid": "6e8e3717-a62d-4a3f-886d-6a4e82507930"
+          }
+        ],
+        "title": "waiting for me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Currency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plm28b",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Currency",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Epic Records UK",
+        "release_title": null,
+        "record_id": "n9dg2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Currency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacy",
+      "title": "Nothing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmbvf3",
+        "duration": 143,
+        "primary_contributor": {
+          "pid": "p04vcw91",
+          "musicbrainz_gid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+          "name": "Steve Lacy"
+        },
+        "artist": "Steve Lacy",
+        "track_title": "Nothing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9rc4q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04vcw91",
+            "name": "Steve Lacy",
+            "role": "Performer",
+            "musicbrainz_gid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+          }
+        ],
+        "title": "Nothing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lainey Wilson",
+      "title": "Kinda Love It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwvv1",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p071v3mt",
+          "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05",
+          "name": "Lainey Wilson"
+        },
+        "artist": "Lainey Wilson",
+        "track_title": "Kinda Love It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Broken Bow Records",
+        "release_title": null,
+        "record_id": "n9dz32",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p071v3mt",
+            "name": "Lainey Wilson",
+            "role": "Performer",
+            "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05"
+          }
+        ],
+        "title": "Kinda Love It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "O’Flynn",
+      "title": "Smoke 3 Tokes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkc6z5",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p06zrqw5",
+          "musicbrainz_gid": "24c24af0-ce68-4cb1-b76b-2f11664d1567",
+          "name": "O’Flynn"
+        },
+        "artist": "O’Flynn",
+        "track_title": "Smoke 3 Tokes",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Glitterbox",
+        "release_title": null,
+        "record_id": "n95czj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zrqw5",
+            "name": "O’Flynn",
+            "role": "Performer",
+            "musicbrainz_gid": "24c24af0-ce68-4cb1-b76b-2f11664d1567"
+          }
+        ],
+        "title": "Smoke 3 Tokes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Danny L Harle",
+      "title": "Starlight (Skrillex and ring Noord Remix)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3qwm",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p02fgqwr",
+          "musicbrainz_gid": "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f",
+          "name": "Danny L Harle"
+        },
+        "artist": "Danny L Harle",
+        "track_title": "Starlight (Skrillex and ring Noord Remix)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9d649",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02fgqwr",
+            "name": "Danny L Harle",
+            "role": "Performer",
+            "musicbrainz_gid": "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Performer",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          },
+          {
+            "pid": "p0m43cdt",
+            "name": "ring noord",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "aecef1d3-0f26-48b8-abc3-c1efa5011733"
+          }
+        ],
+        "title": "Starlight (Skrillex and ring Noord Remix)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Suggz",
+      "title": "Manny Made",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm5stz",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p0ntb9gs",
+          "musicbrainz_gid": "d04bcc1a-f415-445c-a4d1-c0ea4f93146b",
+          "name": "Suggz"
+        },
+        "artist": "Suggz",
+        "track_title": "Manny Made",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "NQ Records",
+        "release_title": null,
+        "record_id": "n9df52",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ntb9gs",
+            "name": "Suggz",
+            "role": "Performer",
+            "musicbrainz_gid": "d04bcc1a-f415-445c-a4d1-c0ea4f93146b"
+          },
+          {
+            "pid": "p06tr7tc",
+            "name": "Aitch",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "57dd4661-9f78-4442-8836-482fab983008"
+          }
+        ],
+        "title": "Manny Made",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

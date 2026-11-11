@@ -1205,6 +1205,52 @@
       ]
     ]
   },
+  "158778fe-55c1-4dd5-8a3a-9d1b968a5e52": {
+    "name": "King Princess",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "pop",
+        80
+      ],
+      [
+        "female vocalists",
+        21
+      ],
+      [
+        "indie",
+        21
+      ],
+      [
+        "american",
+        6
+      ],
+      [
+        "queer",
+        4
+      ],
+      [
+        "indie rock",
+        3
+      ],
+      [
+        "lgbt",
+        1
+      ],
+      [
+        "pop rock",
+        1
+      ],
+      [
+        "my top songs",
+        1
+      ]
+    ]
+  },
   "15f2cd9b-4e6b-469e-b8bb-8246adba33c9": {
     "name": "Capo Lee",
     "source": "lastfm",
@@ -7791,6 +7837,52 @@
       ]
     ]
   },
+  "812c46e5-3d65-4e80-ada8-269450c5621b": {
+    "name": "Jordan Rakei",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "rnb",
+        61
+      ],
+      [
+        "neo-soul",
+        40
+      ],
+      [
+        "jazz",
+        23
+      ],
+      [
+        "r&b",
+        3
+      ],
+      [
+        "new zealand",
+        3
+      ],
+      [
+        "electronica",
+        3
+      ],
+      [
+        "australian",
+        1
+      ],
+      [
+        "neo soul",
+        1
+      ],
+      [
+        "all",
+        1
+      ]
+    ]
+  },
   "82e454e2-38ee-4e69-89a6-cc65167753d1": {
     "name": "Chase & Status",
     "source": "lastfm",
@@ -11707,6 +11799,52 @@
       ]
     ]
   },
+  "c9fa114f-8426-4286-a289-9f16c8e092b5": {
+    "name": "Wilkinson",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "liquid funk",
+        62
+      ],
+      [
+        "neurofunk",
+        26
+      ],
+      [
+        "dnb",
+        22
+      ],
+      [
+        "drum n bass",
+        9
+      ],
+      [
+        "electronic",
+        8
+      ],
+      [
+        "british",
+        4
+      ],
+      [
+        "drum n' bass",
+        1
+      ],
+      [
+        "dubstep",
+        1
+      ],
+      [
+        "uk",
+        1
+      ]
+    ]
+  },
   "ca57dd61-590f-4605-85ec-72e947a6148b": {
     "name": "Getdown Services",
     "source": "lastfm",
@@ -12130,6 +12268,11 @@
         2
       ]
     ]
+  },
+  "d04bcc1a-f415-445c-a4d1-c0ea4f93146b": {
+    "name": "Suggz",
+    "source": "lastfm",
+    "tags": []
   },
   "d1393ecb-431b-4fde-a6ea-d769f2f040cb": {
     "name": "Kacey Musgraves",
