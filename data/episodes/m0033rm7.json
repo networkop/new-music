@@ -1,0 +1,1226 @@
+{
+  "pid": "m0033rm7",
+  "broadcast_start": "2026-11-11T18:00:00Z",
+  "schedule_date": "2026-11-11",
+  "title": "Wilkinson Hottest Record",
+  "tracks": [
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Japan",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqgvp",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Japan",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9d24q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Japan",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Repeaty",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phw397",
+        "duration": 237,
+        "primary_contributor": {
+          "pid": "p0813fy5",
+          "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316",
+          "name": "Sammy Virji"
+        },
+        "artist": "Sammy Virji",
+        "track_title": "Repeaty",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SAMMY VIRJI",
+        "release_title": null,
+        "record_id": "n9d5g5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "Repeaty",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wilkinson",
+      "title": "Afterglow",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p01gzggl",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p01786yq",
+          "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5",
+          "name": "Wilkinson"
+        },
+        "artist": "Wilkinson",
+        "track_title": "Afterglow",
+        "track_number": null,
+        "publisher": "SONY/ATV MUSIC PUBLISHING (UK) LIMITED, SONY/ATV MUSIC PUBLISHING ALLEGRO (UK)",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "nz2466",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01786yq",
+            "name": "Wilkinson",
+            "role": "Performer",
+            "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5"
+          },
+          {
+            "pid": "p01hpq9v",
+            "name": "Becky Hill",
+            "role": "Performer",
+            "musicbrainz_gid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
+          }
+        ],
+        "title": "Afterglow",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wilkinson",
+      "title": "Afterglow",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p071yh0v",
+        "duration": 355,
+        "primary_contributor": {
+          "pid": "p01786yq",
+          "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5",
+          "name": "Wilkinson"
+        },
+        "artist": "Wilkinson",
+        "track_title": "Afterglow",
+        "track_number": null,
+        "publisher": "Virgin EMI",
+        "record_label": "RAM",
+        "release_title": null,
+        "record_id": "nz2466",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01786yq",
+            "name": "Wilkinson",
+            "role": "Performer",
+            "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5"
+          },
+          {
+            "pid": "p01hpq9v",
+            "name": "Becky Hill",
+            "role": "Performer",
+            "musicbrainz_gid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
+          }
+        ],
+        "title": "Afterglow",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbwllb",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0dckhd7",
+          "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be",
+          "name": "Freya Skye"
+        },
+        "artist": "Freya Skye",
+        "track_title": "bad taste",
+        "track_number": null,
+        "publisher": "Seven Peaks Music/Socaloca Music / Sony/ATV Tunes LLC/Sony Music Publishing (UK) Ltd./Sony/ATV Tunes LLC/Songhouse Limited / Seven Summits Music/Monarch Songs Publishing / Anna Schindel Publishing/The",
+        "record_label": "Hollywood",
+        "release_title": null,
+        "record_id": "n9c4r6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dckhd7",
+            "name": "Freya Skye",
+            "role": "Performer",
+            "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be"
+          }
+        ],
+        "title": "bad taste",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "Too Soon",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plhvpm",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p078wms5",
+          "musicbrainz_gid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+          "name": "Jack Harlow"
+        },
+        "artist": "Jack Harlow",
+        "track_title": "Too Soon",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Sweet Action II",
+        "record_id": "n9df46",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p078wms5",
+            "name": "Jack Harlow",
+            "role": "Performer",
+            "musicbrainz_gid": "134cb0bc-06fa-42f7-8078-b0c858349975"
+          },
+          {
+            "pid": "p01mxxnm",
+            "name": "Babyface",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7fa62c0b-2c74-491e-a2a1-17c3b043f326"
+          }
+        ],
+        "title": "Too Soon",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "On Video",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghlgq",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0597rg4",
+          "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86",
+          "name": "Phoebe Bridgers"
+        },
+        "artist": "Phoebe Bridgers",
+        "track_title": "On Video",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "A24 Music",
+        "release_title": null,
+        "record_id": "n9cdwb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0597rg4",
+            "name": "Phoebe Bridgers",
+            "role": "Performer",
+            "musicbrainz_gid": "96855c21-b832-4366-ba12-0d2330c36a86"
+          }
+        ],
+        "title": "On Video",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Grennan",
+      "title": "Wrapped In Gold",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3hcl",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p046283t",
+          "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "name": "Tom Grennan"
+        },
+        "artist": "Tom Grennan",
+        "track_title": "Wrapped In Gold",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9d63m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p046283t",
+            "name": "Tom Grennan",
+            "role": "Performer",
+            "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa"
+          }
+        ],
+        "title": "Wrapped In Gold",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wilkinson",
+      "title": "Used To This",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0b719md",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p01786yq",
+          "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5",
+          "name": "Wilkinson"
+        },
+        "artist": "Wilkinson",
+        "track_title": "Used To This",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sleepless Music Limited",
+        "release_title": null,
+        "record_id": "np2xmf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01786yq",
+            "name": "Wilkinson",
+            "role": "Performer",
+            "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5"
+          },
+          {
+            "pid": "p0947mvz",
+            "name": "Issey Cross",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0137230f-88be-4c97-b37b-2c3cbf00af2c"
+          }
+        ],
+        "title": "Used To This",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wilkinson",
+      "title": "Out Of Control",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhdw2",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p01786yq",
+          "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5",
+          "name": "Wilkinson"
+        },
+        "artist": "Wilkinson",
+        "track_title": "Out Of Control",
+        "track_number": null,
+        "publisher": "Concord Music Publishing, Silver Fox/Kobalt Songs Music Publishing, Copyright Control",
+        "record_label": "Sleepless Music",
+        "release_title": null,
+        "record_id": "n9dj34",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01786yq",
+            "name": "Wilkinson",
+            "role": "Performer",
+            "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5"
+          }
+        ],
+        "title": "Out Of Control",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "Leak It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n90b2p",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "Leak It",
+        "track_number": null,
+        "publisher": "Sony Music Publishing / Dragon Bunny Music (BMI), administered by Sony/ATV Songs LLC / Smells Like Good Music (ASCAP), administered by",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n96vwd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "Leak It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Blossoms",
+      "title": "Husband",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pb58q0",
+        "duration": 234,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Husband",
+        "track_number": null,
+        "publisher": "ot Given",
+        "record_label": "The Orchard",
+        "release_title": null,
+        "record_id": "n9c5c5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          }
+        ],
+        "title": "Husband",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "untitled (halo)",
+      "title": "sex",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgpl02",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p0ghbj36",
+          "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789",
+          "name": "untitled (halo)"
+        },
+        "artist": "untitled (halo)",
+        "track_title": "sex",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n9cwmp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ghbj36",
+            "name": "untitled (halo)",
+            "role": "Performer",
+            "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789"
+          }
+        ],
+        "title": "sex",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "CASTING CALL",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhfwh",
+        "duration": 117,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "CASTING CALL",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": "HOW TO QUIT SMOKING",
+        "record_id": "n9dj3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "CASTING CALL",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Pip Millet",
+      "title": "Mad",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf9sxm",
+        "duration": 161,
+        "primary_contributor": {
+          "pid": "p0pf9sxr",
+          "musicbrainz_gid": null,
+          "name": "Pip Millet"
+        },
+        "artist": "Pip Millet",
+        "track_title": "Mad",
+        "track_number": null,
+        "publisher": "Metropolis Songs",
+        "record_label": "Mixpak Records",
+        "release_title": null,
+        "record_id": "n9cxhn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pf9sxr",
+            "name": "Pip Millet",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "Mad",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fireboy DML",
+      "title": "Goddess",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhghq",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p08qbv9s",
+          "musicbrainz_gid": "4d09a017-4e09-47a7-b274-a7e0767ac4e0",
+          "name": "Fireboy DML"
+        },
+        "artist": "Fireboy DML",
+        "track_title": "Goddess",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Empire Records",
+        "release_title": null,
+        "record_id": "n9dng8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08qbv9s",
+            "name": "Fireboy DML",
+            "role": "Performer",
+            "musicbrainz_gid": "4d09a017-4e09-47a7-b274-a7e0767ac4e0"
+          },
+          {
+            "pid": "p0drrmrl",
+            "name": "Lojay",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "226d3bc2-18c8-4220-b762-4294873977dd"
+          }
+        ],
+        "title": "Goddess",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "2hollis",
+      "title": "Daisy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhhdn",
+        "duration": 251,
+        "primary_contributor": {
+          "pid": "p0krvzn6",
+          "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+          "name": "2hollis"
+        },
+        "artist": "2hollis",
+        "track_title": "Daisy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dwh5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0krvzn6",
+            "name": "2hollis",
+            "role": "Performer",
+            "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5"
+          }
+        ],
+        "title": "Daisy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Grimes",
+      "title": "ACCELERANDO",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghrdk",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p012dskw",
+          "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+          "name": "Grimes"
+        },
+        "artist": "Grimes",
+        "track_title": "ACCELERANDO",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Eternal Recurrence",
+        "release_title": "ACCELERANDO",
+        "record_id": "n9cmhv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dskw",
+            "name": "Grimes",
+            "role": "Performer",
+            "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222"
+          },
+          {
+            "pid": "p0pgc1tg",
+            "name": "VADAKIN",
+            "role": "Performer",
+            "musicbrainz_gid": "9ff09fe5-22e5-4c4f-b6e2-bc7899f8ac54"
+          }
+        ],
+        "title": "ACCELERANDO",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Eli Brown",
+      "title": "Frequency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbpzv",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p058qhlk",
+          "musicbrainz_gid": "61bb4f68-d1a3-4a04-aa36-536c36135408",
+          "name": "Eli Brown"
+        },
+        "artist": "Eli Brown",
+        "track_title": "Frequency",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "INSOMNIAC Records",
+        "release_title": null,
+        "record_id": "n9dxh9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p058qhlk",
+            "name": "Eli Brown",
+            "role": "Performer",
+            "musicbrainz_gid": "61bb4f68-d1a3-4a04-aa36-536c36135408"
+          },
+          {
+            "pid": "p014rdgk",
+            "name": "Dimension",
+            "role": "Performer",
+            "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3"
+          }
+        ],
+        "title": "Frequency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jane Remover",
+      "title": "Beauty Sleep",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf4pc8",
+        "duration": 223,
+        "primary_contributor": {
+          "pid": "p0f7fldy",
+          "musicbrainz_gid": "f4b6e451-5dce-4842-a555-f793892299b3",
+          "name": "Jane Remover"
+        },
+        "artist": "Jane Remover",
+        "track_title": "Beauty Sleep",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c9pr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f7fldy",
+            "name": "Jane Remover",
+            "role": "Performer",
+            "musicbrainz_gid": "f4b6e451-5dce-4842-a555-f793892299b3"
+          }
+        ],
+        "title": "Beauty Sleep",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Quavo",
+      "title": "BA",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghq3k",
+        "duration": 149,
+        "primary_contributor": {
+          "pid": "p02r5j7w",
+          "musicbrainz_gid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+          "name": "Quavo"
+        },
+        "artist": "Quavo",
+        "track_title": "BA",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Quality Control Music/Motown Records",
+        "release_title": null,
+        "record_id": "n9cjz5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02r5j7w",
+            "name": "Quavo",
+            "role": "Performer",
+            "musicbrainz_gid": "6143403a-df6c-429e-8ee6-ef869896b0da"
+          },
+          {
+            "pid": "p018lzcv",
+            "name": "Future",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "48262e82-db9f-4a92-b650-dfef979b73ec"
+          }
+        ],
+        "title": "BA",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "title": "Weekend In Texas",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk52n1",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p017tlxm",
+          "musicbrainz_gid": "d1393ecb-431b-4fde-a6ea-d769f2f040cb",
+          "name": "Kacey Musgraves"
+        },
+        "artist": "Kacey Musgraves",
+        "track_title": "Weekend In Texas",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9drng",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p017tlxm",
+            "name": "Kacey Musgraves",
+            "role": "Performer",
+            "musicbrainz_gid": "d1393ecb-431b-4fde-a6ea-d769f2f040cb"
+          }
+        ],
+        "title": "Weekend In Texas",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "girl in red",
+      "title": "blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgjmq0",
+        "duration": 246,
+        "primary_contributor": {
+          "pid": "p06stnxy",
+          "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+          "name": "girl in red"
+        },
+        "artist": "girl in red",
+        "track_title": "blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cv5w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06stnxy",
+            "name": "girl in red",
+            "role": "Performer",
+            "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0"
+          }
+        ],
+        "title": "blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nippa",
+      "title": "Bittersweet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pcm485",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p090cwzd",
+          "musicbrainz_gid": "464ffa17-1a40-4330-9a27-7a73ffa178de",
+          "name": "Nippa"
+        },
+        "artist": "Nippa",
+        "track_title": "Bittersweet",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Warner Records",
+        "release_title": null,
+        "record_id": "n9cbcm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p090cwzd",
+            "name": "Nippa",
+            "role": "Performer",
+            "musicbrainz_gid": "464ffa17-1a40-4330-9a27-7a73ffa178de"
+          }
+        ],
+        "title": "Bittersweet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lime Garden",
+      "title": "Moving Target",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd3f7v",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p09jvmt5",
+          "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4",
+          "name": "Lime Garden"
+        },
+        "artist": "Lime Garden",
+        "track_title": "Moving Target",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cdpx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09jvmt5",
+            "name": "Lime Garden",
+            "role": "Performer",
+            "musicbrainz_gid": "47d7fd0d-6598-43a0-b7b3-39bfff0d3ce4"
+          }
+        ],
+        "title": "Moving Target",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Saint Ludo",
+      "title": "Mayday",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plj2sc",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0l94t5k",
+          "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705",
+          "name": "Saint Ludo"
+        },
+        "artist": "Saint Ludo",
+        "track_title": "Mayday",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records Label/Sony",
+        "release_title": null,
+        "record_id": "n9df4j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l94t5k",
+            "name": "Saint Ludo",
+            "role": "Performer",
+            "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705"
+          },
+          {
+            "pid": "p0m9z0x4",
+            "name": "Ceebo",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "12607229-c7e8-4cc5-926b-fef5f60f2934"
+          }
+        ],
+        "title": "Mayday",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Heart & Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf43k2",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0f5fy80",
+          "musicbrainz_gid": "b716c12c-72e5-417e-b97b-7ade2bdb5030",
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Heart & Soul",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9chmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f5fy80",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": "b716c12c-72e5-417e-b97b-7ade2bdb5030"
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Heart & Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Currency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm54vm",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Currency",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9dg2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Currency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "edapollo",
+      "title": "Carry Me Home",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phk41q",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p097kl6t",
+          "musicbrainz_gid": "712e6821-c973-4a19-99cb-c82a8628974a",
+          "name": "edapollo"
+        },
+        "artist": "edapollo",
+        "track_title": "Carry Me Home",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Omni Youth",
+        "release_title": null,
+        "record_id": "n9d4m3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097kl6t",
+            "name": "edapollo",
+            "role": "Performer",
+            "musicbrainz_gid": "712e6821-c973-4a19-99cb-c82a8628974a"
+          }
+        ],
+        "title": "Carry Me Home",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Poison",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy7xw",
+        "duration": 99,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Poison",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9dncw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Poison",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "earthsignchels",
+      "title": "Crazy?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plj290",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p0nwbb9v",
+          "musicbrainz_gid": "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9",
+          "name": "earthsignchels"
+        },
+        "artist": "earthsignchels",
+        "track_title": "Crazy?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dzpf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nwbb9v",
+            "name": "earthsignchels",
+            "role": "Performer",
+            "musicbrainz_gid": "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9"
+          }
+        ],
+        "title": "Crazy?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Antony Szmierek",
+      "title": "Bookie's Favourite",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5z6bq",
+        "duration": 209,
+        "primary_contributor": {
+          "pid": "p0d28073",
+          "musicbrainz_gid": "4e892967-3080-4a28-840f-66717360e535",
+          "name": "Antony Szmierek"
+        },
+        "artist": "Antony Szmierek",
+        "track_title": "Bookie's Favourite",
+        "track_number": null,
+        "publisher": "Virgin Music Group",
+        "record_label": "Mushroom Music",
+        "release_title": null,
+        "record_id": "n9bchw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d28073",
+            "name": "Antony Szmierek",
+            "role": "Performer",
+            "musicbrainz_gid": "4e892967-3080-4a28-840f-66717360e535"
+          },
+          {
+            "pid": "p09sn3vz",
+            "name": "Ellur",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "87490c2a-0fe6-4811-85f2-43c3d0a4beaf"
+          }
+        ],
+        "title": "Bookie's Favourite",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

@@ -824,6 +824,11 @@
     "score": 1.0,
     "uri": "spotify:track:787Y2idwCU2Rk60Prv4wpr"
   },
+  "dominic fike|||casting call": {
+    "matched": "Dominic Fike - CASTING CALL",
+    "score": 1.0,
+    "uri": "spotify:track:3El0PldZjIxF1olHHzhUxW"
+  },
   "dominic fike|||pangea": {
     "matched": "Dominic Fike - PANGEA",
     "score": 1.0,
@@ -1023,6 +1028,11 @@
     "matched": "Finn Wolfhard - Follow",
     "score": 1.0,
     "uri": "spotify:track:6BkGs2ZNaqaEbrJNlQAt2x"
+  },
+  "fireboy dml|||goddess": {
+    "matched": "Fireboy DML - GODDESS",
+    "score": 1.0,
+    "uri": "spotify:track:4ztxrSwzvR854L7ycpuWEM"
   },
   "fisher|||what a life": {
     "matched": "FISHER - What A Life (feat. Florence Arman)",
@@ -1464,6 +1474,11 @@
     "score": 1.0,
     "uri": "spotify:track:3Sm6Ytyh4Rd1bdHz03pxHB"
   },
+  "jane remover|||beauty sleep": {
+    "matched": "Jane Remover - Beauty Sleep",
+    "score": 1.0,
+    "uri": "spotify:track:1RrEB90qVYRsVE1DQsqwuJ"
+  },
   "jay-z|||99 problems": {
     "matched": "JAŸ-Z - 99 Problems",
     "score": 0.97,
@@ -1833,6 +1848,11 @@
     "matched": null,
     "score": 0.0,
     "uri": null
+  },
+  "lime garden|||moving target": {
+    "matched": "Lime Garden - Moving Target",
+    "score": 1.0,
+    "uri": "spotify:track:4AE2XU5eDmnXzQGhO3IZDt"
   },
   "lime garden|||moving target (new music live in cardiff, 29 sept 2026)": {
     "matched": null,
@@ -3248,6 +3268,16 @@
     "matched": "Wilkinson - Afterglow",
     "score": 1.0,
     "uri": "spotify:track:6LW3Z1GqbL78TIjfDyg4zp"
+  },
+  "wilkinson|||out of control": {
+    "matched": "Wilkinson - Out Of Control",
+    "score": 1.0,
+    "uri": "spotify:track:4sB48VYROXFtKbuRTreGma"
+  },
+  "wilkinson|||used to this": {
+    "matched": "Wilkinson - Used to This",
+    "score": 1.0,
+    "uri": "spotify:track:1iL5lMhZdMmVg34AM6xQxx"
   },
   "willow|||she's my religion": {
     "matched": "WILLOW - She's My Religion",

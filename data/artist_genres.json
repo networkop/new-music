@@ -4295,6 +4295,52 @@
       ]
     ]
   },
+  "4d09a017-4e09-47a7-b274-a7e0767ac4e0": {
+    "name": "Fireboy DML",
+    "source": "lastfm",
+    "tags": [
+      [
+        "afrobeats",
+        100
+      ],
+      [
+        "nigeria",
+        64
+      ],
+      [
+        "rap",
+        24
+      ],
+      [
+        "nigerian",
+        11
+      ],
+      [
+        "hip hop",
+        1
+      ],
+      [
+        "africa",
+        1
+      ],
+      [
+        "hip-hop",
+        1
+      ],
+      [
+        "african",
+        1
+      ],
+      [
+        "aquarius",
+        1
+      ],
+      [
+        "afrobeat",
+        1
+      ]
+    ]
+  },
   "4e892967-3080-4a28-840f-66717360e535": {
     "name": "Antony Szmierek",
     "source": "lastfm",
@@ -14224,6 +14270,52 @@
       [
         "english",
         1
+      ]
+    ]
+  },
+  "f4b6e451-5dce-4842-a555-f793892299b3": {
+    "name": "Jane Remover",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hyperpop",
+        100
+      ],
+      [
+        "digicore",
+        93
+      ],
+      [
+        "shoegaze",
+        37
+      ],
+      [
+        "indietronica",
+        34
+      ],
+      [
+        "trap",
+        17
+      ],
+      [
+        "rage",
+        13
+      ],
+      [
+        "post-rock",
+        10
+      ],
+      [
+        "pop rap",
+        2
+      ],
+      [
+        "glitch pop",
+        2
+      ],
+      [
+        "electronic",
+        2
       ]
     ]
   },
