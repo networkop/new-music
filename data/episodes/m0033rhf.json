@@ -1,0 +1,788 @@
+{
+  "pid": "m0033rhf",
+  "broadcast_start": "2026-11-12T18:00:00Z",
+  "schedule_date": "2026-11-12",
+  "title": "FLO Hottest Record",
+  "tracks": [
+    {
+      "artist": "Skepta",
+      "title": "Currency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plm28b",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Currency",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Epic Records UK",
+        "release_title": null,
+        "record_id": "n9dg2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Currency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Matilda Mann",
+      "title": "Chain Reaction",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pll3hy",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p082r72d",
+          "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525",
+          "name": "Matilda Mann"
+        },
+        "artist": "Matilda Mann",
+        "track_title": "Chain Reaction",
+        "track_number": null,
+        "publisher": "Sony Music Publishing (UK) Limited, Reservoir Media Management (UK) Limited, Copyright Control",
+        "record_label": "Matilda Mann",
+        "release_title": null,
+        "record_id": "n9bj62",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082r72d",
+            "name": "Matilda Mann",
+            "role": "Performer",
+            "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525"
+          }
+        ],
+        "title": "Chain Reaction",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "Cardboard Box",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0bxgqq6",
+        "duration": 158,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "Cardboard Box",
+        "track_number": null,
+        "publisher": "Warner-Chappell / Copyright Control",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "np6hcw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "Cardboard Box",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Odeal",
+      "title": "After The Club",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxv4r",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p083ffbd",
+          "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb",
+          "name": "Odeal"
+        },
+        "artist": "Odeal",
+        "track_title": "After The Club",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LVRN Records",
+        "release_title": null,
+        "record_id": "n9bn3m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p083ffbd",
+            "name": "Odeal",
+            "role": "Performer",
+            "musicbrainz_gid": "47e10b14-4b74-4650-bc2b-34424c1c6bcb"
+          }
+        ],
+        "title": "After The Club",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LISA",
+      "title": "Tarantino",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj6rw9",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "Tarantino",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d6m8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "Tarantino",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Hannah Montana",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgp55d",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Hannah Montana",
+        "track_number": null,
+        "publisher": "(STIM) through Concord Copyrights (BMI) c/o Concord Music Publishing/Universal Music Publishing/copyright control/(BMI) Sony/ATV Songs LLC (BMI) (Administered by Sony Songs)/(KILOMETRE MUSIC GROUP INC",
+        "record_label": "Rex Orange County",
+        "release_title": null,
+        "record_id": "n9dzxc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          }
+        ],
+        "title": "Hannah Montana",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Tourniquet",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pdj51m",
+        "duration": 240,
+        "primary_contributor": {
+          "pid": "p0m8d0w0",
+          "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31",
+          "name": "Bleech 9:3"
+        },
+        "artist": "Bleech 9:3",
+        "track_title": "Tourniquet",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cxgr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0m8d0w0",
+            "name": "Bleech 9:3",
+            "role": "Performer",
+            "musicbrainz_gid": "77127115-2daf-4ca8-81c2-c3acb4ce0c31"
+          }
+        ],
+        "title": "Tourniquet",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "Leak It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n90b2p",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "Leak It",
+        "track_number": null,
+        "publisher": "Sony Music Publishing / Dragon Bunny Music (BMI), administered by Sony/ATV Songs LLC / Smells Like Good Music (ASCAP), administered by",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n96vwd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "Leak It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "Leave You (Never)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmpls9",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "Leave You (Never)",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n9djx9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "Leave You (Never)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Interplanetary Criminal",
+      "title": "Slow Burner",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0lgnxd0",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p076pjk8",
+          "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e",
+          "name": "Interplanetary Criminal"
+        },
+        "artist": "Interplanetary Criminal",
+        "track_title": "Slow Burner",
+        "track_number": null,
+        "publisher": "Copyright Control; Original Koffee Publishing; Promised Land",
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n8qn9v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p076pjk8",
+            "name": "Interplanetary Criminal",
+            "role": "Performer",
+            "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e"
+          },
+          {
+            "pid": "p06nvt6n",
+            "name": "Original Koffee",
+            "role": "Performer",
+            "musicbrainz_gid": "7d04679e-a855-4214-9543-febaf02de725"
+          }
+        ],
+        "title": "Slow Burner",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Tongue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd7tb7",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Tongue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL RECORDINGS",
+        "release_title": null,
+        "record_id": "n9cx5g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Tongue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Mother Never Told You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbf88",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Mother Never Told You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": "Dead Company",
+        "record_id": "n9dxgm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Mother Never Told You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Smith",
+      "title": "Mr Right",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgj1j2",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0k87k3z",
+          "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca",
+          "name": "Nia Smith"
+        },
+        "artist": "Nia Smith",
+        "track_title": "Mr Right",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cqx5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k87k3z",
+            "name": "Nia Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca"
+          }
+        ],
+        "title": "Mr Right",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "BNXN",
+      "title": "Online",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phphs0",
+        "duration": 173,
+        "primary_contributor": {
+          "pid": "p0cy9ykp",
+          "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9",
+          "name": "BNXN"
+        },
+        "artist": "BNXN",
+        "track_title": "Online",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EMPIRE RECORDS",
+        "release_title": null,
+        "record_id": "n9c5dn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cy9ykp",
+            "name": "BNXN",
+            "role": "Performer",
+            "musicbrainz_gid": "0707594a-f793-4255-9708-4d73484581e9"
+          }
+        ],
+        "title": "Online",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "fakemink",
+      "title": "Chiltern Firehouse.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwqmz",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0kyb04q",
+          "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99",
+          "name": "fakemink"
+        },
+        "artist": "fakemink",
+        "track_title": "Chiltern Firehouse.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EtnaVeraVela",
+        "release_title": null,
+        "record_id": "n9d5gf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyb04q",
+            "name": "fakemink",
+            "role": "Performer",
+            "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Chiltern Firehouse.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wilkinson",
+      "title": "Out Of Control",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhdw2",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p01786yq",
+          "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5",
+          "name": "Wilkinson"
+        },
+        "artist": "Wilkinson",
+        "track_title": "Out Of Control",
+        "track_number": null,
+        "publisher": "Concord Music Publishing, Silver Fox/Kobalt Songs Music Publishing, Copyright Control",
+        "record_label": "Sleepless Music",
+        "release_title": null,
+        "record_id": "n9dj34",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01786yq",
+            "name": "Wilkinson",
+            "role": "Performer",
+            "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5"
+          }
+        ],
+        "title": "Out Of Control",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Becky Hill",
+      "title": "Tie Me Down",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmpv3x",
+        "duration": null,
+        "primary_contributor": {
+          "pid": "p01hpq9v",
+          "musicbrainz_gid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010",
+          "name": "Becky Hill"
+        },
+        "artist": "Becky Hill",
+        "track_title": "Tie Me Down",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9djxg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01hpq9v",
+            "name": "Becky Hill",
+            "role": "Performer",
+            "musicbrainz_gid": "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
+          }
+        ],
+        "title": "Tie Me Down",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "That Mexican OT",
+      "title": "I Can't",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfrrwt",
+        "duration": 154,
+        "primary_contributor": {
+          "pid": "p0gcpk8k",
+          "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215",
+          "name": "That Mexican OT"
+        },
+        "artist": "That Mexican OT",
+        "track_title": "I Can't",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cj98",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gcpk8k",
+            "name": "That Mexican OT",
+            "role": "Performer",
+            "musicbrainz_gid": "115dc8c9-cb04-4dd6-859e-39739eb57215"
+          },
+          {
+            "pid": "p0pfrrx4",
+            "name": "OC Chris",
+            "role": "Performer",
+            "musicbrainz_gid": "5a3b2af4-9be2-4f3b-94a7-cbd3e17fa0d1"
+          }
+        ],
+        "title": "I Can't",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Strawberry Guy",
+      "title": "Only Gets Better",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwkvz",
+        "duration": 232,
+        "primary_contributor": {
+          "pid": "p07fcpx7",
+          "musicbrainz_gid": "287cb25a-9b05-474c-9ad1-38046a46c37f",
+          "name": "Strawberry Guy"
+        },
+        "artist": "Strawberry Guy",
+        "track_title": "Only Gets Better",
+        "track_number": null,
+        "publisher": "Sentric Music",
+        "record_label": "Melodic Records",
+        "release_title": null,
+        "record_id": "n9cx5m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07fcpx7",
+            "name": "Strawberry Guy",
+            "role": "Performer",
+            "musicbrainz_gid": "287cb25a-9b05-474c-9ad1-38046a46c37f"
+          }
+        ],
+        "title": "Only Gets Better",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiffany Day",
+      "title": "MEANT TO BE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghml9",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p0nlzhbt",
+          "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
+          "name": "Tiffany Day"
+        },
+        "artist": "Tiffany Day",
+        "track_title": "MEANT TO BE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Tiffany Day",
+        "release_title": null,
+        "record_id": "n9dz4r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nlzhbt",
+            "name": "Tiffany Day",
+            "role": "Performer",
+            "musicbrainz_gid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02"
+          },
+          {
+            "pid": "p09jlr02",
+            "name": "glaive",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "fd36f43e-5bd1-488e-b844-0e059250ef78"
+          }
+        ],
+        "title": "MEANT TO BE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Trillions",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfbjg4",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Trillions",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fantasy Records",
+        "release_title": null,
+        "record_id": "n9cfdv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Trillions",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
