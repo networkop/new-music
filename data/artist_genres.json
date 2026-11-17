@@ -1251,6 +1251,52 @@
       ]
     ]
   },
+  "15e0d608-0869-429b-898d-3d8db3ecedd5": {
+    "name": "Olivia Dean",
+    "source": "lastfm",
+    "tags": [
+      [
+        "soul",
+        100
+      ],
+      [
+        "rnb",
+        68
+      ],
+      [
+        "pop",
+        35
+      ],
+      [
+        "indie",
+        14
+      ],
+      [
+        "female vocalists",
+        4
+      ],
+      [
+        "pop soul",
+        4
+      ],
+      [
+        "british",
+        4
+      ],
+      [
+        "neo-soul",
+        1
+      ],
+      [
+        "want to see live",
+        1
+      ],
+      [
+        "neosoul",
+        1
+      ]
+    ]
+  },
   "15f2cd9b-4e6b-469e-b8bb-8246adba33c9": {
     "name": "Capo Lee",
     "source": "lastfm",
@@ -3524,6 +3570,52 @@
       [
         "male voice",
         4
+      ]
+    ]
+  },
+  "412ff65d-26bf-4849-ba19-d2a58030fd1a": {
+    "name": "Leon Thomas",
+    "source": "lastfm",
+    "tags": [
+      [
+        "jazz",
+        100
+      ],
+      [
+        "soul",
+        71
+      ],
+      [
+        "funk",
+        25
+      ],
+      [
+        "spiritual jazz",
+        20
+      ],
+      [
+        "free jazz",
+        5
+      ],
+      [
+        "rnb",
+        4
+      ],
+      [
+        "usa",
+        1
+      ],
+      [
+        "vocal jazz",
+        1
+      ],
+      [
+        "post-bop",
+        1
+      ],
+      [
+        "singer-songwriter",
+        1
       ]
     ]
   },
@@ -12504,6 +12596,52 @@
       ]
     ]
   },
+  "d2a76e1b-cecc-4500-b445-d55591821cd3": {
+    "name": "Mura Masa",
+    "source": "lastfm",
+    "tags": [
+      [
+        "electronic",
+        100
+      ],
+      [
+        "future bass",
+        94
+      ],
+      [
+        "chill trap",
+        43
+      ],
+      [
+        "lovestep",
+        43
+      ],
+      [
+        "trap",
+        19
+      ],
+      [
+        "downtempo",
+        13
+      ],
+      [
+        "british",
+        12
+      ],
+      [
+        "nu-disco",
+        1
+      ],
+      [
+        "instrumental",
+        1
+      ],
+      [
+        "electronica",
+        1
+      ]
+    ]
+  },
   "d2b5e992-9672-45a8-9d01-97f3b1afb053": {
     "name": "Sekou",
     "source": "lastfm",
@@ -15102,6 +15240,52 @@
       ],
       [
         "electronic",
+        1
+      ]
+    ]
+  },
+  "name:dylan": {
+    "name": "Dylan",
+    "source": "lastfm",
+    "tags": [
+      [
+        "drum and bass",
+        100
+      ],
+      [
+        "darkstep",
+        72
+      ],
+      [
+        "techstep",
+        20
+      ],
+      [
+        "darkside",
+        15
+      ],
+      [
+        "pop",
+        6
+      ],
+      [
+        "dnb",
+        2
+      ],
+      [
+        "british",
+        2
+      ],
+      [
+        "drum n bass",
+        1
+      ],
+      [
+        "neurofunk",
+        1
+      ],
+      [
+        "ambient",
         1
       ]
     ]

@@ -1,0 +1,1016 @@
+{
+  "pid": "m00342nl",
+  "broadcast_start": "2026-11-16T18:00:00Z",
+  "schedule_date": "2026-11-16",
+  "title": "Dylan Hottest Record",
+  "tracks": [
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "expectations",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph0jh7",
+        "duration": 222,
+        "primary_contributor": {
+          "pid": "p093l6j5",
+          "musicbrainz_gid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+          "name": "Olivia Rodrigo"
+        },
+        "artist": "Olivia Rodrigo",
+        "track_title": "expectations",
+        "track_number": null,
+        "publisher": "Warner Chappell North America Limited; WC MUSIC CORP, WARNER CHAPPELL NORTH AMERICA LIMITED",
+        "record_label": "Olivia Rodrigo/Geffen",
+        "release_title": null,
+        "record_id": "n9d2p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p093l6j5",
+            "name": "Olivia Rodrigo",
+            "role": "Performer",
+            "musicbrainz_gid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
+          },
+          {
+            "pid": "p094wg3k",
+            "name": "Chappell Roan",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "56a55378-f155-48de-80a5-d80104221267"
+          }
+        ],
+        "title": "expectations",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Justice",
+      "title": "Flower In A Hurricane",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgvtnn",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p012d8f5",
+          "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+          "name": "Justice"
+        },
+        "artist": "Justice",
+        "track_title": "Flower In A Hurricane",
+        "track_number": null,
+        "publisher": "Genesis, Concord Copyrights Uk",
+        "record_label": "Ed Banger Records/Because Music",
+        "release_title": null,
+        "record_id": "n9dn95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8f5",
+            "name": "Justice",
+            "role": "Performer",
+            "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          },
+          {
+            "pid": "p03vwrdf",
+            "name": "Tame Impala",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+          },
+          {
+            "pid": "p01prxjs",
+            "name": "King Gizzard & the Lizard Wizard",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+          }
+        ],
+        "title": "Flower In A Hurricane",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dylan",
+      "title": "You're Not Harry Styles",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pn9q42",
+        "duration": 174,
+        "primary_contributor": {
+          "pid": "p07p5s32",
+          "musicbrainz_gid": "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a",
+          "name": "Dylan"
+        },
+        "artist": "Dylan",
+        "track_title": "You're Not Harry Styles",
+        "track_number": null,
+        "publisher": "SONY/ATV MUSIC PUBLISHING (UK) LIMITED,SPIRIT MUSIC PUBLISHING (UK) LTD,KOBALT MUSIC SERVICES LTD,KOBALT MUSIC PUBLISHING LTD,SONY MUSIC PUBLISHING (UK) LTD",
+        "record_label": "KHAOS RECORDS",
+        "release_title": "No Romeo EP",
+        "record_id": "np2v58",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07p5s32",
+            "name": "Dylan",
+            "role": "Performer",
+            "musicbrainz_gid": "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a"
+          }
+        ],
+        "title": "You're Not Harry Styles",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "Pretty girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgzlvw",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "Pretty girls",
+        "track_number": null,
+        "publisher": "These Are Songs Of Pulse, Reservoir Media Management (Uk) Limited, Sony Atv Songs Llc",
+        "record_label": "Parlophone",
+        "release_title": "I think I spoke too soon",
+        "record_id": "n9dncr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "Pretty girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jamie T",
+      "title": "Waist 36 Leg 32",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pfhy7c",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p012d8x9",
+          "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c",
+          "name": "Jamie T"
+        },
+        "artist": "Jamie T",
+        "track_title": "Waist 36 Leg 32",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cwmn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8x9",
+            "name": "Jamie T",
+            "role": "Performer",
+            "musicbrainz_gid": "bc883961-64d4-46b3-8b1c-64009854291c"
+          }
+        ],
+        "title": "Waist 36 Leg 32",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "Too Soon",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plhvpm",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p078wms5",
+          "musicbrainz_gid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+          "name": "Jack Harlow"
+        },
+        "artist": "Jack Harlow",
+        "track_title": "Too Soon",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Sweet Action II",
+        "record_id": "n9df46",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p078wms5",
+            "name": "Jack Harlow",
+            "role": "Performer",
+            "musicbrainz_gid": "134cb0bc-06fa-42f7-8078-b0c858349975"
+          },
+          {
+            "pid": "p01mxxnm",
+            "name": "Babyface",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7fa62c0b-2c74-491e-a2a1-17c3b043f326"
+          }
+        ],
+        "title": "Too Soon",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Gas",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pll4vf",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "Gas",
+        "track_number": null,
+        "publisher": "Universal Music Publishing, Copyright Control, Concord / Giant Man.",
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9d55f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p09ylr6k",
+            "name": "Lauren Duffus",
+            "role": "Performer",
+            "musicbrainz_gid": "115e08e4-4679-4678-8675-41ccabb2e5b3"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Performer",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "Gas",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dylan",
+      "title": "to love and to lose",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8szxf",
+        "duration": 181,
+        "primary_contributor": {
+          "pid": "p07p5s32",
+          "musicbrainz_gid": "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a",
+          "name": "Dylan"
+        },
+        "artist": "Dylan",
+        "track_title": "to love and to lose",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n9czpm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07p5s32",
+            "name": "Dylan",
+            "role": "Performer",
+            "musicbrainz_gid": "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a"
+          }
+        ],
+        "title": "to love and to lose",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dylan",
+      "title": "grief and all his friends",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pn9wbk",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p0pn9wbr",
+          "musicbrainz_gid": null,
+          "name": "Dylan"
+        },
+        "artist": "Dylan",
+        "track_title": "grief and all his friends",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n9dmm3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pn9wbr",
+            "name": "Dylan",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          }
+        ],
+        "title": "grief and all his friends",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mura Masa",
+      "title": "Love$ick",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p049hyvx",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p01q8fhg",
+          "musicbrainz_gid": "d2a76e1b-cecc-4500-b445-d55591821cd3",
+          "name": "Mura Masa"
+        },
+        "artist": "Mura Masa",
+        "track_title": "Love$ick",
+        "track_number": null,
+        "publisher": "A$AP Rocky Music Publishing LLC/Sony/ATV Songs LLC (BMI) / MoS Publishing",
+        "record_label": "Anchor Point Records",
+        "release_title": null,
+        "record_id": "n43rw6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01q8fhg",
+            "name": "Mura Masa",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a76e1b-cecc-4500-b445-d55591821cd3"
+          },
+          {
+            "pid": "p012dsqn",
+            "name": "A$AP Rocky",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64"
+          }
+        ],
+        "title": "Love$ick",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Chris Lorenzo",
+      "title": "Fancy Footwork",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgynzv",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p01kd4t0",
+          "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f",
+          "name": "Chris Lorenzo"
+        },
+        "artist": "Chris Lorenzo",
+        "track_title": "Fancy Footwork",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Turbo Blanco",
+        "release_title": null,
+        "record_id": "n9cf4m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kd4t0",
+            "name": "Chris Lorenzo",
+            "role": "Performer",
+            "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f"
+          },
+          {
+            "pid": "p012d87c",
+            "name": "Chromeo",
+            "role": "Performer",
+            "musicbrainz_gid": "647221d0-f6b1-4e03-924c-c59b8059536f"
+          }
+        ],
+        "title": "Fancy Footwork",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Hold On Let Go",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm5qm0",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Hold On Let Go",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dnn5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Hold On Let Go",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "hey boyyy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhsw0",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "hey boyyy",
+        "track_number": null,
+        "publisher": "Slayyyter Enterprises LLC",
+        "record_label": "RECORDS Label, LLC/Columbia Records",
+        "release_title": null,
+        "record_id": "n9dgmw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "hey boyyy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Leon Thomas",
+      "title": "Trophy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pn9yjm",
+        "duration": 246,
+        "primary_contributor": {
+          "pid": "p0fqvzv7",
+          "musicbrainz_gid": "412ff65d-26bf-4849-ba19-d2a58030fd1a",
+          "name": "Leon Thomas"
+        },
+        "artist": "Leon Thomas",
+        "track_title": "Trophy",
+        "track_number": null,
+        "publisher": "Eclectic Collective Publishing (Admin by Sony Music Publishing, LLC (ASCAP) (US) /",
+        "record_label": "EZMNY Records/Motown Records",
+        "release_title": null,
+        "record_id": "n9dvbz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fqvzv7",
+            "name": "Leon Thomas",
+            "role": "Performer",
+            "musicbrainz_gid": "412ff65d-26bf-4849-ba19-d2a58030fd1a"
+          }
+        ],
+        "title": "Trophy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ayra Starr",
+      "title": "Amazing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p997fr",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p097mf81",
+          "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4",
+          "name": "Ayra Starr"
+        },
+        "artist": "Ayra Starr",
+        "track_title": "Amazing",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Mavin/Republic",
+        "release_title": null,
+        "record_id": "n9b8v9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097mf81",
+            "name": "Ayra Starr",
+            "role": "Performer",
+            "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4"
+          },
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "Amazing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erick the Architect",
+      "title": "Yerr",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3pt2",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p02g7gk6",
+          "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c",
+          "name": "Erick the Architect"
+        },
+        "artist": "Erick the Architect",
+        "track_title": "Yerr",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Erick The Architect",
+        "release_title": null,
+        "record_id": "n9d645",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02g7gk6",
+            "name": "Erick the Architect",
+            "role": "Performer",
+            "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c"
+          },
+          {
+            "pid": "p012dj7w",
+            "name": "Ghostface Killah",
+            "role": "Performer",
+            "musicbrainz_gid": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb"
+          },
+          {
+            "pid": "p0pj3pt8",
+            "name": "Fergie Baby",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ef8af4d8-3866-403a-a048-89f0304326e0"
+          }
+        ],
+        "title": "Yerr",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nia Smith",
+      "title": "Mr Right",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgj1j2",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0k87k3z",
+          "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca",
+          "name": "Nia Smith"
+        },
+        "artist": "Nia Smith",
+        "track_title": "Mr Right",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Polydor Records",
+        "release_title": null,
+        "record_id": "n9cqx5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0k87k3z",
+            "name": "Nia Smith",
+            "role": "Performer",
+            "musicbrainz_gid": "4c24e126-cdc9-4be1-9caa-570ced8dafca"
+          }
+        ],
+        "title": "Mr Right",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "RAYE",
+      "title": "WHERE IS MY HUSBAND!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0m3s2t9",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p03dv3kq",
+          "musicbrainz_gid": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
+          "name": "RAYE"
+        },
+        "artist": "RAYE",
+        "track_title": "WHERE IS MY HUSBAND!",
+        "track_number": null,
+        "publisher": "SONY/ATV BALLAD, SONY ATV SONGS LLC, SONY/ATV MUSIC PUBLISHING LLC, SONY/ATV MUSIC PUBLISHING (UK) LIMITED, WARNER CHAPPELL MUSIC LTD",
+        "record_label": "Human Re Sources",
+        "release_title": null,
+        "record_id": "n9n9bb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03dv3kq",
+            "name": "RAYE",
+            "role": "Performer",
+            "musicbrainz_gid": "8be564c3-dfba-440b-af8c-4ffbceeef45e"
+          }
+        ],
+        "title": "WHERE IS MY HUSBAND!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Olivia Dean",
+      "title": "Man I Need",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0lx44h3",
+        "duration": 182,
+        "primary_contributor": {
+          "pid": "p07tl8hz",
+          "musicbrainz_gid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+          "name": "Olivia Dean"
+        },
+        "artist": "Olivia Dean",
+        "track_title": "Man I Need",
+        "track_number": null,
+        "publisher": "SONY MUSIC PUBLISHING (UK) LTD, SONGS OF UNIVERSAL INC, UNIVERSAL MUSIC PUBLISHING INTERNATIONAL LTD, UNIVERSAL/MCA MUSIC LIMITED, CONCORD COPYRIGHTS, CONCORD MUSIC PUBLISHING LLC, UNKNOWN PUBLISHER",
+        "record_label": "PLG - Capitol",
+        "release_title": null,
+        "record_id": "n9z8cj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07tl8hz",
+            "name": "Olivia Dean",
+            "role": "Performer",
+            "musicbrainz_gid": "15e0d608-0869-429b-898d-3d8db3ecedd5"
+          }
+        ],
+        "title": "Man I Need",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sienna Spiro",
+      "title": "Die On This Hill",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0m8lk3k",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p0j9wp1j",
+          "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+          "name": "Sienna Spiro"
+        },
+        "artist": "Sienna Spiro",
+        "track_title": "Die On This Hill",
+        "track_number": null,
+        "publisher": "Sony Music Publishing; Songs of Universal, Inc. BMI; ASCAP, Administered by Kobalt Songs Music Publishing",
+        "record_label": "Capitol",
+        "release_title": null,
+        "record_id": "n92226",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j9wp1j",
+            "name": "Sienna Spiro",
+            "role": "Performer",
+            "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5"
+          }
+        ],
+        "title": "Die On This Hill",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "South Arcade",
+      "title": "Splitscreen",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnb5dd",
+        "duration": 191,
+        "primary_contributor": {
+          "pid": "p0dbxqn0",
+          "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3",
+          "name": "South Arcade"
+        },
+        "artist": "South Arcade",
+        "track_title": "Splitscreen",
+        "track_number": null,
+        "publisher": "BKM Artists Ltd / Atlantic",
+        "record_label": "BKM Artists Ltd / Atlantic",
+        "release_title": null,
+        "record_id": "n9dv58",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbxqn0",
+            "name": "South Arcade",
+            "role": "Performer",
+            "musicbrainz_gid": "de701d16-34d0-4ffb-a64e-2f07dea8e7a3"
+          }
+        ],
+        "title": "Splitscreen",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "girl in red",
+      "title": "blue",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgjmq0",
+        "duration": 246,
+        "primary_contributor": {
+          "pid": "p06stnxy",
+          "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+          "name": "girl in red"
+        },
+        "artist": "girl in red",
+        "track_title": "blue",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9cv5w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06stnxy",
+            "name": "girl in red",
+            "role": "Performer",
+            "musicbrainz_gid": "4ae429fe-735c-4968-8253-a591421b1bd0"
+          }
+        ],
+        "title": "blue",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "My Body Isn't Ready (Radio 1's Live Lounge Late Cover, 12th November 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmq3ys",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p0dckhd7",
+          "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be",
+          "name": "Freya Skye"
+        },
+        "artist": "Freya Skye",
+        "track_title": "My Body Isn't Ready (Radio 1's Live Lounge Late Cover, 12th November 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9djf5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dckhd7",
+            "name": "Freya Skye",
+            "role": "Performer",
+            "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be"
+          }
+        ],
+        "title": "My Body Isn't Ready (Radio 1's Live Lounge Late Cover, 12th November 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lainey Wilson",
+      "title": "Kinda Love It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwvv1",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p071v3mt",
+          "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05",
+          "name": "Lainey Wilson"
+        },
+        "artist": "Lainey Wilson",
+        "track_title": "Kinda Love It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Broken Bow Records",
+        "release_title": null,
+        "record_id": "n9dz32",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p071v3mt",
+            "name": "Lainey Wilson",
+            "role": "Performer",
+            "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05"
+          }
+        ],
+        "title": "Kinda Love It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Poison",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy7xw",
+        "duration": 99,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Poison",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9dncw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Poison",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "title": "Timeless",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnb6tq",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p02gc6kf",
+          "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+          "name": "Snoh Aalegra"
+        },
+        "artist": "Snoh Aalegra",
+        "track_title": "Timeless",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Feels Run Free",
+        "release_title": null,
+        "record_id": "n9dmbp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02gc6kf",
+            "name": "Snoh Aalegra",
+            "role": "Performer",
+            "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3"
+          }
+        ],
+        "title": "Timeless",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

@@ -6,6 +6,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "hurt"
   },
+  "2hollis|||style": {
+    "artist": "2hollis",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Style"
+  },
   "2hollis|||warhorse": {
     "artist": "2hollis",
     "category": "manual",
@@ -145,6 +152,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Talk To You"
+  },
+  "antony szmierek|||bookie's favourite": {
+    "artist": "Antony Szmierek",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Bookie's Favourite"
   },
   "antony szmierek|||flight simulator": {
     "artist": "Antony Szmierek",
@@ -874,6 +888,20 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Saving Up"
   },
+  "dominic fike|||casting call": {
+    "artist": "Dominic Fike",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "CASTING CALL"
+  },
+  "dominic fike|||pangea": {
+    "artist": "Dominic Fike",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Pangea"
+  },
   "dominic fike|||wallflower": {
     "artist": "Dominic Fike",
     "category": "manual",
@@ -965,6 +993,27 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Chiltern Firehouse."
   },
+  "fall out boy|||aces": {
+    "artist": "Fall Out Boy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Aces"
+  },
+  "fall out boy|||dance, dance": {
+    "artist": "Fall Out Boy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dance, Dance"
+  },
+  "fall out boy|||sugar, we're goin' down": {
+    "artist": "Fall Out Boy",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Sugar, We're Goin' Down"
+  },
   "faouzia|||unethical": {
     "artist": "Faouzia",
     "category": "manual",
@@ -1027,6 +1076,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Follow"
+  },
+  "fireboy dml|||goddess": {
+    "artist": "Fireboy DML",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Goddess"
   },
   "fisher|||what a life": {
     "artist": "FISHER",
@@ -1385,6 +1441,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "HOLD DA PHONE"
   },
+  "interplanetary criminal|||slow burner": {
+    "artist": "Interplanetary Criminal",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Slow Burner"
+  },
   "ivri|||the golden record": {
     "artist": "ivri",
     "category": "manual",
@@ -1454,6 +1517,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Waist 36 Leg 32"
+  },
+  "jane remover|||beauty sleep": {
+    "artist": "Jane Remover",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Beauty Sleep"
   },
   "jay-z|||99 problems": {
     "artist": "JAY-Z",
@@ -1686,6 +1756,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Think of You"
   },
+  "king princess|||old song": {
+    "artist": "King Princess",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Old Song"
+  },
   "kwn|||risk it all": {
     "artist": "kwn",
     "category": "manual",
@@ -1769,6 +1846,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Cross My Heart"
+  },
+  "lime garden|||moving target": {
+    "artist": "Lime Garden",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Moving Target"
   },
   "lisa|||rockstar": {
     "artist": "LISA",
@@ -2666,6 +2750,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "On 2nite"
   },
+  "skepta|||currency": {
+    "artist": "Skepta",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Currency"
+  },
   "skepta|||greaze mode": {
     "artist": "Skepta",
     "category": "manual",
@@ -2763,6 +2854,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "crank 2"
+  },
+  "slayyyter|||hey boyyy": {
+    "artist": "Slayyyter",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "hey boyyy"
   },
   "slayyyter|||i think he's got a girl": {
     "artist": "Slayyyter",
@@ -2868,6 +2966,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Only Gets Better"
+  },
+  "suggz|||manny made": {
+    "artist": "Suggz",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Manny Made"
   },
   "suki waterhouse|||notting hill": {
     "artist": "Suki Waterhouse",
@@ -3036,6 +3141,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Celebration"
+  },
+  "tomora|||hold on let go": {
+    "artist": "TOMORA",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Hold On Let Go"
   },
   "tomora|||ring the alarm": {
     "artist": "TOMORA",
@@ -3211,6 +3323,27 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "On Site"
+  },
+  "wilkinson|||afterglow": {
+    "artist": "Wilkinson",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Afterglow"
+  },
+  "wilkinson|||out of control": {
+    "artist": "Wilkinson",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Out Of Control"
+  },
+  "wilkinson|||used to this": {
+    "artist": "Wilkinson",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Used To This"
   },
   "willow|||she's my religion": {
     "artist": "WILLOW",
