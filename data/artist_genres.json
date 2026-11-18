@@ -3993,6 +3993,48 @@
       ]
     ]
   },
+  "48fd666d-cf31-4a0b-91b0-59d11d445317": {
+    "name": "hard life",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "indie pop",
+        100
+      ],
+      [
+        "funk",
+        29
+      ],
+      [
+        "pop",
+        29
+      ],
+      [
+        "pop rock",
+        4
+      ],
+      [
+        "hip hop",
+        4
+      ],
+      [
+        "hip-hop",
+        4
+      ],
+      [
+        "british",
+        1
+      ],
+      [
+        "united kingdom",
+        1
+      ]
+    ]
+  },
   "496100ef-b264-4b7b-9d7c-bf90a2f9c9ef": {
     "name": "Spacey Jane",
     "source": "lastfm",
@@ -13472,6 +13514,52 @@
       [
         "usa",
         1
+      ]
+    ]
+  },
+  "e3bda984-f349-4924-b4b8-f72478bbb3f3": {
+    "name": "Julien Baker",
+    "source": "lastfm",
+    "tags": [
+      [
+        "indie",
+        100
+      ],
+      [
+        "singer-songwriter",
+        88
+      ],
+      [
+        "folk",
+        50
+      ],
+      [
+        "indie folk",
+        47
+      ],
+      [
+        "acoustic",
+        12
+      ],
+      [
+        "female vocalists",
+        10
+      ],
+      [
+        "indie rock",
+        9
+      ],
+      [
+        "slowcore",
+        3
+      ],
+      [
+        "american",
+        2
+      ],
+      [
+        "emo",
+        2
       ]
     ]
   },

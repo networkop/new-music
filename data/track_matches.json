@@ -994,6 +994,11 @@
     "score": 0.0,
     "uri": null
   },
+  "fat dog|||heart of darkness": {
+    "matched": "Fat Dog - Heart of Darkness",
+    "score": 1.0,
+    "uri": "spotify:track:7MPQJbQG62dDyYpuhwZlYj"
+  },
   "fat dog|||love": {
     "matched": "Fat Dog - Shit Love",
     "score": 0.828,
@@ -2069,10 +2074,20 @@
     "score": 0.0,
     "uri": null
   },
+  "mura masa|||firefly": {
+    "matched": "Mura Masa - Firefly",
+    "score": 1.0,
+    "uri": "spotify:track:2s9C5THb9llwyVXtjveV4E"
+  },
   "mura masa|||love$ick": {
     "matched": "Mura Masa - Love$ick (feat. A$AP Rocky)",
     "score": 1.0,
     "uri": "spotify:track:3sTN90bIP2cJ1783ctHykO"
+  },
+  "mura masa|||nobody can know me like you do": {
+    "matched": "Mura Masa - Nobody Can Know Me Like You Do",
+    "score": 1.0,
+    "uri": "spotify:track:0drT8Zlv5uzrQMAKNzDq2u"
   },
   "naomi scott|||cut me loose": {
     "matched": "Naomi Scott - Cut Me Loose",
@@ -2143,6 +2158,11 @@
     "matched": "Nia Smith - Stuntin",
     "score": 1.0,
     "uri": "spotify:track:0kOIgPakbZqEDMoUX1qiSR"
+  },
+  "nieve ella|||back to basics": {
+    "matched": "Nieve Ella - Back To Basics",
+    "score": 1.0,
+    "uri": "spotify:track:6OTQqhYW7LSbAV7NJwKAP3"
   },
   "nieve ella|||bite back": {
     "matched": "Nieve Ella - Bite Back",
@@ -3123,6 +3143,11 @@
     "matched": "TOMORA - SOMEWHERE ELSE",
     "score": 1.0,
     "uri": "spotify:track:4ROFunSkVUlXqU0cMi6vYJ"
+  },
+  "tove lo|||blood in your eyes (from gtavi: the album)": {
+    "matched": "Tove Lo - Blood In Your Eyes (from GTAVI: The Album)",
+    "score": 1.0,
+    "uri": "spotify:track:4h3tY2zV4easaHEAbHVmgj"
   },
   "tove lo|||dnh": {
     "matched": "Tove Lo - DNH",

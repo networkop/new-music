@@ -5,6 +5,11 @@
       "broadcast": "2026-11-16",
       "title": "Splitscreen"
     },
+    "spotify:track:0drT8Zlv5uzrQMAKNzDq2u": {
+      "artist": "Mura Masa",
+      "broadcast": "2026-11-17",
+      "title": "Nobody Can Know Me Like You Do"
+    },
     "spotify:track:0on0fLiQ7dBSIshX11w9uU": {
       "artist": "Enter Shikari",
       "broadcast": "2026-11-05",
@@ -22,7 +27,7 @@
     },
     "spotify:track:1brCf12togJyd7TJlDpxP3": {
       "artist": "Dylan",
-      "broadcast": "2026-11-16",
+      "broadcast": "2026-11-17",
       "title": "grief and all his friends"
     },
     "spotify:track:2KMVizTVC3iUOcG6il4lBr": {
@@ -50,6 +55,11 @@
       "broadcast": "2026-11-10",
       "title": "Air"
     },
+    "spotify:track:2s9C5THb9llwyVXtjveV4E": {
+      "artist": "Mura Masa",
+      "broadcast": "2026-11-17",
+      "title": "Firefly"
+    },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
       "broadcast": "2026-11-04",
@@ -57,7 +67,7 @@
     },
     "spotify:track:3sTN90bIP2cJ1783ctHykO": {
       "artist": "Mura Masa",
-      "broadcast": "2026-11-16",
+      "broadcast": "2026-11-17",
       "title": "Love$ick"
     },
     "spotify:track:4cLzHSqYaxcw8qVFV2xlGY": {
@@ -65,15 +75,30 @@
       "broadcast": "2026-11-04",
       "title": "F.A.M.O.U.S"
     },
+    "spotify:track:4h3tY2zV4easaHEAbHVmgj": {
+      "artist": "Tove Lo",
+      "broadcast": "2026-11-17",
+      "title": "Blood In Your Eyes (from GTAVI: The Album)"
+    },
     "spotify:track:5S6Lu1hiwmipUZZV4g9n1Z": {
       "artist": "Florence Road",
       "broadcast": "2026-11-09",
       "title": "Wish Upon You"
     },
+    "spotify:track:6OTQqhYW7LSbAV7NJwKAP3": {
+      "artist": "Nieve Ella",
+      "broadcast": "2026-11-17",
+      "title": "Back to Basics"
+    },
     "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i": {
       "artist": "Fontaines D.C.",
       "broadcast": "2026-11-04",
       "title": "Where Is Gone?"
+    },
+    "spotify:track:7MPQJbQG62dDyYpuhwZlYj": {
+      "artist": "Fat Dog",
+      "broadcast": "2026-11-17",
+      "title": "Heart Of Darkness"
     },
     "spotify:track:7e26IslZ17O3l39AkNNJ8Z": {
       "artist": "Shygirl",
