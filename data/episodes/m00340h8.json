@@ -1,0 +1,1088 @@
+{
+  "pid": "m00340h8",
+  "broadcast_start": "2026-11-18T18:00:00Z",
+  "schedule_date": "2026-11-18",
+  "title": "Hard Life Hottest Record",
+  "tracks": [
+    {
+      "artist": "LISA",
+      "title": "Tarantino",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj6rw9",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "Tarantino",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d6m8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "Tarantino",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "Here You Come, There You Go",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkf9g6",
+        "duration": 170,
+        "primary_contributor": {
+          "pid": "p0874dy1",
+          "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+          "name": "Gracie Abrams"
+        },
+        "artist": "Gracie Abrams",
+        "track_title": "Here You Come, There You Go",
+        "track_number": null,
+        "publisher": "Universal Music Group & Gracie Abrams; James Harmon Stack (ASCAP); Kenny + Betty Tunes, LLC ASCAP Pub Designee (ASCAP) All rights administered by WC Music Corp.; Gracie Abrams, administered by Univers",
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "n9dbg2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0874dy1",
+            "name": "Gracie Abrams",
+            "role": "Performer",
+            "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d"
+          }
+        ],
+        "title": "Here You Come, There You Go",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hard life",
+      "title": "Skeletons",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p09g96rw",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p0655xxz",
+          "musicbrainz_gid": "48fd666d-cf31-4a0b-91b0-59d11d445317",
+          "name": "hard life"
+        },
+        "artist": "hard life",
+        "track_title": "Skeletons",
+        "track_number": null,
+        "publisher": "Universal Music Publishing, Promised Land Publishing and Universal Music Publishing",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n6hgzv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0655xxz",
+            "name": "hard life",
+            "role": "Performer",
+            "musicbrainz_gid": "48fd666d-cf31-4a0b-91b0-59d11d445317"
+          }
+        ],
+        "title": "Skeletons",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Champagne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghtqk",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Champagne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cmh6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Champagne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tom Grennan",
+      "title": "Wrapped In Gold",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3hcl",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p046283t",
+          "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "name": "Tom Grennan"
+        },
+        "artist": "Tom Grennan",
+        "track_title": "Wrapped In Gold",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9d63m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p046283t",
+            "name": "Tom Grennan",
+            "role": "Performer",
+            "musicbrainz_gid": "dcafccb5-3741-485f-85d4-6d249f443ffa"
+          }
+        ],
+        "title": "Wrapped In Gold",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Aces",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm518d",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p012d9ly",
+          "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784",
+          "name": "Fall Out Boy"
+        },
+        "artist": "Fall Out Boy",
+        "track_title": "Aces",
+        "track_number": null,
+        "publisher": "SonyATV Songs LLC (BMI)",
+        "record_label": "Chicago X Softcore",
+        "release_title": null,
+        "record_id": "n9dwp5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9ly",
+            "name": "Fall Out Boy",
+            "role": "Performer",
+            "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784"
+          }
+        ],
+        "title": "Aces",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Mother Never Told You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbf88",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Mother Never Told You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": "Dead Company",
+        "record_id": "n9dxgm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Mother Never Told You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hard life",
+      "title": "tears",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0j67d6c",
+        "duration": 128,
+        "primary_contributor": {
+          "pid": "p0655xxz",
+          "musicbrainz_gid": "48fd666d-cf31-4a0b-91b0-59d11d445317",
+          "name": "hard life"
+        },
+        "artist": "hard life",
+        "track_title": "tears",
+        "track_number": null,
+        "publisher": "Universal Music Publishing Ltd / Promised Land Music Ltd., administered by Sony Music Publishing / Morphine Dreamer (BMI) / Warner Tamerlane Publishing Corp. (BMI)",
+        "record_label": "Island",
+        "release_title": null,
+        "record_id": "n8r54h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0655xxz",
+            "name": "hard life",
+            "role": "Performer",
+            "musicbrainz_gid": "48fd666d-cf31-4a0b-91b0-59d11d445317"
+          }
+        ],
+        "title": "tears",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hard life",
+      "title": "Boyfriends",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnpnw1",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p0655xxz",
+          "musicbrainz_gid": "48fd666d-cf31-4a0b-91b0-59d11d445317",
+          "name": "hard life"
+        },
+        "artist": "hard life",
+        "track_title": "Boyfriends",
+        "track_number": null,
+        "publisher": "Murray Matraver/Taka Perry",
+        "record_label": "Hard Life Records/Universal Music Operations",
+        "release_title": null,
+        "record_id": "n9xzvn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0655xxz",
+            "name": "hard life",
+            "role": "Performer",
+            "musicbrainz_gid": "48fd666d-cf31-4a0b-91b0-59d11d445317"
+          }
+        ],
+        "title": "Boyfriends",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Heart & Soul",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pf43k2",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p0f5fy80",
+          "musicbrainz_gid": "b716c12c-72e5-417e-b97b-7ade2bdb5030",
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Heart & Soul",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9chmd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0f5fy80",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": "b716c12c-72e5-417e-b97b-7ade2bdb5030"
+          },
+          {
+            "pid": "p012dr56",
+            "name": "D Double E",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "6a5ccce6-9e38-4548-8884-b9f0f341500f"
+          }
+        ],
+        "title": "Heart & Soul",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Thin Ice",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pl53vp",
+        "duration": 139,
+        "primary_contributor": {
+          "pid": "p06lmc04",
+          "musicbrainz_gid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+          "name": "Megan Thee Stallion"
+        },
+        "artist": "Megan Thee Stallion",
+        "track_title": "Thin Ice",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hot Girl Productions",
+        "release_title": "Tina Tuesday Freestyles",
+        "record_id": "n9ddxw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06lmc04",
+            "name": "Megan Thee Stallion",
+            "role": "Performer",
+            "musicbrainz_gid": "ee27b2d8-648c-4a9d-a68c-e55066959975"
+          }
+        ],
+        "title": "Thin Ice",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "CASTING CALL",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhfwh",
+        "duration": 117,
+        "primary_contributor": {
+          "pid": "p070473b",
+          "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+          "name": "Dominic Fike"
+        },
+        "artist": "Dominic Fike",
+        "track_title": "CASTING CALL",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": "HOW TO QUIT SMOKING",
+        "record_id": "n9dj3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p070473b",
+            "name": "Dominic Fike",
+            "role": "Performer",
+            "musicbrainz_gid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+          }
+        ],
+        "title": "CASTING CALL",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Dare Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk4twd",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Dare Me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fantasy Records",
+        "release_title": null,
+        "record_id": "n9drbf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Dare Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slow Pulp",
+      "title": "Red Car",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnpqwt",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p073fj1d",
+          "musicbrainz_gid": "00505f51-68a8-45fc-b6d6-51be64751378",
+          "name": "Slow Pulp"
+        },
+        "artist": "Slow Pulp",
+        "track_title": "Red Car",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9c8px",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p073fj1d",
+            "name": "Slow Pulp",
+            "role": "Performer",
+            "musicbrainz_gid": "00505f51-68a8-45fc-b6d6-51be64751378"
+          }
+        ],
+        "title": "Red Car",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "GloRilla",
+      "title": "Jiggly Bow Bow",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plm9cv",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0cgp4mr",
+          "musicbrainz_gid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+          "name": "GloRilla"
+        },
+        "artist": "GloRilla",
+        "track_title": "Jiggly Bow Bow",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dg2w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0cgp4mr",
+            "name": "GloRilla",
+            "role": "Performer",
+            "musicbrainz_gid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2"
+          },
+          {
+            "pid": "p0fsh46x",
+            "name": "Sexyy Red",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0953d634-b964-4f2a-b862-8de475aeaf47"
+          }
+        ],
+        "title": "Jiggly Bow Bow",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Say Now",
+      "title": "Hot & talking",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pl0krr",
+        "duration": 189,
+        "primary_contributor": {
+          "pid": "p0gjrqc4",
+          "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e",
+          "name": "Say Now"
+        },
+        "artist": "Say Now",
+        "track_title": "Hot & talking",
+        "track_number": "1",
+        "publisher": "AMLOR Music Publishing Ltd, Sony Music Publishing Ltd, YOUNG Songs, Copyright Control",
+        "record_label": "Atlantic Records UK",
+        "release_title": "Hot & talking",
+        "record_id": "n9d9cj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gjrqc4",
+            "name": "Say Now",
+            "role": "Performer",
+            "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e"
+          }
+        ],
+        "title": "Hot & talking",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "title": "Timeless",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnb6tq",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p02gc6kf",
+          "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+          "name": "Snoh Aalegra"
+        },
+        "artist": "Snoh Aalegra",
+        "track_title": "Timeless",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Feels Run Free",
+        "release_title": null,
+        "record_id": "n9dmbp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02gc6kf",
+            "name": "Snoh Aalegra",
+            "role": "Performer",
+            "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3"
+          }
+        ],
+        "title": "Timeless",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "title": "Timeless",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnpy38",
+        "duration": 277,
+        "primary_contributor": {
+          "pid": "p02gc6kf",
+          "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+          "name": "Snoh Aalegra"
+        },
+        "artist": "Snoh Aalegra",
+        "track_title": "Timeless",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Feels Run Free",
+        "release_title": null,
+        "record_id": "n9dmbp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02gc6kf",
+            "name": "Snoh Aalegra",
+            "role": "Performer",
+            "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3"
+          }
+        ],
+        "title": "Timeless",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Pip Millett",
+      "title": "Tomorrow Will Come",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnpydw",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p0697nnk",
+          "musicbrainz_gid": "eca31a10-ffb2-4a1d-9690-6bc6fac76b63",
+          "name": "Pip Millett"
+        },
+        "artist": "Pip Millett",
+        "track_title": "Tomorrow Will Come",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dream Life Records",
+        "release_title": null,
+        "record_id": "n9xzv2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0697nnk",
+            "name": "Pip Millett",
+            "role": "Performer",
+            "musicbrainz_gid": "eca31a10-ffb2-4a1d-9690-6bc6fac76b63"
+          }
+        ],
+        "title": "Tomorrow Will Come",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mura Masa",
+      "title": "Nobody Can Know Me Like You Do",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnhhc2",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p01q8fhg",
+          "musicbrainz_gid": "d2a76e1b-cecc-4500-b445-d55591821cd3",
+          "name": "Mura Masa"
+        },
+        "artist": "Mura Masa",
+        "track_title": "Nobody Can Know Me Like You Do",
+        "track_number": null,
+        "publisher": "BMG Rights Management (UK) Limited, EMI April Music Inc. / Aidenjulius Music (ASCAP),",
+        "record_label": "Pond Recordings",
+        "release_title": null,
+        "record_id": "n9xzcf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01q8fhg",
+            "name": "Mura Masa",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a76e1b-cecc-4500-b445-d55591821cd3"
+          }
+        ],
+        "title": "Nobody Can Know Me Like You Do",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "fakemink",
+      "title": "Chiltern Firehouse.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwqmz",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0kyb04q",
+          "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99",
+          "name": "fakemink"
+        },
+        "artist": "fakemink",
+        "track_title": "Chiltern Firehouse.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EtnaVeraVela",
+        "release_title": null,
+        "record_id": "n9d5gf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyb04q",
+            "name": "fakemink",
+            "role": "Performer",
+            "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Chiltern Firehouse.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Natanya",
+      "title": "FANTASISE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p8mf0c",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p0c5n2dl",
+          "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e",
+          "name": "Natanya"
+        },
+        "artist": "Natanya",
+        "track_title": "FANTASISE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9bmww",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c5n2dl",
+            "name": "Natanya",
+            "role": "Performer",
+            "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e"
+          }
+        ],
+        "title": "FANTASISE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "American Girls (Radio 1's Live Lounge, 12th March 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n6bld0",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p04zlb8r",
+          "musicbrainz_gid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "name": "Harry Styles"
+        },
+        "artist": "Harry Styles",
+        "track_title": "American Girls (Radio 1's Live Lounge, 12th March 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia",
+        "release_title": null,
+        "record_id": "n96xdm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04zlb8r",
+            "name": "Harry Styles",
+            "role": "Performer",
+            "musicbrainz_gid": "7eb1ce54-a355-41f9-8d68-e018b096d427"
+          }
+        ],
+        "title": "American Girls (Radio 1's Live Lounge, 12th March 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "bad guy (Radio 1's Big Weekend Middlesbrough, 25 May 2019)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p07bbzg1",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p03ycqbf",
+          "musicbrainz_gid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+          "name": "Billie Eilish"
+        },
+        "artist": "Billie Eilish",
+        "track_title": "bad guy (Radio 1's Big Weekend Middlesbrough, 25 May 2019)",
+        "track_number": null,
+        "publisher": "Kobalt / Universal",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n5fm6g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03ycqbf",
+            "name": "Billie Eilish",
+            "role": "Performer",
+            "musicbrainz_gid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533"
+          }
+        ],
+        "title": "bad guy (Radio 1's Big Weekend Middlesbrough, 25 May 2019)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sam Fender",
+      "title": "Will We Talk? (Radio 1 Live Lounge, 18 Sep 2019)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnq8wn",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p051jf68",
+          "musicbrainz_gid": "3478a5d1-bd96-4584-aa54-4d6e0a329658",
+          "name": "Sam Fender"
+        },
+        "artist": "Sam Fender",
+        "track_title": "Will We Talk? (Radio 1 Live Lounge, 18 Sep 2019)",
+        "track_number": null,
+        "publisher": "KOBALT",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n8hfqf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p051jf68",
+            "name": "Sam Fender",
+            "role": "Performer",
+            "musicbrainz_gid": "3478a5d1-bd96-4584-aa54-4d6e0a329658"
+          }
+        ],
+        "title": "Will We Talk? (Radio 1 Live Lounge, 18 Sep 2019)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Enter Shikari",
+      "title": "Lightyears",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plj4cj",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p012d7f1",
+          "musicbrainz_gid": "329f95db-f02e-40bf-a5f7-0dea11529ce3",
+          "name": "Enter Shikari"
+        },
+        "artist": "Enter Shikari",
+        "track_title": "Lightyears",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ambush Reality",
+        "release_title": "Lose Your Self",
+        "record_id": "n9ddw5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7f1",
+            "name": "Enter Shikari",
+            "role": "Performer",
+            "musicbrainz_gid": "329f95db-f02e-40bf-a5f7-0dea11529ce3"
+          }
+        ],
+        "title": "Lightyears",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "HAAi",
+      "title": "Talking Walls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy4lv",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p06hxkxm",
+          "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27",
+          "name": "HAAi"
+        },
+        "artist": "HAAi",
+        "track_title": "Talking Walls",
+        "track_number": null,
+        "publisher": "BMG Publishing",
+        "record_label": "Mute Artists",
+        "release_title": null,
+        "record_id": "n9cv8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06hxkxm",
+            "name": "HAAi",
+            "role": "Performer",
+            "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27"
+          },
+          {
+            "pid": "p090wdkl",
+            "name": "Skybreak",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3f2dd37c-0e6d-4624-9524-931b759caa0e"
+          },
+          {
+            "pid": "p0pfw13r",
+            "name": "Cantoalegre",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34a2ee72-fe59-4c10-b492-be2c82c6eb71"
+          }
+        ],
+        "title": "Talking Walls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Suggz",
+      "title": "Manny Made",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm5stz",
+        "duration": 135,
+        "primary_contributor": {
+          "pid": "p0ntb9gs",
+          "musicbrainz_gid": "d04bcc1a-f415-445c-a4d1-c0ea4f93146b",
+          "name": "Suggz"
+        },
+        "artist": "Suggz",
+        "track_title": "Manny Made",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "NQ Records",
+        "release_title": null,
+        "record_id": "n9df52",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ntb9gs",
+            "name": "Suggz",
+            "role": "Performer",
+            "musicbrainz_gid": "d04bcc1a-f415-445c-a4d1-c0ea4f93146b"
+          },
+          {
+            "pid": "p06tr7tc",
+            "name": "Aitch",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "57dd4661-9f78-4442-8836-482fab983008"
+          }
+        ],
+        "title": "Manny Made",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mahalia",
+      "title": "the 5 stages of heartbreak",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjjnxt",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p0395xgr",
+          "musicbrainz_gid": "5751a689-8b70-4ba0-a9e6-f8a10f4f8531",
+          "name": "Mahalia"
+        },
+        "artist": "Mahalia",
+        "track_title": "the 5 stages of heartbreak",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d8dh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0395xgr",
+            "name": "Mahalia",
+            "role": "Performer",
+            "musicbrainz_gid": "5751a689-8b70-4ba0-a9e6-f8a10f4f8531"
+          }
+        ],
+        "title": "the 5 stages of heartbreak",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

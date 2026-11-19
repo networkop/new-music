@@ -2039,6 +2039,52 @@
       ]
     ]
   },
+  "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2": {
+    "name": "GloRilla",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rap",
+        100
+      ],
+      [
+        "hip-hop",
+        53
+      ],
+      [
+        "trap",
+        27
+      ],
+      [
+        "hip hop",
+        9
+      ],
+      [
+        "memphis",
+        4
+      ],
+      [
+        "united states",
+        2
+      ],
+      [
+        "female rap",
+        2
+      ],
+      [
+        "dirty south",
+        1
+      ],
+      [
+        "tennessee",
+        1
+      ],
+      [
+        "memphis rap",
+        1
+      ]
+    ]
+  },
   "2b6f07bc-79f0-4b30-bff0-412c2815a0f3": {
     "name": "kwn",
     "source": "lastfm",
@@ -13999,6 +14045,48 @@
       ]
     ]
   },
+  "eca31a10-ffb2-4a1d-9690-6bc6fac76b63": {
+    "name": "Pip Millett",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        73
+      ],
+      [
+        "british",
+        22
+      ],
+      [
+        "neo-soul",
+        12
+      ],
+      [
+        "england",
+        1
+      ],
+      [
+        "manchester",
+        1
+      ],
+      [
+        "female vocalist",
+        1
+      ],
+      [
+        "neosoul",
+        1
+      ],
+      [
+        "xx",
+        1
+      ]
+    ]
+  },
   "eca85dd0-f1fb-4e83-8c47-61403f479254": {
     "name": "J Hus",
     "source": "lastfm",
@@ -14542,6 +14630,52 @@
       [
         "english",
         1
+      ]
+    ]
+  },
+  "f4abc0b5-3f7a-4eff-8f78-ac078dbce533": {
+    "name": "Billie Eilish",
+    "source": "lastfm",
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "indie pop",
+        65
+      ],
+      [
+        "electropop",
+        41
+      ],
+      [
+        "art pop",
+        29
+      ],
+      [
+        "alternative",
+        14
+      ],
+      [
+        "female vocalists",
+        12
+      ],
+      [
+        "indie",
+        12
+      ],
+      [
+        "electronic",
+        3
+      ],
+      [
+        "alternative rnb",
+        3
+      ],
+      [
+        "american",
+        3
       ]
     ]
   },
