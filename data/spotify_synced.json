@@ -1,5 +1,10 @@
 {
   "keep": {
+    "spotify:track:06hW3CBqIcAQjlJsLLZM33": {
+      "artist": "Hamdi",
+      "broadcast": "2026-11-19",
+      "title": "Dubstep Proper"
+    },
     "spotify:track:0DI4136goYFWu3ZQ2f7kNP": {
       "artist": "South Arcade",
       "broadcast": "2026-11-16",
@@ -14,11 +19,6 @@
       "artist": "Enter Shikari",
       "broadcast": "2026-11-18",
       "title": "Lightyears"
-    },
-    "spotify:track:1Va3leaBTjd9HUGNbuI97i": {
-      "artist": "John Glacier",
-      "broadcast": "2026-10-20",
-      "title": "Lights"
     },
     "spotify:track:1XzQ57ONjIpRYB878VuGnF": {
       "artist": "Fontaines D.C.",
@@ -35,9 +35,14 @@
       "broadcast": "2026-11-18",
       "title": "Red Car"
     },
+    "spotify:track:1sXTN7bM5vhe4u0noDS0ib": {
+      "artist": "Mez",
+      "broadcast": "2026-11-19",
+      "title": "Hell Nah"
+    },
     "spotify:track:2KMVizTVC3iUOcG6il4lBr": {
       "artist": "untitled (halo)",
-      "broadcast": "2026-11-11",
+      "broadcast": "2026-11-19",
       "title": "sex"
     },
     "spotify:track:2XlS3xEvc3YOQi4SSBVU1K": {
@@ -65,6 +70,11 @@
       "broadcast": "2026-11-17",
       "title": "Firefly"
     },
+    "spotify:track:3SRU8EXHgzr7ZdGTqDSqsg": {
+      "artist": "bby",
+      "broadcast": "2026-11-19",
+      "title": "Shadows"
+    },
     "spotify:track:3cV0ssCRS5OUR6iRUHf56C": {
       "artist": "CHVRCHES",
       "broadcast": "2026-11-04",
@@ -74,6 +84,11 @@
       "artist": "Mura Masa",
       "broadcast": "2026-11-17",
       "title": "Love$ick"
+    },
+    "spotify:track:4M6Yq5V4EFhqq12KDpRqAX": {
+      "artist": "Bonobo",
+      "broadcast": "2026-11-19",
+      "title": "Memory Signal"
     },
     "spotify:track:4cLzHSqYaxcw8qVFV2xlGY": {
       "artist": "South Arcade",
@@ -85,9 +100,14 @@
       "broadcast": "2026-11-17",
       "title": "Blood In Your Eyes (from GTAVI: The Album)"
     },
+    "spotify:track:4k7mwOXTHBYozXXgGlBvef": {
+      "artist": "Violet Grohl",
+      "broadcast": "2026-11-19",
+      "title": "Metal Birds"
+    },
     "spotify:track:5S6Lu1hiwmipUZZV4g9n1Z": {
       "artist": "Florence Road",
-      "broadcast": "2026-11-09",
+      "broadcast": "2026-11-19",
       "title": "Wish Upon You"
     },
     "spotify:track:5WUaJ72FfYy1mQRWaLmOtn": {
@@ -105,6 +125,11 @@
       "broadcast": "2026-11-04",
       "title": "Where Is Gone?"
     },
+    "spotify:track:6eZdZWIjhIGU7OR0FhmvqJ": {
+      "artist": "beabadoobee",
+      "broadcast": "2026-11-19",
+      "title": "No Punctuation"
+    },
     "spotify:track:7MPQJbQG62dDyYpuhwZlYj": {
       "artist": "Fat Dog",
       "broadcast": "2026-11-17",
@@ -112,7 +137,7 @@
     },
     "spotify:track:7e26IslZ17O3l39AkNNJ8Z": {
       "artist": "Shygirl",
-      "broadcast": "2026-11-10",
+      "broadcast": "2026-11-19",
       "title": "Eternal"
     }
   },
