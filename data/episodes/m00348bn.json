@@ -1,0 +1,1166 @@
+{
+  "pid": "m00348bn",
+  "broadcast_start": "2026-11-23T18:00:00Z",
+  "schedule_date": "2026-11-23",
+  "title": "Tems Hottest Record",
+  "tracks": [
+    {
+      "artist": "Justice",
+      "title": "Flower In A Hurricane",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgvtnn",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p012d8f5",
+          "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+          "name": "Justice"
+        },
+        "artist": "Justice",
+        "track_title": "Flower In A Hurricane",
+        "track_number": null,
+        "publisher": "Genesis, Concord Copyrights Uk",
+        "record_label": "Ed Banger Records/Because Music",
+        "release_title": null,
+        "record_id": "n9dn95",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d8f5",
+            "name": "Justice",
+            "role": "Performer",
+            "musicbrainz_gid": "860b2707-6153-4e3a-aa57-74d2b42c55b5"
+          },
+          {
+            "pid": "p01g6j6d",
+            "name": "SZA",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "272989c8-5535-492d-a25c-9f58803e027f"
+          },
+          {
+            "pid": "p03vwrdf",
+            "name": "Tame Impala",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+          },
+          {
+            "pid": "p01prxjs",
+            "name": "King Gizzard & the Lizard Wizard",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7"
+          }
+        ],
+        "title": "Flower In A Hurricane",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "LISA",
+      "title": "Tarantino",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj81cm",
+        "duration": 167,
+        "primary_contributor": {
+          "pid": "p09wrn4c",
+          "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c",
+          "name": "LISA"
+        },
+        "artist": "LISA",
+        "track_title": "Tarantino",
+        "track_number": null,
+        "publisher": "Songs Of Universal (BMI) / Thomas Van Der Bruggen (BUMA) (ASCAP) ",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9d6m8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09wrn4c",
+            "name": "LISA",
+            "role": "Performer",
+            "musicbrainz_gid": "30aeb57f-bb16-47fa-86ca-79fc57b4d12c"
+          }
+        ],
+        "title": "Tarantino",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tems",
+      "title": "Me & U",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0gkp2t7",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p08bmzqn",
+          "musicbrainz_gid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2",
+          "name": "Tems"
+        },
+        "artist": "Tems",
+        "track_title": "Me & U",
+        "track_number": null,
+        "publisher": "Temilade Openiyi Publishing Designee (BMI), Ronald banful Publishing Designee/Sony/ATV Music Publishing UK",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n82xgc",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08bmzqn",
+            "name": "Tems",
+            "role": "Performer",
+            "musicbrainz_gid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2"
+          }
+        ],
+        "title": "Me & U",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "Leave You (Never)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmpls9",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "Leave You (Never)",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n9djx9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "Leave You (Never)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Angèle",
+      "title": "Love Triangle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmr8dp",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p074qb34",
+          "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+          "name": "Angèle"
+        },
+        "artist": "Angèle",
+        "track_title": "Love Triangle",
+        "track_number": "12",
+        "publisher": "GGL Records / Malmaison Editions / Sebak / Headbangers Publishing / Because Éditions / Sony Music Publishing / Avant Garçon",
+        "record_label": "GGL Records",
+        "release_title": "Instinct",
+        "record_id": "n9cdhf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p074qb34",
+            "name": "Angèle",
+            "role": "Performer",
+            "musicbrainz_gid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+          },
+          {
+            "pid": "p04ztc0m",
+            "name": "Caroline Polachek",
+            "role": "Performer",
+            "musicbrainz_gid": "d8f43dc5-4613-48ac-8c23-a62b82f8c67a"
+          },
+          {
+            "pid": "p00zm6cf",
+            "name": "SebastiAn",
+            "role": "Performer",
+            "musicbrainz_gid": "4072139a-699c-4011-9bcc-baae6f959390"
+          }
+        ],
+        "title": "Love Triangle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gunna",
+      "title": "pop it",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph93yt",
+        "duration": 137,
+        "primary_contributor": {
+          "pid": "p053g0h6",
+          "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+          "name": "Gunna"
+        },
+        "artist": "Gunna",
+        "track_title": "pop it",
+        "track_number": null,
+        "publisher": "Kobalt Music Publishing",
+        "record_label": "Gunna",
+        "release_title": null,
+        "record_id": "n9cvp4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p053g0h6",
+            "name": "Gunna",
+            "role": "Performer",
+            "musicbrainz_gid": "100b8734-f4f0-4536-9960-47f7c59d1b4c"
+          }
+        ],
+        "title": "pop it",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Eternal",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmbcz5",
+        "duration": 212,
+        "primary_contributor": {
+          "pid": "p05scz1v",
+          "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+          "name": "Shygirl"
+        },
+        "artist": "Shygirl",
+        "track_title": "Eternal",
+        "track_number": null,
+        "publisher": "Because Music",
+        "record_label": "Because Music",
+        "release_title": null,
+        "record_id": "n9dx5v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05scz1v",
+            "name": "Shygirl",
+            "role": "Performer",
+            "musicbrainz_gid": "9385f1a7-8623-4d0c-b171-f1e6e87220c5"
+          }
+        ],
+        "title": "Eternal",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mura Masa",
+      "title": "Nobody Can Know Me Like You Do",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnhhc2",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p01q8fhg",
+          "musicbrainz_gid": "d2a76e1b-cecc-4500-b445-d55591821cd3",
+          "name": "Mura Masa"
+        },
+        "artist": "Mura Masa",
+        "track_title": "Nobody Can Know Me Like You Do",
+        "track_number": null,
+        "publisher": "BMG Rights Management (UK) Limited, EMI April Music Inc. / Aidenjulius Music (ASCAP),",
+        "record_label": "Pond Recordings",
+        "release_title": null,
+        "record_id": "n9xzcf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01q8fhg",
+            "name": "Mura Masa",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a76e1b-cecc-4500-b445-d55591821cd3"
+          }
+        ],
+        "title": "Nobody Can Know Me Like You Do",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tems",
+      "title": "Love Me JeJe",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0hwhfc1",
+        "duration": 148,
+        "primary_contributor": {
+          "pid": "p08bmzqn",
+          "musicbrainz_gid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2",
+          "name": "Tems"
+        },
+        "artist": "Tems",
+        "track_title": "Love Me JeJe",
+        "track_number": null,
+        "publisher": "Temilade Openiyi Publishing Designee (BMI), Ronald Banful Publishing Designee/Sony/ATV Music Publishing UK (PRS), Seyi Sodimu Publishing Designee",
+        "record_label": "Sony Music Entertainment UK Ltd",
+        "release_title": null,
+        "record_id": "n88jjg",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08bmzqn",
+            "name": "Tems",
+            "role": "Performer",
+            "musicbrainz_gid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2"
+          }
+        ],
+        "title": "Love Me JeJe",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tems",
+      "title": "African Love Story",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppjgwc",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p08bmzqn",
+          "musicbrainz_gid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2",
+          "name": "Tems"
+        },
+        "artist": "Tems",
+        "track_title": "African Love Story",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records/Since '93",
+        "release_title": null,
+        "record_id": "n9x2p6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08bmzqn",
+            "name": "Tems",
+            "role": "Performer",
+            "musicbrainz_gid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2"
+          }
+        ],
+        "title": "African Love Story",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Currency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plm28b",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Currency",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Epic Records UK",
+        "release_title": null,
+        "record_id": "n9dg2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Currency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "earthsignchels",
+      "title": "Crazy?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plj290",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p0nwbb9v",
+          "musicbrainz_gid": "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9",
+          "name": "earthsignchels"
+        },
+        "artist": "earthsignchels",
+        "track_title": "Crazy?",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dzpf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0nwbb9v",
+            "name": "earthsignchels",
+            "role": "Performer",
+            "musicbrainz_gid": "0c80ad5b-1e95-46dc-b25f-f66ce3b91ba9"
+          }
+        ],
+        "title": "Crazy?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "O’Flynn",
+      "title": "Smoke 3 Tokes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkc6z5",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p06zrqw5",
+          "musicbrainz_gid": "24c24af0-ce68-4cb1-b76b-2f11664d1567",
+          "name": "O’Flynn"
+        },
+        "artist": "O’Flynn",
+        "track_title": "Smoke 3 Tokes",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Glitterbox",
+        "release_title": null,
+        "record_id": "n95czj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zrqw5",
+            "name": "O’Flynn",
+            "role": "Performer",
+            "musicbrainz_gid": "24c24af0-ce68-4cb1-b76b-2f11664d1567"
+          }
+        ],
+        "title": "Smoke 3 Tokes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "Blood In Your Eyes",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnhmz5",
+        "duration": 159,
+        "primary_contributor": {
+          "pid": "p01k5jzx",
+          "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225",
+          "name": "Tove Lo"
+        },
+        "artist": "Tove Lo",
+        "track_title": "Blood In Your Eyes",
+        "track_number": null,
+        "publisher": "Atlantic Records",
+        "record_label": "Atlantic Records",
+        "release_title": "Blood In Your Eyes (from GTAVI: The Album)",
+        "record_id": "n9xzcq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01k5jzx",
+            "name": "Tove Lo",
+            "role": "Performer",
+            "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225"
+          }
+        ],
+        "title": "Blood In Your Eyes",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "bby",
+      "title": "Shadows",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnx68f",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0ghfvkr",
+          "musicbrainz_gid": "dfdb3f72-d28f-4eab-b3dd-644872d73245",
+          "name": "bby"
+        },
+        "artist": "bby",
+        "track_title": "Shadows",
+        "track_number": null,
+        "publisher": "The Orchard",
+        "record_label": "Glassnote Music",
+        "release_title": null,
+        "record_id": "n9xn8j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ghfvkr",
+            "name": "bby",
+            "role": "Performer",
+            "musicbrainz_gid": "dfdb3f72-d28f-4eab-b3dd-644872d73245"
+          }
+        ],
+        "title": "Shadows",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Royal Blood",
+      "title": "Mother Never Told You",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbf88",
+        "duration": 179,
+        "primary_contributor": {
+          "pid": "p01pbyzj",
+          "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+          "name": "Royal Blood"
+        },
+        "artist": "Royal Blood",
+        "track_title": "Mother Never Told You",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Warner Records",
+        "release_title": "Dead Company",
+        "record_id": "n9dxgm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01pbyzj",
+            "name": "Royal Blood",
+            "role": "Performer",
+            "musicbrainz_gid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3"
+          }
+        ],
+        "title": "Mother Never Told You",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "hey boyyy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhsw0",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "hey boyyy",
+        "track_number": null,
+        "publisher": "Slayyyter Enterprises LLC",
+        "record_label": "RECORDS Label, LLC/Columbia Records",
+        "release_title": null,
+        "record_id": "n9dgmw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "hey boyyy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ledbyher",
+      "title": "UR Place!",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppcx8m",
+        "duration": 206,
+        "primary_contributor": {
+          "pid": "p0jct093",
+          "musicbrainz_gid": "da8fb855-1a7f-4648-8d97-dd832328b92b",
+          "name": "Ledbyher"
+        },
+        "artist": "Ledbyher",
+        "track_title": "UR Place!",
+        "track_number": null,
+        "publisher": "Pulse Music Group / Copyright Control",
+        "record_label": "Island Records",
+        "release_title": null,
+        "record_id": "n9xnxf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jct093",
+            "name": "Ledbyher",
+            "role": "Performer",
+            "musicbrainz_gid": "da8fb855-1a7f-4648-8d97-dd832328b92b"
+          },
+          {
+            "pid": "p065ms7b",
+            "name": "03 Greedo",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "66c0ac71-339a-44a5-a549-66d305b61fce"
+          }
+        ],
+        "title": "UR Place!",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Natanya",
+      "title": "FANTASISE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p99djp",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p0c5n2dl",
+          "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e",
+          "name": "Natanya"
+        },
+        "artist": "Natanya",
+        "track_title": "FANTASISE",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Human Re Sources",
+        "release_title": null,
+        "record_id": "n9bmww",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c5n2dl",
+            "name": "Natanya",
+            "role": "Performer",
+            "musicbrainz_gid": "35521d07-4346-49f6-a40e-5b04b70f871e"
+          }
+        ],
+        "title": "FANTASISE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Thekidszn",
+      "title": "IMPULSIVE",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppjpks",
+        "duration": 156,
+        "primary_contributor": {
+          "pid": "p0pjy0k3",
+          "musicbrainz_gid": "086f15ec-a6ef-424b-a711-12da9c3efc25",
+          "name": "Thekidszn"
+        },
+        "artist": "Thekidszn",
+        "track_title": "IMPULSIVE",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "LISTEN TO THE KIDS",
+        "release_title": "IMPULSIVE",
+        "record_id": "n9x4vz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pjy0k3",
+            "name": "Thekidszn",
+            "role": "Performer",
+            "musicbrainz_gid": "086f15ec-a6ef-424b-a711-12da9c3efc25"
+          }
+        ],
+        "title": "IMPULSIVE",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Antony Szmierek",
+      "title": "Bookie's Favourite",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p5z6bq",
+        "duration": 209,
+        "primary_contributor": {
+          "pid": "p0d28073",
+          "musicbrainz_gid": "4e892967-3080-4a28-840f-66717360e535",
+          "name": "Antony Szmierek"
+        },
+        "artist": "Antony Szmierek",
+        "track_title": "Bookie's Favourite",
+        "track_number": null,
+        "publisher": "Virgin Music Group",
+        "record_label": "Mushroom Music",
+        "release_title": null,
+        "record_id": "n9bchw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0d28073",
+            "name": "Antony Szmierek",
+            "role": "Performer",
+            "musicbrainz_gid": "4e892967-3080-4a28-840f-66717360e535"
+          },
+          {
+            "pid": "p09sn3vz",
+            "name": "Ellur",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "87490c2a-0fe6-4811-85f2-43c3d0a4beaf"
+          }
+        ],
+        "title": "Bookie's Favourite",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Wilkinson",
+      "title": "Out Of Control",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhdw2",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p01786yq",
+          "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5",
+          "name": "Wilkinson"
+        },
+        "artist": "Wilkinson",
+        "track_title": "Out Of Control",
+        "track_number": null,
+        "publisher": "Concord Music Publishing, Silver Fox/Kobalt Songs Music Publishing, Copyright Control",
+        "record_label": "Sleepless Music",
+        "release_title": null,
+        "record_id": "n9dj34",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01786yq",
+            "name": "Wilkinson",
+            "role": "Performer",
+            "musicbrainz_gid": "c9fa114f-8426-4286-a289-9f16c8e092b5"
+          }
+        ],
+        "title": "Out Of Control",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fcukers",
+      "title": "Only One",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppjqvz",
+        "duration": 143,
+        "primary_contributor": {
+          "pid": "p0hlt7m8",
+          "musicbrainz_gid": "5e23e428-d9f5-4679-bd7c-8254d6f0a437",
+          "name": "Fcukers"
+        },
+        "artist": "Fcukers",
+        "track_title": "Only One",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Bon Bon Recordings/LLC/Atlantic Records/Rockstar Games",
+        "release_title": "Grand Theft Auto VI: The Album",
+        "record_id": "n9x2w6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0hlt7m8",
+            "name": "Fcukers",
+            "role": "Performer",
+            "musicbrainz_gid": "5e23e428-d9f5-4679-bd7c-8254d6f0a437"
+          }
+        ],
+        "title": "Only One",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "GIVĒON",
+      "title": "Fast Asleep",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppjr2c",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p088ph5m",
+          "musicbrainz_gid": "ad322b8b-31b2-437d-8fd8-1af13c1d7b91",
+          "name": "GIVĒON"
+        },
+        "artist": "GIVĒON",
+        "track_title": "Fast Asleep",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Epic Records",
+        "release_title": null,
+        "record_id": "n9x4v3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p088ph5m",
+            "name": "GIVĒON",
+            "role": "Performer",
+            "musicbrainz_gid": "ad322b8b-31b2-437d-8fd8-1af13c1d7b91"
+          }
+        ],
+        "title": "Fast Asleep",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Japan (Radio 1 Session, 22 Nov 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppd0v2",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p07s5hmx",
+          "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+          "name": "Holly Humberstone"
+        },
+        "artist": "Holly Humberstone",
+        "track_title": "Japan (Radio 1 Session, 22 Nov 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9x4cm",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07s5hmx",
+            "name": "Holly Humberstone",
+            "role": "Performer",
+            "musicbrainz_gid": "736c8ea9-b5c3-4c5f-8782-28e633f0c084"
+          }
+        ],
+        "title": "Japan (Radio 1 Session, 22 Nov 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Tulsa, OK",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqqnk",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p01tcdsh",
+          "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+          "name": "Vince Staples"
+        },
+        "artist": "Vince Staples",
+        "track_title": "Tulsa, OK",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n9d9c8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01tcdsh",
+            "name": "Vince Staples",
+            "role": "Performer",
+            "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff"
+          }
+        ],
+        "title": "Tulsa, OK",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skye Newman",
+      "title": "Survival",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkc05b",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p0l29r1k",
+          "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86",
+          "name": "Skye Newman"
+        },
+        "artist": "Skye Newman",
+        "track_title": "Survival",
+        "track_number": null,
+        "publisher": "Sony Music",
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9drqh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l29r1k",
+            "name": "Skye Newman",
+            "role": "Performer",
+            "musicbrainz_gid": "41641281-e1aa-4bbe-ba19-5fb436996e86"
+          }
+        ],
+        "title": "Survival",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mackenzy Mackay",
+      "title": "Hardway",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppjsyp",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0jlgn8j",
+          "musicbrainz_gid": "bd1eef1d-eca2-4323-97ad-ecd973122520",
+          "name": "Mackenzy Mackay"
+        },
+        "artist": "Mackenzy Mackay",
+        "track_title": "Hardway",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RELENTLESS RECORDS",
+        "release_title": null,
+        "record_id": "n9x3dd",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0jlgn8j",
+            "name": "Mackenzy Mackay",
+            "role": "Performer",
+            "musicbrainz_gid": "bd1eef1d-eca2-4323-97ad-ecd973122520"
+          }
+        ],
+        "title": "Hardway",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Dylan",
+      "title": "grief and all his friends",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pn9wbk",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p07p5s32",
+          "musicbrainz_gid": "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a",
+          "name": "Dylan"
+        },
+        "artist": "Dylan",
+        "track_title": "grief and all his friends",
+        "track_number": null,
+        "publisher": "Sony Music Publishing",
+        "record_label": "EMI",
+        "release_title": null,
+        "record_id": "n9dmm3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07p5s32",
+            "name": "Dylan",
+            "role": "Performer",
+            "musicbrainz_gid": "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a"
+          }
+        ],
+        "title": "grief and all his friends",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Leon Thomas",
+      "title": "Trophy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pn9yjm",
+        "duration": 246,
+        "primary_contributor": {
+          "pid": "p0fqvzv7",
+          "musicbrainz_gid": "412ff65d-26bf-4849-ba19-d2a58030fd1a",
+          "name": "Leon Thomas"
+        },
+        "artist": "Leon Thomas",
+        "track_title": "Trophy",
+        "track_number": null,
+        "publisher": "Eclectic Collective Publishing (Admin by Sony Music Publishing, LLC (ASCAP) (US) /",
+        "record_label": "EZMNY Records/Motown Records",
+        "release_title": null,
+        "record_id": "n9dvbz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fqvzv7",
+            "name": "Leon Thomas",
+            "role": "Performer",
+            "musicbrainz_gid": "412ff65d-26bf-4849-ba19-d2a58030fd1a"
+          }
+        ],
+        "title": "Trophy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Violet Grohl",
+      "title": "Metal Birds",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnbnyg",
+        "duration": 215,
+        "primary_contributor": {
+          "pid": "p09fr9dz",
+          "musicbrainz_gid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6",
+          "name": "Violet Grohl"
+        },
+        "artist": "Violet Grohl",
+        "track_title": "Metal Birds",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9xz2r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p09fr9dz",
+            "name": "Violet Grohl",
+            "role": "Performer",
+            "musicbrainz_gid": "c17f32b5-66fc-4d73-99c9-2085201ff9a6"
+          }
+        ],
+        "title": "Metal Birds",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

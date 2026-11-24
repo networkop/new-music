@@ -258,6 +258,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Terror TV"
   },
+  "bby|||shadows": {
+    "artist": "bby",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Shadows"
+  },
   "beabadoobee|||glue song": {
     "artist": "beabadoobee",
     "category": "manual",
@@ -271,6 +278,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Memories"
+  },
+  "beabadoobee|||no punctuation": {
+    "artist": "beabadoobee",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "No Punctuation"
   },
   "beabadoobee|||sun has set": {
     "artist": "beabadoobee",
@@ -474,6 +488,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Me and You"
+  },
+  "bonobo|||memory signal": {
+    "artist": "Bonobo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Memory Signal"
   },
   "bonobo|||talk to me": {
     "artist": "Bonobo",
@@ -909,12 +930,26 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Wallflower"
   },
+  "dylan|||grief and all his friends": {
+    "artist": "Dylan",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "grief and all his friends"
+  },
   "dylan|||to love and to lose": {
     "artist": "Dylan",
     "category": "manual",
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "to love and to lose"
+  },
+  "dylan|||you're not harry styles": {
+    "artist": "Dylan",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "You're Not Harry Styles"
   },
   "earthsignchels|||crazy?": {
     "artist": "earthsignchels",
@@ -950,6 +985,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Higher Ground"
+  },
+  "enter shikari|||lightyears": {
+    "artist": "Enter Shikari",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Lightyears"
   },
   "erick the architect|||yerr": {
     "artist": "Erick the Architect",
@@ -1041,6 +1083,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Cancel Me, I'm Tired"
+  },
+  "fat dog|||heart of darkness": {
+    "artist": "Fat Dog",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Heart Of Darkness"
   },
   "fat dog|||love": {
     "artist": "Fat Dog",
@@ -1231,6 +1280,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Wet Paint"
   },
+  "glorilla|||jiggly bow bow": {
+    "artist": "GloRilla",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Jiggly Bow Bow"
+  },
   "goldie|||jungle daze": {
     "artist": "Goldie",
     "category": "manual",
@@ -1335,6 +1391,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Counting"
+  },
+  "hamdi|||dubstep proper": {
+    "artist": "Hamdi",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Dubstep Proper"
   },
   "hamdi|||heart & soul": {
     "artist": "Hamdi",
@@ -1966,6 +2029,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "SMALL WORLD"
   },
+  "mez|||hell nah": {
+    "artist": "Mez",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Hell Nah"
+  },
   "miley cyrus|||different religion": {
     "artist": "Miley Cyrus",
     "category": "manual",
@@ -2078,6 +2148,27 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "That Ain't You"
   },
+  "mura masa|||firefly": {
+    "artist": "Mura Masa",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Firefly"
+  },
+  "mura masa|||love$ick": {
+    "artist": "Mura Masa",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Love$ick"
+  },
+  "mura masa|||nobody can know me like you do": {
+    "artist": "Mura Masa",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Nobody Can Know Me Like You Do"
+  },
   "nemzzz|||4am": {
     "artist": "Nemzzz",
     "category": "manual",
@@ -2140,6 +2231,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Train Of Thought"
+  },
+  "nieve ella|||back to basics": {
+    "artist": "Nieve Ella",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Back to Basics"
   },
   "nieve ella|||bite back": {
     "artist": "Nieve Ella",
@@ -2897,6 +2995,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "Better Man"
   },
+  "slow pulp|||red car": {
+    "artist": "Slow Pulp",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Red Car"
+  },
   "slow pulp|||spill": {
     "artist": "Slow Pulp",
     "category": "manual",
@@ -3163,6 +3268,13 @@
     "matched_tag": "removed from Spotify playlist",
     "title": "SOMEWHERE ELSE"
   },
+  "tove lo|||blood in your eyes (from gtavi: the album)": {
+    "artist": "Tove Lo",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Blood In Your Eyes (from GTAVI: The Album)"
+  },
   "tove lo|||dnh": {
     "artist": "Tove Lo",
     "category": "manual",
@@ -3239,6 +3351,13 @@
     "decision": "exclude",
     "matched_tag": "removed from Spotify playlist",
     "title": "Tulsa, OK"
+  },
+  "violet grohl|||metal birds": {
+    "artist": "Violet Grohl",
+    "category": "manual",
+    "decision": "exclude",
+    "matched_tag": "removed from Spotify playlist",
+    "title": "Metal Birds"
   },
   "voltage|||free": {
     "artist": "Voltage",

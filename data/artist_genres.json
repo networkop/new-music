@@ -539,6 +539,24 @@
       ]
     ]
   },
+  "086f15ec-a6ef-424b-a711-12da9c3efc25": {
+    "name": "Thekidszn",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hiphop",
+        100
+      ],
+      [
+        "rap",
+        100
+      ],
+      [
+        "cloudrap",
+        66
+      ]
+    ]
+  },
   "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd": {
     "name": "Nia Archives",
     "source": "lastfm",
@@ -5748,6 +5766,52 @@
     "source": "lastfm",
     "tags": []
   },
+  "5e23e428-d9f5-4679-bd7c-8254d6f0a437": {
+    "name": "Fcukers",
+    "source": "lastfm",
+    "tags": [
+      [
+        "house",
+        100
+      ],
+      [
+        "dance",
+        100
+      ],
+      [
+        "electronic",
+        46
+      ],
+      [
+        "pop",
+        29
+      ],
+      [
+        "yt-dj-set",
+        8
+      ],
+      [
+        "usa",
+        8
+      ],
+      [
+        "new york",
+        4
+      ],
+      [
+        "female vocalists",
+        1
+      ],
+      [
+        "united states",
+        1
+      ],
+      [
+        "indie dance",
+        1
+      ]
+    ]
+  },
   "5f3be62e-d166-453e-a3ea-07b9227fafae": {
     "name": "ANOTR",
     "source": "lastfm",
@@ -10378,6 +10442,52 @@
       ]
     ]
   },
+  "ad322b8b-31b2-437d-8fd8-1af13c1d7b91": {
+    "name": "GIVĒON",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        6
+      ],
+      [
+        "usa",
+        4
+      ],
+      [
+        "pop",
+        4
+      ],
+      [
+        "american",
+        2
+      ],
+      [
+        "neo soul",
+        2
+      ],
+      [
+        "california",
+        2
+      ],
+      [
+        "neo-soul",
+        1
+      ],
+      [
+        "united states",
+        1
+      ],
+      [
+        "merge",
+        1
+      ]
+    ]
+  },
   "ae002c5d-aac6-490b-a39a-30aa9e2edf2b": {
     "name": "Skrillex",
     "source": "lastfm",
@@ -11398,6 +11508,24 @@
       [
         "industrial hip-hop",
         1
+      ]
+    ]
+  },
+  "bd1eef1d-eca2-4323-97ad-ecd973122520": {
+    "name": "Mackenzy Mackay",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rap",
+        100
+      ],
+      [
+        "pop",
+        100
+      ],
+      [
+        "uk",
+        66
       ]
     ]
   },
