@@ -1,0 +1,920 @@
+{
+  "pid": "m00348fw",
+  "broadcast_start": "2026-11-24T18:00:00Z",
+  "schedule_date": "2026-11-24",
+  "title": "The best in brand new!",
+  "tracks": [
+    {
+      "artist": "Chris Lorenzo",
+      "title": "Fancy Footwork",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgynzv",
+        "duration": 192,
+        "primary_contributor": {
+          "pid": "p01kd4t0",
+          "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f",
+          "name": "Chris Lorenzo"
+        },
+        "artist": "Chris Lorenzo",
+        "track_title": "Fancy Footwork",
+        "track_number": null,
+        "publisher": "Chris Lorenzo; Patrick Gemayel; David Macklovitch",
+        "record_label": "Turbo Blanco",
+        "release_title": null,
+        "record_id": "n9cf4m",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kd4t0",
+            "name": "Chris Lorenzo",
+            "role": "Performer",
+            "musicbrainz_gid": "f491ebd7-5e18-4961-aaaf-e6210f387f1f"
+          },
+          {
+            "pid": "p012d87c",
+            "name": "Chromeo",
+            "role": "Performer",
+            "musicbrainz_gid": "647221d0-f6b1-4e03-924c-c59b8059536f"
+          }
+        ],
+        "title": "Fancy Footwork",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Repeaty",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phw397",
+        "duration": 237,
+        "primary_contributor": {
+          "pid": "p0813fy5",
+          "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316",
+          "name": "Sammy Virji"
+        },
+        "artist": "Sammy Virji",
+        "track_title": "Repeaty",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "SAMMY VIRJI",
+        "release_title": null,
+        "record_id": "n9d5g5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0813fy5",
+            "name": "Sammy Virji",
+            "role": "Performer",
+            "musicbrainz_gid": "e23abc5f-478a-4594-ad18-b3805b3c5316"
+          }
+        ],
+        "title": "Repeaty",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Japan",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ph0g57",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Japan",
+        "track_number": "10",
+        "publisher": "Domino Publishing",
+        "record_label": "XL Recordings",
+        "release_title": "Dopamine Chamber",
+        "record_id": "n9d24q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Japan",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "Pretty girls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgzlvw",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p06zwcpp",
+          "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a",
+          "name": "Rachel Chinouriri"
+        },
+        "artist": "Rachel Chinouriri",
+        "track_title": "Pretty girls",
+        "track_number": null,
+        "publisher": "These Are Songs Of Pulse, Reservoir Media Management (Uk) Limited, Sony Atv Songs Llc",
+        "record_label": "Parlophone",
+        "release_title": "I think I spoke too soon",
+        "record_id": "n9dncr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06zwcpp",
+            "name": "Rachel Chinouriri",
+            "role": "Performer",
+            "musicbrainz_gid": "bb2b7bbf-75e5-43f8-8a9f-7769ae7d832a"
+          }
+        ],
+        "title": "Pretty girls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "2hollis",
+      "title": "Daisy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhhdn",
+        "duration": 251,
+        "primary_contributor": {
+          "pid": "p0krvzn6",
+          "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
+          "name": "2hollis"
+        },
+        "artist": "2hollis",
+        "track_title": "Daisy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dwh5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0krvzn6",
+            "name": "2hollis",
+            "role": "Performer",
+            "musicbrainz_gid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5"
+          }
+        ],
+        "title": "Daisy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "title": "Timeless",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnb6tq",
+        "duration": 217,
+        "primary_contributor": {
+          "pid": "p02gc6kf",
+          "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+          "name": "Snoh Aalegra"
+        },
+        "artist": "Snoh Aalegra",
+        "track_title": "Timeless",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Feels Run Free",
+        "release_title": null,
+        "record_id": "n9dmbp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02gc6kf",
+            "name": "Snoh Aalegra",
+            "role": "Performer",
+            "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3"
+          }
+        ],
+        "title": "Timeless",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "title": "Timeless",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnpy38",
+        "duration": 277,
+        "primary_contributor": {
+          "pid": "p02gc6kf",
+          "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+          "name": "Snoh Aalegra"
+        },
+        "artist": "Snoh Aalegra",
+        "track_title": "Timeless",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Feels Run Free",
+        "release_title": null,
+        "record_id": "n9dmbp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02gc6kf",
+            "name": "Snoh Aalegra",
+            "role": "Performer",
+            "musicbrainz_gid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3"
+          }
+        ],
+        "title": "Timeless",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "Here You Come, There You Go",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkf9g6",
+        "duration": 170,
+        "primary_contributor": {
+          "pid": "p0874dy1",
+          "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+          "name": "Gracie Abrams"
+        },
+        "artist": "Gracie Abrams",
+        "track_title": "Here You Come, There You Go",
+        "track_number": null,
+        "publisher": "Universal Music Group & Gracie Abrams; James Harmon Stack (ASCAP); Kenny + Betty Tunes, LLC ASCAP Pub Designee (ASCAP) All rights administered by WC Music Corp.; Gracie Abrams, administered by Univers",
+        "record_label": "Interscope Records",
+        "release_title": null,
+        "record_id": "n9dbg2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0874dy1",
+            "name": "Gracie Abrams",
+            "role": "Performer",
+            "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d"
+          }
+        ],
+        "title": "Here You Come, There You Go",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Cotton",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0npx85b",
+        "duration": 222,
+        "primary_contributor": {
+          "pid": "p01tcdsh",
+          "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+          "name": "Vince Staples"
+        },
+        "artist": "Vince Staples",
+        "track_title": "Cotton",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Loma Vista Recordings",
+        "release_title": null,
+        "record_id": "n9936g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01tcdsh",
+            "name": "Vince Staples",
+            "role": "Performer",
+            "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff"
+          }
+        ],
+        "title": "Cotton",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tems",
+      "title": "African Love Story",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppd26v",
+        "duration": 180,
+        "primary_contributor": {
+          "pid": "p08bmzqn",
+          "musicbrainz_gid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2",
+          "name": "Tems"
+        },
+        "artist": "Tems",
+        "track_title": "African Love Story",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Paramount Pictures/RCA Records",
+        "release_title": null,
+        "record_id": "n9x2p6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08bmzqn",
+            "name": "Tems",
+            "role": "Performer",
+            "musicbrainz_gid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2"
+          }
+        ],
+        "title": "African Love Story",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "Too Soon",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plhvpm",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p078wms5",
+          "musicbrainz_gid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+          "name": "Jack Harlow"
+        },
+        "artist": "Jack Harlow",
+        "track_title": "Too Soon",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Atlantic Records",
+        "release_title": "Sweet Action II",
+        "record_id": "n9df46",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p078wms5",
+            "name": "Jack Harlow",
+            "role": "Performer",
+            "musicbrainz_gid": "134cb0bc-06fa-42f7-8078-b0c858349975"
+          },
+          {
+            "pid": "p01mxxnm",
+            "name": "Babyface",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7fa62c0b-2c74-491e-a2a1-17c3b043f326"
+          }
+        ],
+        "title": "Too Soon",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rex Orange County",
+      "title": "Elvis",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm56l5",
+        "duration": 188,
+        "primary_contributor": {
+          "pid": "p04h8c5n",
+          "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+          "name": "Rex Orange County"
+        },
+        "artist": "Rex Orange County",
+        "track_title": "Elvis",
+        "track_number": null,
+        "publisher": "Universal Music Publishing/copyright control/Warner-Tamerlane Publishing Corp. on behalf of Daniel Caesar/BMI pub designee (Ashton Dumar Simmonds)/Brendan Yates Publishing BMI, PRS/(BMI) Sony/ATV Song",
+        "record_label": "Rex Orange County",
+        "release_title": "Dream Fatigue",
+        "record_id": "n9dwpr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04h8c5n",
+            "name": "Rex Orange County",
+            "role": "Performer",
+            "musicbrainz_gid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+          },
+          {
+            "pid": "p0dqtmvv",
+            "name": "Brendan Yates",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "bfa5b8e9-ece7-451c-a947-1bbe0c808b67"
+          }
+        ],
+        "title": "Elvis",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nieve Ella",
+      "title": "I'm Not Dead",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgj4mx",
+        "duration": 253,
+        "primary_contributor": {
+          "pid": "p0dbjfyz",
+          "musicbrainz_gid": "0d351b4b-7986-4fd2-ac7f-40fdf2a34c71",
+          "name": "Nieve Ella"
+        },
+        "artist": "Nieve Ella",
+        "track_title": "I'm Not Dead",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dzpr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dbjfyz",
+            "name": "Nieve Ella",
+            "role": "Performer",
+            "musicbrainz_gid": "0d351b4b-7986-4fd2-ac7f-40fdf2a34c71"
+          }
+        ],
+        "title": "I'm Not Dead",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "TOMORA",
+      "title": "Hold On Let Go",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm5qm0",
+        "duration": 171,
+        "primary_contributor": {
+          "pid": "p0mlm8yc",
+          "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33",
+          "name": "TOMORA"
+        },
+        "artist": "TOMORA",
+        "track_title": "Hold On Let Go",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9dnn5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0mlm8yc",
+            "name": "TOMORA",
+            "role": "Performer",
+            "musicbrainz_gid": "3f83dc3c-8b95-4220-baee-4a6d85d4ae33"
+          }
+        ],
+        "title": "Hold On Let Go",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Hamdi",
+      "title": "Dubstep Proper",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnx0w6",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p0pnx0wl",
+          "musicbrainz_gid": null,
+          "name": "Hamdi"
+        },
+        "artist": "Hamdi",
+        "track_title": "Dubstep Proper",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Sony Music",
+        "release_title": null,
+        "record_id": "n9xn8r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pnx0wl",
+            "name": "Hamdi",
+            "role": "Performer",
+            "musicbrainz_gid": null
+          },
+          {
+            "pid": "p016xhck",
+            "name": "Flava D",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "0258934a-d273-4bc2-bd5d-f44a0b90f44a"
+          },
+          {
+            "pid": "p0296816",
+            "name": "Riko Dan",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "085f02e9-5689-4656-b15e-e96f1b68bd5a"
+          }
+        ],
+        "title": "Dubstep Proper",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Enter Shikari",
+      "title": "Lightyears",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plj4cj",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p012d7f1",
+          "musicbrainz_gid": "329f95db-f02e-40bf-a5f7-0dea11529ce3",
+          "name": "Enter Shikari"
+        },
+        "artist": "Enter Shikari",
+        "track_title": "Lightyears",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ambush Reality",
+        "release_title": "Lose Your Self",
+        "record_id": "n9ddw5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7f1",
+            "name": "Enter Shikari",
+            "role": "Performer",
+            "musicbrainz_gid": "329f95db-f02e-40bf-a5f7-0dea11529ce3"
+          }
+        ],
+        "title": "Lightyears",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Yeat",
+      "title": "Lil Krazy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pppvbh",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p0c099kb",
+          "musicbrainz_gid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+          "name": "Yeat"
+        },
+        "artist": "Yeat",
+        "track_title": "Lil Krazy",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Lyfestyle Corporation/Field Trip Recordings/Capitol Records",
+        "release_title": null,
+        "record_id": "n9x5p3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c099kb",
+            "name": "Yeat",
+            "role": "Performer",
+            "musicbrainz_gid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802"
+          },
+          {
+            "pid": "p0pppvbw",
+            "name": "Lyfestyle Corporation",
+            "role": "Performer",
+            "musicbrainz_gid": "a7251770-1f63-4e98-b5a3-1757852b3595"
+          }
+        ],
+        "title": "Lil Krazy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Ayra Starr",
+      "title": "Amazing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p997fr",
+        "duration": 165,
+        "primary_contributor": {
+          "pid": "p097mf81",
+          "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4",
+          "name": "Ayra Starr"
+        },
+        "artist": "Ayra Starr",
+        "track_title": "Amazing",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Mavin/Republic",
+        "release_title": null,
+        "record_id": "n9b8v9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097mf81",
+            "name": "Ayra Starr",
+            "role": "Performer",
+            "musicbrainz_gid": "c4ac4b97-2eac-46f6-85ae-f916c93847e4"
+          },
+          {
+            "pid": "p08zd77v",
+            "name": "kwn",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
+          }
+        ],
+        "title": "Amazing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "HAAi",
+      "title": "Talking Walls",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy4lv",
+        "duration": 224,
+        "primary_contributor": {
+          "pid": "p06hxkxm",
+          "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27",
+          "name": "HAAi"
+        },
+        "artist": "HAAi",
+        "track_title": "Talking Walls",
+        "track_number": null,
+        "publisher": "BMG Publishing",
+        "record_label": "Mute Artists",
+        "release_title": null,
+        "record_id": "n9cv8w",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06hxkxm",
+            "name": "HAAi",
+            "role": "Performer",
+            "musicbrainz_gid": "c4dff60e-6cf9-4308-8bef-7d88bc0a6a27"
+          },
+          {
+            "pid": "p090wdkl",
+            "name": "Skybreak",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "3f2dd37c-0e6d-4624-9524-931b759caa0e"
+          },
+          {
+            "pid": "p0pfw13r",
+            "name": "Cantoalegre",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "34a2ee72-fe59-4c10-b492-be2c82c6eb71"
+          }
+        ],
+        "title": "Talking Walls",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Eli Brown",
+      "title": "Frequency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbpzv",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p058qhlk",
+          "musicbrainz_gid": "61bb4f68-d1a3-4a04-aa36-536c36135408",
+          "name": "Eli Brown"
+        },
+        "artist": "Eli Brown",
+        "track_title": "Frequency",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "INSOMNIAC Records",
+        "release_title": null,
+        "record_id": "n9dxh9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p058qhlk",
+            "name": "Eli Brown",
+            "role": "Performer",
+            "musicbrainz_gid": "61bb4f68-d1a3-4a04-aa36-536c36135408"
+          },
+          {
+            "pid": "p014rdgk",
+            "name": "Dimension",
+            "role": "Performer",
+            "musicbrainz_gid": "50b41344-7a92-4e53-8c93-f38c66cf68f3"
+          }
+        ],
+        "title": "Frequency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erick the Architect",
+      "title": "Yerr",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3pt2",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p02g7gk6",
+          "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c",
+          "name": "Erick the Architect"
+        },
+        "artist": "Erick the Architect",
+        "track_title": "Yerr",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Erick The Architect",
+        "release_title": null,
+        "record_id": "n9d645",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02g7gk6",
+            "name": "Erick the Architect",
+            "role": "Performer",
+            "musicbrainz_gid": "dbfff37c-146d-4415-b765-9a76d48c749c"
+          },
+          {
+            "pid": "p012dj7w",
+            "name": "Ghostface Killah",
+            "role": "Performer",
+            "musicbrainz_gid": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb"
+          },
+          {
+            "pid": "p0pj3pt8",
+            "name": "Fergie Baby",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ef8af4d8-3866-403a-a048-89f0304326e0"
+          }
+        ],
+        "title": "Yerr",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "No Punctuation",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnx2f0",
+        "duration": 196,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "No Punctuation",
+        "track_number": null,
+        "publisher": "Virgin Music",
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n9xn8f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "No Punctuation",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Mez",
+      "title": "Hell Nah",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnx6jw",
+        "duration": 270,
+        "primary_contributor": {
+          "pid": "p02z00j9",
+          "musicbrainz_gid": "6ce817bd-600d-494d-bd53-2a5f770cf0c6",
+          "name": "Mez"
+        },
+        "artist": "Mez",
+        "track_title": "Hell Nah",
+        "track_number": null,
+        "publisher": "Heirs Entertainment",
+        "record_label": "Mass Appeal",
+        "release_title": null,
+        "record_id": "n9xn8v",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02z00j9",
+            "name": "Mez",
+            "role": "Performer",
+            "musicbrainz_gid": "6ce817bd-600d-494d-bd53-2a5f770cf0c6"
+          },
+          {
+            "pid": "p012drrl",
+            "name": "J. Cole",
+            "role": "Performer",
+            "musicbrainz_gid": "875203e1-8e58-4b86-8dcb-7190faf411c5"
+          },
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          }
+        ],
+        "title": "Hell Nah",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}
