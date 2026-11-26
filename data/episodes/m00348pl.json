@@ -1,0 +1,1028 @@
+{
+  "pid": "m00348pl",
+  "broadcast_start": "2026-11-25T18:00:00Z",
+  "schedule_date": "2026-11-25",
+  "title": "New Music HQ!",
+  "tracks": [
+    {
+      "artist": "Blossoms",
+      "title": "Husband",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plkw6f",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p03cy7w6",
+          "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5",
+          "name": "Blossoms"
+        },
+        "artist": "Blossoms",
+        "track_title": "Husband",
+        "track_number": "2",
+        "publisher": "BMG RIGHTS MANAGEMENT (UK) LIMITED",
+        "record_label": "Distiller Records",
+        "release_title": "Songs From The Wedding Cake",
+        "record_id": "n9c5c5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03cy7w6",
+            "name": "Blossoms",
+            "role": "Performer",
+            "musicbrainz_gid": "bdc343bd-1c45-4a5d-b956-c4429f3dbba5"
+          }
+        ],
+        "title": "Husband",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "underscores",
+      "title": "Do It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppx6l6",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p062j9j4",
+          "musicbrainz_gid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+          "name": "underscores"
+        },
+        "artist": "underscores",
+        "track_title": "Do It",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Mom+Pop",
+        "release_title": null,
+        "record_id": "n92vb3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p062j9j4",
+            "name": "underscores",
+            "role": "Performer",
+            "musicbrainz_gid": "ab1a3f85-e0ea-470a-af5c-175447ae774c"
+          }
+        ],
+        "title": "Do It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Freya Skye",
+      "title": "bad taste",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pbwllb",
+        "duration": 168,
+        "primary_contributor": {
+          "pid": "p0dckhd7",
+          "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be",
+          "name": "Freya Skye"
+        },
+        "artist": "Freya Skye",
+        "track_title": "bad taste",
+        "track_number": null,
+        "publisher": "Seven Peaks Music/Socaloca Music / Sony/ATV Tunes LLC/Sony Music Publishing (UK) Ltd./Sony/ATV Tunes LLC/Songhouse Limited / Seven Summits Music/Monarch Songs Publishing / Anna Schindel Publishing/The",
+        "record_label": "Hollywood",
+        "release_title": null,
+        "record_id": "n9c4r6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dckhd7",
+            "name": "Freya Skye",
+            "role": "Performer",
+            "musicbrainz_gid": "75b9caea-c639-4120-9391-05dbf15f30be"
+          }
+        ],
+        "title": "bad taste",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Matilda Mann",
+      "title": "Chain Reaction",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pll3hy",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p082r72d",
+          "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525",
+          "name": "Matilda Mann"
+        },
+        "artist": "Matilda Mann",
+        "track_title": "Chain Reaction",
+        "track_number": null,
+        "publisher": "Sony Music Publishing (UK) Limited, Reservoir Media Management (UK) Limited, Copyright Control",
+        "record_label": "Matilda Mann",
+        "release_title": null,
+        "record_id": "n9bj62",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p082r72d",
+            "name": "Matilda Mann",
+            "role": "Performer",
+            "musicbrainz_gid": "f02cf5ec-81b7-4558-9946-354ebac1a525"
+          }
+        ],
+        "title": "Chain Reaction",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "hard life",
+      "title": "Boyfriends",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnpnw1",
+        "duration": 190,
+        "primary_contributor": {
+          "pid": "p0655xxz",
+          "musicbrainz_gid": "48fd666d-cf31-4a0b-91b0-59d11d445317",
+          "name": "hard life"
+        },
+        "artist": "hard life",
+        "track_title": "Boyfriends",
+        "track_number": null,
+        "publisher": "Murray Matraver/Taka Perry",
+        "record_label": "Hard Life Records/Universal Music Operations",
+        "release_title": null,
+        "record_id": "n9xzvn",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0655xxz",
+            "name": "hard life",
+            "role": "Performer",
+            "musicbrainz_gid": "48fd666d-cf31-4a0b-91b0-59d11d445317"
+          }
+        ],
+        "title": "Boyfriends",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "fakemink",
+      "title": "Chiltern Firehouse.",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phwqmz",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0kyb04q",
+          "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99",
+          "name": "fakemink"
+        },
+        "artist": "fakemink",
+        "track_title": "Chiltern Firehouse.",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "EtnaVeraVela",
+        "release_title": null,
+        "record_id": "n9d5gf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0kyb04q",
+            "name": "fakemink",
+            "role": "Performer",
+            "musicbrainz_gid": "968847c6-2150-419d-b14b-68c672dcde99"
+          },
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Chiltern Firehouse.",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fcukers",
+      "title": "if you wanna party, come over to my house",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n47926",
+        "duration": 172,
+        "primary_contributor": {
+          "pid": "p0hlt7m8",
+          "musicbrainz_gid": "5e23e428-d9f5-4679-bd7c-8254d6f0a437",
+          "name": "Fcukers"
+        },
+        "artist": "Fcukers",
+        "track_title": "if you wanna party, come over to my house",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n96833",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0hlt7m8",
+            "name": "Fcukers",
+            "role": "Performer",
+            "musicbrainz_gid": "5e23e428-d9f5-4679-bd7c-8254d6f0a437"
+          }
+        ],
+        "title": "if you wanna party, come over to my house",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CA7RIEL & Paco Amoroso",
+      "title": "Sexy Magic",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pd1qvz",
+        "duration": 195,
+        "primary_contributor": {
+          "pid": "p0pccq67",
+          "musicbrainz_gid": "ce106ca8-401d-4860-ace3-dbc3a204bb86",
+          "name": "CA7RIEL & Paco Amoroso"
+        },
+        "artist": "CA7RIEL & Paco Amoroso",
+        "track_title": "Sexy Magic",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cdg6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0pccq67",
+            "name": "CA7RIEL & Paco Amoroso",
+            "role": "Performer",
+            "musicbrainz_gid": "ce106ca8-401d-4860-ace3-dbc3a204bb86"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Performer",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          },
+          {
+            "pid": "p07xvqx4",
+            "name": "Fred again..",
+            "role": "Performer",
+            "musicbrainz_gid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e"
+          },
+          {
+            "pid": "p01k3ljm",
+            "name": "Étienne de Crécy",
+            "role": "Performer",
+            "musicbrainz_gid": "f174152d-da33-46bd-8cb4-c8d24b834bf7"
+          }
+        ],
+        "title": "Sexy Magic",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Nemzzz",
+      "title": "Lamine Yamal",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppxp7b",
+        "duration": 133,
+        "primary_contributor": {
+          "pid": "p0bljhs9",
+          "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee",
+          "name": "Nemzzz"
+        },
+        "artist": "Nemzzz",
+        "track_title": "Lamine Yamal",
+        "track_number": null,
+        "publisher": "Atlantic Records UK",
+        "record_label": "Atlantic Records UK",
+        "release_title": null,
+        "record_id": "n9x5jr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0bljhs9",
+            "name": "Nemzzz",
+            "role": "Performer",
+            "musicbrainz_gid": "d2a36c92-546b-4b81-b31b-23e21d2ea6ee"
+          },
+          {
+            "pid": "p0ppxp7j",
+            "name": "La Pantera",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "2f47793d-6a91-46e5-b33d-e01c0e75d522"
+          }
+        ],
+        "title": "Lamine Yamal",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Saint Ludo",
+      "title": "Mayday",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plj2sc",
+        "duration": 198,
+        "primary_contributor": {
+          "pid": "p0l94t5k",
+          "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705",
+          "name": "Saint Ludo"
+        },
+        "artist": "Saint Ludo",
+        "track_title": "Mayday",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records Label/Sony",
+        "release_title": null,
+        "record_id": "n9df4j",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0l94t5k",
+            "name": "Saint Ludo",
+            "role": "Performer",
+            "musicbrainz_gid": "10b862f1-0863-4a71-a37f-f39b10f20705"
+          },
+          {
+            "pid": "p0m9z0x4",
+            "name": "Ceebo",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "12607229-c7e8-4cc5-926b-fef5f60f2934"
+          }
+        ],
+        "title": "Mayday",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lambrini Girls",
+      "title": "The Basement",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk56qf",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p0dgpgh2",
+          "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef",
+          "name": "Lambrini Girls"
+        },
+        "artist": "Lambrini Girls",
+        "track_title": "The Basement",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "City Slang",
+        "release_title": null,
+        "record_id": "n9drbw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0dgpgh2",
+            "name": "Lambrini Girls",
+            "role": "Performer",
+            "musicbrainz_gid": "4eeea7eb-7554-48cb-9e50-c26d434ed9ef"
+          }
+        ],
+        "title": "The Basement",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHVRCHES",
+      "title": "Evil",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppxqcr",
+        "duration": 178,
+        "primary_contributor": {
+          "pid": "p012f1ph",
+          "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+          "name": "CHVRCHES"
+        },
+        "artist": "CHVRCHES",
+        "track_title": "Evil",
+        "track_number": null,
+        "publisher": "Universal Music Publishing Limited",
+        "record_label": "Futures Music Group",
+        "release_title": null,
+        "record_id": "n9x2v6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f1ph",
+            "name": "CHVRCHES",
+            "role": "Performer",
+            "musicbrainz_gid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8"
+          }
+        ],
+        "title": "Evil",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Aces",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pm518d",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p012d9ly",
+          "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784",
+          "name": "Fall Out Boy"
+        },
+        "artist": "Fall Out Boy",
+        "track_title": "Aces",
+        "track_number": null,
+        "publisher": "SonyATV Songs LLC (BMI)",
+        "record_label": "Chicago X Softcore",
+        "release_title": null,
+        "record_id": "n9dwp5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d9ly",
+            "name": "Fall Out Boy",
+            "role": "Performer",
+            "musicbrainz_gid": "516cef4d-0718-4007-9939-f9b38af3f784"
+          }
+        ],
+        "title": "Aces",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "Lost In It",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppxqv8",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p0874dy1",
+          "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+          "name": "Gracie Abrams"
+        },
+        "artist": "Gracie Abrams",
+        "track_title": "Lost In It",
+        "track_number": null,
+        "publisher": "Interscope Records",
+        "record_label": "Interscope Records",
+        "release_title": "Daughter from Hell",
+        "record_id": "n9x44q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0874dy1",
+            "name": "Gracie Abrams",
+            "role": "Performer",
+            "musicbrainz_gid": "f7441bc7-d7de-4813-a2fc-31a4033d396d"
+          }
+        ],
+        "title": "Lost In It",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Rema",
+      "title": "Feel Alright",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnzks6",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p075sszx",
+          "musicbrainz_gid": "720c46ba-a0e4-4b58-aee2-3bd70c70901f",
+          "name": "Rema"
+        },
+        "artist": "Rema",
+        "track_title": "Feel Alright",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Mavin Global Holdings Ltd",
+        "release_title": null,
+        "record_id": "n9x2p5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p075sszx",
+            "name": "Rema",
+            "role": "Performer",
+            "musicbrainz_gid": "720c46ba-a0e4-4b58-aee2-3bd70c70901f"
+          },
+          {
+            "pid": "p01k92dm",
+            "name": "Wizkid",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "efc5d365-a448-4e2f-9b5f-4a7c84be725c"
+          }
+        ],
+        "title": "Feel Alright",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Memory Signal",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pn5q9c",
+        "duration": 213,
+        "primary_contributor": {
+          "pid": "p012dqzf",
+          "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+          "name": "Bonobo"
+        },
+        "artist": "Bonobo",
+        "track_title": "Memory Signal",
+        "track_number": null,
+        "publisher": "Bonobo Music Inc.",
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9djxh",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dqzf",
+            "name": "Bonobo",
+            "role": "Performer",
+            "musicbrainz_gid": "9a709693-b4f8-4da9-8cc1-038c911a61be"
+          }
+        ],
+        "title": "Memory Signal",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Lainey Wilson",
+      "title": "Just A Woman",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppxv1p",
+        "duration": 221,
+        "primary_contributor": {
+          "pid": "p071v3mt",
+          "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05",
+          "name": "Lainey Wilson"
+        },
+        "artist": "Lainey Wilson",
+        "track_title": "Just A Woman",
+        "track_number": null,
+        "publisher": "Sony/Atv Music Publishing (Uk) Limited",
+        "record_label": "BMG Rights Management (WW) Ltd",
+        "release_title": null,
+        "record_id": "n9x58x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p071v3mt",
+            "name": "Lainey Wilson",
+            "role": "Performer",
+            "musicbrainz_gid": "a6e613d6-ff65-4972-beff-303a1b10ab05"
+          }
+        ],
+        "title": "Just A Woman",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "untitled (halo)",
+      "title": "sex",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgpl02",
+        "duration": 160,
+        "primary_contributor": {
+          "pid": "p0ghbj36",
+          "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789",
+          "name": "untitled (halo)"
+        },
+        "artist": "untitled (halo)",
+        "track_title": "sex",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n9cwmp",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0ghbj36",
+            "name": "untitled (halo)",
+            "role": "Performer",
+            "musicbrainz_gid": "defc7b30-587a-4d8d-b405-f8ae5bc70789"
+          }
+        ],
+        "title": "sex",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Thin Ice",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pl53vp",
+        "duration": 139,
+        "primary_contributor": {
+          "pid": "p06lmc04",
+          "musicbrainz_gid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+          "name": "Megan Thee Stallion"
+        },
+        "artist": "Megan Thee Stallion",
+        "track_title": "Thin Ice",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Hot Girl Productions",
+        "release_title": "Tina Tuesday Freestyles",
+        "record_id": "n9ddxw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06lmc04",
+            "name": "Megan Thee Stallion",
+            "role": "Performer",
+            "musicbrainz_gid": "ee27b2d8-648c-4a9d-a68c-e55066959975"
+          }
+        ],
+        "title": "Thin Ice",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Champagne",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pghtqk",
+        "duration": 207,
+        "primary_contributor": {
+          "pid": "p089hpfh",
+          "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+          "name": "Remi Wolf"
+        },
+        "artist": "Remi Wolf",
+        "track_title": "Champagne",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9cmh6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p089hpfh",
+            "name": "Remi Wolf",
+            "role": "Performer",
+            "musicbrainz_gid": "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41"
+          }
+        ],
+        "title": "Champagne",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "take me home (4 christmas)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pll35t",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p093l6j5",
+          "musicbrainz_gid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+          "name": "Olivia Rodrigo"
+        },
+        "artist": "Olivia Rodrigo",
+        "track_title": "take me home (4 christmas)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Interscope",
+        "release_title": null,
+        "record_id": "n9dgn9",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p093l6j5",
+            "name": "Olivia Rodrigo",
+            "role": "Performer",
+            "musicbrainz_gid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
+          }
+        ],
+        "title": "take me home (4 christmas)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "edapollo",
+      "title": "Carry Me Home",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phk41q",
+        "duration": 205,
+        "primary_contributor": {
+          "pid": "p097kl6t",
+          "musicbrainz_gid": "712e6821-c973-4a19-99cb-c82a8628974a",
+          "name": "edapollo"
+        },
+        "artist": "edapollo",
+        "track_title": "Carry Me Home",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Omni Youth",
+        "release_title": null,
+        "record_id": "n9d4m3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p097kl6t",
+            "name": "edapollo",
+            "role": "Performer",
+            "musicbrainz_gid": "712e6821-c973-4a19-99cb-c82a8628974a"
+          }
+        ],
+        "title": "Carry Me Home",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MPH",
+      "title": "Break Ya Neck",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pp55pr",
+        "duration": 185,
+        "primary_contributor": {
+          "pid": "p0fphn90",
+          "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863",
+          "name": "MPH"
+        },
+        "artist": "MPH",
+        "track_title": "Break Ya Neck",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Disorder",
+        "release_title": null,
+        "record_id": "n9x2hb",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fphn90",
+            "name": "MPH",
+            "role": "Performer",
+            "musicbrainz_gid": "59fb9339-0065-42e9-8c2c-110c9f7eb863"
+          },
+          {
+            "pid": "p06gmt6w",
+            "name": "IRAH",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "7890a3fb-c580-4f76-bdc4-cae7a264e838"
+          }
+        ],
+        "title": "Break Ya Neck",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Grimes",
+      "title": "KILLING GOD WITH COMPUTERS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppxxh3",
+        "duration": 194,
+        "primary_contributor": {
+          "pid": "p012dskw",
+          "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+          "name": "Grimes"
+        },
+        "artist": "Grimes",
+        "track_title": "KILLING GOD WITH COMPUTERS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Eternal Recurrence",
+        "release_title": "爱",
+        "record_id": "n9x5jj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dskw",
+            "name": "Grimes",
+            "role": "Performer",
+            "musicbrainz_gid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222"
+          }
+        ],
+        "title": "KILLING GOD WITH COMPUTERS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Japan",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pjqgvp",
+        "duration": 193,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Japan",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9d24q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          }
+        ],
+        "title": "Japan",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Cotton (Radio 1 Live Lounge, 10th September 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppxy7z",
+        "duration": 272,
+        "primary_contributor": {
+          "pid": "p01tcdsh",
+          "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+          "name": "Vince Staples"
+        },
+        "artist": "Vince Staples",
+        "track_title": "Cotton (Radio 1 Live Lounge, 10th September 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9x5vz",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01tcdsh",
+            "name": "Vince Staples",
+            "role": "Performer",
+            "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff"
+          }
+        ],
+        "title": "Cotton (Radio 1 Live Lounge, 10th September 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Mind Playing Tricks on Me (Radio 1's Live Lounge Late Cover, 24th November 2026)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppq0pc",
+        "duration": 392,
+        "primary_contributor": {
+          "pid": "p01tcdsh",
+          "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+          "name": "Vince Staples"
+        },
+        "artist": "Vince Staples",
+        "track_title": "Mind Playing Tricks on Me (Radio 1's Live Lounge Late Cover, 24th November 2026)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9x5pf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01tcdsh",
+            "name": "Vince Staples",
+            "role": "Performer",
+            "musicbrainz_gid": "78e854b8-9713-4ff2-9218-6b3784893bff"
+          }
+        ],
+        "title": "Mind Playing Tricks on Me (Radio 1's Live Lounge Late Cover, 24th November 2026)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

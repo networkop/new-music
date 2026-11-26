@@ -684,6 +684,11 @@
     "score": 1.0,
     "uri": "spotify:track:0ptjIq1XKNYBtfjzXQ3dXE"
   },
+  "chvrches|||evil": {
+    "matched": "CHVRCHES - Evil",
+    "score": 1.0,
+    "uri": "spotify:track:33fdsT0aOPGhHe3YUaWQz4"
+  },
   "chvrches|||overthinker": {
     "matched": "CHVRCHES - Overthinker",
     "score": 1.0,
@@ -1044,6 +1049,11 @@
     "score": 0.0,
     "uri": null
   },
+  "fcukers|||if you wanna party, come over to my house": {
+    "matched": "Fcukers - if you wanna party, come over to my house",
+    "score": 1.0,
+    "uri": "spotify:track:0snzpWpjUj6dxRFrsNQOZs"
+  },
   "fcukers|||only one": {
     "matched": "Fcukers - Only One",
     "score": 1.0,
@@ -1304,6 +1314,11 @@
     "score": 1.0,
     "uri": "spotify:track:61Oyg0lrAOMjBpEStqfOZ1"
   },
+  "gracie abrams|||lost in it": {
+    "matched": "Gracie Abrams - Lost in It",
+    "score": 1.0,
+    "uri": "spotify:track:3DS1UrDXwnpnYZsLjNnugt"
+  },
   "gracie abrams|||that's so true": {
     "matched": "Gracie Abrams - That’s So True",
     "score": 1.0,
@@ -1323,6 +1338,11 @@
     "matched": "Grimes - ACCELERANDO",
     "score": 1.0,
     "uri": "spotify:track:3Vv6jWPmzKXlaoKsVwNM0O"
+  },
+  "grimes|||killing god with computers": {
+    "matched": "Grimes - KILLING GOD WITH COMPUTERS",
+    "score": 1.0,
+    "uri": "spotify:track:45wasIhGDIplDfMXXAaiEJ"
   },
   "gunna|||pop it": {
     "matched": "Gunna - pop it",
@@ -2099,6 +2119,11 @@
     "score": 1.0,
     "uri": "spotify:track:2CFQhsE794KbbyROs5Iocx"
   },
+  "mph|||break ya neck": {
+    "matched": "MPH - Break Ya Neck",
+    "score": 1.0,
+    "uri": "spotify:track:65f7oyUrmKCKtb9cErD0Bp"
+  },
   "mph|||long goodbye": {
     "matched": "MPH - Long Goodbye",
     "score": 1.0,
@@ -2168,6 +2193,11 @@
     "matched": "Nemzzz - KILLIN EM",
     "score": 1.0,
     "uri": "spotify:track:05gfooFDrVx4SkKZp1H1Wx"
+  },
+  "nemzzz|||lamine yamal": {
+    "matched": "Nemzzz - LAMINE YAMAL (feat. La Pantera)",
+    "score": 1.0,
+    "uri": "spotify:track:4iUjotWvNyG99ldTZTRysc"
   },
   "nero|||we're not alone": {
     "matched": "NERO - We're Not Alone",
@@ -2293,6 +2323,11 @@
     "matched": "Olivia Rodrigo - expectations (feat. Chappell Roan)",
     "score": 1.0,
     "uri": "spotify:track:3XmwAZpIMNpTJy8faw3ajD"
+  },
+  "olivia rodrigo|||take me home (4 christmas)": {
+    "matched": "Olivia Rodrigo - take me home (4 christmas)",
+    "score": 1.0,
+    "uri": "spotify:track:4UjYZS6Jbt3lee27qmiNOu"
   },
   "original koffee|||rapid fiyah": {
     "matched": null,
@@ -2498,6 +2533,11 @@
     "matched": "Rachel Chinouriri - Pretty girls",
     "score": 1.0,
     "uri": "spotify:track:7c0oKEgUPN6nQ5dwhzzs3m"
+  },
+  "rema|||feel alright": {
+    "matched": "Rema - Feel Alright",
+    "score": 1.0,
+    "uri": "spotify:track:1ZxXUnXPNUBXVLDXY9rypW"
   },
   "remi wolf|||12 to 12 (radio 1 live lounge, 3rd november 2026)": {
     "matched": null,
@@ -3264,6 +3304,11 @@
     "score": 1.0,
     "uri": "spotify:track:6wNGHSpLlHc5N89We4OOKG"
   },
+  "underscores|||do it": {
+    "matched": "underscores - Do It",
+    "score": 1.0,
+    "uri": "spotify:track:4BBL8YQ1SUhSbcsEguX8kL"
+  },
   "underscores|||unlimited love": {
     "matched": "underscores - Unlimited Love",
     "score": 1.0,
@@ -3288,6 +3333,16 @@
     "matched": "Vince Staples - Cotton",
     "score": 1.0,
     "uri": "spotify:track:2rBesRD5DkpI0dyjmXV7lf"
+  },
+  "vince staples|||cotton (radio 1 live lounge, 10th september 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
+  },
+  "vince staples|||mind playing tricks on me (radio 1's live lounge late cover, 24th november 2026)": {
+    "matched": null,
+    "score": 0.0,
+    "uri": null
   },
   "vince staples|||tulsa, ok": {
     "matched": "Vince Staples - Tulsa, OK",
