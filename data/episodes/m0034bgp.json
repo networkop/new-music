@@ -1,0 +1,1166 @@
+{
+  "pid": "m0034bgp",
+  "broadcast_start": "2026-11-26T18:00:00Z",
+  "schedule_date": "2026-11-26",
+  "title": "New Music Thanksgiving!",
+  "tracks": [
+    {
+      "artist": "Tate McRae",
+      "title": "Housewife",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgzqcq",
+        "duration": 208,
+        "primary_contributor": {
+          "pid": "p07n6t02",
+          "musicbrainz_gid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+          "name": "Tate McRae"
+        },
+        "artist": "Tate McRae",
+        "track_title": "Housewife",
+        "track_number": null,
+        "publisher": "Sony/Atv Music Publishing (Uk) Limited/Universal/Mca Music Limited",
+        "record_label": "RCA",
+        "release_title": null,
+        "record_id": "n9d26x",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07n6t02",
+            "name": "Tate McRae",
+            "role": "Performer",
+            "musicbrainz_gid": "f9133869-f87c-459c-9aa7-2f176cda7e06"
+          }
+        ],
+        "title": "Housewife",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "hey boyyy",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmhsw0",
+        "duration": 216,
+        "primary_contributor": {
+          "pid": "p072g1kh",
+          "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+          "name": "Slayyyter"
+        },
+        "artist": "Slayyyter",
+        "track_title": "hey boyyy",
+        "track_number": null,
+        "publisher": "Slayyyter Enterprises LLC",
+        "record_label": "RECORDS Label, LLC/Columbia Records",
+        "release_title": null,
+        "record_id": "n9dgmw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p072g1kh",
+            "name": "Slayyyter",
+            "role": "Performer",
+            "musicbrainz_gid": "9058d01e-8afc-47a4-8664-621fb5f159c0"
+          }
+        ],
+        "title": "hey boyyy",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "GAS",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpctk",
+        "duration": 248,
+        "primary_contributor": {
+          "pid": "p018xh39",
+          "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+          "name": "Bicep"
+        },
+        "artist": "Bicep",
+        "track_title": "GAS",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Ninja Tune",
+        "release_title": null,
+        "record_id": "n9d55f",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018xh39",
+            "name": "Bicep",
+            "role": "Performer",
+            "musicbrainz_gid": "10e8f0df-90f9-4957-aedd-c4e0d187e3a8"
+          },
+          {
+            "pid": "p09ylr6k",
+            "name": "Lauren Duffus",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "115e08e4-4679-4678-8675-41ccabb2e5b3"
+          },
+          {
+            "pid": "p0pcfzfd",
+            "name": "SOARR",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "98d651f2-5a99-4eee-a60d-0d0e4fc2160e"
+          }
+        ],
+        "title": "GAS",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Heart Of Darkness",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pnhks7",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p0g8qmd3",
+          "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d",
+          "name": "Fat Dog"
+        },
+        "artist": "Fat Dog",
+        "track_title": "Heart Of Darkness",
+        "track_number": null,
+        "publisher": "Domino Recordings",
+        "record_label": "Domino Recordings",
+        "release_title": null,
+        "record_id": "n9cx6r",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0g8qmd3",
+            "name": "Fat Dog",
+            "role": "Performer",
+            "musicbrainz_gid": "8b16f1e6-d960-432b-92d1-70fc3e61176d"
+          }
+        ],
+        "title": "Heart Of Darkness",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Skepta",
+      "title": "Currency",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plm28b",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p08ljtfr",
+          "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869",
+          "name": "Skepta"
+        },
+        "artist": "Skepta",
+        "track_title": "Currency",
+        "track_number": null,
+        "publisher": "Sony/Atv Music Publishing (Uk) Limited",
+        "record_label": "Epic Records UK",
+        "release_title": null,
+        "record_id": "n9dg2d",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08ljtfr",
+            "name": "Skepta",
+            "role": "Performer",
+            "musicbrainz_gid": "38474d18-9204-4f60-a137-1fcc6750b869"
+          }
+        ],
+        "title": "Currency",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fcukers",
+      "title": "Only One",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppjqvz",
+        "duration": 143,
+        "primary_contributor": {
+          "pid": "p0hlt7m8",
+          "musicbrainz_gid": "5e23e428-d9f5-4679-bd7c-8254d6f0a437",
+          "name": "Fcukers"
+        },
+        "artist": "Fcukers",
+        "track_title": "Only One",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Bon Bon Recordings/LLC/Atlantic Records/Rockstar Games",
+        "release_title": "Grand Theft Auto VI: The Album",
+        "record_id": "n9x2w6",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0hlt7m8",
+            "name": "Fcukers",
+            "role": "Performer",
+            "musicbrainz_gid": "5e23e428-d9f5-4679-bd7c-8254d6f0a437"
+          }
+        ],
+        "title": "Only One",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "CHRIS STASSY",
+      "title": "Dangerous",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmxzrf",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p07m54l7",
+          "musicbrainz_gid": "5b7f4511-1764-4d80-83b5-8c150f4636c5",
+          "name": "CHRIS STASSY"
+        },
+        "artist": "CHRIS STASSY",
+        "track_title": "Dangerous",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Up The Stuss",
+        "release_title": null,
+        "record_id": "n9dvjq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07m54l7",
+            "name": "CHRIS STASSY",
+            "role": "Performer",
+            "musicbrainz_gid": "5b7f4511-1764-4d80-83b5-8c150f4636c5"
+          },
+          {
+            "pid": "p076pjk8",
+            "name": "Interplanetary Criminal",
+            "role": "Performer",
+            "musicbrainz_gid": "02ebebd7-120e-4341-ac89-90e666d49c9e"
+          }
+        ],
+        "title": "Dangerous",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "DIIV",
+      "title": "Dare Me",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pk4twd",
+        "duration": 242,
+        "primary_contributor": {
+          "pid": "p01kx5p8",
+          "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+          "name": "DIIV"
+        },
+        "artist": "DIIV",
+        "track_title": "Dare Me",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Fantasy Records",
+        "release_title": null,
+        "record_id": "n9drbf",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01kx5p8",
+            "name": "DIIV",
+            "role": "Performer",
+            "musicbrainz_gid": "b5ff61dd-0154-4e80-b46b-c733f87db602"
+          }
+        ],
+        "title": "Dare Me",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Where Is Gone?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgbmzb",
+        "duration": 313,
+        "primary_contributor": {
+          "pid": "p05xywn0",
+          "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+          "name": "Fontaines D.C."
+        },
+        "artist": "Fontaines D.C.",
+        "track_title": "Where Is Gone?",
+        "track_number": null,
+        "publisher": "Domino Publishing",
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9cmgv",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p05xywn0",
+            "name": "Fontaines D.C.",
+            "role": "Performer",
+            "musicbrainz_gid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+          },
+          {
+            "pid": "p062kbbl",
+            "name": "ROSALÍA",
+            "role": "Performer",
+            "musicbrainz_gid": "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+          }
+        ],
+        "title": "Where Is Gone?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Charli xcx",
+      "title": "Camera",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p026z3",
+        "duration": 151,
+        "primary_contributor": {
+          "pid": "p012f188",
+          "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+          "name": "Charli xcx"
+        },
+        "artist": "Charli xcx",
+        "track_title": "Camera",
+        "track_number": null,
+        "publisher": null,
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9rd4g",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012f188",
+            "name": "Charli xcx",
+            "role": "Performer",
+            "musicbrainz_gid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+          }
+        ],
+        "title": "Camera",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Robyn",
+      "title": "Blow My Mind",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n60kqc",
+        "duration": 177,
+        "primary_contributor": {
+          "pid": "p012d7sh",
+          "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94",
+          "name": "Robyn"
+        },
+        "artist": "Robyn",
+        "track_title": "Blow My Mind",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal",
+        "release_title": null,
+        "record_id": "n96x3n",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7sh",
+            "name": "Robyn",
+            "role": "Performer",
+            "musicbrainz_gid": "5a8e07d5-d932-4484-a7f7-e700793a9c94"
+          }
+        ],
+        "title": "Blow My Mind",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Kingfishr",
+      "title": "The Sun Will Never Settle",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nndvxv",
+        "duration": 147,
+        "primary_contributor": {
+          "pid": "p0gqnbln",
+          "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049",
+          "name": "Kingfishr"
+        },
+        "artist": "Kingfishr",
+        "track_title": "The Sun Will Never Settle",
+        "track_number": null,
+        "publisher": "Atlantic",
+        "record_label": "B-Unique Recordings",
+        "release_title": null,
+        "record_id": "n98qd2",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gqnbln",
+            "name": "Kingfishr",
+            "role": "Performer",
+            "musicbrainz_gid": "0e8afdae-d488-44d6-85b5-a5007096c049"
+          }
+        ],
+        "title": "The Sun Will Never Settle",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Sun Has Set",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0nvpn6m",
+        "duration": 142,
+        "primary_contributor": {
+          "pid": "p06v2qk2",
+          "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336",
+          "name": "beabadoobee"
+        },
+        "artist": "beabadoobee",
+        "track_title": "Sun Has Set",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Dirty Hit",
+        "release_title": null,
+        "record_id": "n99hv4",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p06v2qk2",
+            "name": "beabadoobee",
+            "role": "Performer",
+            "musicbrainz_gid": "88d17133-abbc-42db-9526-4e2c1db60336"
+          }
+        ],
+        "title": "Sun Has Set",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "MILEY",
+      "title": "Different Religion",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0p9m1cy",
+        "duration": 220,
+        "primary_contributor": {
+          "pid": "p01nbs1f",
+          "musicbrainz_gid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+          "name": "MILEY"
+        },
+        "artist": "MILEY",
+        "track_title": "Different Religion",
+        "track_number": null,
+        "publisher": "MCEO Publishing (BMI)",
+        "record_label": "Atlantic Records",
+        "release_title": null,
+        "record_id": "n9c3mj",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01nbs1f",
+            "name": "MILEY",
+            "role": "Performer",
+            "musicbrainz_gid": "7e9bd05a-117f-4cce-87bc-e011527a8b18"
+          }
+        ],
+        "title": "Different Religion",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Thundercat",
+      "title": "She Knows Too Much",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n44jzl",
+        "duration": 175,
+        "primary_contributor": {
+          "pid": "p012dsks",
+          "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+          "name": "Thundercat"
+        },
+        "artist": "Thundercat",
+        "track_title": "She Knows Too Much",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Brainfeeder",
+        "release_title": null,
+        "record_id": "n95m35",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012dsks",
+            "name": "Thundercat",
+            "role": "Performer",
+            "musicbrainz_gid": "044fd265-79dd-43eb-afc4-8b20becf7e17"
+          },
+          {
+            "pid": "p012ddlh",
+            "name": "Mac Miller",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff"
+          }
+        ],
+        "title": "She Knows Too Much",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Sienna Spiro",
+      "title": "The Visitor",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0n7fvc9",
+        "duration": 229,
+        "primary_contributor": {
+          "pid": "p0j9wp1j",
+          "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+          "name": "Sienna Spiro"
+        },
+        "artist": "Sienna Spiro",
+        "track_title": "The Visitor",
+        "track_number": "1",
+        "publisher": null,
+        "record_label": "Capitol Records",
+        "release_title": "The Visitor",
+        "record_id": "n96xh3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0j9wp1j",
+            "name": "Sienna Spiro",
+            "role": "Performer",
+            "musicbrainz_gid": "ea696191-407a-4bf2-8302-7e05f6c163c5"
+          }
+        ],
+        "title": "The Visitor",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Future",
+      "title": "Ya Hit",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmq561",
+        "duration": 214,
+        "primary_contributor": {
+          "pid": "p018lzcv",
+          "musicbrainz_gid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+          "name": "Future"
+        },
+        "artist": "Future",
+        "track_title": "Ya Hit",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Epic",
+        "release_title": null,
+        "record_id": "n9djff",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p018lzcv",
+            "name": "Future",
+            "role": "Performer",
+            "musicbrainz_gid": "48262e82-db9f-4a92-b650-dfef979b73ec"
+          },
+          {
+            "pid": "p012dcpd",
+            "name": "Drake",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+          },
+          {
+            "pid": "p01k2lfc",
+            "name": "Travis Scott",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+          },
+          {
+            "pid": "p0jzgxsj",
+            "name": "Loe Shimmy",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "ed411d15-00f4-4e56-b264-94e0d2f64ffe"
+          }
+        ],
+        "title": "Ya Hit",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Danny L Harle",
+      "title": "Starlight (Skrillex and ring Noord Remix)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3qwm",
+        "duration": 176,
+        "primary_contributor": {
+          "pid": "p02fgqwr",
+          "musicbrainz_gid": "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f",
+          "name": "Danny L Harle"
+        },
+        "artist": "Danny L Harle",
+        "track_title": "Starlight (Skrillex and ring Noord Remix)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "XL Recordings",
+        "release_title": null,
+        "record_id": "n9d649",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p02fgqwr",
+            "name": "Danny L Harle",
+            "role": "Performer",
+            "musicbrainz_gid": "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f"
+          },
+          {
+            "pid": "p09lzkf4",
+            "name": "PinkPantheress",
+            "role": "Performer",
+            "musicbrainz_gid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+          },
+          {
+            "pid": "p012dsj7",
+            "name": "Skrillex",
+            "role": "Performer",
+            "musicbrainz_gid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b"
+          },
+          {
+            "pid": "p0m43cdt",
+            "name": "ring noord",
+            "role": "Featured Artist",
+            "musicbrainz_gid": "aecef1d3-0f26-48b8-abc3-c1efa5011733"
+          }
+        ],
+        "title": "Starlight (Skrillex and ring Noord Remix)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Enter Shikari",
+      "title": "Higher Ground",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0phpltd",
+        "duration": 204,
+        "primary_contributor": {
+          "pid": "p012d7f1",
+          "musicbrainz_gid": "329f95db-f02e-40bf-a5f7-0dea11529ce3",
+          "name": "Enter Shikari"
+        },
+        "artist": "Enter Shikari",
+        "track_title": "Higher Ground",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "So Recordings",
+        "release_title": null,
+        "record_id": "n9cmqq",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p012d7f1",
+            "name": "Enter Shikari",
+            "role": "Performer",
+            "musicbrainz_gid": "329f95db-f02e-40bf-a5f7-0dea11529ce3"
+          }
+        ],
+        "title": "Higher Ground",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Say Now",
+      "title": "Met My Match",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pc4jl0",
+        "duration": 164,
+        "primary_contributor": {
+          "pid": "p0gjrqc4",
+          "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e",
+          "name": "Say Now"
+        },
+        "artist": "Say Now",
+        "track_title": "Met My Match",
+        "track_number": null,
+        "publisher": "Amlor Music",
+        "record_label": "Warner Music UK Limited",
+        "release_title": null,
+        "record_id": "n9c9p8",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0gjrqc4",
+            "name": "Say Now",
+            "role": "Performer",
+            "musicbrainz_gid": "6df684dc-704e-4bd3-8abb-e2f89260fe8e"
+          }
+        ],
+        "title": "Met My Match",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "FLO",
+      "title": "I Can't Be High Around You Anymore",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgxt7r",
+        "duration": 199,
+        "primary_contributor": {
+          "pid": "p0c4cmdh",
+          "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a",
+          "name": "FLO"
+        },
+        "artist": "FLO",
+        "track_title": "I Can't Be High Around You Anymore",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Universal Music",
+        "release_title": null,
+        "record_id": "n9bq3p",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0c4cmdh",
+            "name": "FLO",
+            "role": "Performer",
+            "musicbrainz_gid": "6ecae756-cfa6-4011-ae56-e8d9c4be447a"
+          }
+        ],
+        "title": "I Can't Be High Around You Anymore",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Capo Lee",
+      "title": "What's Wrong?",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pj3qjs",
+        "duration": 197,
+        "primary_contributor": {
+          "pid": "p03ffl7f",
+          "musicbrainz_gid": "15f2cd9b-4e6b-469e-b8bb-8246adba33c9",
+          "name": "Capo Lee"
+        },
+        "artist": "Capo Lee",
+        "track_title": "What's Wrong?",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": null,
+        "release_title": null,
+        "record_id": "n9d648",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p03ffl7f",
+            "name": "Capo Lee",
+            "role": "Performer",
+            "musicbrainz_gid": "15f2cd9b-4e6b-469e-b8bb-8246adba33c9"
+          },
+          {
+            "pid": "p07jxw7l",
+            "name": "Pa Salieu",
+            "role": "Performer",
+            "musicbrainz_gid": "03100b87-7d27-4d56-b049-2007599656cc"
+          }
+        ],
+        "title": "What's Wrong?",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "The Kid LAROI",
+      "title": "A Place To Go",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pq4fqz",
+        "duration": 210,
+        "primary_contributor": {
+          "pid": "p08jpyjm",
+          "musicbrainz_gid": "80609a00-b394-4a49-975b-2db6b543fa97",
+          "name": "The Kid LAROI"
+        },
+        "artist": "The Kid LAROI",
+        "track_title": "A Place To Go",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Columbia Records",
+        "release_title": "SURRENDER",
+        "record_id": "n9x6bx",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p08jpyjm",
+            "name": "The Kid LAROI",
+            "role": "Performer",
+            "musicbrainz_gid": "80609a00-b394-4a49-975b-2db6b543fa97"
+          }
+        ],
+        "title": "A Place To Go",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Erika de Casier",
+      "title": "Whispers",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0ppczlr",
+        "duration": 222,
+        "primary_contributor": {
+          "pid": "p079y371",
+          "musicbrainz_gid": "071409d0-ce21-4f03-a111-aec4dbc1590d",
+          "name": "Erika de Casier"
+        },
+        "artist": "Erika de Casier",
+        "track_title": "Whispers",
+        "track_number": null,
+        "publisher": "Copyright Control",
+        "record_label": "Independent Jeep Music",
+        "release_title": null,
+        "record_id": "n9x4c3",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p079y371",
+            "name": "Erika de Casier",
+            "role": "Performer",
+            "musicbrainz_gid": "071409d0-ce21-4f03-a111-aec4dbc1590d"
+          }
+        ],
+        "title": "Whispers",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Steve Lacy",
+      "title": "Nothing",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pmbvf3",
+        "duration": 143,
+        "primary_contributor": {
+          "pid": "p04vcw91",
+          "musicbrainz_gid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+          "name": "Steve Lacy"
+        },
+        "artist": "Steve Lacy",
+        "track_title": "Nothing",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "RCA Records",
+        "release_title": null,
+        "record_id": "n9rc4q",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p04vcw91",
+            "name": "Steve Lacy",
+            "role": "Performer",
+            "musicbrainz_gid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff"
+          }
+        ],
+        "title": "Nothing",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tiwa Savage",
+      "title": "African Baddie",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pkc6tg",
+        "duration": 157,
+        "primary_contributor": {
+          "pid": "p01knr2k",
+          "musicbrainz_gid": "9d9f7ce8-e1cf-4413-b2c9-b90b69bc17f6",
+          "name": "Tiwa Savage"
+        },
+        "artist": "Tiwa Savage",
+        "track_title": "African Baddie",
+        "track_number": null,
+        "publisher": "Tiwa Savage",
+        "record_label": "Tiwa Savage",
+        "release_title": null,
+        "record_id": "n9drm5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01knr2k",
+            "name": "Tiwa Savage",
+            "role": "Performer",
+            "musicbrainz_gid": "9d9f7ce8-e1cf-4413-b2c9-b90b69bc17f6"
+          }
+        ],
+        "title": "African Baddie",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Joy Anonymous",
+      "title": "JOY (Play Power)",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plbpnq",
+        "duration": 283,
+        "primary_contributor": {
+          "pid": "p07n3hrv",
+          "musicbrainz_gid": "60b687bb-5e47-400b-9ebd-f1c1f0c3b948",
+          "name": "Joy Anonymous"
+        },
+        "artist": "Joy Anonymous",
+        "track_title": "JOY (Play Power)",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Future Music Group",
+        "release_title": null,
+        "record_id": "n9dbvr",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p07n3hrv",
+            "name": "Joy Anonymous",
+            "role": "Performer",
+            "musicbrainz_gid": "60b687bb-5e47-400b-9ebd-f1c1f0c3b948"
+          }
+        ],
+        "title": "JOY (Play Power)",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Anderson .Paak",
+      "title": "Airbender",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0plj2jt",
+        "duration": 89,
+        "primary_contributor": {
+          "pid": "p0246xtn",
+          "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+          "name": "Anderson .Paak"
+        },
+        "artist": "Anderson .Paak",
+        "track_title": "Airbender",
+        "track_number": null,
+        "publisher": "Songs Of Universal Recordings",
+        "record_label": "Empire Records",
+        "release_title": null,
+        "record_id": "n9df4h",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0246xtn",
+            "name": "Anderson .Paak",
+            "role": "Performer",
+            "musicbrainz_gid": "d02dd67e-f655-4600-bc47-f789f59e7367"
+          },
+          {
+            "pid": "p070sk99",
+            "name": "Cordae",
+            "role": "Performer",
+            "musicbrainz_gid": "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+          }
+        ],
+        "title": "Airbender",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "feeble little horse",
+      "title": "Poison",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pgy7xw",
+        "duration": 99,
+        "primary_contributor": {
+          "pid": "p0fw9jd7",
+          "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+          "name": "feeble little horse"
+        },
+        "artist": "feeble little horse",
+        "track_title": "Poison",
+        "track_number": null,
+        "publisher": null,
+        "record_label": "Saddle Creek",
+        "release_title": null,
+        "record_id": "n9dncw",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p0fw9jd7",
+            "name": "feeble little horse",
+            "role": "Performer",
+            "musicbrainz_gid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6"
+          }
+        ],
+        "title": "Poison",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "source of life",
+      "isrc": null,
+      "musicbrainz_id": null,
+      "raw": {
+        "type": "music",
+        "pid": "p0pq4hsd",
+        "duration": 130,
+        "primary_contributor": {
+          "pid": "p01k5jzx",
+          "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225",
+          "name": "Tove Lo"
+        },
+        "artist": "Tove Lo",
+        "track_title": "source of life",
+        "track_number": "13",
+        "publisher": "SONGS OF WOLF COUSINS,WARNER CHAPPELL MUSIC SCAND AB,WARNER CHAPPELL OVERSEAS HOLDINGS LIMITED",
+        "record_label": "Pretty Swede Records",
+        "release_title": "Estrus",
+        "record_id": "n9c9p5",
+        "catalogue_number": null,
+        "contributions": [
+          {
+            "pid": "p01k5jzx",
+            "name": "Tove Lo",
+            "role": "Performer",
+            "musicbrainz_gid": "56756959-1e78-429c-b897-e1d056cb0225"
+          }
+        ],
+        "title": "source of life",
+        "short_synopsis": null,
+        "medium_synopsis": null,
+        "long_synopsis": null
+      }
+    }
+  ]
+}

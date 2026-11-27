@@ -493,6 +493,52 @@
       ]
     ]
   },
+  "071409d0-ce21-4f03-a111-aec4dbc1590d": {
+    "name": "Erika de Casier",
+    "source": "lastfm",
+    "tags": [
+      [
+        "rnb",
+        100
+      ],
+      [
+        "soul",
+        58
+      ],
+      [
+        "alternative rnb",
+        38
+      ],
+      [
+        "downtempo",
+        30
+      ],
+      [
+        "denmark",
+        8
+      ],
+      [
+        "danish",
+        8
+      ],
+      [
+        "electronic",
+        8
+      ],
+      [
+        "pop",
+        2
+      ],
+      [
+        "trip-hop",
+        1
+      ],
+      [
+        "2-step",
+        1
+      ]
+    ]
+  },
   "08306f5a-c1de-42a2-8004-a9467fc30950": {
     "name": "Tiana Major9",
     "source": "lastfm",
@@ -4053,6 +4099,52 @@
       ],
       [
         "afrobeat",
+        1
+      ]
+    ]
+  },
+  "48262e82-db9f-4a92-b650-dfef979b73ec": {
+    "name": "Future",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hip-hop",
+        100
+      ],
+      [
+        "rap",
+        84
+      ],
+      [
+        "trap",
+        46
+      ],
+      [
+        "hip hop",
+        30
+      ],
+      [
+        "atlanta",
+        13
+      ],
+      [
+        "dirty south",
+        10
+      ],
+      [
+        "southern hip hop",
+        5
+      ],
+      [
+        "american",
+        2
+      ],
+      [
+        "trap rap",
+        1
+      ],
+      [
+        "rnb",
         1
       ]
     ]
@@ -8211,6 +8303,52 @@
       [
         "bisexual",
         2
+      ]
+    ]
+  },
+  "80609a00-b394-4a49-975b-2db6b543fa97": {
+    "name": "The Kid LAROI",
+    "source": "lastfm",
+    "tags": [
+      [
+        "hip-hop",
+        100
+      ],
+      [
+        "rap",
+        93
+      ],
+      [
+        "emo rap",
+        57
+      ],
+      [
+        "australian",
+        47
+      ],
+      [
+        "trap",
+        12
+      ],
+      [
+        "pop",
+        12
+      ],
+      [
+        "pop rap",
+        6
+      ],
+      [
+        "hip hop",
+        1
+      ],
+      [
+        "australia",
+        1
+      ],
+      [
+        "rnb",
+        1
       ]
     ]
   },

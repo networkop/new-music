@@ -504,6 +504,11 @@
     "score": 1.0,
     "uri": "spotify:track:2vO5sAQJMrRKVXzRNmHT65"
   },
+  "capo lee|||what's wrong?": {
+    "matched": "Capo Lee - What's Wrong?",
+    "score": 1.0,
+    "uri": "spotify:track:4jrDYGse3jjoyp1Z6N3vtF"
+  },
   "cara delevingne|||crazy, baby": {
     "matched": "Cara Delevingne - Crazy, Baby",
     "score": 1.0,
@@ -673,6 +678,11 @@
     "matched": null,
     "score": 0.0,
     "uri": null
+  },
+  "chris stassy|||dangerous": {
+    "matched": "CHRIS STASSY - Dangerous",
+    "score": 1.0,
+    "uri": "spotify:track:15tGq1xOOer8QZ268uBNxG"
   },
   "chris stassy|||u know me": {
     "matched": "CHRIS STASSY - U know me",
@@ -1238,6 +1248,11 @@
     "matched": "Frost Children - Satellites",
     "score": 1.0,
     "uri": "spotify:track:0w1z41tugZvJHNLUWUjXkD"
+  },
+  "future|||ya hit": {
+    "matched": "Future - Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+    "score": 1.0,
+    "uri": "spotify:track:76jR5C9oKb1DJR3rab6dGV"
   },
   "geese|||au pays du (reading and leeds festival 2026)": {
     "matched": null,
@@ -2574,6 +2589,11 @@
     "score": 1.0,
     "uri": "spotify:track:7ASFZh1D0DPZro7UXUKGmd"
   },
+  "robyn|||blow my mind": {
+    "matched": "Robyn - Blow My Mind",
+    "score": 1.0,
+    "uri": "spotify:track:2aJXMsIiuIRZZJYy1yjeEW"
+  },
   "robyn|||popstar/punkrocker (radio 1s live lounge, 28th oct 2026)": {
     "matched": null,
     "score": 0.0,
@@ -3104,6 +3124,11 @@
     "score": 1.0,
     "uri": "spotify:track:0nac7FVmtrYm0O3Iu27ijo"
   },
+  "the kid laroi|||a place to go": {
+    "matched": "The Kid LAROI - A PLACE TO GO",
+    "score": 1.0,
+    "uri": "spotify:track:1sCi4rGpZTqajyJufnrbhb"
+  },
   "the last dinner party|||knocking at the sky": {
     "matched": "The Last Dinner Party - Knocking at the Sky",
     "score": 1.0,
@@ -3173,6 +3198,11 @@
     "matched": "Thundercat - Moving at Light Speed",
     "score": 1.0,
     "uri": "spotify:track:6jEO5RmiesaiY7zlQDoHq4"
+  },
+  "thundercat|||she knows too much": {
+    "matched": "Thundercat - She Knows Too Much",
+    "score": 1.0,
+    "uri": "spotify:track:7c5JxJWGMJqG0IYABA04WS"
   },
   "tierra whack|||siren": {
     "matched": "Tierra Whack - SIREN",

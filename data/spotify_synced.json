@@ -10,6 +10,11 @@
       "broadcast": "2026-11-25",
       "title": "if you wanna party, come over to my house"
     },
+    "spotify:track:15tGq1xOOer8QZ268uBNxG": {
+      "artist": "CHRIS STASSY",
+      "broadcast": "2026-11-26",
+      "title": "Dangerous"
+    },
     "spotify:track:1XzQ57ONjIpRYB878VuGnF": {
       "artist": "Fontaines D.C.",
       "broadcast": "2026-11-12",
@@ -19,6 +24,11 @@
       "artist": "Rema",
       "broadcast": "2026-11-25",
       "title": "Feel Alright"
+    },
+    "spotify:track:1sCi4rGpZTqajyJufnrbhb": {
+      "artist": "The Kid LAROI",
+      "broadcast": "2026-11-26",
+      "title": "A Place To Go"
     },
     "spotify:track:2HxoBEWPdMc27S7VdAaarz": {
       "artist": "Ledbyher",
@@ -32,8 +42,13 @@
     },
     "spotify:track:2XlS3xEvc3YOQi4SSBVU1K": {
       "artist": "Bicep",
-      "broadcast": "2026-11-16",
-      "title": "Gas"
+      "broadcast": "2026-11-26",
+      "title": "GAS"
+    },
+    "spotify:track:2aJXMsIiuIRZZJYy1yjeEW": {
+      "artist": "Robyn",
+      "broadcast": "2026-11-26",
+      "title": "Blow My Mind"
     },
     "spotify:track:2b8BZIE6VefboEkZMrNhRX": {
       "artist": "CHVRCHES",
@@ -47,7 +62,7 @@
     },
     "spotify:track:2nBg8pTLXTCVCx7Xk5Lk6o": {
       "artist": "Fcukers",
-      "broadcast": "2026-11-23",
+      "broadcast": "2026-11-26",
       "title": "Only One"
     },
     "spotify:track:3301sy6RP2XMn67qrjzY0y": {
@@ -100,6 +115,11 @@
       "broadcast": "2026-11-25",
       "title": "Lamine Yamal"
     },
+    "spotify:track:4jrDYGse3jjoyp1Z6N3vtF": {
+      "artist": "Capo Lee",
+      "broadcast": "2026-11-26",
+      "title": "What's Wrong?"
+    },
     "spotify:track:4mysuJ9bxLAWamfu2SqLRA": {
       "artist": "Mackenzy Mackay",
       "broadcast": "2026-11-23",
@@ -122,8 +142,13 @@
     },
     "spotify:track:6ZH1yeWUf3Xp2XO0EZk91i": {
       "artist": "Fontaines D.C.",
-      "broadcast": "2026-11-04",
+      "broadcast": "2026-11-26",
       "title": "Where Is Gone?"
+    },
+    "spotify:track:76jR5C9oKb1DJR3rab6dGV": {
+      "artist": "Future",
+      "broadcast": "2026-11-26",
+      "title": "Ya Hit"
     },
     "spotify:track:7e26IslZ17O3l39AkNNJ8Z": {
       "artist": "Shygirl",
@@ -144,8 +169,13 @@
     },
     "spotify:track:3lIHa4fUwNKOCSS5k3Za0i": {
       "artist": "Steve Lacy",
-      "broadcast": "2026-11-10",
+      "broadcast": "2026-11-26",
       "title": "Nothing"
+    },
+    "spotify:track:7c5JxJWGMJqG0IYABA04WS": {
+      "artist": "Thundercat",
+      "broadcast": "2026-11-26",
+      "title": "She Knows Too Much"
     }
   }
 }
